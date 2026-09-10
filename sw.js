@@ -1,4 +1,4 @@
-const CACHE_NAME = 'bima-calc-v22';
+const CACHE_NAME = 'bima-calc-v23';
 
 // শুধুমাত্র নিশ্চিত ফাইলগুলো ক্যাশে রাখা হলো
 const CORE_ASSETS = [
