@@ -1,4 +1,4 @@
-const CACHE_NAME = 'bima-calc-v20';
+const CACHE_NAME = 'bima-calc-v21'; // ভার্সন পরিবর্তন করুন
 const CORE_ASSETS = [
     './',
     './index.html',
@@ -6,22 +6,23 @@ const CORE_ASSETS = [
     './app.js',
     './plan-details.js',
     './sidebar.js',
-    './manifest.json'
+    './manifest.json',
+    './icon.png'
 ];
 
-// ১. ইন্সটল ইভেন্ট (প্রয়োজনীয় কোর ফাইলগুলো আগে অফলাইন ক্যাশ করবে)
+// ১. ইন্সটল ইভেন্ট
 self.addEventListener('install', (e) => {
     self.skipWaiting();
     e.waitUntil(
         caches.open(CACHE_NAME).then((cache) => {
             return cache.addAll(CORE_ASSETS).catch((err) => {
-                console.warn('কোর ফাইল ক্যাশ করতে সমস্যা হয়েছে:', err);
+                console.warn('ক্যাশিং সমস্যা:', err);
             });
         })
     );
 });
 
-// ২. অ্যাক্টিভেট ইভেন্ট (পুরনো ভার্সনের ক্যাশ থাকলে তা স্বয়ংক্রিয়ভাবে মুছে ফেলবে)
+// ২. অ্যাক্টিভেট ইভেন্ট
 self.addEventListener('activate', (e) => {
     e.waitUntil(
         caches.keys().then((keys) => {
@@ -36,10 +37,10 @@ self.addEventListener('activate', (e) => {
     );
 });
 
-// ৩. ফেচ ইভেন্ট (ক্যাশ ফার্স্ট স্ট্র্যাটেজি + এক্সটার্নাল ফন্ট ও সিডিএন ডায়নামিক ক্যাশিং)
+// ৩. ফেচ ইভেন্ট (অফলাইন ক্যাশ ফার্স্ট লজিক)
 self.addEventListener('fetch', (e) => {
-    // গুগল অ্যাপস স্ক্রিপ্ট ব্যাকগ্রাউন্ড রিকোয়েস্টগুলোকে ক্যাশ বাইপাস করতে সরাসরি নেটওয়ার্কে পাঠাবে
-    if (e.request.url.includes('script.google.com')) {
+    // গুগল অ্যাপস স্ক্রিপ্ট সরাসরি নেটওয়ার্কে যাবে
+    if (e.request.url.includes('script.google.com') || e.request.url.includes('ipapi.co')) {
         return;
     }
 
@@ -57,7 +58,10 @@ self.addEventListener('fetch', (e) => {
                 }
                 return networkResponse;
             }).catch(() => {
-                // অফলাইনে থাকলে এবং ক্যাশে ফাইলটি না থাকলে এরর হ্যান্ডলিং
+                // অফলাইনে পেজ রিফ্রেশ দিলে ক্যাশ করা index.html রিটার্ন করবে
+                if (e.request.mode === 'navigate') {
+                    return caches.match('./index.html') || caches.match('./');
+                }
             });
         })
     );
