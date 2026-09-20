@@ -193,27 +193,26 @@
 
         /* ── Tabs ── */
         .tab-wrapper {
-            overflow-x: auto;
-            -webkit-overflow-scrolling: touch;
-            margin-bottom: 22px;
-            padding-bottom: 4px;
+            margin-bottom: 20px;
+            width: 100%;
         }
 
         .tab-container {
             display: flex;
+            flex-wrap: wrap;
             gap: 6px;
             background: var(--tab-wrapper-bg);
             border-radius: 18px;
             padding: 6px;
             border: 1.5px solid var(--tab-border);
-            min-width: max-content;
+            justify-content: center;
         }
 
         .tab-btn {
-            padding: 9px 15px;
+            padding: 8px 12px;
             border: 1.5px solid transparent;
             background: transparent;
-            font-size: 14.5px;
+            font-size: 14px;
             font-weight: 800;
             color: var(--tab-btn-color);
             cursor: pointer;
@@ -224,9 +223,11 @@
             white-space: nowrap;
             display: flex;
             align-items: center;
-            gap: 6px;
+            gap: 5px;
             user-select: none;
             -webkit-user-select: none;
+            flex: 1 1 auto;
+            justify-content: center;
         }
 
         .tab-btn i {
@@ -1404,14 +1405,17 @@
 
         <div class="tab-wrapper">
             <div class="tab-container" id="tabContainer">
-                <button class="tab-btn active" onclick="switchPlanTab('dps')"><i class="fas fa-coins"></i> DPS</button>
-                <button class="tab-btn" onclick="switchPlanTab(1)"><i class="fas fa-piggy-bank"></i> 01</button>
-                <button class="tab-btn" onclick="switchPlanTab(2)"><i class="fas fa-calendar-days"></i> 02</button>
-                <button class="tab-btn" onclick="switchPlanTab(3)"><i class="fas fa-layer-group"></i> 03</button>
-                <button class="tab-btn" onclick="switchPlanTab(4)"><i class="fas fa-layer-group"></i> 04</button>
-                <button class="tab-btn" onclick="switchPlanTab(5)"><i class="fas fa-layer-group"></i> 05</button>
-                <button class="tab-btn" onclick="switchPlanTab(6)"><i class="fas fa-graduation-cap"></i> 06</button>
-                <button class="tab-btn" onclick="switchPlanTab(9)"><i class="fas fa-vault"></i> 09</button>
+                <button class="tab-btn active" onclick="switchPlanTab('dps')" title="ডিপিএস গোল্ড (DPS Gold)"><i class="fas fa-coins"></i> DPS</button>
+                <button class="tab-btn" onclick="switchPlanTab(1)" title="সঞ্চয়ী পলিসি (Plan 01)"><i class="fas fa-piggy-bank"></i> 01</button>
+                <button class="tab-btn" onclick="switchPlanTab(2)" title="দ্বিবার্ষিক পলিসি (Plan 02)"><i class="fas fa-calendar-days"></i> 02</button>
+                <button class="tab-btn" onclick="switchPlanTab(3)" title="৩ কিস্তি পলিসি (Plan 03)"><i class="fas fa-layer-group"></i> 03</button>
+                <button class="tab-btn" onclick="switchPlanTab(4)" title="৪ কিস্তি পলিসি (Plan 04)"><i class="fas fa-layer-group"></i> 04</button>
+                <button class="tab-btn" onclick="switchPlanTab(5)" title="৫ কিস্তি পলিসি (Plan 05)"><i class="fas fa-layer-group"></i> 05</button>
+                <button class="tab-btn" onclick="switchPlanTab(6)" title="শিক্ষা সুরক্ষা পলিসি (Plan 06)"><i class="fas fa-graduation-cap"></i> 06</button>
+                <button class="tab-btn" onclick="switchPlanTab(8)" title="পেনশন পলিসি (Plan 08)"><i class="fas fa-user-clock"></i> 08</button>
+                <button class="tab-btn" onclick="switchPlanTab(9)" title="এককালীন সঞ্চয়ী পলিসি (Plan 09)"><i class="fas fa-vault"></i> 09</button>
+                <button class="tab-btn" onclick="switchPlanTab(11)" title="হজ্ব পলিসি (Plan 11)"><i class="fas fa-kaaba"></i> 11</button>
+                <button class="tab-btn" onclick="switchPlanTab(12)" title="দেনমোহর সেভিং প্ল্যান (Plan 12)"><i class="fas fa-ring"></i> 12</button>
             </div>
         </div>
 
