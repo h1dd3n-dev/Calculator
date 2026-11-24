@@ -1,81 +1,107 @@
-document['\u0061\u0064\u0064\u0045\u0076\u0065\u006E\u0074\u004C\u0069\u0073\u0074\u0065\u006E\u0065\u0072']('contextmenu', function (e) {
-  if (e['\u0074\u0061\u0072\u0067\u0065\u0074']['\u0063\u006C\u006F\u0073\u0065\u0073\u0074']("\u002E\u0074\u0061\u0062\u002D\u0062\u0074\u006E") || e['\u0074\u0061\u0072\u0067\u0065\u0074']['\u0063\u006C\u006F\u0073\u0065\u0073\u0074']("\u002E\u0063\u0068\u0065\u0063\u006B\u0062\u006F\u0078\u002D\u0069\u0074\u0065\u006D") || e['\u0074\u0061\u0072\u0067\u0065\u0074']['\u0063\u006C\u006F\u0073\u0065\u0073\u0074']("\u002E\u0062\u0069\u006D\u0061\u002D\u0064\u0065\u0074\u0061\u0069\u006C\u002D\u006D\u006F\u0064\u0061\u006C\u002D\u0063\u0061\u0072\u0064") || e['\u0074\u0061\u0072\u0067\u0065\u0074']['\u0063\u006C\u006F\u0073\u0065\u0073\u0074']("\u002E\u0073\u0062\u002D\u006D\u006F\u0064\u0061\u006C\u002D\u0063\u0061\u0072\u0064") || e['\u0074\u0061\u0072\u0067\u0065\u0074']['\u0063\u006C\u006F\u0073\u0065\u0073\u0074']('.gbtn') || e['\u0074\u0061\u0072\u0067\u0065\u0074']['\u0063\u006C\u006F\u0073\u0065\u0073\u0074']('.gcalc-container') || e['\u0074\u0061\u0072\u0067\u0065\u0074']['\u0063\u006C\u006F\u0073\u0065\u0073\u0074']("\u002E\u0073\u0065\u0063\u0072\u0065\u0074\u002D\u0063\u0061\u006C\u0063\u002D\u0077\u0072\u0061\u0070\u0070\u0065\u0072")) {
+var _0 = ["addEventListener", "unemtxetnoc", "split", "", "reverse", "join", "target", "closest", "ntb-bat.", "meti-xobkcehc.", "drac-ladom-liated-amib.", "drac-ladom-bs.", "ntbg.", "reniatnoc-clacg.", "repparw-clac-terces.", "preventDefault", "nwodyek", "key", "21F", "keyCode", "ctrlKey", "metaKey", "shiftKey", "I", "i", "J", "j", "C", "c", "u", "U", "s", "S", "rekroWecivres", "daol", "serviceWorker", "register", "sj.ws/.", "then", "log", "deretsigeR rekroW ecivreS", "catch", "deliaF rekroW ecivreS", "getElementById", "nocIemehTrabedis", "txeTemehTrabedis", "_2", "className", "noci nus-af saf", "noci noom-af saf", "innerText", "\u09A1\u09CB\u09AE \u099F\u0987\u09BE\u09B2", "\u09A1\u09CB\u09AE \u0995\u09CD\u09B0\u09BE\u09A1", "_3", "getItem", "emeht_amib", "thgil", "krad", "body", "classList", "add", "edom-krad", "remove", "toggle", "_5", "setItem", "_8", "_13", "_15", "_17", ")10 nalP( \u09C0\u09BC\u09AF\u099A\u09CD\u099E\u09B8", "bda", "badp", "sulp", "cc", "pw", "rbi", "ch", "ih", ")20 nalP( \u09A8\u09BE\u09A6\u09B0\u09CD\u09AA \u0995\u09BF\u09B7\u09CD\u09B0\u09BE\u09AC\u09BF\u09AC\u09CD\u09A6", ")30 nalP( \u09BF\u09A4\u09CD\u09B8\u09BF\u0995 \u09E9", ")40 nalP( \u09BF\u09A4\u09CD\u09B8\u09BF\u0995 \u09EA", ")50 nalP( \u09BF\u09A4\u09CD\u09B8\u09BF\u0995 \u09EB", ")60 nalP( \u09BE\u09B7\u09CD\u0995\u09B0\u09C1\u09B8 \u09BE\u09B7\u09CD\u0995\u09BF\u09B6", ")80 nalP( \u09BF\u09B8\u09BF\u09B2\u09AA \u09A8\u09B6\u09A8\u09C7\u09AA", ")90 nalP( \u09B0\u0986\u09BF\u09A1\u09AB\u098F / \u09C0\u09DF\u099A\u09CD\u099E\u09B8 \u09A8\u09C0\u09B2\u09BE\u0995\u0995\u098F", ")11 nalP( \u09BF\u09B8\u09BF\u09B2\u09AA \u09AC\u09CD\u099C\u09B9", ")21 nalP( \u09A8\u09BE\u09AF\u09CD\u09B2\u09CD\u09AA \u0982\u09BF\u09AD\u09C7\u09B8 \u09B0\u09B9\u09CB\u09AE\u09A8\u09C7\u09A6", "_20", "_21", ")\u09F3 \u09E6\u09E6\u09E6,\u09EB\u09E8( \u099C\u09CD\u099E\u09CB\u09B0\u09CD\u09AC", ")\u09F3 \u09E6\u09E6\u09E6,\u09E6\u09EB( \u09B0\u09BE\u09AD\u09B2\u09BF\u09B8", ")\u09F3 \u09E6\u09E6\u09E6,\u09E6\u09E6,\u09E7( \u09A1\u09CD\u09A8\u09AE\u09DF\u09BE\u09A1", ")\u09F3 \u09E6\u09E6\u09E6,\u09E6\u09E6,\u09E8( \u09A1\u09CD\u09B2\u09CB\u0997", ")\u09F3 \u09E6\u09E6\u09E6,\u09E6\u09E6,\u09EB( \u09AE\u09BE\u09A8\u09BF\u099F\u09BE\u09B2\u09CD\u09AA", "_22", "\u09C0\u09B0\u09BE\u09BC\u09AF\u09C1\u09A8\u09BE\u099C", "\u09C0\u09B0\u09BE\u09BC\u09AF\u09C1\u09B0\u09CD\u09AC\u09C7\u09AB", "\u099A\u09CD\u09B0\u09BE\u09AE", "\u09B2\u09BF\u09B0\u09CD\u09AA\u098F", "\u09C7\u09AE", "\u09A8\u09C1\u099C", "\u0987\u09BE\u09B2\u09C1\u099C", "\u099F\u09CD\u09B8\u0997\u0986", "\u09B0\u09AC\u09CD\u09AE\u09C7\u099F\u09CD\u09AA\u09C7\u09B8", "\u09B0\u09AC\u09CB\u099F\u09CD\u0995\u0985", "\u09B0\u09AC\u09CD\u09AE\u09C7\u09AD\u09A8", "\u09B0\u09AC\u09CD\u09AE\u09C7\u09B8\u09BF\u09A1", "_23", "\u09AE\u09E7", "\u09DF\u09E8", "\u09DF\u09E9", "\u09A5\u09CD\u09B0\u09EA", "\u09AE\u09EB", "\u09A0\u09CD\u09B7\u09EC", "\u09AE\u09ED", "\u09AE\u09EE", "\u09AE\u09EF", "\u09AE\u09E6\u09E7", "_24", "spd", "\u09E6", "toString", "replace", "\u09EF\u09EE\u09ED\u09EC\u09EB\u09EA\u09E9\u09E8\u09E7\u09E6", "kcehc-eo-spd", "checked", "_26", "snoitpo-eo-spd", "style", "display", "kcolb", "enon", "_27", "kcehc-eo-p", "snoitpo-eo-p", "sulp-spd", "_29", "_30", "bda-spd", "cc-spd", "_32", "motsuc-cc-spd", "xelf", "ih-spd", "motsuc-ih-spd", "sulp-p", "bda-p", "_37", "badp-p", "cc-p", "_39", "motsuc-cc-p", "_40", "ch-p", "_41", "motsuc-ch-p", "ih-p", "motsuc-ih-p", "dlihc", "child", "_46", "04rednu", "55_05ega", "94_14ega", "_47", "royap", "esuops", "xob-dlihc-ch-p", "reniatnoc-nerdlihc-ch-p", "children", "length", "\u0964\u09C7\u09AC\u09BE\u09AF \u09BE\u09B0\u0995 \u0997\u09CB\u09AF \u09AF\u09CD\u09A5\u09A4 \u09B0\u09C7\u09A8\u09BE\u09A4\u09CD\u09A8\u09B8 \u09A8\u099C \u09E6\u09E7 \u099A\u09CD\u099A\u09CB\u09AC\u09CD\u09B0\u09B8", "_51", "_52", "createElement", "vid", "_53", "wor-ega-dlihc", "innerHTML", "appendChild", "removeChild", "lastElementChild", "_55", "querySelectorAll", "ega-dlihc-ch-p.", "_56", "forEach", "value", "push", "_58", "53rednu", "04_63ega", "54_14ega", "05_64ega", "55_15ega", "_59", "revlis", "_61", "resoporp", "maternity", "p", "_63", "_64", "_67", "_69", ")(SPDetaluclac", "_70", "_75", "_76", "_77", "min", "_78", "_79", "_80", "_82", "max", ")SMN( stnemetatS lacideM-noN lanosreP", ")RMF( tropeR lacideM lluF", ")RUP( sisylanirU", ")SBF( raguS doolB gnitsaF", ")SBF ,RSE ,CBW fo tnuoc laitnereffiD+CBW,bH-seidutS doolB( eliforP doolB", ")RX-C( weiv AP yaR-X tsehC", "gnicarT daeL 21-GCE", ")margoidracohcE( ohcE", ")suriV ycneicifedonummI namuH( tseT VIH", ")sedirecylgirT ,LDL ,LDH ,loretselohC latoT - PLF( sdipiL gnitsaF", ")niburiliB mureS ,TPGS ,TOS - TFL( tseT noitcnuF reviL", ")QF( eriannoitseuQ laicnaniF", "_83", "_84", "SMN", "RMF", "RUP", "RX-C", "SBF", "GCE", "PLF", "TFL", "ELIFORP DOOLB", "OHCE", "VIH", "QF", "map", "_87", "stnemeriuqer-lacidem", "\u0964\u09C7\u09AC\u09BE\u0996\u09C7\u09A6 \u09A4\u09CD\u09B0\u09B6 \u09B2\u09C7\u0995\u09BF\u09A1\u09C7\u09AE \u09AF\u09CD\u099C\u09CB\u09AF\u09B0\u09CD\u09AA \u09C7\u09AC\u09BE\u09AD\u09DF\u09BF\u09B0\u09CD\u0995\u0982\u09DF\u09AC\u09CD\u09B8 \u09C7\u09B2\u09BF\u09A6 \u0995\u0982\u0985 \u09BE\u09AE\u09C0\u09AC \u0993 \u09B8\u09DF\u09AC \u09B0\u09C7\u0995\u09AC\u09BE\u09A4\u09CD\u09B8\u09B0\u09CD\u09AA >i/<>\"elcric-ofni-af saf\"=ssalc i<", "\u0964\u09A8\u09C1\u0996\u09BF\u09B2 \u09B8\u09DF\u09AC \u09B0\u09C7\u0995\u09AC\u09BE\u09A4\u09CD\u09B8\u09B0\u09CD\u09AA \u09C7\u09A4\u0996\u09C7\u09A6 \u099F\u09CD\u09B0\u09BE\u099A \u09B2\u09C7\u0995\u09BF\u09A1\u09C7\u09AE \u0995\u09BF\u09A0\u09B8 >i/<>\"kcolc-resu-af saf\"=ssalc i<", "\u0964\u09A8\u09C1\u09B0\u0995 \u09A3\u09B0\u09BE\u09A7\u09CD\u09B0\u09BF\u09A8 \u09BE\u09AE\u099C \u09BE\u09AC \u0995\u0982\u0985 \u09BE\u09AE\u09C0\u09AC \u09C7\u09A4\u0996\u09C7\u09A6 \u099F\u09CD\u09B0\u09BE\u099A \u09B2\u09C7\u0995\u09BF\u09A1\u09C7\u09AE \u0995\u09BF\u09A0\u09B8 >i/<>\"snioc-af saf\"=ssalc i<", "_90", "denifednu", "isPension", "_92", "_93", "_96", "toLocaleString", "DB-nb", ")RAS( \u0995\u09CD\u09B8\u09BF\u09B0 \u099F\u09BE\u09AF\u09CD\u0985 \u09AE\u09BE\u09B8 \u09A8\u09BE\u09AE\u09A4\u09CD\u09B0\u09AC", "\u09BE\u09AE\u09C0\u09AC \u09A8\u09BE\u09AE\u09A4\u09CD\u09B0\u09AC", ")RAS latoT( \u0995\u09CD\u0999\u0985 \u09BF\u0995\u0981\u09C1\u099D \u099F\u09CB\u09AE", "\u0995\u09CD\u0999\u0985 \u09BE\u09AE\u09C0\u09AC \u099F\u09CB\u09AE", "\u0995\u09CD\u09B8\u09BF\u09B0 \u099F\u09BE\u09AF\u09CD\u0985 \u09AE\u09BE\u09B8", "\u0995\u0982\u0985 \u09BE\u09AE\u09C0\u09AC \u099F\u09CB\u09AE", "code", "dem-non stnemeriuqer-lacidem", "( \u09B8\u09DF\u09AC >gnorts/<:)SMN( \u09B2\u09C7\u0995\u09BF\u09A1\u09C7\u09AE-\u09A8\u09A8>gnorts< >i/<>\"elcric-kcehc-af saf\"=ssalc i<", " \u0993 )\u09B0\u099B\u09AC ", "\u0964\u0987\u09C7\u09A8 \u09A8\u099C\u09CB\u09DF\u09B0\u09CD\u09AA \u09B0\u09C7\u099F\u09CD\u09B8\u09C7\u099F \u09B2\u09C7\u0995\u09BF\u09A1\u09C7\u09AE \u09CB\u09A8\u09CB\u0995 \u09C0\u09DF\u09BE\u09AF\u09C1\u09A8\u0985 ", "dem-sah stnemeriuqer-lacidem", "( \u09B8\u09DF\u09AC \u09B0\u09C7\u0995\u09AC\u09BE\u09A4\u09CD\u09B8\u09B0\u09CD\u09AA>gnorts< >i/<>\"epocsohtets-af saf\"=ssalc i<>vid<", ">\";xp6:pot-nigram\"=elyts vid<>vid/<>gnorts/<:\u09B9\u09C2\u09AE\u09B8\u099F\u09CD\u09B8\u09C7\u099F \u09DF\u09C0\u09A8\u099C\u09CB\u09DF\u09B0\u09CD\u09AA \u09C0\u09DF\u09BE\u09AF\u09C1\u09A8\u0985 ", "name", ">vid/<", " \u099F\u09CB\u09AE >i/<>\"eciovni-elif-af saf\"=ssalc i<>\";008:thgiew-tnof ;60779d#:roloc ;xp5.41:ezis-tnof ;xp8:pot-nigram\"=elyts vid<", ")RAS( \u0995\u0982\u0985 \u09BF\u0995\u0981\u09C1\u099D", "\u0995\u0982\u0985 \u09BE\u09AE\u09C0\u09AC", ">vid/<\u0964\u09A8\u099C\u09CB\u09DF\u09B0\u09CD\u09AA )tnemucoD laicnaniF( \u09B0\u09CD\u09A4\u09AA\u09A3\u09BE\u09AE\u09B0\u09CD\u09AA \u09A4\u09CD\u09A8\u09BE\u09B0\u09CD\u0995\u0982\u09B8 \u09B8\u09CE\u0989 \u09B0\u09C7\u09DF\u0986 \u09DF\u09BE\u09DF\u0993\u09B9 \u09BF\u09B6\u09C7\u09AC \u09B0\u09BE\u0995\u09BE\u099F \u09B7\u09CD\u0995\u09B2 \u09E6\u09E7 ", "_100", "evitca", "eltit-nalp-redaeh", ")tnemwodnE - gnivaS ylhtnoM( \u09C0\u09BC\u09AF\u099A\u09CD\u099E\u09B8 \u0995\u09BF\u09B8\u09BE\u09AE", "title", "spd-bat", "reniatnoc-nalp-cimanyd", "_106", "_107", "_108", "isSingle", "_109", "terms", "_110", "riders", "includes", "_112", "hasSB", "_113", "minAge", ")egA noisneP( \u09B8\u09DF\u09AC \u09B0\u09C7\u09A3\u09B9\u09B0\u09CD\u0997 \u09B0\u09B8\u09AC\u0985", "\u09A6\u09BE\u09DF\u09C7\u09AE \u09B0\u09BF\u09B8\u09BF\u09B2\u09AA", "bindDynamicPlanRiderLongPress", "noitcnuf", "tisoped", "_114", "_115", "mret-spd", "ega-spd", "_118", "as-verp-spd", "rorre-spd", "_122", "pw-spd", "_123", "_125", "_126", "querySelector", "dekcehc:]\"etar-eo-spd\"=eman[tupni", "derussAmus-spd", "\u09F3 \u09E6", "tnuomAbda-spd", "tnuomAsulp-spd", "tnuomAcc-spd", "tnuomApw-spd", "tnuomAih-spd", "tnuomAeo-spd", "ylhtnoMlatot-spd", "\u09F3 ", "bda-spd-wor", "sulp-spd-wor", "cc-spd-wor", "pw-spd-wor", "ih-spd-wor", "eo-spd-wor", "spd-lacidem", "_128", "_130", "round", "as-cc-spd", "_133", "_135", "_142", "reit-ih-spd", "fles-ih-spd", "esuops-ih-spd", "_145", "ega-esuops-ih-spd", "_146", "dlihc-ih-spd", "_148", "_149", "ega-dlihc-ih-spd.", "ytinretam-ih-spd", "tnih-noisnep-ylhtnom-p", "_153", "tnuoma-noisnep-p", "_156", "mus-p", "_157", "_158", "_159", "_160", "ega-p", "mret-p", "as-verp-p", "_168", "_169", "rorre-p", "_170", "_171", "egdab-mret-noisnep-p", "dekcehc:]\"edom-p\"=eman[tupni", "ylraey", "_175", "ylhtnom", "ylretrauq", "ylraey_flah", "nalp-lacidem", "\u09B8\u09DF\u09AC \u09B0\u09C7\u09A3\u09B9\u09B0\u09CD\u0997 \u09B0\u09B8\u09AC\u0985", "\u09A6\u09BE\u09DF\u09C7\u09AE", "_178", "_181", "_182", "_184", "_185", "_186", "_187", "_188", "_191", "pw-p", "rbi-p", "_192", "_193", "_194", "_195", "dekcehc:]\"etar-eo-p\"=eman[tupni", "as-cc-p", "_197", "_198", "_200", "_202", "_203", "_205", "_207", "_209", "reit-ch-p", "_210", "fles-ch-p", "_211", "esuops-ch-p", "ega-esuops-ch-p", "dlihc-ch-p", "_215", "_216", "_217", "_218", "reit-ih-p", "_219", "_220", "fles-ih-p", "_221", "esuops-ih-p", "ega-esuops-ih-p", "dlihc-ih-p", "_224", "nalp", "_225", "ega-dlihc-ih-p.", "ytinretam-ih-p", "_227", "_229", "etar-ser", "toFixed", ")\u09C7\u09A8\u09B6\u09A8\u09C7\u09AA \u0995\u09BF\u09B7\u09CD\u09B0\u09BE\u09AC( \u09F3 ", "esab-ser", "ras-wor", "ras-ser", "noisnep-wor", "noisnep-ser", "_233", "_235", "bda-wor", "bda-ser", "badp-wor", "badp-ser", "sulp-wor", "sulp-ser", "cc-wor", "cc-ser", "pw-wor", "pw-ser", "rbi-wor", "rbi-ser", "ch-wor", "ch-ser", "ih-wor", "ih-ser", "eo-wor", "eo-ser", "latot-ser", "_237", "\u09F3 \u09E6\u09E6.\u09E6", "_238", "_239", "eo", "_240", "_243", "_244", "ladoMbs", "\u09BF\u09B8\u09BF\u09B2\u09AA", "_248", "eltiTnalPladoMbs", ")\u09A4\u09CD\u09A4\u09A6\u09B0\u09CD\u09AA(", ")\u09B7\u09CD\u0995\u09B2 \u09E7 \u09AA\u09C2\u09B0\u09AC\u09CD\u09B8\u09A3\u09B0\u09B9\u09BE\u09A6\u0989(", "_250", "isMaturity", "_251", ";008:thgiew-tnof ;)gb-stluser--(rav:dnuorgkcab", "stage", "year", "percent", ")yramirp--(rav", "tirehni", "amount", ">llams/<\u09B8\u09BE\u09A8\u09CB\u09AC \u09A4\u09BF\u099C\u09CD\u09B0\u0985 +>\";xp11:ezis-tnof ;)detum-txet--(rav:roloc\"=elyts llams<>rb<", "tnetnoCydoBladoMbs", "overflow", "neddih", "_254", "insertAdjacentHTML", "dneerofeb", "_255", "_256", "\u09BF\u09A4\u09CD\u09B8\u09BF\u0995 \u09AE\u09E7", "\u09B0\u099B\u09AC \u09A5\u09CD\u09B0\u09EA", "\u09BF\u09A4\u09CD\u09B8\u09BF\u0995 \u09DF\u09E8", "\u09B0\u099B\u09AC \u09A0\u09CD\u09B7\u09EC", "\u09BF\u09A4\u09CD\u09B8\u09BF\u0995 \u09DF\u09E9", "\u09B0\u099B\u09AC \u09AE\u09EE", "\u09BF\u09A4\u09CD\u09B0\u09C2\u09AA\u09A6\u09BE\u09DF\u09C7\u09AE", "\u09B0\u099B\u09AC \u09AE\u09E6\u09E7", "\u09BF\u09A4\u09CD\u09B8\u09BF\u0995 \u09A5\u09CD\u09B0\u09EA", "\u09BF\u09A4\u09CD\u09B8\u09BF\u0995 \u09AE\u09EB", "\u09B0\u099B\u09AC \u09AE\u09A4\u09E8\u09E7", "\u09B0\u099B\u09AC \u09AE\u09A4\u09EB\u09E7", "\u09B0\u099B\u09AC \u09AE\u09A4\u09E6\u09E8", "_258", ")\u09B6\u0982\u0985 \u09E9/\u09E7( \u09BF\u09A4\u09CD\u09B8\u09BF\u0995 \u09AE\u09E7", ")\u09B6\u0982\u0985 \u09E9/\u09E8( \u09BF\u09A4\u09CD\u09B8\u09BF\u0995 \u09DF\u09E8", "\u09BF\u09A4\u09CD\u09B8\u09BF\u0995 \u09DF\u09E9 \u09C7\u09A4\u09BF\u09A4\u09CD\u09B0\u09C2\u09AA\u09A6\u09BE\u09DF\u09C7\u09AE", "_263", ")\u09B6\u0982\u0985 \u09EA/\u09E7( \u09BF\u09A4\u09CD\u09B8\u09BF\u0995 \u09AE\u09E7", ")\u09B6\u0982\u0985 \u09EA/\u09E8( \u09BF\u09A4\u09CD\u09B8\u09BF\u0995 \u09DF\u09E8", ")\u09B6\u0982\u0985 \u09EA/\u09E9( \u09BF\u09A4\u09CD\u09B8\u09BF\u0995 \u09DF\u09E9", "\u09BF\u09A4\u09CD\u09B8\u09BF\u0995 \u09A5\u09CD\u09B0\u09EA \u09C7\u09A4\u09BF\u09A4\u09CD\u09B0\u09C2\u09AA\u09A6\u09BE\u09DF\u09C7\u09AE", "_265", "_266", "_267", "_268", ")\u09B6\u0982\u0985 \u09EB/\u09E7( \u09BF\u09A4\u09CD\u09B8\u09BF\u0995 \u09AE\u09E7", ")\u09B6\u0982\u0985 \u09EB/\u09E8( \u09BF\u09A4\u09CD\u09B8\u09BF\u0995 \u09DF\u09E8", ")\u09B6\u0982\u0985 \u09EB/\u09E9( \u09BF\u09A4\u09CD\u09B8\u09BF\u0995 \u09DF\u09E9", ")\u09B6\u0982\u0985 \u09EB/\u09EA( \u09BF\u09A4\u09CD\u09B8\u09BF\u0995 \u09A5\u09CD\u09B0\u09EA", "\u09BF\u09A4\u09CD\u09B8\u09BF\u0995 \u09AE\u09EB \u09C7\u09A4\u09BF\u09A4\u09CD\u09B0\u09C2\u09AA\u09A6\u09BE\u09DF\u09C7\u09AE", "_270", "tegdub-tegrat-p", "reniatnoc-gus-p", "_276", "_277", "_278", "_279", "_281", "_282", "_288", ">naps/<\u0964\u09A8\u09BF\u09A6 \u09AA\u09BE\u099A \u09C7\u09A8\u099F\u09BE\u09AC \u09C7\u0996\u09BF\u09B2 \u09AE\u09BE\u09BC\u09AF\u09BF\u09AE\u09BF\u09B0\u09CD\u09AA \u09A4\u09BF\u09B7\u09CD\u0995\u09CD\u0999\u09BE\u0995 >i/<>\"tide-af saf\"=ssalc i<>\";007:thgiew-tnof ;)detum-txet--(rav:roloc ;xp51:ezis-tnof\"=elyts naps<", "_290", "_291", "_292", "_294", "_300", "_301", "_303", "_308", "_311", "_314", "_316", "_317", "_319", "_322", "_327", "_331", "_337", "_341", "_342", "_343", "_344", "sort", "totalPremium", "_345", "slice", "_346", "_348", "_349", "findIndex", "splice", "unshift", "_latestSuggestions", "_350", "finalSuggestions", "\u0964\u09A8\u09C1\u0996\u09BF\u09B2 \u09A3\u09BE\u09AE\u09BF\u09B0\u09AA \u09B0\u09C7\u09AE\u09BE\u09BC\u09AF\u09BF\u09AE\u09BF\u09B0\u09CD\u09AA \u09A4\u09BF\u09B7\u09CD\u0995\u09CD\u0999\u09BE\u0995 \u09C7\u0997\u0986", "ladoMsnoitsegguSmuimerp", "_351", "ydoBtsiLsnoitsegguSmuimerp", "targetBudget", "_353", "_354", "wol-drac", "hgih-drac", "border", "4444fe# dilos xp5.2", "animation", "etanretla etinifni s1 draCknilb", "planId", "_357", "\u09B8\u09DF\u09AC \u09B0\u09B8\u09AC\u0985", "_358", "sumAssured", "term", "wol-gat", "hgih-gat", "nwod-dnert-worra-af", "pu-dnert-worra-af", "\u09AE\u0995 \u09B0\u09C7\u099F\u09C7\u099C\u09BE\u09AC", "\u09BF\u09B6\u09C7\u09AC \u09B0\u09C7\u099F\u09C7\u099C\u09BE\u09AC", ")\u09AC\u09BE\u09A4\u09CD\u09B8\u09B0\u09CD\u09AA \u09BE\u09B0\u09C7\u09B8( \u2B50", "_359", "elyts-noitamina-knilb", "elyts", "id", "head", "_362", "openPremiumSuggestionsModal", "closePremiumSuggestionsModal", "applySuggestionAndCloseModal", "_363", "_367", "_368", "_369", "_370", "_371", "_372", "_374", "xob-esuops-ih-spd", "_375", "xob-dlihc-ih-spd", "_376", "reniatnoc-nerdlihc-ih-spd", "_377", "_378", "_380", "_382", "2-eo-spd", "_383", "_384", "_386", "_387", "_390", "_394", "2-eo-p", "_395", "_396", "_397", "_398", "xob-esuops-ch-p", "_399", "_400", "_401", "_402", "xob-esuops-ih-p", "_406", "xob-dlihc-ih-p", "reniatnoc-nerdlihc-ih-p", "_407", "_408", "ladoMega", "yaDbod", "_410", "htnoMbod", "raeYbod", "yaDfOsa", "htnoMfOsa", "_414", "raeYfOsa", "_415", "_417", "_418", "getFullYear", "_419", "getMonth", "getDate", "_420", "tuptuOliateDega", "tuptuOegAdnuor", "_422", "_424", "_425", "--", "_426", "planTitle", "modeText", ")ylhtnoM( \u0995\u09BF\u09B8\u09BE\u09AE", "age", "_427", "basePremium", "_428", "prevSumAssured", ")  \u09BE\u09A8\u099F\u0998\u09CD\u09B0\u09C1\u09A6( BDA", ")\u099C\u09C7\u09B0\u09BE\u09AD\u0995 \u09B8\u09BE\u09B2\u09CD\u09AA( sulP", ")\u09B0\u09BE\u09DF\u09C7\u0995 \u09B2\u09BE\u09AF\u09CD\u0995\u09BF\u099F\u09BF\u09B0\u09CD\u0995( CC", ")\u09AB\u09C1\u0995\u0993\u09AE \u09AE\u09BE\u09DF\u09BF\u09AE\u09BF\u09B0\u09CD\u09AA( PW", "_429", "_430", "\u0995\u09B9\u09BE\u09B0\u09CD\u0997", "_432", " ,", "_434", "exuled", "\u09B8\u09CD\u0995\u09BE\u09B2\u09BF\u09A1", "\u09A1\u09CD\u09B0\u09BE\u09A1\u09CD\u09A8\u09BE\u09AF\u09CD\u099F\u09CD\u09B8", "2", "_439", "_441", "totalSumAssured", "maturityAgeWarning", "medicalTests", "hasIncomeDocNote", "_442", "\u09BF\u09B8\u09BF\u09B2\u09AA  ", "_443", "_444", ")ylretrauQ( \u0995\u09BF\u09B8\u09BE\u09AE\u09C8\u09B0\u09CD\u09A4", ")ylraeY flaH( \u0995\u09BF\u09B8\u09BE\u09AE\u09CD\u09A3\u09BE\u09B7", ")tnemyaP elgniS( \u09A8\u09C0\u09B2\u09BE\u0995\u0995\u098F", ")ylraeY( \u0995\u09BF\u09B7\u09CD\u09B0\u09BE\u09AC", "_446", "ratePerThousand", ")\u09BE\u09A8\u099F\u0998\u09CD\u09B0\u09C1\u09A6 \u0993 \u09BF\u09A8\u09BE\u09B9\u0997\u09CD\u0999\u0985( BADP", ")\u09BE\u09A7\u09BF\u09AC\u09C1\u09B8 \u09DF\u0986 \u0995\u09BF\u09B8\u09BE\u09AE( RBI", "1", "_450", "_451", "_453", "_454", "_455", "_461", "_464", "isPlan6", "sumAtRisk", "monthlyPension", "annualPension", "_468", "_470", "_472", "isNonMedical", "_475", "_477", "\uD83D\uDCCB *  \u09AA\u09CD\u09B0\u09BF\u09AE\u09BF\u09DF\u09BE\u09AE \u0993 \u09AA\u09CD\u09B0\u09B8\u09CD\u09A4\u09BE\u09AC\u09A8\u09BE \u09B9\u09BF\u09B8\u09BE\u09AC \u09AC\u09BF\u09AC\u09B0\u09A3\u09C0*\n", "\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501", "_478", "\uD83E\uDE7A *\u09AE\u09C7\u09A1\u09BF\u0995\u09C7\u09B2 \u099A\u09BE\u09B9\u09BF\u09A6\u09BE \u0993 \u09B6\u09B0\u09CD\u09A4\u09BE\u09AC\u09B2\u09C0:*\n", "\n\u0964\u09BE\u09A8 \u09C7\u09AC\u0997\u09BE\u09B2 \u099F\u09CD\u09B8\u09C7\u099F \u09B2\u09C7\u0995\u09BF\u09A1\u09C7\u09AE \u09CB\u09A8\u09CB\u0995 :)SMN( \u09B2\u09C7\u0995\u09BF\u09A1\u09C7\u09AE-\u09A8\u09A8 \u2022", "\n:\u09B9\u09C2\u09AE\u09B8\u099F\u09CD\u09B8\u09C7\u099F \u09DF\u09C0\u09A8\u099C\u09CB\u09DF\u09B0\u09CD\u09AA \u2022", "\n\u0964\u0987\u09C7\u09A8 \u09A8\u099C\u09CB\u09DF\u09B0\u09CD\u09AA \u099F\u09CD\u09B8\u09C7\u099F \u09CB\u09A8\u09CB\u0995 \u2022", "\n\u0964\u09A8\u099C\u09CB\u09DF\u09B0\u09CD\u09AA )tnemucoD laicnaniF( \u09B0\u09CD\u09A4\u09AA\u09A3\u09BE\u09AE\u09B0\u09CD\u09AA \u09A4\u09CD\u09A8\u09BE\u09B0\u09CD\u0995\u0982\u09B8 \u09B8\u09CE\u0989 \u09B0\u09C7\u09DF\u0986 \u09DF\u09BE\u09DF\u0993\u09B9 \u09BF\u09B6\u09C7\u09AC \u09B0\u09BE\u0995\u09BE\u099F \u09B7\u09CD\u0995\u09B2 \u09E6\u09E7 \u0995\u0982\u0985 \u09BF\u0995\u0981\u09C1\u099D \u099F\u09CB\u09AE \u2022", "clipboard", "writeText", "\u0964\u09A8\u09C7\u09B0\u09BE\u09AA \u09C7\u09A4\u09B0\u0995 \u09B0\u09BE\u09DF\u09C7\u09B6 \u09C7\u09B0\u09BE\u099C\u09CD\u099E\u09C7\u09B8\u09C7\u09AE \u09BE\u09AC ppAstahW !\u09C7\u099B\u09C7\u09DF\u09B9 \u09BE\u09B0\u0995 \u09BF\u09AA\u0995 \u09A8\u09B6\u09C7\u099F\u09CB\u0995 \u09B2\u09C1\u09B9\u09AC\u09AF\u09CD\u09A5\u09A4 \u09A3\u09CD\u09B0\u09C2\u09AA\u09CD\u09AE\u09B8 \u2705", "!\u09C7\u099B\u09C7\u09DF\u09B9 \u09A8\u09CD\u09A8\u09AA\u09CD\u09AE\u09B8 \u09BF\u09AA\u0995", "etad-tnirp", "_483", "xob-lacidem", "ydob-tnetnoc-tnirp", "print", "initTheme", "toggleTheme", "switchPlanTab", "renderPlanUI", "calculateDPS", "calculatePlan", "generateBudgetSuggestions", "applySuggestion", "clearActivePlanFields", "openAgeModal", "closeAgeModal", "calculateAge", "handleRiderToggle", "toggleOESelector", "toggleHCChildBox", "addHCChild", "removeHCChild", "toggleHIChildBox", "addHIChild", "removeHIChild", "copyResults", "printResults", "openSBModal", "closeSBModal", "handlePensionAmountChange", "handlePensionSumChange", "dedaoLtnetnoCMOD", "_484", "ntb-llatsni-awp", "tpmorpllatsnierofeb", "xelf-enilni", "kcilc", "prompt", "userChoice", "dellatsnippa", "yllufsseccus dellatsni saw AWP"];
+document[_0[0]](_0[1][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), function (e) {
+  if (e[_0[6]][_0[7]](_0[8][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])) || e[_0[6]][_0[7]](_0[9][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])) || e[_0[6]][_0[7]](_0[10][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])) || e[_0[6]][_0[7]](_0[11][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])) || e[_0[6]][_0[7]](_0[12][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])) || e[_0[6]][_0[7]](_0[13][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])) || e[_0[6]][_0[7]](_0[14][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))) {
     return;
   }
-  e['\u0070\u0072\u0065\u0076\u0065\u006E\u0074\u0044\u0065\u0066\u0061\u0075\u006C\u0074']();
-  return false;
+  e[_0[15]]();
+  return ![];
 });
-document['\u0061\u0064\u0064\u0045\u0076\u0065\u006E\u0074\u004C\u0069\u0073\u0074\u0065\u006E\u0065\u0072']("\u006B\u0065\u0079\u0064\u006F\u0077\u006E", function (e) {
-  if (e['\u006B\u0065\u0079'] === "\u0046\u0031\u0032" || e['\u006B\u0065\u0079\u0043\u006F\u0064\u0065'] === (490210 ^ 490137)) {
-    e['\u0070\u0072\u0065\u0076\u0065\u006E\u0074\u0044\u0065\u0066\u0061\u0075\u006C\u0074']();
-    return false;
+document[_0[0]](_0[16][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), function (e) {
+  if (e[_0[17]] === _0[18][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) || e[_0[19]] === (206852 ^ 206975)) {
+    e[_0[15]]();
+    return ![];
   }
-  if ((e['\u0063\u0074\u0072\u006C\u004B\u0065\u0079'] || e['\u006D\u0065\u0074\u0061\u004B\u0065\u0079']) && e['\u0073\u0068\u0069\u0066\u0074\u004B\u0065\u0079'] && (e['\u006B\u0065\u0079'] === "\u0049" || e['\u006B\u0065\u0079'] === "\u0069" || e['\u006B\u0065\u0079'] === "\u004A" || e['\u006B\u0065\u0079'] === "\u006A" || e['\u006B\u0065\u0079'] === "\u0043" || e['\u006B\u0065\u0079'] === "\u0063" || e['\u006B\u0065\u0079\u0043\u006F\u0064\u0065'] === (887671 ^ 887614) || e['\u006B\u0065\u0079\u0043\u006F\u0064\u0065'] === (213571 ^ 213513) || e['\u006B\u0065\u0079\u0043\u006F\u0064\u0065'] === (434040 ^ 433979))) {
-    e['\u0070\u0072\u0065\u0076\u0065\u006E\u0074\u0044\u0065\u0066\u0061\u0075\u006C\u0074']();
-    return false;
+  if ((e[_0[20]] || e[_0[21]]) && e[_0[22]] && (e[_0[17]] === _0[23] || e[_0[17]] === _0[24] || e[_0[17]] === _0[25] || e[_0[17]] === _0[26] || e[_0[17]] === _0[27] || e[_0[17]] === _0[28] || e[_0[19]] === (869124 ^ 869197) || e[_0[19]] === (750104 ^ 750162) || e[_0[19]] === (749016 ^ 748955))) {
+    e[_0[15]]();
+    return ![];
   }
-  if ((e['\u0063\u0074\u0072\u006C\u004B\u0065\u0079'] || e['\u006D\u0065\u0074\u0061\u004B\u0065\u0079']) && (e['\u006B\u0065\u0079'] === "\u0075" || e['\u006B\u0065\u0079'] === "\u0055" || e['\u006B\u0065\u0079\u0043\u006F\u0064\u0065'] === (975844 ^ 975793))) {
-    e['\u0070\u0072\u0065\u0076\u0065\u006E\u0074\u0044\u0065\u0066\u0061\u0075\u006C\u0074']();
-    return false;
+  if ((e[_0[20]] || e[_0[21]]) && (e[_0[17]] === _0[29] || e[_0[17]] === _0[30] || e[_0[19]] === (270452 ^ 270369))) {
+    e[_0[15]]();
+    return ![];
   }
-  if ((e['\u0063\u0074\u0072\u006C\u004B\u0065\u0079'] || e['\u006D\u0065\u0074\u0061\u004B\u0065\u0079']) && (e['\u006B\u0065\u0079'] === "\u0073" || e['\u006B\u0065\u0079'] === "\u0053" || e['\u006B\u0065\u0079\u0043\u006F\u0064\u0065'] === (242570 ^ 242649))) {
-    e['\u0070\u0072\u0065\u0076\u0065\u006E\u0074\u0044\u0065\u0066\u0061\u0075\u006C\u0074']();
-    return false;
+  if ((e[_0[20]] || e[_0[21]]) && (e[_0[17]] === _0[31] || e[_0[17]] === _0[32] || e[_0[19]] === (213975 ^ 213892))) {
+    e[_0[15]]();
+    return ![];
   }
 });
-if ('serviceWorker' in navigator) {
-  window['\u0061\u0064\u0064\u0045\u0076\u0065\u006E\u0074\u004C\u0069\u0073\u0074\u0065\u006E\u0065\u0072']('load', () => {
-    navigator['\u0073\u0065\u0072\u0076\u0069\u0063\u0065\u0057\u006F\u0072\u006B\u0065\u0072']['\u0072\u0065\u0067\u0069\u0073\u0074\u0065\u0072']("\u002E\u002F\u0073\u0077\u002E\u006A\u0073")['\u0074\u0068\u0065\u006E'](reg => console['\u006C\u006F\u0067']("\u0053\u0065\u0072\u0076\u0069\u0063\u0065\u0020\u0057\u006F\u0072\u006B\u0065\u0072\u0020\u0052\u0065\u0067\u0069\u0073\u0074\u0065\u0072\u0065\u0064"))['\u0063\u0061\u0074\u0063\u0068'](err => console['\u006C\u006F\u0067']("\u0053\u0065\u0072\u0076\u0069\u0063\u0065\u0020\u0057\u006F\u0072\u006B\u0065\u0072\u0020\u0046\u0061\u0069\u006C\u0065\u0064", err));
+if (_0[33][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) in navigator) {
+  window[_0[0]](_0[34][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), () => {
+    navigator[_0[35]][_0[36]](_0[37][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[38]](reg => console[_0[39]](_0[40][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])))[_0[41]](err => console[_0[39]](_0[42][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), err));
   });
 }
 function updateThemeUI(isDark) {
-  let _0x1449d;
-  const _0x33d = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('sidebarThemeIcon');
-  _0x1449d = '\u006D\u006C\u0069\u0061\u0070\u006F';
-  var _0xe4cbfe = (254771 ^ 254772) + (389280 ^ 389281);
-  const _0x8dfgcd = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('sidebarThemeText');
-  _0xe4cbfe = 705477 ^ 705473;
-  if (_0x33d) {
-    _0x33d['\u0063\u006C\u0061\u0073\u0073\u004E\u0061\u006D\u0065'] = isDark ? "\u0066\u0061\u0073\u0020\u0066\u0061\u002D\u0073\u0075\u006E\u0020\u0069\u0063\u006F\u006E" : "\u0066\u0061\u0073\u0020\u0066\u0061\u002D\u006D\u006F\u006F\u006E\u0020\u0069\u0063\u006F\u006E";
+  var _ = function (s, h) {
+    return s + h;
+  }(211300 ^ 211301, 889443 ^ 889441);
+  const _1 = document[_0[43]](_0[44][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+  _ = (932189 ^ 932181) + (237464 ^ 237456);
+  var _2 = function (s, h) {
+    return s + h;
+  }(141787 ^ 141790, 209899 ^ 209897);
+  const _a = document[_0[43]](_0[45][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+  _2 = function () {
+    return _0[46];
+  }();
+  if (_1) {
+    _1[_0[47]] = isDark ? _0[48][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) : _0[49][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
   }
-  if (_0x8dfgcd) {
-    _0x8dfgcd['\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074'] = isDark ? 'লাইট মোড' : 'ডার্ক মোড';
+  if (_a) {
+    _a[_0[50]] = isDark ? _0[51][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) : _0[52][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
   }
 }
 function initTheme() {
-  const _0x5fcaeg = localStorage['\u0067\u0065\u0074\u0049\u0074\u0065\u006D']("\u0062\u0069\u006D\u0061\u005F\u0074\u0068\u0065\u006D\u0065") || 'light';
-  let _0x6bc01c;
-  const _0xg635bb = _0x5fcaeg === "\u0064\u0061\u0072\u006B";
-  _0x6bc01c = "hpkpce";
-  if (_0xg635bb) {
-    document['\u0062\u006F\u0064\u0079']['\u0063\u006C\u0061\u0073\u0073\u004C\u0069\u0073\u0074']['\u0061\u0064\u0064']('dark-mode');
+  var _3 = _0[53];
+  const _b = localStorage[_0[54]](_0[55][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])) || _0[56][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+  _3 = function () {
+    return 403784 ^ 403777;
+  }();
+  var _4 = function (s, h) {
+    return s ^ h;
+  }(275780, 275779);
+  const _c = function (s, h) {
+    return s === h;
+  }(_b, _0[57][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+  _4 = function () {
+    return 160321 ^ 160329;
+  }();
+  if (_c) {
+    document[_0[58]][_0[59]][_0[60]](_0[61][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
   } else {
-    document['\u0062\u006F\u0064\u0079']['\u0063\u006C\u0061\u0073\u0073\u004C\u0069\u0073\u0074']['\u0072\u0065\u006D\u006F\u0076\u0065']("\u0064\u0061\u0072\u006B\u002D\u006D\u006F\u0064\u0065");
+    document[_0[58]][_0[59]][_0[62]](_0[61][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
   }
-  updateThemeUI(_0xg635bb);
+  updateThemeUI(_c);
 }
 function toggleTheme() {
-  const _0x15fb = document['\u0062\u006F\u0064\u0079']['\u0063\u006C\u0061\u0073\u0073\u004C\u0069\u0073\u0074']['\u0074\u006F\u0067\u0067\u006C\u0065']("\u0064\u0061\u0072\u006B\u002D\u006D\u006F\u0064\u0065");
-  localStorage['\u0073\u0065\u0074\u0049\u0074\u0065\u006D']("\u0062\u0069\u006D\u0061\u005F\u0074\u0068\u0065\u006D\u0065", _0x15fb ? "\u0064\u0061\u0072\u006B" : "\u006C\u0069\u0067\u0068\u0074");
-  updateThemeUI(_0x15fb);
+  var _5 = function (s, h) {
+    return s + h;
+  }(421523 ^ 421521, 145976 ^ 145982);
+  const _d = document[_0[58]][_0[59]][_0[63]](_0[61][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+  _5 = function () {
+    return _0[64];
+  }();
+  localStorage[_0[65]](_0[55][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _d ? _0[57][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) : _0[56][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+  updateThemeUI(_d);
 }
+var _6 = function (s, h) {
+  return s + h;
+}(541781 ^ 541782, 363203 ^ 363205);
 const plan1Rates = {
   20: {
     10: 106.20,
     11: 95.90,
     12: 87.40,
     13: 80.20,
-    14: 74.00,
+    14: 952417 ^ 952363,
     15: 68.70,
-    16: 64.00,
+    16: 811448 ^ 811512,
     17: 59.90,
     18: 56.30,
     19: 53.10,
     20: 50.10,
     21: 47.50,
     22: 45.20,
-    23: 43.00,
-    24: 41.00,
+    23: 332293 ^ 332334,
+    24: 815198 ^ 815223,
     25: 39.20,
     30: 32.10,
     35: 27.30
@@ -85,17 +111,17 @@ const plan1Rates = {
     11: 95.90,
     12: 87.40,
     13: 80.20,
-    14: 74.00,
+    14: 305015 ^ 304957,
     15: 68.70,
-    16: 64.00,
+    16: 461520 ^ 461456,
     17: 59.90,
     18: 56.30,
     19: 53.10,
     20: 50.20,
     21: 47.50,
     22: 45.20,
-    23: 43.00,
-    24: 41.00,
+    23: 919370 ^ 919393,
+    24: 246372 ^ 246349,
     25: 39.20,
     30: 32.20,
     35: 27.30
@@ -105,16 +131,16 @@ const plan1Rates = {
     11: 95.90,
     12: 87.40,
     13: 80.20,
-    14: 74.00,
+    14: 577788 ^ 577718,
     15: 68.70,
-    16: 64.00,
+    16: 504051 ^ 503987,
     17: 59.90,
     18: 56.30,
     19: 53.10,
     20: 50.20,
     21: 47.50,
     22: 45.20,
-    23: 43.00,
+    23: 684839 ^ 684812,
     24: 41.10,
     25: 39.30,
     30: 32.20,
@@ -125,16 +151,16 @@ const plan1Rates = {
     11: 95.90,
     12: 87.40,
     13: 80.20,
-    14: 74.00,
+    14: 761121 ^ 761195,
     15: 68.70,
-    16: 64.00,
-    17: 60.00,
+    16: 323535 ^ 323471,
+    17: 511475 ^ 511439,
     18: 56.30,
     19: 53.10,
     20: 50.20,
     21: 47.60,
     22: 45.20,
-    23: 43.00,
+    23: 394695 ^ 394732,
     24: 41.10,
     25: 39.30,
     30: 32.30,
@@ -145,10 +171,10 @@ const plan1Rates = {
     11: 95.90,
     12: 87.40,
     13: 80.20,
-    14: 74.00,
+    14: 278869 ^ 278815,
     15: 68.70,
-    16: 64.00,
-    17: 60.00,
+    16: 115989 ^ 116053,
+    17: 445676 ^ 445648,
     18: 56.30,
     19: 53.10,
     20: 50.20,
@@ -162,13 +188,13 @@ const plan1Rates = {
   },
   25: {
     10: 106.20,
-    11: 96.00,
+    11: 969828 ^ 969732,
     12: 87.40,
     13: 80.20,
-    14: 74.00,
+    14: 643025 ^ 642971,
     15: 68.70,
     16: 64.10,
-    17: 60.00,
+    17: 356517 ^ 356505,
     18: 56.30,
     19: 53.10,
     20: 50.20,
@@ -182,13 +208,13 @@ const plan1Rates = {
   },
   26: {
     10: 106.20,
-    11: 96.00,
+    11: 424649 ^ 424617,
     12: 87.40,
     13: 80.20,
     14: 74.10,
     15: 68.70,
     16: 64.10,
-    17: 60.00,
+    17: 910648 ^ 910596,
     18: 56.40,
     19: 53.10,
     20: 50.20,
@@ -202,13 +228,13 @@ const plan1Rates = {
   },
   27: {
     10: 106.20,
-    11: 96.00,
+    11: 595528 ^ 595496,
     12: 87.40,
     13: 80.20,
     14: 74.10,
     15: 68.70,
     16: 64.10,
-    17: 60.00,
+    17: 698023 ^ 698011,
     18: 56.40,
     19: 53.20,
     20: 50.30,
@@ -222,13 +248,13 @@ const plan1Rates = {
   },
   28: {
     10: 106.20,
-    11: 96.00,
+    11: 359175 ^ 359271,
     12: 87.40,
     13: 80.20,
     14: 74.10,
     15: 68.80,
     16: 64.10,
-    17: 60.00,
+    17: 269166 ^ 269138,
     18: 56.40,
     19: 53.20,
     20: 50.30,
@@ -242,7 +268,7 @@ const plan1Rates = {
   },
   29: {
     10: 106.30,
-    11: 96.00,
+    11: 329566 ^ 329534,
     12: 87.50,
     13: 80.30,
     14: 74.10,
@@ -262,7 +288,7 @@ const plan1Rates = {
   },
   30: {
     10: 106.30,
-    11: 96.00,
+    11: 383962 ^ 383930,
     12: 87.50,
     13: 80.30,
     14: 74.10,
@@ -282,7 +308,7 @@ const plan1Rates = {
   },
   31: {
     10: 106.30,
-    11: 96.00,
+    11: 828178 ^ 828274,
     12: 87.50,
     13: 80.30,
     14: 74.20,
@@ -312,11 +338,11 @@ const plan1Rates = {
     18: 56.60,
     19: 53.40,
     20: 50.60,
-    21: 48.00,
+    21: 229775 ^ 229823,
     22: 45.70,
     23: 43.60,
     24: 41.70,
-    25: 40.00,
+    25: 393844 ^ 393820,
     30: 33.30,
     35: 28.90
   },
@@ -326,7 +352,7 @@ const plan1Rates = {
     12: 87.60,
     13: 80.40,
     14: 74.30,
-    15: 69.00,
+    15: 414938 ^ 414879,
     16: 64.40,
     17: 60.30,
     18: 56.70,
@@ -353,9 +379,9 @@ const plan1Rates = {
     19: 53.70,
     20: 50.80,
     21: 48.30,
-    22: 46.00,
+    22: 592777 ^ 592807,
     23: 43.90,
-    24: 42.00,
+    24: 650692 ^ 650734,
     25: 40.30,
     30: 33.70,
     35: 29.50
@@ -369,15 +395,15 @@ const plan1Rates = {
     15: 69.20,
     16: 64.60,
     17: 60.50,
-    18: 57.00,
+    18: 977198 ^ 977175,
     19: 53.80,
-    20: 51.00,
+    20: 112980 ^ 112999,
     21: 48.40,
     22: 46.10,
     23: 44.10,
     24: 42.20,
     25: 40.50,
-    30: 34.00,
+    30: 556866 ^ 556896,
     35: 29.80
   },
   36: {
@@ -415,7 +441,7 @@ const plan1Rates = {
     22: 46.50,
     23: 44.50,
     24: 42.70,
-    25: 41.00,
+    25: 156134 ^ 156111,
     30: 34.60
   },
   38: {
@@ -425,24 +451,24 @@ const plan1Rates = {
     13: 80.90,
     14: 74.80,
     15: 69.60,
-    16: 65.00,
-    17: 61.00,
+    16: 740806 ^ 740743,
+    17: 383587 ^ 383582,
     18: 57.50,
     19: 54.30,
     20: 51.50,
-    21: 49.00,
+    21: 779548 ^ 779565,
     22: 46.80,
     23: 44.80,
     24: 42.90,
     25: 41.30,
-    30: 35.00
+    30: 956129 ^ 956098
   },
   39: {
     10: 106.90,
     11: 96.70,
     12: 88.20,
     13: 81.10,
-    14: 75.00,
+    14: 764393 ^ 764322,
     15: 69.80,
     16: 65.20,
     17: 61.20,
@@ -457,27 +483,27 @@ const plan1Rates = {
     30: 35.40
   },
   40: {
-    10: 107.00,
+    10: 416061 ^ 416086,
     11: 96.80,
     12: 88.40,
     13: 81.30,
     14: 75.20,
-    15: 70.00,
+    15: 403351 ^ 403409,
     16: 65.40,
     17: 61.50,
-    18: 58.00,
+    18: 256901 ^ 256959,
     19: 54.80,
     20: 52.10,
     21: 49.60,
     22: 47.40,
     23: 45.40,
     24: 43.60,
-    25: 42.00,
+    25: 369711 ^ 369669,
     30: 35.90
   },
   41: {
     10: 107.20,
-    11: 97.00,
+    11: 651942 ^ 651975,
     12: 88.60,
     13: 81.50,
     14: 75.40,
@@ -490,7 +516,7 @@ const plan1Rates = {
     21: 49.90,
     22: 47.70,
     23: 45.80,
-    24: 44.00,
+    24: 157571 ^ 157615,
     25: 42.40
   },
   42: {
@@ -500,8 +526,8 @@ const plan1Rates = {
     13: 81.70,
     14: 75.70,
     15: 70.50,
-    16: 66.00,
-    17: 62.00,
+    16: 770730 ^ 770792,
+    17: 433907 ^ 433869,
     18: 58.60,
     19: 55.50,
     20: 52.80,
@@ -515,8 +541,8 @@ const plan1Rates = {
     10: 107.60,
     11: 97.50,
     12: 89.10,
-    13: 82.00,
-    14: 76.00,
+    13: 630445 ^ 630527,
+    14: 372144 ^ 372220,
     15: 70.80,
     16: 66.30,
     17: 62.40,
@@ -562,7 +588,7 @@ const plan1Rates = {
     21: 51.70,
     22: 49.60,
     23: 47.70,
-    24: 46.00,
+    24: 788939 ^ 788965,
     25: 44.50
   },
   46: {
@@ -571,7 +597,7 @@ const plan1Rates = {
     12: 90.10,
     13: 83.10,
     14: 77.10,
-    15: 72.00,
+    15: 726754 ^ 726698,
     16: 67.50,
     17: 63.70,
     18: 60.30,
@@ -585,7 +611,7 @@ const plan1Rates = {
     13: 83.50,
     14: 77.50,
     15: 72.40,
-    16: 68.00,
+    16: 495369 ^ 495437,
     17: 64.20,
     18: 60.80,
     19: 57.90,
@@ -595,9 +621,9 @@ const plan1Rates = {
     10: 109.30,
     11: 99.20,
     12: 90.90,
-    13: 84.00,
-    14: 78.00,
-    15: 73.00,
+    13: 862382 ^ 862458,
+    14: 790972 ^ 791026,
+    15: 235361 ^ 235304,
     16: 68.60,
     17: 64.80,
     18: 61.40,
@@ -620,8 +646,8 @@ const plan1Rates = {
   50: {
     10: 110.20,
     11: 100.20,
-    12: 92.00,
-    13: 85.00,
+    12: 271681 ^ 271645,
+    13: 481677 ^ 481752,
     14: 79.20,
     15: 74.20,
     16: 69.80,
@@ -647,7 +673,7 @@ const plan1Rates = {
     15: 75.60
   },
   53: {
-    10: 112.00,
+    10: 471477 ^ 471493,
     11: 102.10,
     12: 93.90,
     13: 87.10,
@@ -671,7 +697,628 @@ const plan1Rates = {
     15: 78.40
   }
 };
-let _0x5124eb;
+_6 = function () {
+  return 909288 ^ 909288;
+}();
+var _7 = function (s, h) {
+  return s ^ h;
+}(805746, 805755);
+const monthlySavingRates = {
+  20: {
+    10: 101800,
+    11: 112740,
+    12: 123700,
+    13: 134800,
+    14: 146100,
+    15: 157370,
+    16: 168920,
+    17: 180490,
+    18: 192030,
+    19: 203600,
+    20: 215790,
+    21: 227600,
+    22: 239180,
+    23: 251420,
+    24: 263680,
+    25: 275790,
+    30: 336790,
+    35: 396010
+  },
+  21: {
+    10: 101800,
+    11: 112740,
+    12: 123700,
+    13: 134800,
+    14: 146100,
+    15: 157370,
+    16: 168920,
+    17: 180490,
+    18: 192030,
+    19: 203600,
+    20: 215360,
+    21: 227600,
+    22: 239180,
+    23: 251420,
+    24: 263680,
+    25: 275790,
+    30: 335740,
+    35: 396010
+  },
+  22: {
+    10: 101800,
+    11: 112740,
+    12: 123700,
+    13: 134800,
+    14: 146100,
+    15: 157370,
+    16: 168920,
+    17: 180490,
+    18: 192030,
+    19: 203600,
+    20: 215360,
+    21: 227600,
+    22: 239180,
+    23: 251420,
+    24: 263040,
+    25: 275090,
+    30: 335740,
+    35: 394560
+  },
+  23: {
+    10: 101800,
+    11: 112740,
+    12: 123700,
+    13: 134800,
+    14: 146100,
+    15: 157370,
+    16: 168920,
+    17: 180490,
+    18: 192030,
+    19: 203600,
+    20: 215360,
+    21: 227120,
+    22: 239180,
+    23: 251420,
+    24: 263040,
+    25: 275090,
+    30: 334710,
+    35: 393130
+  },
+  24: {
+    10: 101800,
+    11: 112740,
+    12: 123700,
+    13: 134800,
+    14: 146100,
+    15: 157370,
+    16: 168920,
+    17: 180190,
+    18: 192030,
+    19: 203600,
+    20: 215360,
+    21: 227120,
+    22: 239180,
+    23: 250840,
+    24: 263040,
+    25: 275090,
+    30: 334710,
+    35: 391700
+  },
+  25: {
+    10: 101800,
+    11: 112620,
+    12: 123700,
+    13: 134800,
+    14: 146100,
+    15: 157370,
+    16: 168660,
+    17: 180190,
+    18: 192030,
+    19: 203600,
+    20: 215360,
+    21: 227120,
+    22: 239180,
+    23: 250840,
+    24: 263040,
+    25: 274390,
+    30: 333670,
+    35: 390290
+  },
+  26: {
+    10: 101800,
+    11: 112620,
+    12: 123700,
+    13: 134800,
+    14: 145900,
+    15: 157370,
+    16: 168660,
+    17: 180190,
+    18: 191690,
+    19: 203600,
+    20: 215360,
+    21: 227120,
+    22: 238650,
+    23: 250840,
+    24: 262400,
+    25: 274390,
+    30: 332650,
+    35: 388880
+  },
+  27: {
+    10: 101800,
+    11: 112620,
+    12: 123700,
+    13: 134800,
+    14: 145900,
+    15: 157370,
+    16: 168660,
+    17: 180190,
+    18: 191690,
+    19: 203220,
+    20: 214930,
+    21: 226650,
+    22: 238650,
+    23: 250260,
+    24: 262400,
+    25: 273700,
+    30: 331620,
+    35: 387490
+  },
+  28: {
+    10: 101800,
+    11: 112620,
+    12: 123700,
+    13: 134800,
+    14: 145900,
+    15: 157140,
+    16: 168660,
+    17: 180190,
+    18: 191690,
+    19: 203220,
+    20: 214930,
+    21: 226650,
+    22: 238130,
+    23: 250260,
+    24: 261770,
+    25: 273700,
+    30: 330610,
+    35: 384730
+  },
+  29: {
+    10: 101710,
+    11: 112620,
+    12: 123560,
+    13: 134640,
+    14: 145900,
+    15: 157140,
+    16: 168660,
+    17: 179890,
+    18: 191350,
+    19: 203220,
+    20: 214510,
+    21: 226170,
+    22: 238130,
+    23: 249680,
+    24: 261140,
+    25: 273010,
+    30: 329600,
+    35: 383370
+  },
+  30: {
+    10: 101710,
+    11: 112620,
+    12: 123560,
+    13: 134640,
+    14: 145900,
+    15: 157140,
+    16: 168400,
+    17: 179890,
+    18: 191350,
+    19: 202830,
+    20: 214510,
+    21: 226170,
+    22: 237610,
+    23: 249100,
+    24: 260510,
+    25: 272320,
+    30: 328600,
+    35: 380670
+  },
+  31: {
+    10: 101710,
+    11: 112620,
+    12: 123560,
+    13: 134640,
+    14: 145700,
+    15: 156910,
+    16: 168400,
+    17: 179590,
+    18: 191010,
+    19: 202450,
+    20: 214080,
+    21: 225700,
+    22: 237080,
+    23: 248530,
+    24: 259880,
+    25: 271630,
+    30: 326620,
+    35: 376690
+  },
+  32: {
+    10: 101710,
+    11: 112500,
+    12: 123420,
+    13: 134470,
+    14: 145700,
+    15: 156910,
+    16: 168140,
+    17: 179590,
+    18: 191010,
+    19: 202450,
+    20: 213660,
+    21: 225230,
+    22: 236570,
+    23: 247960,
+    24: 259260,
+    25: 270280,
+    30: 324650,
+    35: 374080
+  },
+  33: {
+    10: 101610,
+    11: 112500,
+    12: 123420,
+    13: 134470,
+    14: 145510,
+    15: 156680,
+    16: 167870,
+    17: 179290,
+    18: 190670,
+    19: 202080,
+    20: 213240,
+    21: 224760,
+    22: 236050,
+    23: 247390,
+    24: 258640,
+    25: 269600,
+    30: 322720,
+    35: 370240
+  },
+  34: {
+    10: 101610,
+    11: 112380,
+    12: 123280,
+    13: 134300,
+    14: 145310,
+    15: 156460,
+    16: 167610,
+    17: 178990,
+    18: 190340,
+    19: 201320,
+    20: 212820,
+    21: 223830,
+    22: 235020,
+    23: 246260,
+    24: 257410,
+    25: 268260,
+    30: 320800,
+    35: 366470
+  },
+  35: {
+    10: 101510,
+    11: 112380,
+    12: 123280,
+    13: 134130,
+    14: 145310,
+    15: 156230,
+    16: 167360,
+    17: 178700,
+    18: 189670,
+    19: 200950,
+    20: 211980,
+    21: 223370,
+    22: 234510,
+    23: 245150,
+    24: 256190,
+    25: 266940,
+    30: 317970,
+    35: 362780
+  },
+  36: {
+    10: 101510,
+    11: 112270,
+    12: 123130,
+    13: 133970,
+    14: 144920,
+    15: 156010,
+    16: 167100,
+    17: 178110,
+    18: 189340,
+    19: 200580,
+    20: 211570,
+    21: 222450,
+    22: 233500,
+    23: 244040,
+    24: 254980,
+    25: 265630,
+    30: 315190
+  },
+  37: {
+    10: 101420,
+    11: 112150,
+    12: 122990,
+    13: 133800,
+    14: 144730,
+    15: 155780,
+    16: 166840,
+    17: 177810,
+    18: 188680,
+    19: 199840,
+    20: 210740,
+    21: 221540,
+    22: 232500,
+    23: 242940,
+    24: 253190,
+    25: 263680,
+    30: 312460
+  },
+  38: {
+    10: 101320,
+    11: 112030,
+    12: 122720,
+    13: 133640,
+    14: 144530,
+    15: 155330,
+    16: 166330,
+    17: 177230,
+    18: 188020,
+    19: 199100,
+    20: 209920,
+    21: 220630,
+    22: 231010,
+    23: 241320,
+    24: 252010,
+    25: 261770,
+    30: 308890
+  },
+  39: {
+    10: 101140,
+    11: 111800,
+    12: 122580,
+    13: 133310,
+    14: 144150,
+    15: 154890,
+    16: 165810,
+    17: 176650,
+    18: 187370,
+    19: 198010,
+    20: 208710,
+    21: 219290,
+    22: 229530,
+    23: 239710,
+    24: 250260,
+    25: 259880,
+    30: 305400
+  },
+  40: {
+    10: 101040,
+    11: 111690,
+    12: 122300,
+    13: 132980,
+    14: 143770,
+    15: 154450,
+    16: 165310,
+    17: 175790,
+    18: 186400,
+    19: 197280,
+    20: 207510,
+    21: 217960,
+    22: 228080,
+    23: 238130,
+    24: 247960,
+    25: 257410,
+    30: 301140
+  },
+  41: {
+    10: 100850,
+    11: 111460,
+    12: 122020,
+    13: 132650,
+    14: 143380,
+    15: 154010,
+    16: 164550,
+    17: 175220,
+    18: 185760,
+    19: 195850,
+    20: 206320,
+    21: 216650,
+    22: 226650,
+    23: 236050,
+    24: 245710,
+    25: 254980
+  },
+  42: {
+    10: 100660,
+    11: 111110,
+    12: 121750,
+    13: 132330,
+    14: 142820,
+    15: 153350,
+    16: 163810,
+    17: 174370,
+    18: 184490,
+    19: 194790,
+    20: 204760,
+    21: 214930,
+    22: 224760,
+    23: 234010,
+    24: 243490,
+    25: 252590
+  },
+  43: {
+    10: 100480,
+    11: 110890,
+    12: 121340,
+    13: 131840,
+    14: 142250,
+    15: 152700,
+    16: 163060,
+    17: 173260,
+    18: 183550,
+    19: 193400,
+    20: 203220,
+    21: 213240,
+    22: 222450,
+    23: 231500,
+    24: 240780,
+    25: 249100
+  },
+  44: {
+    10: 100200,
+    11: 110540,
+    12: 120930,
+    13: 131360,
+    14: 141690,
+    15: 151840,
+    16: 162090,
+    17: 172150,
+    18: 182310,
+    19: 192030,
+    20: 201700,
+    21: 211150,
+    22: 220180,
+    23: 229050,
+    24: 237610,
+    25: 246260
+  },
+  45: {
+    10: 99920,
+    11: 110210,
+    12: 120530,
+    13: 130730,
+    14: 140950,
+    15: 151210,
+    16: 161120,
+    17: 171060,
+    18: 180790,
+    19: 190340,
+    20: 199840,
+    21: 209110,
+    22: 217960,
+    23: 226650,
+    24: 235020,
+    25: 242940
+  },
+  46: {
+    10: 99640,
+    11: 109870,
+    12: 119990,
+    13: 130100,
+    14: 140220,
+    15: 150160,
+    16: 160170,
+    17: 169720,
+    18: 179290,
+    19: 188680,
+    20: 198010
+  },
+  47: {
+    10: 99280,
+    11: 109430,
+    12: 119460,
+    13: 129480,
+    14: 139500,
+    15: 149330,
+    16: 158990,
+    17: 168400,
+    18: 177810,
+    19: 186720,
+    20: 195850
+  },
+  48: {
+    10: 98910,
+    11: 108980,
+    12: 118940,
+    13: 128710,
+    14: 138610,
+    15: 148100,
+    16: 157600,
+    17: 166840,
+    18: 176080,
+    19: 184810,
+    20: 193400
+  },
+  49: {
+    10: 98550,
+    11: 108440,
+    12: 118290,
+    13: 127940,
+    14: 137550,
+    15: 147090,
+    16: 156230,
+    17: 165310,
+    18: 174090,
+    19: 182620,
+    20: 191010
+  },
+  50: {
+    10: 98110,
+    11: 107900,
+    12: 117510,
+    13: 127190,
+    14: 136510,
+    15: 145700,
+    16: 154890,
+    17: 163560,
+    18: 172150,
+    19: 180490,
+    20: 188350
+  },
+  51: {
+    10: 97580,
+    11: 107260,
+    12: 116750,
+    13: 126150,
+    14: 135480,
+    15: 144340
+  },
+  52: {
+    10: 97140,
+    11: 106620,
+    12: 116000,
+    13: 125130,
+    14: 134130,
+    15: 143010
+  },
+  53: {
+    10: 96530,
+    11: 105890,
+    12: 115140,
+    13: 124120,
+    14: 132820,
+    15: 141320
+  },
+  54: {
+    10: 95930,
+    11: 105170,
+    12: 114160,
+    13: 122990,
+    14: 131520,
+    15: 139680
+  },
+  55: {
+    10: 95250,
+    11: 104260,
+    12: 113090,
+    13: 121610,
+    14: 129940,
+    15: 137900
+  }
+};
+_7 = function () {
+  return 966721 ^ 966728;
+}();
+var _8 = _0[66];
 const plan2Rates = {
   20: {
     10: 116.10,
@@ -720,7 +1367,7 @@ const plan2Rates = {
   },
   29: {
     10: 116.20,
-    15: 82.00,
+    15: 654392 ^ 654442,
     20: 63.80
   },
   30: {
@@ -759,7 +1406,7 @@ const plan2Rates = {
     20: 65.50
   },
   37: {
-    10: 117.00,
+    10: 613616 ^ 613509,
     15: 83.40,
     20: 65.90
   },
@@ -780,8 +1427,8 @@ const plan2Rates = {
   },
   41: {
     10: 117.90,
-    15: 85.00,
-    20: 68.00
+    15: 722966 ^ 723011,
+    20: 847630 ^ 847690
   },
   42: {
     10: 118.30,
@@ -794,7 +1441,7 @@ const plan2Rates = {
     20: 69.40
   },
   44: {
-    10: 119.00,
+    10: 658571 ^ 658684,
     15: 86.70,
     20: 70.20
   },
@@ -804,12 +1451,12 @@ const plan2Rates = {
     20: 71.10
   },
   46: {
-    10: 120.00,
+    10: 579972 ^ 580092,
     15: 88.10
   },
   47: {
     10: 120.60,
-    15: 89.00
+    15: 858611 ^ 858538
   },
   48: {
     10: 121.20,
@@ -821,7 +1468,7 @@ const plan2Rates = {
   },
   50: {
     10: 122.60,
-    15: 92.00
+    15: 839275 ^ 839223
   },
   51: {
     10: 123.40
@@ -839,52 +1486,57 @@ const plan2Rates = {
     10: 127.50
   }
 };
-_0x5124eb = (900357 ^ 900357) + (790050 ^ 790058);
+_8 = function () {
+  return 620564 ^ 620572;
+}();
+var _9 = function (s, h) {
+  return s ^ h;
+}(461406, 461402);
 const plan3Rates = {
   20: {
-    12: 96.00,
+    12: 190415 ^ 190383,
     15: 77.10,
     18: 64.60,
     21: 55.70,
-    24: 49.00
+    24: 776865 ^ 776848
   },
   21: {
-    12: 96.00,
+    12: 805890 ^ 805986,
     15: 77.10,
     18: 64.60,
     21: 55.70,
     24: 49.10
   },
   22: {
-    12: 96.00,
+    12: 710217 ^ 710185,
     15: 77.10,
     18: 64.60,
     21: 55.70,
     24: 49.10
   },
   23: {
-    12: 96.00,
+    12: 760214 ^ 760310,
     15: 77.10,
     18: 64.60,
     21: 55.80,
     24: 49.20
   },
   24: {
-    12: 96.00,
+    12: 107536 ^ 107632,
     15: 77.20,
     18: 64.70,
     21: 55.80,
     24: 49.30
   },
   25: {
-    12: 96.00,
+    12: 693690 ^ 693722,
     15: 77.20,
     18: 64.70,
     21: 55.90,
     24: 49.40
   },
   26: {
-    12: 96.00,
+    12: 967335 ^ 967367,
     15: 77.20,
     18: 64.70,
     21: 55.90,
@@ -894,7 +1546,7 @@ const plan3Rates = {
     12: 96.10,
     15: 77.30,
     18: 64.80,
-    21: 56.00,
+    21: 352726 ^ 352750,
     24: 49.60
   },
   28: {
@@ -907,7 +1559,7 @@ const plan3Rates = {
   29: {
     12: 96.10,
     15: 77.40,
-    18: 65.00,
+    18: 964888 ^ 964953,
     21: 56.30,
     24: 49.90
   },
@@ -916,7 +1568,7 @@ const plan3Rates = {
     15: 77.40,
     18: 65.10,
     21: 56.40,
-    24: 50.00
+    24: 393131 ^ 393113
   },
   31: {
     12: 96.30,
@@ -936,7 +1588,7 @@ const plan3Rates = {
     12: 96.40,
     15: 77.80,
     18: 65.50,
-    21: 57.00,
+    21: 925152 ^ 925145,
     24: 50.70
   },
   34: {
@@ -944,7 +1596,7 @@ const plan3Rates = {
     15: 77.90,
     18: 65.70,
     21: 57.20,
-    24: 51.00
+    24: 406850 ^ 406897
   },
   35: {
     12: 96.70,
@@ -961,7 +1613,7 @@ const plan3Rates = {
     24: 51.70
   },
   37: {
-    12: 97.00,
+    12: 977353 ^ 977320,
     15: 78.60,
     18: 66.50,
     21: 58.20,
@@ -978,7 +1630,7 @@ const plan3Rates = {
     12: 97.50,
     15: 79.20,
     18: 67.20,
-    21: 59.00,
+    21: 989986 ^ 989977,
     24: 53.10
   },
   40: {
@@ -992,7 +1644,7 @@ const plan3Rates = {
     12: 98.20,
     15: 79.90,
     18: 68.10,
-    21: 60.00,
+    21: 895303 ^ 895355,
     24: 54.30
   },
   42: {
@@ -1002,7 +1654,7 @@ const plan3Rates = {
     21: 60.60
   },
   43: {
-    12: 99.00,
+    12: 664177 ^ 664082,
     15: 80.90,
     18: 69.20,
     21: 61.30
@@ -1011,11 +1663,11 @@ const plan3Rates = {
     12: 99.40,
     15: 81.40,
     18: 69.80,
-    21: 62.00
+    21: 186849 ^ 186847
   },
   45: {
-    12: 100.00,
-    15: 82.00,
+    12: 423805 ^ 423705,
+    15: 439648 ^ 439602,
     18: 70.50
   },
   46: {
@@ -1038,7 +1690,7 @@ const plan3Rates = {
   },
   50: {
     12: 103.40,
-    15: 86.00
+    15: 570787 ^ 570869
   },
   51: {
     12: 104.40
@@ -1050,39 +1702,44 @@ const plan3Rates = {
     12: 106.40
   }
 };
-var _0x3dbe = (824629 ^ 824627) + (133162 ^ 133154);
+_9 = function () {
+  return 805454 ^ 805446;
+}();
+var _10 = function (s, h) {
+  return s ^ h;
+}(833947, 833951);
 const plan4Rates = {
   20: {
     12: 98.70,
-    16: 71.00,
+    16: 107879 ^ 107808,
     20: 54.90,
     24: 44.60,
     28: 37.40
   },
   21: {
     12: 98.70,
-    16: 71.00,
-    20: 55.00,
+    16: 197853 ^ 197786,
+    20: 336925 ^ 336938,
     24: 44.60,
     28: 37.50
   },
   22: {
     12: 98.70,
-    16: 71.00,
-    20: 55.00,
+    16: 470119 ^ 470048,
+    20: 336092 ^ 336107,
     24: 44.70,
     28: 37.60
   },
   23: {
     12: 98.70,
-    16: 71.00,
-    20: 55.00,
+    16: 890296 ^ 890367,
+    20: 607555 ^ 607604,
     24: 44.70,
     28: 37.70
   },
   24: {
     12: 98.70,
-    16: 71.00,
+    16: 483524 ^ 483459,
     20: 55.10,
     24: 44.80,
     28: 37.80
@@ -1127,13 +1784,13 @@ const plan4Rates = {
     16: 71.40,
     20: 55.70,
     24: 45.80,
-    28: 39.00
+    28: 953974 ^ 953937
   },
   31: {
-    12: 99.00,
+    12: 376636 ^ 376671,
     16: 71.60,
     20: 55.90,
-    24: 46.00,
+    24: 967728 ^ 967710,
     28: 39.40
   },
   32: {
@@ -1160,9 +1817,9 @@ const plan4Rates = {
   35: {
     12: 99.50,
     16: 72.30,
-    20: 57.00,
+    20: 925171 ^ 925130,
     24: 47.30,
-    28: 41.00
+    28: 904939 ^ 904898
   },
   36: {
     12: 99.70,
@@ -1172,7 +1829,7 @@ const plan4Rates = {
     28: 41.50
   },
   37: {
-    12: 100.00,
+    12: 574976 ^ 575076,
     16: 72.90,
     20: 57.70,
     24: 48.20,
@@ -1193,7 +1850,7 @@ const plan4Rates = {
     28: 43.50
   },
   40: {
-    12: 101.00,
+    12: 782254 ^ 782283,
     16: 74.20,
     20: 59.20,
     24: 50.10,
@@ -1220,7 +1877,7 @@ const plan4Rates = {
     24: 52.50
   },
   44: {
-    12: 103.00,
+    12: 383489 ^ 383590,
     16: 76.60,
     20: 62.10,
     24: 53.40
@@ -1228,7 +1885,7 @@ const plan4Rates = {
   45: {
     12: 103.60,
     16: 77.30,
-    20: 63.00,
+    20: 865650 ^ 865613,
     24: 54.50
   },
   46: {
@@ -1240,10 +1897,10 @@ const plan4Rates = {
   47: {
     12: 105.10,
     16: 79.10,
-    20: 65.00
+    20: 606012 ^ 606077
   },
   48: {
-    12: 106.00,
+    12: 534051 ^ 534089,
     16: 80.10,
     20: 66.20
   },
@@ -1253,7 +1910,7 @@ const plan4Rates = {
     20: 67.50
   },
   50: {
-    12: 108.00,
+    12: 198140 ^ 198032,
     16: 82.40,
     20: 68.90
   },
@@ -1277,45 +1934,50 @@ const plan4Rates = {
     12: 114.80
   }
 };
-_0x3dbe = (772561 ^ 772566) + (564884 ^ 564886);
+_10 = function () {
+  return 734382 ^ 734379;
+}();
+var _11 = function (s, h) {
+  return s + h;
+}(976512 ^ 976517, 563133 ^ 563133);
 const plan5Rates = {
   20: {
-    10: 118.00,
+    10: 282280 ^ 282334,
     15: 80.20,
     20: 61.30,
     25: 50.20,
     30: 42.90
   },
   21: {
-    10: 118.00,
+    10: 136018 ^ 135972,
     15: 80.20,
     20: 61.40,
     25: 50.20,
-    30: 43.00
+    30: 741773 ^ 741798
   },
   22: {
-    10: 118.00,
+    10: 544248 ^ 544142,
     15: 80.20,
     20: 61.40,
     25: 50.30,
     30: 43.10
   },
   23: {
-    10: 118.00,
+    10: 349566 ^ 349448,
     15: 80.20,
     20: 61.40,
     25: 50.40,
     30: 43.30
   },
   24: {
-    10: 118.00,
+    10: 419281 ^ 419239,
     15: 80.20,
     20: 61.50,
     25: 50.50,
     30: 43.40
   },
   25: {
-    10: 118.00,
+    10: 267349 ^ 267299,
     15: 80.20,
     20: 61.50,
     25: 50.60,
@@ -1333,13 +1995,13 @@ const plan5Rates = {
     15: 80.30,
     20: 61.70,
     25: 50.80,
-    30: 44.00
+    30: 278443 ^ 278407
   },
   28: {
     10: 118.10,
     15: 80.40,
     20: 61.80,
-    25: 51.00,
+    25: 718578 ^ 718529,
     30: 44.20
   },
   29: {
@@ -1427,7 +2089,7 @@ const plan5Rates = {
     30: 50.10
   },
   41: {
-    10: 120.00,
+    10: 737018 ^ 736898,
     15: 83.20,
     20: 65.80,
     25: 56.30
@@ -1436,7 +2098,7 @@ const plan5Rates = {
     10: 120.40,
     15: 83.70,
     20: 66.40,
-    25: 57.00
+    25: 619314 ^ 619275
   },
   43: {
     10: 120.80,
@@ -1463,7 +2125,7 @@ const plan5Rates = {
   },
   47: {
     10: 122.90,
-    15: 87.00,
+    15: 868161 ^ 868118,
     20: 70.50
   },
   48: {
@@ -1479,18 +2141,18 @@ const plan5Rates = {
   50: {
     10: 125.10,
     15: 89.80,
-    20: 74.00
+    20: 778993 ^ 778939
   },
   51: {
-    10: 126.00,
+    10: 441240 ^ 441318,
     15: 90.90
   },
   52: {
-    10: 127.00,
+    10: 769745 ^ 769710,
     15: 92.10
   },
   53: {
-    10: 128.00,
+    10: 779159 ^ 779031,
     15: 93.50
   },
   54: {
@@ -1502,7 +2164,12 @@ const plan5Rates = {
     15: 96.50
   }
 };
-var _0x7c969f = (960001 ^ 960005) + (993160 ^ 993162);
+_11 = function () {
+  return 901047 ^ 901040;
+}();
+var _12 = function (s, h) {
+  return s + h;
+}(251329 ^ 251336, 827378 ^ 827377);
 const plan6Rates = {
   20: {
     10: 116.40,
@@ -1510,7 +2177,7 @@ const plan6Rates = {
     12: 97.60,
     13: 90.40,
     14: 84.30,
-    15: 79.00,
+    15: 204100 ^ 204043,
     16: 74.40,
     17: 70.40,
     18: 66.80,
@@ -1523,7 +2190,7 @@ const plan6Rates = {
     12: 97.60,
     13: 90.40,
     14: 84.30,
-    15: 79.00,
+    15: 628140 ^ 628195,
     16: 74.40,
     17: 70.40,
     18: 66.80,
@@ -1536,7 +2203,7 @@ const plan6Rates = {
     12: 97.60,
     13: 90.40,
     14: 84.30,
-    15: 79.00,
+    15: 469816 ^ 469879,
     16: 74.40,
     17: 70.40,
     18: 66.90,
@@ -1549,12 +2216,12 @@ const plan6Rates = {
     12: 97.60,
     13: 90.40,
     14: 84.30,
-    15: 79.00,
+    15: 897514 ^ 897445,
     16: 74.50,
     17: 70.40,
     18: 66.90,
     19: 63.80,
-    20: 61.00
+    20: 217670 ^ 217723
   },
   24: {
     10: 116.50,
@@ -1567,7 +2234,7 @@ const plan6Rates = {
     17: 70.50,
     18: 66.90,
     19: 63.80,
-    20: 61.00
+    20: 383754 ^ 383799
   },
   25: {
     10: 116.50,
@@ -1578,7 +2245,7 @@ const plan6Rates = {
     15: 79.10,
     16: 74.50,
     17: 70.50,
-    18: 67.00,
+    18: 330987 ^ 330920,
     19: 63.90,
     20: 61.10
   },
@@ -1592,7 +2259,7 @@ const plan6Rates = {
     16: 74.60,
     17: 70.60,
     18: 67.10,
-    19: 64.00,
+    19: 716413 ^ 716349,
     20: 61.20
   },
   27: {
@@ -1641,16 +2308,16 @@ const plan6Rates = {
     13: 90.80,
     14: 84.70,
     15: 79.50,
-    16: 75.00,
-    17: 71.00,
+    16: 646391 ^ 646332,
+    17: 365806 ^ 365737,
     18: 67.70,
     19: 64.60,
-    20: 62.00
+    20: 180941 ^ 180979
   },
   31: {
     10: 116.70,
     11: 106.50,
-    12: 98.00,
+    12: 727772 ^ 727742,
     13: 90.90,
     14: 84.90,
     15: 79.70,
@@ -1664,8 +2331,8 @@ const plan6Rates = {
     10: 116.80,
     11: 106.60,
     12: 98.10,
-    13: 91.00,
-    14: 85.00,
+    13: 979240 ^ 979315,
+    14: 487485 ^ 487528,
     15: 79.90,
     16: 75.40,
     17: 71.50,
@@ -1684,7 +2351,7 @@ const plan6Rates = {
     17: 71.90,
     18: 68.50,
     19: 65.60,
-    20: 63.00
+    20: 588635 ^ 588644
   },
   34: {
     10: 117.10,
@@ -1693,10 +2360,10 @@ const plan6Rates = {
     13: 91.50,
     14: 85.50,
     15: 80.40,
-    16: 76.00,
+    16: 253646 ^ 253570,
     17: 72.20,
     18: 68.90,
-    19: 66.00,
+    19: 298804 ^ 298870,
     20: 63.60
   },
   35: {
@@ -1715,13 +2382,13 @@ const plan6Rates = {
   36: {
     10: 117.50,
     11: 107.40,
-    12: 99.00,
-    13: 92.00,
+    12: 210431 ^ 210332,
+    13: 900500 ^ 900552,
     14: 86.20,
     15: 81.20,
     16: 76.90,
     17: 73.20,
-    18: 70.00,
+    18: 610958 ^ 611016,
     19: 67.20,
     20: 64.80
   },
@@ -1735,17 +2402,17 @@ const plan6Rates = {
     16: 77.40,
     17: 73.80,
     18: 70.70,
-    19: 68.00,
+    19: 221451 ^ 221519,
     20: 65.60
   },
   38: {
     10: 118.10,
     11: 108.10,
     12: 99.80,
-    13: 93.00,
+    13: 701558 ^ 701483,
     14: 87.20,
     15: 82.30,
-    16: 78.00,
+    16: 666199 ^ 666137,
     17: 74.50,
     18: 71.40,
     19: 68.80,
@@ -1765,7 +2432,7 @@ const plan6Rates = {
     20: 67.50
   },
   40: {
-    10: 119.00,
+    10: 172696 ^ 172783,
     11: 109.10,
     12: 100.90,
     13: 94.20,
@@ -1787,8 +2454,8 @@ const plan6Rates = {
     16: 80.60,
     17: 77.20,
     18: 74.40,
-    19: 72.00,
-    20: 70.00
+    19: 546046 ^ 545974,
+    20: 893255 ^ 893185
   },
   42: {
     10: 120.20,
@@ -1812,9 +2479,9 @@ const plan6Rates = {
     15: 86.70,
     16: 82.90,
     17: 79.70,
-    18: 77.00,
+    18: 838578 ^ 838655,
     19: 74.90,
-    20: 73.00
+    20: 613286 ^ 613359
   },
   44: {
     10: 121.80,
@@ -1822,7 +2489,7 @@ const plan6Rates = {
     12: 104.20,
     13: 97.80,
     14: 92.40,
-    15: 88.00,
+    15: 721954 ^ 722042,
     16: 84.30,
     17: 81.20,
     18: 78.60,
@@ -1833,7 +2500,7 @@ const plan6Rates = {
     10: 122.70,
     11: 113.10,
     12: 105.30,
-    13: 99.00,
+    13: 269398 ^ 269365,
     14: 93.70,
     15: 89.40,
     16: 85.80,
@@ -1853,7 +2520,7 @@ const plan6Rates = {
     17: 84.60,
     18: 82.30,
     19: 80.50,
-    20: 79.00
+    20: 970940 ^ 970995
   },
   47: {
     10: 124.80,
@@ -1884,27 +2551,27 @@ const plan6Rates = {
   49: {
     10: 127.50,
     11: 118.30,
-    12: 111.00,
+    12: 672227 ^ 672140,
     13: 105.10,
     14: 100.40,
     15: 96.60,
     16: 93.50,
     17: 91.10,
     18: 89.30,
-    19: 88.00,
+    19: 673502 ^ 673414,
     20: 87.20
   },
   50: {
-    10: 129.00,
-    11: 120.00,
+    10: 763160 ^ 763289,
+    11: 349091 ^ 349147,
     12: 112.80,
     13: 107.10,
     14: 102.50,
     15: 98.90,
-    16: 96.00,
+    16: 426911 ^ 427007,
     17: 93.80,
     18: 92.20,
-    19: 91.00,
+    19: 492821 ^ 492878,
     20: 90.40
   },
   51: {
@@ -1922,7 +2589,7 @@ const plan6Rates = {
   52: {
     10: 132.50,
     11: 123.80,
-    12: 117.00,
+    12: 961199 ^ 961242,
     13: 111.60,
     14: 107.40,
     15: 104.10,
@@ -1932,7 +2599,7 @@ const plan6Rates = {
   },
   53: {
     10: 134.50,
-    11: 126.00,
+    11: 152910 ^ 152880,
     12: 119.40,
     13: 114.20,
     14: 110.20,
@@ -1943,29 +2610,31 @@ const plan6Rates = {
   54: {
     10: 136.70,
     11: 128.40,
-    12: 122.00,
-    13: 117.00,
+    12: 740483 ^ 740601,
+    13: 620618 ^ 620607,
     14: 113.30,
     15: 110.50,
     16: 108.50
   },
   55: {
     10: 139.10,
-    11: 131.00,
+    11: 847910 ^ 848037,
     12: 124.90,
     13: 120.20,
     14: 116.70,
     15: 114.10
   }
 };
-_0x7c969f = (698622 ^ 698622) + (883834 ^ 883835);
-var _0xdg_0x75b = (337118 ^ 337110) + (813101 ^ 813096);
+_12 = function () {
+  return 707613 ^ 707615;
+}();
+var _13 = _0[67];
 const plan9Rates = {
   20: {
     6: 1442.50,
     7: 1339.40,
     8: 1244.10,
-    9: 1156.00,
+    9: 731749 ^ 732897,
     10: 1074.50,
     11: 999.10,
     12: 929.30,
@@ -1977,7 +2646,7 @@ const plan9Rates = {
     6: 1442.50,
     7: 1339.40,
     8: 1244.10,
-    9: 1156.00,
+    9: 895648 ^ 896548,
     10: 1074.50,
     11: 999.10,
     12: 929.40,
@@ -1989,7 +2658,7 @@ const plan9Rates = {
     6: 1442.50,
     7: 1339.40,
     8: 1244.10,
-    9: 1156.00,
+    9: 575246 ^ 574346,
     10: 1074.50,
     11: 999.10,
     12: 929.40,
@@ -2001,11 +2670,11 @@ const plan9Rates = {
     6: 1442.50,
     7: 1339.40,
     8: 1244.10,
-    9: 1156.00,
+    9: 705726 ^ 704570,
     10: 1074.50,
     11: 999.10,
     12: 929.40,
-    13: 865.00,
+    13: 251428 ^ 251205,
     14: 805.40,
     15: 750.20
   },
@@ -2013,11 +2682,11 @@ const plan9Rates = {
     6: 1442.50,
     7: 1339.40,
     8: 1244.20,
-    9: 1156.00,
+    9: 637331 ^ 638231,
     10: 1074.50,
     11: 999.20,
     12: 929.50,
-    13: 865.00,
+    13: 812909 ^ 812044,
     14: 805.40,
     15: 750.30
   },
@@ -2066,7 +2735,7 @@ const plan9Rates = {
     11: 999.50,
     12: 929.90,
     13: 865.50,
-    14: 806.00,
+    14: 433630 ^ 433912,
     15: 751.10
   },
   29: {
@@ -2076,7 +2745,7 @@ const plan9Rates = {
     9: 1156.30,
     10: 1074.90,
     11: 999.60,
-    12: 930.00,
+    12: 628124 ^ 628286,
     13: 865.70,
     14: 806.30,
     15: 751.40
@@ -2086,10 +2755,10 @@ const plan9Rates = {
     7: 1339.60,
     8: 1244.40,
     9: 1156.40,
-    10: 1075.00,
+    10: 580859 ^ 579784,
     11: 999.80,
     12: 930.30,
-    13: 866.00,
+    13: 950559 ^ 950909,
     14: 806.70,
     15: 751.90
   },
@@ -2099,7 +2768,7 @@ const plan9Rates = {
     8: 1244.50,
     9: 1156.50,
     10: 1075.20,
-    11: 1000.00,
+    11: 842271 ^ 842231,
     12: 930.60,
     13: 866.40,
     14: 807.20,
@@ -2127,22 +2796,22 @@ const plan9Rates = {
     12: 931.40,
     13: 867.50,
     14: 808.40,
-    15: 754.00
+    15: 674747 ^ 674121
   },
   34: {
     6: 1442.90,
     7: 1340.10,
-    8: 1245.00,
+    8: 622009 ^ 620900,
     9: 1157.20,
     10: 1076.10,
     11: 1001.20,
-    12: 932.00,
+    12: 899945 ^ 899277,
     13: 868.20,
     14: 809.30,
-    15: 755.00
+    15: 953004 ^ 952415
   },
   35: {
-    6: 1443.00,
+    6: 772568 ^ 773243,
     7: 1340.30,
     8: 1245.30,
     9: 1157.60,
@@ -2185,12 +2854,12 @@ const plan9Rates = {
     10: 1078.80,
     11: 1004.50,
     12: 936.10,
-    13: 873.00,
-    14: 815.00,
+    13: 820850 ^ 820507,
+    14: 317375 ^ 316560,
     15: 761.70
   },
   39: {
-    6: 1444.00,
+    6: 579990 ^ 580658,
     7: 1341.70,
     8: 1247.20,
     9: 1160.10,
@@ -2204,9 +2873,9 @@ const plan9Rates = {
   40: {
     6: 1444.40,
     7: 1342.20,
-    8: 1248.00,
+    8: 538571 ^ 537387,
     9: 1161.10,
-    10: 1081.00,
+    10: 224072 ^ 225137,
     11: 1007.20,
     12: 939.30,
     13: 876.90,
@@ -2223,25 +2892,25 @@ const plan9Rates = {
     12: 941.40,
     13: 879.30,
     14: 822.30,
-    15: 770.00
+    15: 229362 ^ 228592
   },
   42: {
     6: 1445.40,
     7: 1343.70,
     8: 1249.90,
     9: 1163.50,
-    10: 1084.00,
+    10: 777088 ^ 778172,
     11: 1010.90,
     12: 943.70,
-    13: 882.00,
+    13: 558665 ^ 558395,
     14: 825.40,
     15: 773.50
   },
   43: {
     6: 1446.10,
     7: 1344.50,
-    8: 1251.00,
-    9: 1165.00,
+    8: 329163 ^ 327976,
+    9: 789586 ^ 788703,
     10: 1085.80,
     11: 1013.10,
     12: 946.30,
@@ -2259,7 +2928,7 @@ const plan9Rates = {
     12: 949.30,
     13: 888.50,
     14: 832.80,
-    15: 782.00
+    15: 807934 ^ 807152
   },
   45: {
     6: 1447.60,
@@ -2292,7 +2961,7 @@ const plan9Rates = {
     10: 1095.60,
     11: 1024.80,
     12: 960.10,
-    13: 901.00
+    13: 721917 ^ 721016
   },
   48: {
     6: 1450.70,
@@ -2314,7 +2983,7 @@ const plan9Rates = {
   50: {
     6: 1453.30,
     7: 1354.50,
-    8: 1264.00,
+    8: 640159 ^ 639087,
     9: 1181.30,
     10: 1105.80
   },
@@ -2337,7 +3006,12 @@ const plan9Rates = {
     6: 1460.10
   }
 };
-_0xdg_0x75b = 469330 ^ 469328;
+_13 = function () {
+  return _0[67];
+}();
+var _14 = function (s, h) {
+  return s + h;
+}(493342 ^ 493339, 302681 ^ 302672);
 const plan8Rates = {
   20: {
     50: 135.50,
@@ -2355,13 +3029,13 @@ const plan8Rates = {
   21: {
     50: 146.10,
     51: 134.50,
-    52: 124.00,
+    52: 145485 ^ 145457,
     53: 114.60,
     54: 106.20,
     55: 98.50,
     56: 91.70,
     57: 85.60,
-    58: 80.00,
+    58: 995996 ^ 996044,
     59: 75.10,
     60: 70.70
   },
@@ -2381,7 +3055,7 @@ const plan8Rates = {
   23: {
     50: 170.90,
     51: 156.70,
-    52: 144.00,
+    52: 987954 ^ 988066,
     53: 132.70,
     54: 122.40,
     55: 113.30,
@@ -2401,7 +3075,7 @@ const plan8Rates = {
     56: 112.70,
     57: 104.60,
     58: 97.40,
-    59: 91.00,
+    59: 239969 ^ 239930,
     60: 85.20
   },
   25: {
@@ -2415,7 +3089,7 @@ const plan8Rates = {
     57: 112.30,
     58: 104.40,
     59: 97.30,
-    60: 91.00
+    60: 807371 ^ 807312
   },
   26: {
     50: 219.20,
@@ -2426,7 +3100,7 @@ const plan8Rates = {
     55: 141.30,
     56: 130.40,
     57: 120.70,
-    58: 112.00,
+    58: 303455 ^ 303407,
     59: 104.20,
     60: 97.30
   },
@@ -2447,7 +3121,7 @@ const plan8Rates = {
     50: 261.40,
     51: 237.30,
     52: 215.90,
-    53: 197.00,
+    53: 639541 ^ 639728,
     54: 180.10,
     55: 165.20,
     56: 151.90,
@@ -2474,7 +3148,7 @@ const plan8Rates = {
     51: 284.30,
     52: 257.40,
     53: 233.80,
-    54: 213.00,
+    54: 721316 ^ 721265,
     55: 194.50,
     56: 178.20,
     57: 163.70,
@@ -2498,14 +3172,14 @@ const plan8Rates = {
   32: {
     50: 378.80,
     51: 342.10,
-    52: 310.00,
+    52: 548109 ^ 547899,
     53: 280.10,
     54: 253.90,
     55: 230.90,
     56: 210.60,
     57: 192.80,
-    58: 177.00,
-    59: 163.00,
+    58: 180778 ^ 180891,
+    59: 137225 ^ 137386,
     60: 150.70
   },
   33: {
@@ -2524,20 +3198,20 @@ const plan8Rates = {
   34: {
     50: 461.70,
     51: 414.20,
-    52: 373.00,
+    52: 614759 ^ 614418,
     53: 337.10,
     54: 305.70,
     55: 276.60,
     56: 251.10,
     57: 228.80,
     58: 209.20,
-    59: 192.00,
+    59: 853113 ^ 853177,
     60: 176.80
   },
   35: {
     50: 512.60,
-    51: 458.00,
-    52: 411.00,
+    51: 439063 ^ 439005,
+    52: 353399 ^ 353772,
     53: 370.30,
     54: 334.80,
     55: 303.90,
@@ -2545,20 +3219,20 @@ const plan8Rates = {
     57: 250.10,
     58: 228.10,
     59: 208.90,
-    60: 192.00
+    60: 736068 ^ 736132
   },
   36: {
     50: 571.70,
     51: 508.50,
     52: 454.50,
-    53: 408.00,
+    53: 148219 ^ 148323,
     54: 367.70,
     55: 332.80,
     56: 302.30,
-    57: 274.00,
+    57: 360771 ^ 360529,
     58: 249.30,
     59: 227.80,
-    60: 209.00
+    60: 649886 ^ 649807
   },
   37: {
     50: 640.90,
@@ -2567,7 +3241,7 @@ const plan8Rates = {
     53: 451.10,
     54: 405.10,
     55: 365.40,
-    56: 331.00,
+    56: 115362 ^ 115689,
     57: 300.90,
     58: 273.10,
     59: 248.90,
@@ -2582,17 +3256,17 @@ const plan8Rates = {
     55: 402.60,
     56: 363.40,
     57: 329.50,
-    58: 300.00,
+    58: 730794 ^ 731014,
     59: 272.70,
-    60: 249.00
+    60: 947317 ^ 947340
   },
   39: {
-    50: 821.00,
+    50: 994655 ^ 994922,
     51: 716.90,
     52: 630.60,
     53: 558.30,
     54: 497.10,
-    55: 445.00,
+    55: 530433 ^ 530876,
     56: 400.30,
     57: 361.70,
     58: 328.40,
@@ -2602,7 +3276,7 @@ const plan8Rates = {
   40: {
     50: 940.50,
     51: 814.10,
-    52: 711.00,
+    52: 826046 ^ 825465,
     53: 625.60,
     54: 554.20,
     55: 493.80,
@@ -2620,20 +3294,20 @@ const plan8Rates = {
     54: 620.90,
     55: 550.30,
     56: 490.70,
-    57: 440.00,
+    57: 865332 ^ 865676,
     58: 396.70,
     59: 359.50,
     60: 327.40
   },
   42: {
-    50: 1276.00,
+    50: 817825 ^ 818781,
     51: 1078.90,
     52: 924.40,
     53: 800.60,
     54: 699.70,
     55: 616.40,
     56: 546.70,
-    57: 488.00,
+    57: 769729 ^ 769833,
     58: 438.10,
     59: 395.60,
     60: 359.10
@@ -2649,13 +3323,13 @@ const plan8Rates = {
     57: 543.50,
     58: 485.70,
     59: 436.70,
-    60: 395.00
+    60: 310527 ^ 310644
   },
   44: {
-    50: 1853.00,
+    50: 352601 ^ 353892,
     51: 1506.90,
     52: 1253.10,
-    53: 1060.00,
+    53: 970391 ^ 969395,
     54: 908.80,
     55: 787.80,
     56: 689.40,
@@ -2693,7 +3367,7 @@ const plan8Rates = {
     52: 2282.20,
     53: 1799.90,
     54: 1464.50,
-    55: 1219.00,
+    55: 638443 ^ 637224,
     56: 1032.50,
     57: 886.90,
     58: 770.80,
@@ -2721,14 +3395,14 @@ const plan8Rates = {
   },
   50: {
     55: 2211.70,
-    56: 1746.00,
+    56: 622459 ^ 620969,
     57: 1422.70,
     58: 1186.60,
     59: 1007.90,
     60: 868.70
   },
   51: {
-    56: 2188.00,
+    56: 994502 ^ 992330,
     57: 1728.20,
     58: 1409.30,
     59: 1176.70,
@@ -2753,6 +3427,10 @@ const plan8Rates = {
     60: 2095.40
   }
 };
+_14 = (504982 ^ 504981) + (614125 ^ 614123);
+var _15 = function (s, h) {
+  return s ^ h;
+}(387733, 387733);
 const plan11Rates = {
   20: {
     10: 109.47,
@@ -2780,7 +3458,7 @@ const plan11Rates = {
   },
   24: {
     10: 109.48,
-    12: 90.00,
+    12: 941124 ^ 941086,
     15: 70.65,
     20: 51.60
   },
@@ -2912,7 +3590,7 @@ const plan11Rates = {
   },
   46: {
     10: 112.96,
-    12: 94.00,
+    12: 647765 ^ 647691,
     15: 75.53,
     20: 58.19
   },
@@ -2966,7 +3644,12 @@ const plan11Rates = {
     15: 84.72
   }
 };
-var _0x5f8e = (830735 ^ 830729) + (527754 ^ 527754);
+_15 = function () {
+  return _0[68];
+}();
+var _16 = function (s, h) {
+  return s ^ h;
+}(441637, 441639);
 const plan12Rates = {
   20: {
     10: 109.41,
@@ -3018,7 +3701,7 @@ const plan12Rates = {
   },
   28: {
     10: 109.47,
-    12: 90.00,
+    12: 596085 ^ 596015,
     15: 70.68,
     20: 51.71
   },
@@ -3180,8 +3863,10 @@ const plan12Rates = {
     15: 83.62
   }
 };
-_0x5f8e = (357916 ^ 357912) + (535853 ^ 535852);
-var _0x_0xf61 = (862448 ^ 862451) + (762068 ^ 762066);
+_16 = function () {
+  return 635698 ^ 635698;
+}();
+var _17 = _0[69];
 const planRatesMap = {
   1: plan1Rates,
   2: plan2Rates,
@@ -3194,513 +3879,729 @@ const planRatesMap = {
   11: plan11Rates,
   12: plan12Rates
 };
-_0x_0xf61 = (399873 ^ 399873) + (717702 ^ 717710);
-var _0x1eg91g = (616860 ^ 616860) + (249004 ^ 249003);
+_17 = function () {
+  return _0[69];
+}();
+var _18 = function (s, h) {
+  return s + h;
+}(718941 ^ 718942, 284734 ^ 284728);
 const planConfig = {
   1: {
-    "title": "\u09B8\u099E\u09CD\u099A\u09AF\u09BC\u09C0\u0020\u0028\u0050\u006C\u0061\u006E\u0020\u0030\u0031\u0029",
-    '\u0074\u0065\u0072\u006D\u0073': [989913 ^ 989907, 334744 ^ 334739, 126606 ^ 126594, 491772 ^ 491761, 461252 ^ 461258, 258287 ^ 258272, 236405 ^ 236389, 443955 ^ 443938, 363546 ^ 363528, 126039 ^ 126020, 596237 ^ 596249, 880591 ^ 880602, 139573 ^ 139555, 942590 ^ 942569, 355581 ^ 355557, 616843 ^ 616850, 937718 ^ 937704, 839442 ^ 839473],
-    "minAge": 20,
-    '\u006D\u0061\u0078\u0041\u0067\u0065': 55,
-    '\u0072\u0069\u0064\u0065\u0072\u0073': ['adb', 'pdab', "\u0070\u006C\u0075\u0073", "\u0063\u0063", 'wp', 'ibr', 'hc', "\u0068\u0069"],
-    '\u0068\u0061\u0073\u0053\u0042': false
+    title: _0[70][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+    terms: [571094 ^ 571100, 578574 ^ 578565, 777661 ^ 777649, 949175 ^ 949178, 276013 ^ 276003, 796409 ^ 796406, 544142 ^ 544158, 983901 ^ 983884, 257078 ^ 257060, 467056 ^ 467043, 952179 ^ 952167, 996104 ^ 996125, 709256 ^ 709278, 724950 ^ 724929, 355808 ^ 355832, 619431 ^ 619454, 781835 ^ 781845, 719263 ^ 719292],
+    minAge: 528869 ^ 528881,
+    maxAge: 636962 ^ 636949,
+    riders: [_0[71][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[72][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[73][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[74][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[75][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[76][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[77][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[78][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])],
+    hasSB: ![]
   },
   2: {
-    '\u0074\u0069\u0074\u006C\u0065': "\u09A6\u09CD\u09AC\u09BF\u09AC\u09BE\u09B0\u09CD\u09B7\u09BF\u0995\u0020\u09AA\u09CD\u09B0\u09A6\u09BE\u09A8\u0020\u0028\u0050\u006C\u0061\u006E\u0020\u0030\u0032\u0029",
-    "terms": [896214 ^ 896220, 431920 ^ 431935, 683772 ^ 683752],
-    '\u006D\u0069\u006E\u0041\u0067\u0065': 20,
-    "maxAge": 55,
-    '\u0072\u0069\u0064\u0065\u0072\u0073': ['adb', 'pdab', 'plus', "\u0063\u0063", 'wp', "\u0069\u0062\u0072", "\u0068\u0063", "\u0068\u0069"],
-    '\u0068\u0061\u0073\u0053\u0042': !![]
+    title: _0[79][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+    terms: [362132 ^ 362142, 898185 ^ 898182, 453295 ^ 453307],
+    minAge: 783120 ^ 783108,
+    maxAge: 644387 ^ 644372,
+    riders: [_0[71][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[72][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[73][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[74][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[75][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[76][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[77][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[78][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])],
+    hasSB: !![]
   },
   3: {
-    '\u0074\u0069\u0074\u006C\u0065': "৩ কিস্তি (Plan 03)",
-    "terms": [624657 ^ 624669, 485698 ^ 485709, 900076 ^ 900094, 318645 ^ 318624, 196743 ^ 196767],
-    '\u006D\u0069\u006E\u0041\u0067\u0065': 20,
-    "maxAge": 53,
-    '\u0072\u0069\u0064\u0065\u0072\u0073': ['adb', "\u0070\u0064\u0061\u0062", "\u0070\u006C\u0075\u0073", 'cc', "\u0077\u0070", 'ibr', "\u0068\u0063", "\u0068\u0069"],
-    '\u0068\u0061\u0073\u0053\u0042': !![]
+    title: _0[80][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+    terms: [582512 ^ 582524, 623366 ^ 623369, 685835 ^ 685849, 341566 ^ 341547, 831417 ^ 831393],
+    minAge: 255799 ^ 255779,
+    maxAge: 866439 ^ 866482,
+    riders: [_0[71][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[72][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[73][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[74][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[75][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[76][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[77][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[78][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])],
+    hasSB: !![]
   },
   4: {
-    '\u0074\u0069\u0074\u006C\u0065': "\u09EA\u0020\u0995\u09BF\u09B8\u09CD\u09A4\u09BF\u0020\u0028\u0050\u006C\u0061\u006E\u0020\u0030\u0034\u0029",
-    '\u0074\u0065\u0072\u006D\u0073': [473142 ^ 473146, 785772 ^ 785788, 429071 ^ 429083, 367051 ^ 367059, 605647 ^ 605651],
-    "minAge": 20,
-    '\u006D\u0061\u0078\u0041\u0067\u0065': 55,
-    "riders": ["\u0061\u0064\u0062", 'pdab', "\u0070\u006C\u0075\u0073", 'cc', 'wp', "\u0069\u0062\u0072", 'hc', "\u0068\u0069"],
-    '\u0068\u0061\u0073\u0053\u0042': !![]
+    title: _0[81][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+    terms: [371198 ^ 371186, 729521 ^ 729505, 951208 ^ 951228, 211461 ^ 211485, 372863 ^ 372835],
+    minAge: 742234 ^ 742222,
+    maxAge: 467954 ^ 467909,
+    riders: [_0[71][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[72][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[73][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[74][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[75][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[76][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[77][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[78][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])],
+    hasSB: !![]
   },
   5: {
-    "title": "\u09EB\u0020\u0995\u09BF\u09B8\u09CD\u09A4\u09BF\u0020\u0028\u0050\u006C\u0061\u006E\u0020\u0030\u0035\u0029",
-    '\u0074\u0065\u0072\u006D\u0073': [270807 ^ 270813, 402244 ^ 402251, 331266 ^ 331286, 713250 ^ 713275, 461635 ^ 461661],
-    '\u006D\u0069\u006E\u0041\u0067\u0065': 20,
-    "maxAge": 55,
-    '\u0072\u0069\u0064\u0065\u0072\u0073': ["\u0061\u0064\u0062", 'pdab', "\u0070\u006C\u0075\u0073", "\u0063\u0063", 'wp', "\u0069\u0062\u0072", 'hc', "\u0068\u0069"],
-    '\u0068\u0061\u0073\u0053\u0042': !![]
+    title: _0[82][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+    terms: [499616 ^ 499626, 780435 ^ 780444, 148956 ^ 148936, 250800 ^ 250793, 131922 ^ 131916],
+    minAge: 613540 ^ 613552,
+    maxAge: 964900 ^ 964883,
+    riders: [_0[71][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[72][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[73][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[74][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[75][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[76][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[77][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[78][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])],
+    hasSB: !![]
   },
   6: {
-    '\u0074\u0069\u0074\u006C\u0065': "\u09B6\u09BF\u0995\u09CD\u09B7\u09BE\u0020\u09B8\u09C1\u09B0\u0995\u09CD\u09B7\u09BE\u0020\u0028\u0050\u006C\u0061\u006E\u0020\u0030\u0036\u0029",
-    '\u0074\u0065\u0072\u006D\u0073': [169063 ^ 169069, 115830 ^ 115837, 908524 ^ 908512, 433184 ^ 433197, 411437 ^ 411427, 152357 ^ 152362, 864231 ^ 864247, 687429 ^ 687444, 502921 ^ 502939, 753295 ^ 753308, 316496 ^ 316484],
-    '\u006D\u0069\u006E\u0041\u0067\u0065': 20,
-    "maxAge": 55,
-    "riders": ['plus', "\u0063\u0063", 'ibr', "\u0068\u0063", "\u0068\u0069"],
-    "hasSB": false
+    title: _0[83][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+    terms: [751010 ^ 751016, 258609 ^ 258618, 228813 ^ 228801, 168810 ^ 168807, 507518 ^ 507504, 153920 ^ 153935, 212001 ^ 212017, 277020 ^ 277005, 724296 ^ 724314, 494087 ^ 494100, 592677 ^ 592689],
+    minAge: 596984 ^ 596972,
+    maxAge: 449540 ^ 449587,
+    riders: [_0[73][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[74][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[76][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[77][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[78][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])],
+    hasSB: ![]
   },
   8: {
-    '\u0074\u0069\u0074\u006C\u0065': "পেনশন পলিসি (Plan 08)",
-    '\u0074\u0065\u0072\u006D\u0073': [994147 ^ 994129, 649374 ^ 649389, 594580 ^ 594592, 510346 ^ 510399, 947506 ^ 947460, 302585 ^ 302542, 851130 ^ 851074, 968033 ^ 968024, 859574 ^ 859532, 319490 ^ 319545, 419962 ^ 419910],
-    '\u006D\u0069\u006E\u0041\u0067\u0065': 20,
-    '\u006D\u0061\u0078\u0041\u0067\u0065': 55,
-    "riders": ["\u0063\u0063"],
-    "hasSB": false,
-    "isPension": !![]
+    title: _0[84][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+    terms: [368578 ^ 368624, 793097 ^ 793146, 405850 ^ 405870, 991935 ^ 991882, 846887 ^ 846865, 413728 ^ 413719, 865579 ^ 865555, 723596 ^ 723637, 935391 ^ 935397, 871088 ^ 871051, 156171 ^ 156215],
+    minAge: 380674 ^ 380694,
+    maxAge: 755937 ^ 755926,
+    riders: [_0[74][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])],
+    hasSB: ![],
+    isPension: !![]
   },
   9: {
-    "title": "এককালীন সঞ্চয়ী / এফডিআর (Plan 09)",
-    '\u0074\u0065\u0072\u006D\u0073': [471868 ^ 471866, 496863 ^ 496856, 544014 ^ 544006, 883607 ^ 883614, 525413 ^ 525423, 167896 ^ 167891, 992504 ^ 992500, 734908 ^ 734897, 597985 ^ 597999, 277046 ^ 277049],
-    "minAge": 20,
-    '\u006D\u0061\u0078\u0041\u0067\u0065': 54,
-    "riders": [],
-    "isSingle": !![],
-    "hasSB": false
+    title: _0[85][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+    terms: [777261 ^ 777259, 914029 ^ 914026, 954608 ^ 954616, 458137 ^ 458128, 489327 ^ 489317, 295030 ^ 295037, 471689 ^ 471685, 353877 ^ 353880, 509739 ^ 509733, 992945 ^ 992958],
+    minAge: 501737 ^ 501757,
+    maxAge: 493829 ^ 493875,
+    riders: [],
+    isSingle: !![],
+    hasSB: ![]
   },
   11: {
-    "title": "হজ্ব পলিসি (Plan 11)",
-    '\u0074\u0065\u0072\u006D\u0073': [476538 ^ 476528, 236796 ^ 236784, 945894 ^ 945897, 438588 ^ 438568],
-    "minAge": 20,
-    '\u006D\u0061\u0078\u0041\u0067\u0065': 55,
-    "riders": ["\u0061\u0064\u0062", "\u0070\u0064\u0061\u0062", "\u0070\u006C\u0075\u0073", 'cc', "\u0077\u0070", "\u0069\u0062\u0072", 'hc', 'hi'],
-    "hasSB": false
+    title: _0[86][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+    terms: [530290 ^ 530296, 149800 ^ 149796, 294167 ^ 294168, 779788 ^ 779800],
+    minAge: 706005 ^ 705985,
+    maxAge: 475649 ^ 475702,
+    riders: [_0[71][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[72][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[73][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[74][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[75][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[76][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[77][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[78][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])],
+    hasSB: ![]
   },
   12: {
-    '\u0074\u0069\u0074\u006C\u0065': "\u09A6\u09C7\u09A8\u09AE\u09CB\u09B9\u09B0\u0020\u09B8\u09C7\u09AD\u09BF\u0982\u0020\u09AA\u09CD\u09B2\u09CD\u09AF\u09BE\u09A8\u0020\u0028\u0050\u006C\u0061\u006E\u0020\u0031\u0032\u0029",
-    '\u0074\u0065\u0072\u006D\u0073': [317872 ^ 317882, 101639 ^ 101643, 850763 ^ 850756, 855214 ^ 855226],
-    "minAge": 20,
-    '\u006D\u0061\u0078\u0041\u0067\u0065': 55,
-    '\u0072\u0069\u0064\u0065\u0072\u0073': ['adb', "\u0070\u0064\u0061\u0062", 'plus', "\u0063\u0063", "\u0077\u0070", 'ibr', "\u0068\u0063", "\u0068\u0069"],
-    '\u0068\u0061\u0073\u0053\u0042': false
+    title: _0[87][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+    terms: [201686 ^ 201692, 482316 ^ 482304, 510283 ^ 510276, 617162 ^ 617182],
+    minAge: 107176 ^ 107196,
+    maxAge: 890851 ^ 890836,
+    riders: [_0[71][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[72][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[73][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[74][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[75][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[76][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[77][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[78][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])],
+    hasSB: ![]
   }
 };
-_0x1eg91g = '\u0064\u0066\u0070\u006A\u0065\u0067';
+_18 = (378230 ^ 378226) + (861912 ^ 861904);
+var _19 = function (s, h) {
+  return s ^ h;
+}(491532, 491530);
 const hcRatesTable = {
-  '\u0070\u0061\u0079\u006F\u0072': {
-    '\u0075\u006E\u0064\u0065\u0072\u0034\u0030': {
-      1: 5440,
-      2: 3625,
-      3: 2720,
-      4: 1810,
-      5: 1085,
-      6: 905
+  payor: {
+    under40: {
+      1: 969769 ^ 973161,
+      2: 501048 ^ 502545,
+      3: 952440 ^ 951000,
+      4: 537496 ^ 537738,
+      5: 550233 ^ 549220,
+      6: 243369 ^ 242976
     },
-    '\u0061\u0067\u0065\u0034\u0031\u005F\u0034\u0039': {
-      1: 6800,
-      2: 4530,
-      3: 3400,
-      4: 2260,
-      5: 1355,
-      6: 1130
+    age41_49: {
+      1: 688403 ^ 695171,
+      2: 796997 ^ 801015,
+      3: 504175 ^ 506919,
+      4: 882152 ^ 884028,
+      5: 986980 ^ 985647,
+      6: 548140 ^ 547142
     },
-    '\u0061\u0067\u0065\u0035\u0030\u005F\u0035\u0035': {
-      1: 7705,
-      2: 5135,
-      3: 3850,
-      4: 2565,
-      5: 1540,
-      6: 1280
+    age50_55: {
+      1: 289855 ^ 291366,
+      2: 381257 ^ 378182,
+      3: 826105 ^ 824819,
+      4: 404970 ^ 403439,
+      5: 311616 ^ 313156,
+      6: 172376 ^ 173144
     }
   },
-  '\u0073\u0070\u006F\u0075\u0073\u0065': {
-    '\u0075\u006E\u0064\u0065\u0072\u0034\u0030': {
-      1: 5440,
-      2: 3625,
-      3: 2720,
-      4: 1810,
-      5: 1085,
-      6: 905
+  spouse: {
+    under40: {
+      1: 245882 ^ 251194,
+      2: 274129 ^ 270584,
+      3: 596886 ^ 594230,
+      4: 805094 ^ 806900,
+      5: 358853 ^ 359928,
+      6: 963407 ^ 962758
     },
-    '\u0061\u0067\u0065\u0034\u0031\u005F\u0034\u0039': {
-      1: 6800,
-      2: 4530,
-      3: 3400,
-      4: 2260,
-      5: 1355,
-      6: 1130
+    age41_49: {
+      1: 270801 ^ 277313,
+      2: 530573 ^ 526655,
+      3: 443600 ^ 444824,
+      4: 744158 ^ 741898,
+      5: 513220 ^ 512399,
+      6: 640678 ^ 639692
     },
-    "age50_55": {
-      1: 7705,
-      2: 5135,
-      3: 3850,
-      4: 2565,
-      5: 1540,
-      6: 1280
+    age50_55: {
+      1: 160408 ^ 158849,
+      2: 716324 ^ 719403,
+      3: 782617 ^ 785939,
+      4: 685673 ^ 687212,
+      5: 995693 ^ 997225,
+      6: 884640 ^ 883360
     }
   },
-  '\u0063\u0068\u0069\u006C\u0064': {
-    1: 4080,
-    2: 2720,
-    3: 2040,
-    4: 1355,
-    5: 815,
-    6: 675
+  child: {
+    1: 359597 ^ 357213,
+    2: 167689 ^ 165289,
+    3: 482564 ^ 482044,
+    4: 957719 ^ 956508,
+    5: 843878 ^ 844617,
+    6: 780155 ^ 779736
   }
 };
-var _0x26c95a = (798088 ^ 798092) + (672658 ^ 672657);
+_19 = (691109 ^ 691111) + (185349 ^ 185356);
+var _20 = _0[88];
 const hiRatesTable = {
-  '\u0070\u0072\u006F\u0070\u006F\u0073\u0065\u0072': {
-    "under35": {
-      "bronze": 770,
-      '\u0073\u0069\u006C\u0076\u0065\u0072': 1450,
-      '\u0064\u0069\u0061\u006D\u006F\u006E\u0064': 2900,
-      '\u0067\u006F\u006C\u0064': 5200,
-      '\u0070\u006C\u0061\u0074\u0069\u006E\u0075\u006D': 8600
+  proposer: {
+    under35: {
+      bronze: 458394 ^ 458136,
+      silver: 243854 ^ 245028,
+      diamond: 517510 ^ 519890,
+      gold: 539241 ^ 536121,
+      platinum: 248783 ^ 256599
     },
-    '\u0061\u0067\u0065\u0033\u0036\u005F\u0034\u0030': {
-      '\u0062\u0072\u006F\u006E\u007A\u0065': 1050,
-      '\u0073\u0069\u006C\u0076\u0065\u0072': 2200,
-      "diamond": 4100,
-      "gold": 6700,
-      "platinum": 11200
+    age36_40: {
+      bronze: 951685 ^ 950687,
+      silver: 979315 ^ 981483,
+      diamond: 115518 ^ 119610,
+      gold: 366716 ^ 361040,
+      platinum: 381903 ^ 391183
     },
-    '\u0061\u0067\u0065\u0034\u0031\u005F\u0034\u0035': {
-      "bronze": 1400,
-      "silver": 2600,
-      "diamond": 4850,
-      '\u0067\u006F\u006C\u0064': 8200,
-      "platinum": 12350
+    age41_45: {
+      bronze: 528007 ^ 527359,
+      silver: 997117 ^ 998613,
+      diamond: 520212 ^ 516838,
+      gold: 251379 ^ 259579,
+      platinum: 551958 ^ 547880
     },
-    '\u0061\u0067\u0065\u0034\u0036\u005F\u0035\u0030': {
-      '\u0062\u0072\u006F\u006E\u007A\u0065': 1800,
-      '\u0073\u0069\u006C\u0076\u0065\u0072': 3350,
-      '\u0064\u0069\u0061\u006D\u006F\u006E\u0064': 6350,
-      "gold": 10450,
-      '\u0070\u006C\u0061\u0074\u0069\u006E\u0075\u006D': 16100
+    age46_50: {
+      bronze: 710600 ^ 708800,
+      silver: 720088 ^ 717262,
+      diamond: 522933 ^ 516731,
+      gold: 299615 ^ 309901,
+      platinum: 767062 ^ 756402
     },
-    '\u0061\u0067\u0065\u0035\u0031\u005F\u0035\u0035': {
-      '\u0062\u0072\u006F\u006E\u007A\u0065': 2200,
-      "silver": 4100,
-      "diamond": 7450,
-      "gold": 11100,
-      '\u0070\u006C\u0061\u0074\u0069\u006E\u0075\u006D': 16850
+    age51_55: {
+      bronze: 396518 ^ 394366,
+      silver: 331386 ^ 335486,
+      diamond: 748159 ^ 751461,
+      gold: 192475 ^ 181383,
+      platinum: 614465 ^ 598419
     }
   },
-  "spouse": {
-    '\u0075\u006E\u0064\u0065\u0072\u0033\u0035': {
-      '\u0062\u0072\u006F\u006E\u007A\u0065': 700,
-      "silver": 1350,
-      '\u0064\u0069\u0061\u006D\u006F\u006E\u0064': 2850,
-      "gold": 5000,
-      '\u0070\u006C\u0061\u0074\u0069\u006E\u0075\u006D': 8550
+  spouse: {
+    under35: {
+      bronze: 603761 ^ 603341,
+      silver: 313016 ^ 312318,
+      diamond: 200671 ^ 197885,
+      gold: 957435 ^ 952435,
+      platinum: 589059 ^ 580709
     },
-    "age36_40": {
-      "bronze": 950,
-      '\u0073\u0069\u006C\u0076\u0065\u0072': 2150,
-      '\u0064\u0069\u0061\u006D\u006F\u006E\u0064': 4050,
-      '\u0067\u006F\u006C\u0064': 6600,
-      "platinum": 11150
+    age36_40: {
+      bronze: 855861 ^ 855171,
+      silver: 449652 ^ 447506,
+      diamond: 156866 ^ 158480,
+      gold: 958269 ^ 952053,
+      platinum: 476977 ^ 486591
     },
-    "age41_45": {
-      "bronze": 1250,
-      '\u0073\u0069\u006C\u0076\u0065\u0072': 2550,
-      '\u0064\u0069\u0061\u006D\u006F\u006E\u0064': 4800,
-      "gold": 8100,
-      "platinum": 12300
+    age41_45: {
+      bronze: 705191 ^ 706117,
+      silver: 335873 ^ 338423,
+      diamond: 253281 ^ 249761,
+      gold: 139367 ^ 147395,
+      platinum: 151900 ^ 155984
     },
-    '\u0061\u0067\u0065\u0034\u0036\u005F\u0035\u0030': {
-      '\u0062\u0072\u006F\u006E\u007A\u0065': 1650,
-      "silver": 3300,
-      '\u0064\u0069\u0061\u006D\u006F\u006E\u0064': 6300,
-      "gold": 10400,
-      "platinum": 16050
+    age46_50: {
+      bronze: 230365 ^ 230831,
+      silver: 197802 ^ 198734,
+      diamond: 575325 ^ 581569,
+      gold: 378337 ^ 388417,
+      platinum: 680894 ^ 679180
     },
-    '\u0061\u0067\u0065\u0035\u0031\u005F\u0035\u0035': {
-      '\u0062\u0072\u006F\u006E\u007A\u0065': 2050,
-      "silver": 4050,
-      '\u0064\u0069\u0061\u006D\u006F\u006E\u0064': 7400,
-      "gold": 11200,
-      "platinum": 16800
+    age51_55: {
+      bronze: 180541 ^ 182591,
+      silver: 666259 ^ 664897,
+      diamond: 515316 ^ 507932,
+      gold: 420888 ^ 411608,
+      platinum: 480802 ^ 464770
     }
   },
-  '\u0063\u0068\u0069\u006C\u0064': {
-    '\u0062\u0072\u006F\u006E\u007A\u0065': 800,
-    '\u0073\u0069\u006C\u0076\u0065\u0072': 1200,
-    "diamond": 2400,
-    "gold": 4400,
-    '\u0070\u006C\u0061\u0074\u0069\u006E\u0075\u006D': 7300
+  child: {
+    bronze: 734194 ^ 733394,
+    silver: 892021 ^ 891077,
+    diamond: 404474 ^ 402074,
+    gold: 835022 ^ 830718,
+    platinum: 114169 ^ 106877
   },
-  '\u006D\u0061\u0074\u0065\u0072\u006E\u0069\u0074\u0079': {
-    '\u006E\u006F\u006E\u0065': 0,
-    '\u0073\u0074\u0061\u006E\u0064\u0061\u0072\u0064': 5000,
-    "deluxe": 6000
+  maternity: {
+    none: 681213 ^ 681213,
+    standard: 653275 ^ 648275,
+    deluxe: 169565 ^ 164141
   }
 };
-_0x26c95a = "hjgpco";
+_20 = function () {
+  return _0[88];
+}();
+var _21 = _0[89];
 const hiTierLabels = {
-  '\u0062\u0072\u006F\u006E\u007A\u0065': 'ব্রোঞ্জ (২৫,০০০ ৳)',
-  '\u0073\u0069\u006C\u0076\u0065\u0072': 'সিলভার (৫০,০০০ ৳)',
-  "diamond": 'ডায়মন্ড (১,০০,০০০ ৳)',
-  '\u0067\u006F\u006C\u0064': 'গোল্ড (২,০০,০০০ ৳)',
-  "platinum": 'প্লাটিনাম (৫,০০,০০০ ৳)'
+  bronze: _0[90][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+  silver: _0[91][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+  diamond: _0[92][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+  gold: _0[93][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+  platinum: _0[94][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])
 };
-const banglaMonths = ["\u099C\u09BE\u09A8\u09C1\u09AF\u09BC\u09BE\u09B0\u09C0", "\u09AB\u09C7\u09AC\u09CD\u09B0\u09C1\u09AF\u09BC\u09BE\u09B0\u09C0", "\u09AE\u09BE\u09B0\u09CD\u099A", "\u098F\u09AA\u09CD\u09B0\u09BF\u09B2", "\u09AE\u09C7", "\u099C\u09C1\u09A8", "জুলাই", "\u0986\u0997\u09B8\u09CD\u099F", "\u09B8\u09C7\u09AA\u09CD\u099F\u09C7\u09AE\u09CD\u09AC\u09B0", "অক্টোবর", "\u09A8\u09AD\u09C7\u09AE\u09CD\u09AC\u09B0", "ডিসেম্বর"];
-const banglaOrdinals = ["\u09E7\u09AE", "\u09E8\u09DF", "\u09E9\u09DF", "\u09EA\u09B0\u09CD\u09A5", "\u09EB\u09AE", "\u09EC\u09B7\u09CD\u09A0", "\u09ED\u09AE", "\u09EE\u09AE", "\u09EF\u09AE", "\u09E7\u09E6\u09AE"];
-var _0xe75a6d = (790836 ^ 790845) + (853145 ^ 853149);
-let currentActiveTab = "\u0064\u0070\u0073";
-_0xe75a6d = 317730 ^ 317738;
+_21 = function () {
+  return 962302 ^ 962294;
+}();
+var _22 = _0[95];
+const banglaMonths = [_0[96][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[97][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[98][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[99][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[100][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[101][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[102][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[103][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[104][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[105][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[106][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[107][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])];
+_22 = function () {
+  return 810991 ^ 810988;
+}();
+var _23 = _0[108];
+const banglaOrdinals = [_0[109][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[110][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[111][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[112][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[113][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[114][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[115][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[116][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[117][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[118][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])];
+_23 = function () {
+  return _0[108];
+}();
+var _24 = _0[119];
+let currentActiveTab = _0[120][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+_24 = function () {
+  return 401858 ^ 401860;
+}();
 function toBangla(num) {
-  if (num === null || num === undefined || isNaN(num)) return "\u09E6";
-  return num['\u0074\u006F\u0053\u0074\u0072\u0069\u006E\u0067']()['\u0072\u0065\u0070\u006C\u0061\u0063\u0065'](new RegExp('\u005C\u0064', '\u0067'), d => "\u09E6\u09E7\u09E8\u09E9\u09EA\u09EB\u09EC\u09ED\u09EE\u09EF"[d]);
+  if (num === null || num === undefined || isNaN(num)) return _0[121];
+  return num[_0[122]]()[_0[123]](/\d/g, d => _0[124][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])[d]);
 }
 function toggleOESelector(context, planId) {
-  if (context === "\u0064\u0070\u0073") {
-    const isChecked = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0064\u0070\u0073\u002D\u006F\u0065\u002D\u0063\u0068\u0065\u0063\u006B")?.checked || false;
-    var _0x1a7a8e = (878613 ^ 878610) + (153766 ^ 153760);
-    const box = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0064\u0070\u0073\u002D\u006F\u0065\u002D\u006F\u0070\u0074\u0069\u006F\u006E\u0073");
-    _0x1a7a8e = (202957 ^ 202953) + (883314 ^ 883313);
-    if (box) box['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079'] = isChecked ? 'block' : "\u006E\u006F\u006E\u0065";
+  if (context === _0[120][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])) {
+    var _25 = function (s, h) {
+      return s + h;
+    }(508444 ^ 508444, 792339 ^ 792347);
+    const _e = document[_0[43]](_0[125][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[126]] || ![];
+    _25 = function () {
+      return 784809 ^ 784810;
+    }();
+    var _26 = _0[127];
+    const _f = document[_0[43]](_0[128][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+    _26 = function () {
+      return _0[127];
+    }();
+    if (_f) _f[_0[129]][_0[130]] = _e ? _0[131][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) : _0[132][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
     calculateDPS();
   } else {
-    let _0xgcf2a;
-    const isChecked = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u006F\u0065\u002D\u0063\u0068\u0065\u0063\u006B")?.checked || false;
-    _0xgcf2a = (612958 ^ 612950) + (556809 ^ 556811);
-    var _0x45gbb = (591600 ^ 591605) + (600113 ^ 600114);
-    const box = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u006F\u0065\u002D\u006F\u0070\u0074\u0069\u006F\u006E\u0073");
-    _0x45gbb = 839774 ^ 839770;
-    if (box) box['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079'] = isChecked ? 'block' : "\u006E\u006F\u006E\u0065";
+    var _27 = _0[133];
+    const _g = document[_0[43]](_0[134][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[126]] || ![];
+    _27 = (900584 ^ 900590) + (981649 ^ 981654);
+    var _28 = function (s, h) {
+      return s ^ h;
+    }(690254, 690253);
+    const _h = document[_0[43]](_0[135][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+    _28 = (288039 ^ 288034) + (994854 ^ 994851);
+    if (_h) _h[_0[129]][_0[130]] = _g ? _0[131][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) : _0[132][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
     calculatePlan(planId || currentActiveTab);
   }
 }
 function handleRiderToggle(planContext, clickedRider) {
-  if (planContext === "\u0064\u0070\u0073") {
-    var _0x42f6bf = (448080 ^ 448087) + (604454 ^ 604452);
-    const plusEl = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('dps-plus');
-    _0x42f6bf = (284653 ^ 284648) + (865895 ^ 865889);
-    let _0x5dga8e;
-    const adbEl = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0064\u0070\u0073\u002D\u0061\u0064\u0062");
-    _0x5dga8e = 160268 ^ 160267;
-    if (clickedRider === "\u0070\u006C\u0075\u0073" && plusEl && plusEl['\u0063\u0068\u0065\u0063\u006B\u0065\u0064'] && adbEl) adbEl['\u0063\u0068\u0065\u0063\u006B\u0065\u0064'] = false;else if (clickedRider === 'adb' && adbEl && adbEl['\u0063\u0068\u0065\u0063\u006B\u0065\u0064'] && plusEl) plusEl['\u0063\u0068\u0065\u0063\u006B\u0065\u0064'] = false;
-    const ccChecked = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0064\u0070\u0073\u002D\u0063\u0063")?.checked || false;
-    var _0xg8d2g = (607138 ^ 607140) + (474313 ^ 474313);
-    const ccCustom = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('dps-cc-custom');
-    _0xg8d2g = "pimemh";
-    if (ccCustom) ccCustom['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079'] = ccChecked ? "\u0066\u006C\u0065\u0078" : 'none';
-    const hiChecked = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0064\u0070\u0073\u002D\u0068\u0069")?.checked || false;
-    var _0xbf6c = (214291 ^ 214294) + (327718 ^ 327726);
-    const hiCustom = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0064\u0070\u0073\u002D\u0068\u0069\u002D\u0063\u0075\u0073\u0074\u006F\u006D");
-    _0xbf6c = 847514 ^ 847515;
-    if (hiCustom) hiCustom['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079'] = hiChecked ? "\u0066\u006C\u0065\u0078" : 'none';
+  if (planContext === _0[120][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])) {
+    var _29 = function (s, h) {
+      return s ^ h;
+    }(881172, 881168);
+    const _i = document[_0[43]](_0[136][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+    _29 = function () {
+      return _0[137];
+    }();
+    var _30 = _0[138];
+    const _j = document[_0[43]](_0[139][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+    _30 = function () {
+      return _0[138];
+    }();
+    if (clickedRider === _0[73][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) && _i && _i[_0[126]] && _j) _j[_0[126]] = function () {
+      return ![];
+    }();else if (clickedRider === _0[71][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) && _j && _j[_0[126]] && _i) _i[_0[126]] = function () {
+      return ![];
+    }();
+    var _31 = function (s, h) {
+      return s + h;
+    }(549384 ^ 549387, 477725 ^ 477720);
+    const _k = document[_0[43]](_0[140][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[126]] || ![];
+    _31 = function () {
+      return 434000 ^ 434007;
+    }();
+    var _32 = _0[141];
+    const _l = document[_0[43]](_0[142][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+    _32 = function () {
+      return _0[141];
+    }();
+    if (_l) _l[_0[129]][_0[130]] = _k ? _0[143][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) : _0[132][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    var _33 = function (s, h) {
+      return s ^ h;
+    }(354301, 354292);
+    const _m = document[_0[43]](_0[144][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[126]] || ![];
+    _33 = (614460 ^ 614458) + (110033 ^ 110036);
+    var _34 = function (s, h) {
+      return s ^ h;
+    }(168444, 168440);
+    const _n = document[_0[43]](_0[145][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+    _34 = (353844 ^ 353840) + (479490 ^ 479495);
+    if (_n) _n[_0[129]][_0[130]] = _m ? _0[143][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) : _0[132][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
     calculateDPS();
   } else {
-    var _0x6e_0x27g = (167908 ^ 167904) + (860324 ^ 860322);
-    const plusEl = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0070\u006C\u0075\u0073");
-    _0x6e_0x27g = '\u0065\u006B\u0066\u006C\u006A\u0064';
-    const adbEl = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0061\u0064\u0062");
-    const _0x9e95e = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0070\u0064\u0061\u0062");
-    if (clickedRider === 'plus' && plusEl && plusEl['\u0063\u0068\u0065\u0063\u006B\u0065\u0064']) {
-      if (adbEl) adbEl['\u0063\u0068\u0065\u0063\u006B\u0065\u0064'] = false;
-      if (_0x9e95e) _0x9e95e['\u0063\u0068\u0065\u0063\u006B\u0065\u0064'] = false;
-    } else if ((clickedRider === "\u0061\u0064\u0062" || clickedRider === "\u0070\u0064\u0061\u0062") && plusEl) {
-      if (adbEl && adbEl['\u0063\u0068\u0065\u0063\u006B\u0065\u0064'] || _0x9e95e && _0x9e95e['\u0063\u0068\u0065\u0063\u006B\u0065\u0064']) plusEl['\u0063\u0068\u0065\u0063\u006B\u0065\u0064'] = false;
+    var _35 = function (s, h) {
+      return s ^ h;
+    }(918606, 918598);
+    const _o = document[_0[43]](_0[146][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+    _35 = (344010 ^ 344003) + (479566 ^ 479563);
+    var _36 = function (s, h) {
+      return s ^ h;
+    }(521344, 521352);
+    const _p = document[_0[43]](_0[147][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+    _36 = function () {
+      return 932767 ^ 932763;
+    }();
+    var _37 = _0[148];
+    const _q = document[_0[43]](_0[149][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+    _37 = (399805 ^ 399797) + (921142 ^ 921137);
+    if (clickedRider === _0[73][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) && _o && _o[_0[126]]) {
+      if (_p) _p[_0[126]] = function () {
+        return ![];
+      }();
+      if (_q) _q[_0[126]] = function () {
+        return ![];
+      }();
+    } else if ((clickedRider === _0[71][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) || clickedRider === _0[72][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])) && _o) {
+      if (_p && _p[_0[126]] || _q && _q[_0[126]]) _o[_0[126]] = function () {
+        return ![];
+      }();
     }
-    const ccChecked = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0063\u0063")?.checked || false;
-    var _0x2f_0x657 = (771847 ^ 771855) + (714052 ^ 714053);
-    const ccCustom = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0063\u0063\u002D\u0063\u0075\u0073\u0074\u006F\u006D");
-    _0x2f_0x657 = (867566 ^ 867566) + (940090 ^ 940090);
-    if (ccCustom) ccCustom['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079'] = ccChecked ? "\u0066\u006C\u0065\u0078" : "\u006E\u006F\u006E\u0065";
-    var _0xde486a = (686904 ^ 686909) + (897048 ^ 897053);
-    const _0x50655e = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('p-hc')?.checked || false;
-    _0xde486a = (629827 ^ 629828) + (469052 ^ 469044);
-    var _0x987dae = (354397 ^ 354388) + (829974 ^ 829970);
-    const _0xc9c = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0068\u0063\u002D\u0063\u0075\u0073\u0074\u006F\u006D");
-    _0x987dae = (227451 ^ 227449) + (534501 ^ 534509);
-    if (_0xc9c) _0xc9c['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079'] = _0x50655e ? 'flex' : 'none';
-    var _0xad_0x74e = (375422 ^ 375420) + (870553 ^ 870553);
-    const hiChecked = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0068\u0069")?.checked || false;
-    _0xad_0x74e = (877581 ^ 877576) + (165199 ^ 165199);
-    var _0xf084bd = (677506 ^ 677514) + (650522 ^ 650527);
-    const hiCustom = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('p-hi-custom');
-    _0xf084bd = (851946 ^ 851951) + (248227 ^ 248224);
-    if (hiCustom) hiCustom['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079'] = hiChecked ? "\u0066\u006C\u0065\u0078" : "\u006E\u006F\u006E\u0065";
+    var _38 = function (s, h) {
+      return s ^ h;
+    }(852689, 852690);
+    const _r = document[_0[43]](_0[150][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[126]] || ![];
+    _38 = (833838 ^ 833835) + (740222 ^ 740221);
+    var _39 = _0[151];
+    const _s = document[_0[43]](_0[152][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+    _39 = function () {
+      return 393948 ^ 393951;
+    }();
+    if (_s) _s[_0[129]][_0[130]] = _r ? _0[143][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) : _0[132][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    var _40 = _0[153];
+    const _t = document[_0[43]](_0[154][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[126]] || ![];
+    _40 = (181602 ^ 181606) + (231385 ^ 231376);
+    var _41 = _0[155];
+    const _u = document[_0[43]](_0[156][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+    _41 = function () {
+      return _0[155];
+    }();
+    if (_u) _u[_0[129]][_0[130]] = _t ? _0[143][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) : _0[132][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    var _42 = function (s, h) {
+      return s + h;
+    }(707459 ^ 707462, 317304 ^ 317308);
+    const _v = document[_0[43]](_0[157][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[126]] || ![];
+    _42 = (621116 ^ 621109) + (685646 ^ 685644);
+    var _43 = function (s, h) {
+      return s ^ h;
+    }(121090, 121099);
+    const _w = document[_0[43]](_0[158][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+    _43 = (200633 ^ 200624) + (248593 ^ 248601);
+    if (_w) _w[_0[129]][_0[130]] = _v ? _0[143][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) : _0[132][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
     calculatePlan(currentActiveTab);
   }
 }
 function getHCRate(type, age, tier) {
-  const t = parseInt(tier) || 735281 ^ 735280;
-  if (type === "\u0063\u0068\u0069\u006C\u0064") {
-    return hcRatesTable['\u0063\u0068\u0069\u006C\u0064'][t] || 297207 ^ 297207;
+  var _44 = function (s, h) {
+    return s + h;
+  }(835229 ^ 835231, 840311 ^ 840308);
+  const t = parseInt(tier) || 757750 ^ 757751;
+  _44 = function () {
+    return 932794 ^ 932799;
+  }();
+  if (type === _0[159][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])) {
+    return hcRatesTable[_0[160]][t] || 718015 ^ 718015;
   }
-  let _0x1b56c;
-  const a = parseInt(age) || 549861 ^ 549883;
-  _0x1b56c = "mobgpb";
-  var _0x7d9a = (859229 ^ 859230) + (802040 ^ 802044);
-  let _0x75a = "\u0075\u006E\u0064\u0065\u0072\u0034\u0030";
-  _0x7d9a = (127633 ^ 127634) + (504086 ^ 504081);
-  if (a >= (408779 ^ 408825)) _0x75a = "\u0061\u0067\u0065\u0035\u0030\u005F\u0035\u0035";else if (a >= (682904 ^ 682929)) _0x75a = "\u0061\u0067\u0065\u0034\u0031\u005F\u0034\u0039";
-  return hcRatesTable[type][_0x75a][t] || 474473 ^ 474473;
+  var _45 = function (s, h) {
+    return s + h;
+  }(526679 ^ 526678, 909109 ^ 909111);
+  const a = parseInt(age) || 398111 ^ 398081;
+  _45 = function () {
+    return 500397 ^ 500393;
+  }();
+  var _46 = _0[161];
+  let _x = _0[162][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+  _46 = (870063 ^ 870059) + (409621 ^ 409619);
+  if (a >= (159949 ^ 159999)) _x = _0[163][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);else if (a >= (929334 ^ 929311)) _x = _0[164][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+  return hcRatesTable[type][_x][t] || 187193 ^ 187193;
 }
 function calculateHCAnnual(planTier, proposerAge, includeProposer, includeSpouse, spouseAge, childCount) {
-  let _0x627aed = 628697 ^ 628697;
-  if (includeProposer) _0x627aed += getHCRate("\u0070\u0061\u0079\u006F\u0072", proposerAge, planTier);
-  if (includeSpouse) _0x627aed += getHCRate("\u0073\u0070\u006F\u0075\u0073\u0065", spouseAge, planTier);
-  if (childCount > (390158 ^ 390158)) _0x627aed += childCount * getHCRate('child', null, planTier);
-  return _0x627aed;
+  var _47 = _0[165];
+  let _y = function (s, h) {
+    return s ^ h;
+  }(475148, 475148);
+  _47 = function () {
+    return _0[165];
+  }();
+  if (includeProposer) _y += getHCRate(_0[166][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), proposerAge, planTier);
+  if (includeSpouse) _y += getHCRate(_0[167][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), spouseAge, planTier);
+  if (childCount > (638580 ^ 638580)) _y += childCount * getHCRate(_0[159][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), null, planTier);
+  return _y;
 }
 function toggleHCChildBox(isChecked, planId) {
-  let _0xe59a;
-  const _0xbb_0xecc = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('p-hc-child-box');
-  _0xe59a = 764864 ^ 764867;
-  if (_0xbb_0xecc) _0xbb_0xecc['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079'] = isChecked ? "\u0062\u006C\u006F\u0063\u006B" : "\u006E\u006F\u006E\u0065";
+  var _48 = function (s, h) {
+    return s + h;
+  }(148732 ^ 148735, 816309 ^ 816305);
+  const _z = document[_0[43]](_0[168][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+  _48 = function () {
+    return 722957 ^ 722957;
+  }();
+  if (_z) _z[_0[129]][_0[130]] = isChecked ? _0[131][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) : _0[132][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
   calculatePlan(planId);
 }
 function addHCChild(planId) {
-  const _0xc5f7g = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('p-hc-children-container');
-  if (!_0xc5f7g) return;
-  const _0xbdbcf = _0xc5f7g['\u0063\u0068\u0069\u006C\u0064\u0072\u0065\u006E']['\u006C\u0065\u006E\u0067\u0074\u0068'];
-  if (_0xbdbcf >= (928781 ^ 928775)) {
-    alert('সর্বোচ্চ ১০ জন সন্তানের তথ্য যোগ করা যাবে।');
+  var _49 = function (s, h) {
+    return s ^ h;
+  }(336811, 336802);
+  const _1a = document[_0[43]](_0[169][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+  _49 = function () {
+    return 754604 ^ 754596;
+  }();
+  if (!_1a) return;
+  var _50 = function (s, h) {
+    return s + h;
+  }(434756 ^ 434765, 649690 ^ 649695);
+  const _1b = _1a[_0[170]][_0[171]];
+  _50 = function () {
+    return 472535 ^ 472535;
+  }();
+  if (_1b >= (411820 ^ 411814)) {
+    alert(_0[172][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
     return;
   }
-  let _0x276d3g;
-  const _0x50adec = _0xbdbcf;
-  _0x276d3g = (882250 ^ 882248) + (349990 ^ 349999);
-  var _0x3d99dc = (427828 ^ 427837) + (956076 ^ 956068);
-  const _0xf0c = banglaOrdinals[_0x50adec] || `${toBangla(_0x50adec + (434134 ^ 434135))}ম`;
-  _0x3d99dc = (891118 ^ 891112) + (326355 ^ 326354);
-  const _0xgac = document['\u0063\u0072\u0065\u0061\u0074\u0065\u0045\u006C\u0065\u006D\u0065\u006E\u0074']("\u0064\u0069\u0076");
-  _0xgac['\u0063\u006C\u0061\u0073\u0073\u004E\u0061\u006D\u0065'] = 'child-age-row';
-  _0xgac['\u0069\u006E\u006E\u0065\u0072\u0048\u0054\u004D\u004C'] = `
-        <span style="font-size:13.5px; font-weight:700; min-width:85px;">${_0xf0c} সন্তান:</span>
+  var _51 = function (s, h) {
+    return s ^ h;
+  }(939139, 939140);
+  const _1c = _1b;
+  _51 = function () {
+    return _0[173];
+  }();
+  var _52 = _0[174];
+  const _1d = banglaOrdinals[_1c] || `${toBangla(_1c + (788038 ^ 788039))}ম`;
+  _52 = function () {
+    return 952544 ^ 952550;
+  }();
+  var _53 = function (s, h) {
+    return s ^ h;
+  }(442675, 442683);
+  const row = document[_0[175]](_0[176][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+  _53 = function () {
+    return _0[177];
+  }();
+  row[_0[47]] = _0[178][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+  row[_0[179]] = `
+        <span style="font-size:13.5px; font-weight:700; min-width:85px;">${_1d} সন্তান:</span>
         <input type="number" class="p-hc-child-age" placeholder="বয়স (১-২৩)" min="1" max="23" oninput="calculatePlan(${planId})" style="height:42px; font-size:14.5px;" />
     `;
-  _0xc5f7g['\u0061\u0070\u0070\u0065\u006E\u0064\u0043\u0068\u0069\u006C\u0064'](_0xgac);
+  _1a[_0[180]](row);
   calculatePlan(planId);
 }
 function removeHCChild(planId) {
-  let _0xfc2da;
-  const _0x6bg = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0068\u0063\u002D\u0063\u0068\u0069\u006C\u0064\u0072\u0065\u006E\u002D\u0063\u006F\u006E\u0074\u0061\u0069\u006E\u0065\u0072");
-  _0xfc2da = (496839 ^ 496847) + (791246 ^ 791241);
-  if (!_0x6bg || _0x6bg['\u0063\u0068\u0069\u006C\u0064\u0072\u0065\u006E']['\u006C\u0065\u006E\u0067\u0074\u0068'] <= (713115 ^ 713114)) return;
-  _0x6bg['\u0072\u0065\u006D\u006F\u0076\u0065\u0043\u0068\u0069\u006C\u0064'](_0x6bg['\u006C\u0061\u0073\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0043\u0068\u0069\u006C\u0064']);
+  var _54 = function (s, h) {
+    return s + h;
+  }(217453 ^ 217451, 169698 ^ 169698);
+  const _3q = document[_0[43]](_0[169][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+  _54 = function () {
+    return 983724 ^ 983724;
+  }();
+  if (!_3q || _3q[_0[170]][_0[171]] <= (969280 ^ 969281)) return;
+  _3q[_0[181]](_3q[_0[182]]);
   calculatePlan(planId);
 }
 function getValidChildAges() {
-  var _0x1aa = (714173 ^ 714172) + (533539 ^ 533542);
-  const _0x62d2 = document['\u0071\u0075\u0065\u0072\u0079\u0053\u0065\u006C\u0065\u0063\u0074\u006F\u0072\u0041\u006C\u006C']("\u002E\u0070\u002D\u0068\u0063\u002D\u0063\u0068\u0069\u006C\u0064\u002D\u0061\u0067\u0065");
-  _0x1aa = '\u0068\u006B\u0070\u0062\u006F\u0067';
-  const _0x4e_0x8cc = [];
-  _0x62d2['\u0066\u006F\u0072\u0045\u0061\u0063\u0068'](inp => {
-    let _0x491c1a;
-    const _0x831b6d = parseInt(inp['\u0076\u0061\u006C\u0075\u0065']);
-    _0x491c1a = "nohopk";
-    if (!isNaN(_0x831b6d) && _0x831b6d >= (695850 ^ 695851) && _0x831b6d <= (524765 ^ 524746)) {
-      _0x4e_0x8cc['\u0070\u0075\u0073\u0068'](_0x831b6d);
+  var _55 = _0[183];
+  const _3r = document[_0[184]](_0[185][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+  _55 = function () {
+    return 654399 ^ 654392;
+  }();
+  var _56 = _0[186];
+  const _3s = [];
+  _56 = function () {
+    return 646462 ^ 646456;
+  }();
+  _3r[_0[187]](inp => {
+    var _57 = function (s, h) {
+      return s + h;
+    }(450066 ^ 450070, 679316 ^ 679325);
+    const val = parseInt(inp[_0[188]]);
+    _57 = function () {
+      return 620317 ^ 620308;
+    }();
+    if (!isNaN(val) && val >= (973751 ^ 973750) && val <= (714961 ^ 714950)) {
+      _3s[_0[189]](val);
     }
   });
-  return _0x4e_0x8cc;
+  return _3s;
 }
 function getHIBand(age) {
-  let _0xdc6f7b;
-  const a = parseInt(age) || 565152 ^ 565182;
-  _0xdc6f7b = '\u0067\u006B\u0068\u0063\u0061\u006B';
-  if (a <= (991711 ^ 991740)) return "\u0075\u006E\u0064\u0065\u0072\u0033\u0035";
-  if (a <= (377367 ^ 377407)) return "\u0061\u0067\u0065\u0033\u0036\u005F\u0034\u0030";
-  if (a <= (222481 ^ 222524)) return "\u0061\u0067\u0065\u0034\u0031\u005F\u0034\u0035";
-  if (a <= (643902 ^ 643852)) return 'age46_50';
-  return "\u0061\u0067\u0065\u0035\u0031\u005F\u0035\u0035";
+  var _58 = _0[190];
+  const a = parseInt(age) || 276854 ^ 276840;
+  _58 = function () {
+    return _0[190];
+  }();
+  if (a <= (496635 ^ 496600)) return _0[191][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+  if (a <= (522912 ^ 522888)) return _0[192][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+  if (a <= (841128 ^ 841093)) return _0[193][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+  if (a <= (387880 ^ 387866)) return _0[194][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+  return _0[195][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
 }
 function getHIRate(type, age, tier) {
-  const t = tier || "\u0073\u0069\u006C\u0076\u0065\u0072";
-  if (type === "\u0063\u0068\u0069\u006C\u0064") {
-    return hiRatesTable['\u0063\u0068\u0069\u006C\u0064'][t] || 497427 ^ 497427;
+  var _59 = _0[196];
+  const t = tier || _0[197][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+  _59 = function () {
+    return 936711 ^ 936719;
+  }();
+  if (type === _0[159][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])) {
+    return hiRatesTable[_0[160]][t] || 998955 ^ 998955;
   }
-  let _0xcdcd9c;
-  const _0x6aa3c = getHIBand(age);
-  _0xcdcd9c = 536835 ^ 536836;
-  return hiRatesTable[type] && hiRatesTable[type][_0x6aa3c] && hiRatesTable[type][_0x6aa3c][t] ? hiRatesTable[type][_0x6aa3c][t] : 609188 ^ 609188;
+  var _60 = function (s, h) {
+    return s + h;
+  }(246532 ^ 246534, 628429 ^ 628430);
+  const _6f = getHIBand(age);
+  _60 = (731943 ^ 731936) + (774238 ^ 774234);
+  return hiRatesTable[type] && hiRatesTable[type][_6f] && hiRatesTable[type][_6f][t] ? hiRatesTable[type][_6f][t] : 438996 ^ 438996;
 }
 function calculateHIAnnual(tier, proposerAge, includeProposer, includeSpouse, spouseAge, childCount, maternityType) {
-  var _0x61b1b = (121780 ^ 121788) + (864414 ^ 864411);
-  let _0xe780ef = 812821 ^ 812821;
-  _0x61b1b = 824987 ^ 824979;
-  if (includeProposer) _0xe780ef += getHIRate('proposer', proposerAge, tier);
-  if (includeSpouse) _0xe780ef += getHIRate('spouse', spouseAge, tier);
-  if (childCount > (390169 ^ 390169)) _0xe780ef += childCount * getHIRate("\u0063\u0068\u0069\u006C\u0064", null, tier);
-  if (maternityType && hiRatesTable['\u006D\u0061\u0074\u0065\u0072\u006E\u0069\u0074\u0079'][maternityType]) {
-    _0xe780ef += hiRatesTable['\u006D\u0061\u0074\u0065\u0072\u006E\u0069\u0074\u0079'][maternityType];
+  var _61 = function (s, h) {
+    return s + h;
+  }(634885 ^ 634882, 467522 ^ 467530);
+  let _6g = function (s, h) {
+    return s ^ h;
+  }(794368, 794368);
+  _61 = function () {
+    return _0[198];
+  }();
+  if (includeProposer) _6g += getHIRate(_0[199][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), proposerAge, tier);
+  if (includeSpouse) _6g += getHIRate(_0[167][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), spouseAge, tier);
+  if (childCount > (628641 ^ 628641)) _6g += childCount * getHIRate(_0[159][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), null, tier);
+  if (maternityType && hiRatesTable[_0[200]][maternityType]) {
+    _6g += hiRatesTable[_0[200]][maternityType];
   }
-  return _0xe780ef;
+  return _6g;
 }
 function toggleHIChildBox(isChecked, context, planId) {
-  const _0x6a_0xag6 = context === "\u0064\u0070\u0073" ? "\u0064\u0070\u0073" : "\u0070";
-  let _0x2_0xda8;
-  const _0xa47af = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064'](`${_0x6a_0xag6}-hi-child-box`);
-  _0x2_0xda8 = (418528 ^ 418536) + (427730 ^ 427729);
-  if (_0xa47af) _0xa47af['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079'] = isChecked ? "\u0062\u006C\u006F\u0063\u006B" : 'none';
-  if (context === "\u0064\u0070\u0073") calculateDPS();else calculatePlan(planId);
+  var _62 = function (s, h) {
+    return s ^ h;
+  }(740400, 740400);
+  const _6h = context === _0[120][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) ? _0[120][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) : _0[201];
+  _62 = (352899 ^ 352898) + (382576 ^ 382579);
+  var _63 = _0[202];
+  const box = document[_0[43]](`${_6h}-hi-child-box`);
+  _63 = function () {
+    return 241278 ^ 241278;
+  }();
+  if (box) box[_0[129]][_0[130]] = isChecked ? _0[131][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) : _0[132][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+  if (context === _0[120][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])) calculateDPS();else calculatePlan(planId);
 }
 function addHIChild(context, planId) {
-  const _0xg2ed = context === 'dps' ? "\u0064\u0070\u0073" : "\u0070";
-  const _0x9100c = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064'](`${_0xg2ed}-hi-children-container`);
-  if (!_0x9100c) return;
-  const _0x812ff = _0x9100c['\u0063\u0068\u0069\u006C\u0064\u0072\u0065\u006E']['\u006C\u0065\u006E\u0067\u0074\u0068'];
-  if (_0x812ff >= (538624 ^ 538634)) {
-    alert("\u09B8\u09B0\u09CD\u09AC\u09CB\u099A\u09CD\u099A\u0020\u09E7\u09E6\u0020\u099C\u09A8\u0020\u09B8\u09A8\u09CD\u09A4\u09BE\u09A8\u09C7\u09B0\u0020\u09A4\u09A5\u09CD\u09AF\u0020\u09AF\u09CB\u0997\u0020\u0995\u09B0\u09BE\u0020\u09AF\u09BE\u09AC\u09C7\u0964");
+  var _64 = function (s, h) {
+    return s + h;
+  }(952775 ^ 952782, 328105 ^ 328097);
+  const _8u = context === _0[120][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) ? _0[120][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) : _0[201];
+  _64 = function () {
+    return _0[203];
+  }();
+  var _65 = function (s, h) {
+    return s ^ h;
+  }(360223, 360216);
+  const _8v = document[_0[43]](`${_8u}-hi-children-container`);
+  _65 = function () {
+    return 154598 ^ 154607;
+  }();
+  if (!_8v) return;
+  var _66 = function (s, h) {
+    return s + h;
+  }(937843 ^ 937851, 319583 ^ 319582);
+  const _8w = _8v[_0[170]][_0[171]];
+  _66 = function () {
+    return 324172 ^ 324170;
+  }();
+  if (_8w >= (726017 ^ 726027)) {
+    alert(_0[172][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
     return;
   }
-  const _0x1e_0x879 = _0x812ff;
-  const _0xcf239f = banglaOrdinals[_0x1e_0x879] || `${toBangla(_0x1e_0x879 + (604651 ^ 604650))}ম`;
-  const _0x3baa = document['\u0063\u0072\u0065\u0061\u0074\u0065\u0045\u006C\u0065\u006D\u0065\u006E\u0074']('div');
-  _0x3baa['\u0063\u006C\u0061\u0073\u0073\u004E\u0061\u006D\u0065'] = "\u0063\u0068\u0069\u006C\u0064\u002D\u0061\u0067\u0065\u002D\u0072\u006F\u0077";
-  const _0x56b8a = context === 'dps' ? "\u0063\u0061\u006C\u0063\u0075\u006C\u0061\u0074\u0065\u0044\u0050\u0053\u0028\u0029" : `calculatePlan(${planId})`;
-  _0x3baa['\u0069\u006E\u006E\u0065\u0072\u0048\u0054\u004D\u004C'] = `
-        <span style="font-size:13.5px; font-weight:700; min-width:85px;">${_0xcf239f} সন্তান:</span>
-        <input type="number" class="${_0xg2ed}-hi-child-age" placeholder="বয়স (১-২৪)" min="1" max="24" oninput="${_0x56b8a}" style="height:42px; font-size:14.5px;" />
+  var _67 = _0[204];
+  const _8x = _8w;
+  _67 = function () {
+    return 938632 ^ 938638;
+  }();
+  var _68 = function (s, h) {
+    return s ^ h;
+  }(771874, 771879);
+  const _8y = banglaOrdinals[_8x] || `${toBangla(_8x + (194174 ^ 194175))}ম`;
+  _68 = (973631 ^ 973628) + (663641 ^ 663632);
+  var _69 = _0[205];
+  const row = document[_0[175]](_0[176][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+  _69 = (654411 ^ 654414) + (121519 ^ 121510);
+  row[_0[47]] = _0[178][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+  var _70 = function (s, h) {
+    return s ^ h;
+  }(966850, 966850);
+  const _b1 = context === _0[120][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) ? _0[206][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) : `calculatePlan(${planId})`;
+  _70 = function () {
+    return _0[207];
+  }();
+  row[_0[179]] = `
+        <span style="font-size:13.5px; font-weight:700; min-width:85px;">${_8y} সন্তান:</span>
+        <input type="number" class="${_8u}-hi-child-age" placeholder="বয়স (১-২৪)" min="1" max="24" oninput="${_b1}" style="height:42px; font-size:14.5px;" />
     `;
-  _0x9100c['\u0061\u0070\u0070\u0065\u006E\u0064\u0043\u0068\u0069\u006C\u0064'](_0x3baa);
-  if (context === 'dps') calculateDPS();else calculatePlan(planId);
+  _8v[_0[180]](row);
+  if (context === _0[120][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])) calculateDPS();else calculatePlan(planId);
 }
 function removeHIChild(context, planId) {
-  var _0x0569fc = (578890 ^ 578888) + (673576 ^ 673577);
-  const _0xb5cc = context === 'dps' ? "\u0064\u0070\u0073" : "\u0070";
-  _0x0569fc = (452441 ^ 452432) + (681685 ^ 681693);
-  var _0x0e_0xeb0 = (488669 ^ 488661) + (574349 ^ 574349);
-  const _0x16_0xf14 = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064'](`${_0xb5cc}-hi-children-container`);
-  _0x0e_0xeb0 = 671461 ^ 671458;
-  if (!_0x16_0xf14 || _0x16_0xf14['\u0063\u0068\u0069\u006C\u0064\u0072\u0065\u006E']['\u006C\u0065\u006E\u0067\u0074\u0068'] <= (345240 ^ 345241)) return;
-  _0x16_0xf14['\u0072\u0065\u006D\u006F\u0076\u0065\u0043\u0068\u0069\u006C\u0064'](_0x16_0xf14['\u006C\u0061\u0073\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0043\u0068\u0069\u006C\u0064']);
-  if (context === "\u0064\u0070\u0073") calculateDPS();else calculatePlan(planId);
+  var _71 = function (s, h) {
+    return s ^ h;
+  }(369558, 369553);
+  const _b2 = context === _0[120][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) ? _0[120][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) : _0[201];
+  _71 = (544564 ^ 544566) + (980791 ^ 980787);
+  var _72 = function (s, h) {
+    return s + h;
+  }(923950 ^ 923948, 141674 ^ 141666);
+  const _b3 = document[_0[43]](`${_b2}-hi-children-container`);
+  _72 = (321807 ^ 321806) + (986949 ^ 986946);
+  if (!_b3 || _b3[_0[170]][_0[171]] <= (128659 ^ 128658)) return;
+  _b3[_0[181]](_b3[_0[182]]);
+  if (context === _0[120][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])) calculateDPS();else calculatePlan(planId);
 }
 function getValidHIChildAges(context) {
-  const _0xa0411a = context === "\u0064\u0070\u0073" ? "\u0064\u0070\u0073" : "\u0070";
-  let _0xfbcb;
-  const _0xf5f54e = document['\u0071\u0075\u0065\u0072\u0079\u0053\u0065\u006C\u0065\u0063\u0074\u006F\u0072\u0041\u006C\u006C'](`.${_0xa0411a}-hi-child-age`);
-  _0xfbcb = 841882 ^ 841887;
-  const _0xac973e = [];
-  _0xf5f54e['\u0066\u006F\u0072\u0045\u0061\u0063\u0068'](inp => {
-    var _0xb58c = (776620 ^ 776612) + (193630 ^ 193624);
-    const _0xd5_0x591 = parseInt(inp['\u0076\u0061\u006C\u0075\u0065']);
-    _0xb58c = (401607 ^ 401614) + (687874 ^ 687877);
-    if (!isNaN(_0xd5_0x591) && _0xd5_0x591 >= (387584 ^ 387585) && _0xd5_0x591 <= (683282 ^ 683274)) {
-      _0xac973e['\u0070\u0075\u0073\u0068'](_0xd5_0x591);
+  var _73 = function (s, h) {
+    return s ^ h;
+  }(922213, 922221);
+  const _b4 = context === _0[120][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) ? _0[120][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) : _0[201];
+  _73 = function () {
+    return 152230 ^ 152238;
+  }();
+  var _74 = function (s, h) {
+    return s ^ h;
+  }(117247, 117243);
+  const _b5 = document[_0[184]](`.${_b4}-hi-child-age`);
+  _74 = (117141 ^ 117149) + (305155 ^ 305152);
+  var _75 = _0[208];
+  const _b6 = [];
+  _75 = (372779 ^ 372776) + (361376 ^ 361385);
+  _b5[_0[187]](inp => {
+    var _76 = _0[209];
+    const val = parseInt(inp[_0[188]]);
+    _76 = (987308 ^ 987301) + (490148 ^ 490151);
+    if (!isNaN(val) && val >= (730321 ^ 730320) && val <= (990793 ^ 990801)) {
+      _b6[_0[189]](val);
     }
   });
-  return _0xac973e;
+  return _b6;
 }
 function getCCRate(age) {
-  const a = parseInt(age) || 211140 ^ 211152;
-  if (a <= (872602 ^ 872583)) return 4.45;
-  if (a <= (135624 ^ 135658)) return 6.95;
-  if (a <= (557356 ^ 557323)) return 7.95;
-  if (a <= (873354 ^ 873382)) return 15.95;
-  if (a <= (550975 ^ 550926)) return 26.95;
-  if (a <= (674218 ^ 674204)) return 47.95;
+  var _77 = _0[210];
+  const a = parseInt(age) || 107941 ^ 107953;
+  _77 = (545030 ^ 545024) + (578952 ^ 578956);
+  if (a <= (465654 ^ 465643)) return 4.45;
+  if (a <= (160160 ^ 160130)) return 6.95;
+  if (a <= (645424 ^ 645399)) return 7.95;
+  if (a <= (258132 ^ 258168)) return 15.95;
+  if (a <= (540455 ^ 540438)) return 26.95;
+  if (a <= (823907 ^ 823893)) return 47.95;
   return 79.95;
 }
 function getCCSumAssured(customSA, mainSA) {
-  if (customSA !== undefined && customSA !== null && !isNaN(customSA) && customSA > (250657 ^ 250657)) {
-    return Math['\u006D\u0069\u006E'](customSA, 500000);
+  if (customSA !== undefined && customSA !== null && !isNaN(customSA) && customSA > (701693 ^ 701693)) {
+    return Math[_0[211]](customSA, 500000);
   }
-  return Math['\u006D\u0069\u006E'](mainSA || 953319 ^ 953319, 500000);
+  return Math[_0[211]](mainSA || 567630 ^ 567630, 500000);
 }
-var _0x5fba = (211140 ^ 211141) + (547200 ^ 547200);
+var _78 = function (s, h) {
+  return s ^ h;
+}(955800, 955805);
 const wpTableData = {
   20: 1.36,
   21: 1.42,
@@ -3739,13 +4640,22 @@ const wpTableData = {
   54: 7.94,
   55: 8.39
 };
-_0x5fba = "bmipkp";
+_78 = function () {
+  return _0[212];
+}();
 function getWPRate(age) {
-  let _0x43876a;
-  const a = parseInt(age) || 253648 ^ 253636;
-  _0x43876a = (769429 ^ 769429) + (641148 ^ 641149);
+  var _79 = function (s, h) {
+    return s + h;
+  }(718024 ^ 718025, 348335 ^ 348326);
+  const a = parseInt(age) || 746430 ^ 746410;
+  _79 = function () {
+    return _0[213];
+  }();
   return wpTableData[a] || 2.12;
 }
+var _80 = function (s, h) {
+  return s + h;
+}(894471 ^ 894465, 606850 ^ 606859);
 const ibrTableData = {
   20: {
     10: 3.22,
@@ -4076,7 +4986,7 @@ const ibrTableData = {
     10: 4.32,
     11: 4.54,
     12: 4.76,
-    13: 5.00,
+    13: 882472 ^ 882477,
     14: 5.24,
     15: 5.50,
     16: 5.78,
@@ -4109,7 +5019,7 @@ const ibrTableData = {
     17: 6.86,
     18: 7.22,
     19: 7.60,
-    20: 8.00
+    20: 348903 ^ 348911
   },
   48: {
     10: 4.93,
@@ -4201,171 +5111,337 @@ const ibrTableData = {
     15: 10.56
   }
 };
+_80 = function () {
+  return _0[214];
+}();
 function getIBRRate(age, term) {
-  const a = parseInt(age) || 908294 ^ 908306;
-  var _0x57bb = (372062 ^ 372063) + (112216 ^ 112217);
-  const t = Math['\u006D\u0069\u006E'](519644 ^ 519624, Math['\u006D\u0061\u0078'](835775 ^ 835765, parseInt(term) || 375209 ^ 375206));
-  _0x57bb = 291161 ^ 291164;
+  var _81 = function (s, h) {
+    return s ^ h;
+  }(738706, 738707);
+  const a = parseInt(age) || 373987 ^ 374007;
+  _81 = function () {
+    return 311858 ^ 311858;
+  }();
+  var _82 = _0[215];
+  const t = Math[_0[211]](796415 ^ 796395, Math[_0[216]](942494 ^ 942484, parseInt(term) || 871080 ^ 871079));
+  _82 = function () {
+    return 209813 ^ 209820;
+  }();
   if (ibrTableData[a] && ibrTableData[a][t]) {
     return ibrTableData[a][t];
   }
   return 3.50;
 }
-var _0x5cfa1g = (743101 ^ 743099) + (219501 ^ 219501);
+var _83 = function (s, h) {
+  return s + h;
+}(797150 ^ 797150, 426063 ^ 426057);
 const testNameMap = {
-  'NMS': "\u0050\u0065\u0072\u0073\u006F\u006E\u0061\u006C\u0020\u004E\u006F\u006E\u002D\u004D\u0065\u0064\u0069\u0063\u0061\u006C\u0020\u0053\u0074\u0061\u0074\u0065\u006D\u0065\u006E\u0074\u0073\u0020\u0028\u004E\u004D\u0053\u0029",
-  "\u0046\u004D\u0052": 'Full Medical Report (FMR)',
-  'PUR': "\u0055\u0072\u0069\u006E\u0061\u006C\u0079\u0073\u0069\u0073\u0020\u0028\u0050\u0055\u0052\u0029",
-  'FBS': 'Fasting Blood Sugar (FBS)',
-  'BLOOD PROFILE': 'Blood Profile (Blood Studies-Hb,WBC+Differential count of WBC, ESR, FBS)',
-  'C-XR': "\u0043\u0068\u0065\u0073\u0074\u0020\u0058\u002D\u0052\u0061\u0079\u0020\u0050\u0041\u0020\u0076\u0069\u0065\u0077\u0020\u0028\u0043\u002D\u0058\u0052\u0029",
-  "\u0045\u0043\u0047": 'ECG-12 Lead Tracing',
-  "\u0045\u0043\u0048\u004F": 'Echo (Echocardiogram)',
-  "\u0048\u0049\u0056": 'HIV Test (Human Immunodeficiency Virus)',
-  "\u0046\u004C\u0050": 'Fasting Lipids (FLP - Total Cholesterol, HDL, LDL, Triglycerides)',
-  'LFT': "\u004C\u0069\u0076\u0065\u0072\u0020\u0046\u0075\u006E\u0063\u0074\u0069\u006F\u006E\u0020\u0054\u0065\u0073\u0074\u0020\u0028\u004C\u0046\u0054\u0020\u002D\u0020\u0053\u004F\u0054\u002C\u0020\u0053\u0047\u0050\u0054\u002C\u0020\u0053\u0065\u0072\u0075\u006D\u0020\u0042\u0069\u006C\u0069\u0072\u0075\u0062\u0069\u006E\u0029",
-  'FQ': 'Financial Questionnaire (FQ)'
+  '\u004e\u004d\u0053': _0[217][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+  '\u0046\u004d\u0052': _0[218][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+  '\u0050\u0055\u0052': _0[219][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+  '\u0046\u0042\u0053': _0[220][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+  '\u0042\u004c\u004f\u004f\u0044\u0020\u0050\u0052\u004f\u0046\u0049\u004c\u0045': _0[221][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+  '\u0043\u002d\u0058\u0052': _0[222][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+  '\u0045\u0043\u0047': _0[223][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+  '\u0045\u0043\u0048\u004f': _0[224][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+  '\u0048\u0049\u0056': _0[225][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+  '\u0046\u004c\u0050': _0[226][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+  '\u004c\u0046\u0054': _0[227][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+  '\u0046\u0051': _0[228][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])
 };
-_0x5cfa1g = (299247 ^ 299242) + (190023 ^ 190031);
+_83 = function () {
+  return _0[229];
+}();
 function getMedicalCodes(age, sa) {
-  if (!age || !sa || sa <= (179480 ^ 179480)) return [];
+  if (!age || !sa || sa <= (343123 ^ 343123)) return [];
+  var _84 = function (s, h) {
+    return s ^ h;
+  }(942720, 942726);
   const a = parseInt(age);
-  var _0xd_0xc32 = (470651 ^ 470654) + (141432 ^ 141434);
-  let _0xge_0x78d = 818282 ^ 818283;
-  _0xd_0xc32 = (818325 ^ 818327) + (431742 ^ 431735);
-  if (a >= (572153 ^ 572110)) _0xge_0x78d = 326647 ^ 326643;else if (a >= (485625 ^ 485591)) _0xge_0x78d = 224588 ^ 224591;else if (a >= (208768 ^ 208804)) _0xge_0x78d = 796126 ^ 796124;
+  _84 = function () {
+    return _0[230];
+  }();
+  var _85 = function (s, h) {
+    return s ^ h;
+  }(197928, 197934);
+  let _cz = function (s, h) {
+    return s ^ h;
+  }(650339, 650338);
+  _85 = (952498 ^ 952501) + (607171 ^ 607178);
+  if (a >= (699759 ^ 699736)) _cz = function () {
+    return 908039 ^ 908035;
+  }();else if (a >= (361773 ^ 361731)) _cz = function () {
+    return 639949 ^ 639950;
+  }();else if (a >= (980878 ^ 980906)) _cz = function () {
+    return 342724 ^ 342726;
+  }();
   if (sa <= 500000) {
-    if (_0xge_0x78d === (993796 ^ 993797) || _0xge_0x78d === (905428 ^ 905430)) return ['NMS'];
-    if (_0xge_0x78d === (658070 ^ 658069)) return ["\u0046\u004D\u0052", "\u0050\u0055\u0052"];
-    return ["\u0046\u004D\u0052", "\u0050\u0055\u0052", "\u0043\u002D\u0058\u0052"];
+    if (_cz === (898097 ^ 898096) || _cz === (430861 ^ 430863)) return [_0[231][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])];
+    if (_cz === (751569 ^ 751570)) return [_0[232][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[233][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])];
+    return [_0[232][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[233][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[234][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])];
   } else if (sa <= 1000000) {
-    if (_0xge_0x78d === (823230 ^ 823231) || _0xge_0x78d === (479360 ^ 479362)) return ["\u004E\u004D\u0053"];
-    if (_0xge_0x78d === (876863 ^ 876860)) return ['FMR', "\u0050\u0055\u0052"];
-    return ['FMR', 'PUR', "\u0046\u0042\u0053", 'C-XR', "\u0045\u0043\u0047"];
+    if (_cz === (173415 ^ 173414) || _cz === (620349 ^ 620351)) return [_0[231][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])];
+    if (_cz === (715267 ^ 715264)) return [_0[232][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[233][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])];
+    return [_0[232][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[233][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[235][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[234][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[236][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])];
   } else if (sa <= 1500000) {
-    if (_0xge_0x78d === (762673 ^ 762672)) return ['FMR', 'PUR'];
-    if (_0xge_0x78d === (348362 ^ 348360)) return ["\u0046\u004D\u0052", 'PUR', "\u0045\u0043\u0047"];
-    if (_0xge_0x78d === (720920 ^ 720923)) return ['FMR', "\u0050\u0055\u0052", 'C-XR', 'ECG'];
-    return ["\u0046\u004D\u0052", "\u0050\u0055\u0052", 'FBS', 'FLP', "\u004C\u0046\u0054", 'C-XR', 'ECG'];
+    if (_cz === (202678 ^ 202679)) return [_0[232][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[233][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])];
+    if (_cz === (649039 ^ 649037)) return [_0[232][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[233][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[236][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])];
+    if (_cz === (874294 ^ 874293)) return [_0[232][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[233][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[234][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[236][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])];
+    return [_0[232][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[233][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[235][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[237][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[238][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[234][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[236][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])];
   } else if (sa <= 2000000) {
-    if (_0xge_0x78d === (435399 ^ 435398)) return ["\u0046\u004D\u0052", "\u0050\u0055\u0052"];
-    if (_0xge_0x78d === (181901 ^ 181903)) return ["\u0046\u004D\u0052", "\u0050\u0055\u0052", "\u0043\u002D\u0058\u0052", "\u0045\u0043\u0047"];
-    if (_0xge_0x78d === (642585 ^ 642586)) return ["\u0046\u004D\u0052", "\u0050\u0055\u0052", 'FBS', "\u0043\u002D\u0058\u0052", "\u0045\u0043\u0047"];
-    return ["\u0046\u004D\u0052", 'PUR', "\u0042\u004C\u004F\u004F\u0044\u0020\u0050\u0052\u004F\u0046\u0049\u004C\u0045", "\u0043\u002D\u0058\u0052", 'LFT', "\u0045\u0043\u0048\u004F", "\u0046\u004C\u0050"];
+    if (_cz === (908881 ^ 908880)) return [_0[232][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[233][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])];
+    if (_cz === (130723 ^ 130721)) return [_0[232][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[233][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[234][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[236][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])];
+    if (_cz === (909533 ^ 909534)) return [_0[232][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[233][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[235][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[234][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[236][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])];
+    return [_0[232][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[233][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[239][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[234][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[238][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[240][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[237][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])];
   } else if (sa <= 3000000) {
-    if (_0xge_0x78d === (793124 ^ 793125)) return ['FMR', 'PUR', 'ECG'];
-    if (_0xge_0x78d === (118597 ^ 118599)) return ['FMR', "\u0050\u0055\u0052", "\u0046\u0042\u0053", "\u0043\u002D\u0058\u0052", "\u0045\u0043\u0047"];
-    if (_0xge_0x78d === (518111 ^ 518108)) return ["\u0046\u004D\u0052", "\u0050\u0055\u0052", "\u0046\u0042\u0053", "\u0046\u004C\u0050", "\u004C\u0046\u0054", "\u0043\u002D\u0058\u0052", 'ECG'];
-    return ["\u0046\u004D\u0052", "\u0050\u0055\u0052", "\u0042\u004C\u004F\u004F\u0044\u0020\u0050\u0052\u004F\u0046\u0049\u004C\u0045", 'C-XR', "\u0045\u0043\u0048\u004F"];
+    if (_cz === (518017 ^ 518016)) return [_0[232][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[233][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[236][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])];
+    if (_cz === (356992 ^ 356994)) return [_0[232][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[233][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[235][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[234][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[236][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])];
+    if (_cz === (369971 ^ 369968)) return [_0[232][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[233][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[235][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[237][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[238][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[234][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[236][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])];
+    return [_0[232][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[233][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[239][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[234][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[240][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])];
   } else if (sa <= 5000000) {
-    if (_0xge_0x78d === (718474 ^ 718475)) return ['FMR', 'PUR', "\u0043\u002D\u0058\u0052", "\u0045\u0043\u0047"];
-    if (_0xge_0x78d === (875508 ^ 875510)) return ["\u0046\u004D\u0052", "\u0050\u0055\u0052", "\u0046\u0042\u0053", 'FLP', 'LFT', 'ECG'];
-    if (_0xge_0x78d === (899010 ^ 899009)) return ["\u0046\u004D\u0052", "\u0050\u0055\u0052", "\u0042\u004C\u004F\u004F\u0044\u0020\u0050\u0052\u004F\u0046\u0049\u004C\u0045", 'C-XR', "\u0046\u004C\u0050", "\u004C\u0046\u0054", 'ECHO'];
-    return ["\u0046\u004D\u0052", 'PUR', 'BLOOD PROFILE', "\u0043\u002D\u0058\u0052", "\u0046\u004C\u0050", 'LFT', "\u0045\u0043\u0048\u004F"];
+    if (_cz === (243896 ^ 243897)) return [_0[232][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[233][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[234][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[236][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])];
+    if (_cz === (913882 ^ 913880)) return [_0[232][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[233][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[235][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[237][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[238][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[236][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])];
+    if (_cz === (536120 ^ 536123)) return [_0[232][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[233][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[239][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[234][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[237][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[238][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[240][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])];
+    return [_0[232][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[233][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[239][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[234][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[237][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[238][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[240][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])];
   } else if (sa <= 7500000) {
-    if (_0xge_0x78d === (626636 ^ 626637)) return ['FMR', "\u0050\u0055\u0052", 'FBS', 'C-XR', "\u0045\u0043\u0048\u004F", "\u0046\u004C\u0050", 'LFT', "\u0048\u0049\u0056", 'FQ'];
-    return ["\u0046\u004D\u0052", 'PUR', "\u0042\u004C\u004F\u004F\u0044\u0020\u0050\u0052\u004F\u0046\u0049\u004C\u0045", 'C-XR', "\u0045\u0043\u0048\u004F", "\u0046\u004C\u0050", "\u004C\u0046\u0054", "\u0048\u0049\u0056", "\u0046\u0051"];
+    if (_cz === (524357 ^ 524356)) return [_0[232][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[233][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[235][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[234][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[240][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[237][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[238][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[241][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[242][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])];
+    return [_0[232][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[233][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[239][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[234][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[240][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[237][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[238][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[241][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[242][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])];
   } else {
-    if (_0xge_0x78d === (167666 ^ 167667)) return ["\u0046\u004D\u0052", "\u0050\u0055\u0052", "\u0046\u0042\u0053", 'C-XR', 'ECHO', 'FLP', 'LFT', 'HIV', "\u0046\u0051"];
-    return ['FMR', "\u0050\u0055\u0052", 'BLOOD PROFILE', 'C-XR', 'ECHO', "\u0046\u004C\u0050", "\u004C\u0046\u0054", "\u0048\u0049\u0056", "\u0046\u0051"];
+    if (_cz === (616385 ^ 616384)) return [_0[232][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[233][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[235][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[234][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[240][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[237][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[238][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[241][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[242][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])];
+    return [_0[232][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[233][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[239][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[234][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[240][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[237][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[238][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[241][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[242][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])];
   }
 }
 function getMedicalTests(age, sa) {
-  const _0x36fcc = getMedicalCodes(age, sa);
-  return _0x36fcc['\u006D\u0061\u0070'](c => ({
-    '\u0063\u006F\u0064\u0065': c,
-    '\u006E\u0061\u006D\u0065': testNameMap[c] || c
+  var _86 = function (s, h) {
+    return s + h;
+  }(326948 ^ 326950, 536366 ^ 536358);
+  const _d0 = getMedicalCodes(age, sa);
+  _86 = function () {
+    return 816834 ^ 816832;
+  }();
+  return _d0[_0[243]](c => ({
+    code: c,
+    name: testNameMap[c] || c
   }));
 }
-function updateMedicalDisplay(containerId, age, currentSumAssured, prevSumAssured = 303564 ^ 303564, term = 371121 ^ 371121) {
-  const _0x3cde = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064'](containerId);
-  if (!_0x3cde) return;
-  const _0x9c_0x2be = (parseFloat(currentSumAssured) || 806050 ^ 806050) + (parseFloat(prevSumAssured) || 756538 ^ 756538);
-  if (!age && _0x9c_0x2be <= (452010 ^ 452010)) {
-    _0x3cde['\u0063\u006C\u0061\u0073\u0073\u004E\u0061\u006D\u0065'] = "\u006D\u0065\u0064\u0069\u0063\u0061\u006C\u002D\u0072\u0065\u0071\u0075\u0069\u0072\u0065\u006D\u0065\u006E\u0074\u0073";
-    _0x3cde['\u0069\u006E\u006E\u0065\u0072\u0048\u0054\u004D\u004C'] = "\u003C\u0069\u0020\u0063\u006C\u0061\u0073\u0073\u003D\u0022\u0066\u0061\u0073\u0020\u0066\u0061\u002D\u0069\u006E\u0066\u006F\u002D\u0063\u0069\u0072\u0063\u006C\u0065\u0022\u003E\u003C\u002F\u0069\u003E\u0020\u09AA\u09CD\u09B0\u09B8\u09CD\u09A4\u09BE\u09AC\u0995\u09C7\u09B0\u0020\u09AC\u09DF\u09B8\u0020\u0993\u0020\u0020\u0020\u0985\u0982\u0995\u0020\u09A6\u09BF\u09B2\u09C7\u0020\u09B8\u09CD\u09AC\u09DF\u0982\u0995\u09CD\u09B0\u09BF\u09DF\u09AD\u09BE\u09AC\u09C7\u0020\u09AA\u09CD\u09B0\u09AF\u09CB\u099C\u09CD\u09AF\u0020\u09AE\u09C7\u09A1\u09BF\u0995\u09C7\u09B2\u0020\u09B6\u09B0\u09CD\u09A4\u0020\u09A6\u09C7\u0996\u09BE\u09AC\u09C7\u0964";
+function updateMedicalDisplay(containerId, age, currentSumAssured, prevSumAssured = 482362 ^ 482362, term = 994208 ^ 994208, isPlan6 = ![]) {
+  var _87 = _0[244];
+  const _d1 = document[_0[43]](containerId);
+  _87 = (119581 ^ 119573) + (256109 ^ 256110);
+  if (!_d1) return;
+  var _88 = function (s, h) {
+    return s + h;
+  }(709682 ^ 709691, 745748 ^ 745744);
+  const _d2 = function (s, h) {
+    return s + h;
+  }(parseFloat(currentSumAssured) || 676695 ^ 676695, parseFloat(prevSumAssured) || 306253 ^ 306253);
+  _88 = (695756 ^ 695756) + (889119 ^ 889118);
+  if (!age && _d2 <= (885592 ^ 885592)) {
+    _d1[_0[47]] = _0[245][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    _d1[_0[179]] = _0[246][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
     return;
   }
   if (!age) {
-    _0x3cde['\u0063\u006C\u0061\u0073\u0073\u004E\u0061\u006D\u0065'] = 'medical-requirements';
-    _0x3cde['\u0069\u006E\u006E\u0065\u0072\u0048\u0054\u004D\u004C'] = '<i class="fas fa-user-clock"></i> সঠিক মেডিকেল চার্ট দেখতে প্রস্তাবকের বয়স লিখুন।';
+    _d1[_0[47]] = _0[245][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    _d1[_0[179]] = _0[247][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
     return;
   }
-  if (_0x9c_0x2be <= (517900 ^ 517900)) {
-    _0x3cde['\u0063\u006C\u0061\u0073\u0073\u004E\u0061\u006D\u0065'] = "\u006D\u0065\u0064\u0069\u0063\u0061\u006C\u002D\u0072\u0065\u0071\u0075\u0069\u0072\u0065\u006D\u0065\u006E\u0074\u0073";
-    _0x3cde['\u0069\u006E\u006E\u0065\u0072\u0048\u0054\u004D\u004C'] = "\u003C\u0069\u0020\u0063\u006C\u0061\u0073\u0073\u003D\u0022\u0066\u0061\u0073\u0020\u0066\u0061\u002D\u0063\u006F\u0069\u006E\u0073\u0022\u003E\u003C\u002F\u0069\u003E\u0020\u09B8\u09A0\u09BF\u0995\u0020\u09AE\u09C7\u09A1\u09BF\u0995\u09C7\u09B2\u0020\u099A\u09BE\u09B0\u09CD\u099F\u0020\u09A6\u09C7\u0996\u09A4\u09C7\u0020\u0020\u0020\u0985\u0982\u0995\u0020\u09AC\u09BE\u0020\u099C\u09AE\u09BE\u0020\u09A8\u09BF\u09B0\u09CD\u09A7\u09BE\u09B0\u09A3\u0020\u0995\u09B0\u09C1\u09A8\u0964";
+  if (_d2 <= (620920 ^ 620920)) {
+    _d1[_0[47]] = _0[245][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    _d1[_0[179]] = _0[248][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
     return;
   }
-  var _0x57ad6f = (660550 ^ 660550) + (221727 ^ 221726);
+  var _89 = function (s, h) {
+    return s + h;
+  }(997606 ^ 997615, 931098 ^ 931102);
   const a = parseInt(age);
-  _0x57ad6f = (490910 ^ 490903) + (667948 ^ 667947);
-  const t = parseInt(term) || 696265 ^ 696265;
-  const _0x2ebafc = typeof currentActiveTab !== "\u0075\u006E\u0064\u0065\u0066\u0069\u006E\u0065\u0064" && planConfig[currentActiveTab]?.isPension || false;
-  const _0x7g2bba = _0x2ebafc ? t : a + t;
-  let _0x17_0x211 = '';
-  if (t > (795902 ^ 795902) && _0x7g2bba > (382639 ^ 382697)) {
-    _0x17_0x211 = `<div style="margin-bottom:8px; padding:8px 12px; background:#fee2e2; border-left:4px solid #ef4444; border-radius:8px; color:#b91c1c; font-weight:800; font-size:14px;">
-            <i class="fas fa-triangle-exclamation"></i> <strong>সতর্কতা:</strong>  র মেয়াদ পূর্তিতে গ্রাহকের বয়স ${toBangla(_0x7g2bba)} বছর হয়ে যাচ্ছে (সর্বোচ্চ বয়সসীমা ৭০ বছর)।
+  _89 = function () {
+    return 716669 ^ 716670;
+  }();
+  var _90 = function (s, h) {
+    return s + h;
+  }(830824 ^ 830830, 237843 ^ 237847);
+  const t = parseInt(term) || 297341 ^ 297341;
+  _90 = function () {
+    return _0[249];
+  }();
+  var _91 = function (s, h) {
+    return s ^ h;
+  }(304817, 304823);
+  const _d3 = typeof currentActiveTab !== _0[250][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) && planConfig[currentActiveTab]?.[_0[251]] || ![];
+  _91 = (623168 ^ 623171) + (769413 ^ 769412);
+  var _92 = function (s, h) {
+    return s ^ h;
+  }(388520, 388525);
+  const _d4 = _d3 ? t : a + t;
+  _92 = function () {
+    return _0[252];
+  }();
+  var _93 = _0[253];
+  let _d5 = _0[3];
+  _93 = function () {
+    return 907610 ^ 907614;
+  }();
+  if (t > (575299 ^ 575299) && _d4 > (263727 ^ 263785)) {
+    _d5 = `<div style="margin-bottom:8px; padding:8px 12px; background:#fee2e2; border-left:4px solid #ef4444; border-radius:8px; color:#b91c1c; font-weight:800; font-size:14px;">
+            <i class="fas fa-triangle-exclamation"></i> <strong>সতর্কতা:</strong> পলিসির মেয়াদ পূর্তিতে গ্রাহকের বয়স ${toBangla(_d4)} বছর হয়ে যাচ্ছে (সর্বোচ্চ বয়সসীমা ৭০ বছর)।
         </div>`;
   }
-  const _0xa56f6d = getMedicalTests(a, _0x9c_0x2be);
-  let _0x380g = _0x17_0x211;
-  if (prevSumAssured > (742326 ^ 742326)) {
-    _0x380g += `<div style="font-size:13.5px; color:var(--text-muted); font-weight:700; margin-bottom:6px;">
-            <i class="fas fa-layer-group"></i> বর্তমান  : ${parseFloat(currentSumAssured)['\u0074\u006F\u004C\u006F\u0063\u0061\u006C\u0065\u0053\u0074\u0072\u0069\u006E\u0067']("\u0062\u006E\u002D\u0042\u0044")} ৳ + পূর্ববর্তী  : ${parseFloat(prevSumAssured)['\u0074\u006F\u004C\u006F\u0063\u0061\u006C\u0065\u0053\u0074\u0072\u0069\u006E\u0067']('bn-BD')} ৳ = <strong>মোট   অঙ্ক: ${_0x9c_0x2be['\u0074\u006F\u004C\u006F\u0063\u0061\u006C\u0065\u0053\u0074\u0072\u0069\u006E\u0067']("\u0062\u006E\u002D\u0042\u0044")} ৳</strong>
+  var _94 = function (s, h) {
+    return s + h;
+  }(804408 ^ 804401, 145740 ^ 145741);
+  const _d6 = getMedicalTests(a, _d2);
+  _94 = (982616 ^ 982622) + (510991 ^ 510989);
+  var _95 = function (s, h) {
+    return s + h;
+  }(808954 ^ 808959, 109305 ^ 109308);
+  let _d7 = _d5;
+  _95 = (519919 ^ 519919) + (721920 ^ 721922);
+  var _96 = function (s, h) {
+    return s ^ h;
+  }(517340, 517337);
+  let _d8 = _0[3];
+  _96 = function () {
+    return _0[254];
+  }();
+  if (isPlan6 && _d2 > (985934 ^ 985934)) {
+    _d8 = `<div style="font-size:13px; color:var(--primary); font-weight:700; margin-bottom:6px;">
+            <i class="fas fa-shield-halved"></i> শিক্ষা সুরক্ষা বীমায় মেডিকেল চাহিদা বীমা অঙ্কের বদলে <strong>সাম অ্যাট রিস্ক (${parseFloat(currentSumAssured)[_0[255]](_0[256][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))} ৳)</strong>-এর ওপর নির্ধারিত।
         </div>`;
   }
-  if (_0xa56f6d['\u006C\u0065\u006E\u0067\u0074\u0068'] === (997444 ^ 997445) && _0xa56f6d[744596 ^ 744596]['\u0063\u006F\u0064\u0065'] === "\u004E\u004D\u0053") {
-    _0x3cde['\u0063\u006C\u0061\u0073\u0073\u004E\u0061\u006D\u0065'] = "\u006D\u0065\u0064\u0069\u0063\u0061\u006C\u002D\u0072\u0065\u0071\u0075\u0069\u0072\u0065\u006D\u0065\u006E\u0074\u0073\u0020\u006E\u006F\u006E\u002D\u006D\u0065\u0064";
-    _0x380g += "\u003C\u0069\u0020\u0063\u006C\u0061\u0073\u0073\u003D\u0022\u0066\u0061\u0073\u0020\u0066\u0061\u002D\u0063\u0068\u0065\u0063\u006B\u002D\u0063\u0069\u0072\u0063\u006C\u0065\u0022\u003E\u003C\u002F\u0069\u003E\u0020\u003C\u0073\u0074\u0072\u006F\u006E\u0067\u003E\u09A8\u09A8\u002D\u09AE\u09C7\u09A1\u09BF\u0995\u09C7\u09B2\u0020\u0028\u004E\u004D\u0053\u0029\u003A\u003C\u002F\u0073\u0074\u0072\u006F\u006E\u0067\u003E\u0020\u09AC\u09DF\u09B8\u0020\u0028" + toBangla(a) + ' বছর) ও মোট   অংক অনুযায়ী কোনো মেডিকেল টেস্টের প্রয়োজন নেই।';
+  if (prevSumAssured > (317468 ^ 317468)) {
+    var _97 = function (s, h) {
+      return s ^ h;
+    }(251932, 251929);
+    const _d9 = isPlan6 ? _0[257][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) : _0[258][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    _97 = function () {
+      return 519670 ^ 519669;
+    }();
+    var _98 = function (s, h) {
+      return s ^ h;
+    }(323707, 323698);
+    const _da = isPlan6 ? _0[259][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) : _0[260][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    _98 = (299774 ^ 299770) + (695727 ^ 695720);
+    _d7 += `<div style="font-size:13.5px; color:var(--text-muted); font-weight:700; margin-bottom:6px;">
+            <i class="fas fa-layer-group"></i> ${_d9}: ${parseFloat(currentSumAssured)[_0[255]](_0[256][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))} ৳ + পূর্ববর্তী বীমা: ${parseFloat(prevSumAssured)[_0[255]](_0[256][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))} ৳ = <strong>${_da}: ${_d2[_0[255]](_0[256][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))} ৳</strong>
+        </div>`;
+  } else if (isPlan6) {
+    _d7 += _d8;
+  }
+  var _99 = function (s, h) {
+    return s ^ h;
+  }(171310, 171308);
+  const _db = isPlan6 ? _0[261][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) : _0[262][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+  _99 = (329722 ^ 329725) + (850257 ^ 850261);
+  if (_d6[_0[171]] === (483146 ^ 483147) && _d6[791909 ^ 791909][_0[263]] === _0[231][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])) {
+    _d1[_0[47]] = _0[264][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    _d7 += _0[265][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) + toBangla(a) + _0[266][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) + _db + _0[267][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
   } else {
-    _0x3cde['\u0063\u006C\u0061\u0073\u0073\u004E\u0061\u006D\u0065'] = "\u006D\u0065\u0064\u0069\u0063\u0061\u006C\u002D\u0072\u0065\u0071\u0075\u0069\u0072\u0065\u006D\u0065\u006E\u0074\u0073\u0020\u0068\u0061\u0073\u002D\u006D\u0065\u0064";
-    _0x380g += '<div><i class="fas fa-stethoscope"></i> <strong>প্রস্তাবকের বয়স (' + toBangla(a) + "\u0020\u09AC\u099B\u09B0\u0029\u0020\u0993\u0020\u09AE\u09CB\u099F\u0020\u0020\u0020\u0985\u09A8\u09C1\u09AF\u09BE\u09DF\u09C0\u0020\u09AA\u09CD\u09B0\u09DF\u09CB\u099C\u09A8\u09C0\u09DF\u0020\u099F\u09C7\u09B8\u09CD\u099F\u09B8\u09AE\u09C2\u09B9\u003A\u003C\u002F\u0073\u0074\u0072\u006F\u006E\u0067\u003E\u003C\u002F\u0064\u0069\u0076\u003E\u003C\u0064\u0069\u0076\u0020\u0073\u0074\u0079\u006C\u0065\u003D\u0022\u006D\u0061\u0072\u0067\u0069\u006E\u002D\u0074\u006F\u0070\u003A\u0036\u0070\u0078\u003B\u0022\u003E" + _0xa56f6d['\u006D\u0061\u0070'](test => `<span class="test-tag">${test['\u006E\u0061\u006D\u0065']}</span>`)['\u006A\u006F\u0069\u006E']('') + "\u003C\u002F\u0064\u0069\u0076\u003E";
+    _d1[_0[47]] = _0[268][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    _d7 += _0[269][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) + toBangla(a) + _0[266][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) + _db + _0[270][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) + _d6[_0[243]](test => `<span class="test-tag">${test[_0[271]]}</span>`)[_0[5]](_0[3]) + _0[272][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
   }
-  if (_0x9c_0x2be > 1000000) {
-    _0x380g += '<div style="margin-top:8px; font-size:14.5px; color:#d97706; font-weight:800;"><i class="fas fa-file-invoice"></i> মোট   অংক ১০ লক্ষ টাকার বেশি হওয়ায় আয়ের উৎস সংক্রান্ত প্রমাণপত্র (Financial Document) প্রয়োজন।</div>';
+  if (_d2 > 1000000) {
+    _d7 += _0[273][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) + (isPlan6 ? _0[274][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) : _0[275][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])) + _0[276][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
   }
-  _0x3cde['\u0069\u006E\u006E\u0065\u0072\u0048\u0054\u004D\u004C'] = _0x380g;
+  _d1[_0[179]] = _d7;
 }
 function switchPlanTab(planId) {
   currentActiveTab = planId;
-  var _0x9843d = (257121 ^ 257124) + (565739 ^ 565737);
-  const _0x538f4a = document['\u0071\u0075\u0065\u0072\u0079\u0053\u0065\u006C\u0065\u0063\u0074\u006F\u0072\u0041\u006C\u006C']("\u002E\u0074\u0061\u0062\u002D\u0062\u0074\u006E");
-  _0x9843d = '\u006F\u006C\u006E\u0065\u006F\u0068';
-  _0x538f4a['\u0066\u006F\u0072\u0045\u0061\u0063\u0068'](b => b['\u0063\u006C\u0061\u0073\u0073\u004C\u0069\u0073\u0074']['\u0072\u0065\u006D\u006F\u0076\u0065']('active'));
-  const _0x2fc0cc = document['\u0071\u0075\u0065\u0072\u0079\u0053\u0065\u006C\u0065\u0063\u0074\u006F\u0072\u0041\u006C\u006C']("\u002E\u0074\u0061\u0062\u002D\u0062\u0074\u006E");
-  let _0x18_0x860 = 654881 ^ 654881;
-  if (planId === "\u0064\u0070\u0073") _0x18_0x860 = 697389 ^ 697389;else if (planId === (489982 ^ 489983)) _0x18_0x860 = 880402 ^ 880403;else if (planId === (161928 ^ 161930)) _0x18_0x860 = 790112 ^ 790114;else if (planId === (372054 ^ 372053)) _0x18_0x860 = 423487 ^ 423484;else if (planId === (389536 ^ 389540)) _0x18_0x860 = 565829 ^ 565825;else if (planId === (261220 ^ 261217)) _0x18_0x860 = 471927 ^ 471922;else if (planId === (775035 ^ 775037)) _0x18_0x860 = 774115 ^ 774117;else if (planId === (847540 ^ 847548)) _0x18_0x860 = 710645 ^ 710642;else if (planId === (882224 ^ 882233)) _0x18_0x860 = 661788 ^ 661780;else if (planId === (608516 ^ 608527)) _0x18_0x860 = 729919 ^ 729910;else if (planId === (499445 ^ 499449)) _0x18_0x860 = 810502 ^ 810508;
-  if (_0x2fc0cc[_0x18_0x860]) _0x2fc0cc[_0x18_0x860]['\u0063\u006C\u0061\u0073\u0073\u004C\u0069\u0073\u0074']['\u0061\u0064\u0064']("\u0061\u0063\u0074\u0069\u0076\u0065");
-  var _0x323e = (560039 ^ 560032) + (886261 ^ 886268);
-  const _0x2c3ed = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('header-plan-title');
-  _0x323e = 893505 ^ 893504;
-  if (_0x2c3ed) {
-    if (planId === "\u0064\u0070\u0073") {
-      _0x2c3ed['\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074'] = 'ডিপিএস গোল্ড (DPS Gold)';
+  var _100 = function (s, h) {
+    return s ^ h;
+  }(301098, 301099);
+  const _dc = document[_0[184]](_0[8][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+  _100 = function () {
+    return _0[277];
+  }();
+  _dc[_0[187]](b => b[_0[59]][_0[62]](_0[278][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])));
+  var _101 = function (s, h) {
+    return s ^ h;
+  }(391359, 391352);
+  const _dd = document[_0[184]](_0[8][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+  _101 = function () {
+    return 141620 ^ 141620;
+  }();
+  var _102 = function (s, h) {
+    return s ^ h;
+  }(128863, 128862);
+  let idx = function (s, h) {
+    return s ^ h;
+  }(485967, 485967);
+  _102 = (150859 ^ 150859) + (517049 ^ 517049);
+  if (planId === _0[120][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])) idx = function () {
+    return 674476 ^ 674476;
+  }();else if (planId === (381179 ^ 381178)) idx = function () {
+    return 797788 ^ 797789;
+  }();else if (planId === (813213 ^ 813215)) idx = function () {
+    return 516174 ^ 516172;
+  }();else if (planId === (113287 ^ 113284)) idx = function () {
+    return 984237 ^ 984238;
+  }();else if (planId === (442534 ^ 442530)) idx = function () {
+    return 656490 ^ 656494;
+  }();else if (planId === (798023 ^ 798018)) idx = function () {
+    return 404765 ^ 404760;
+  }();else if (planId === (720446 ^ 720440)) idx = function () {
+    return 346642 ^ 346644;
+  }();else if (planId === (627453 ^ 627445)) idx = function () {
+    return 854631 ^ 854624;
+  }();else if (planId === (847359 ^ 847350)) idx = function () {
+    return 268995 ^ 269003;
+  }();else if (planId === (991505 ^ 991514)) idx = function () {
+    return 470234 ^ 470227;
+  }();else if (planId === (304288 ^ 304300)) idx = function () {
+    return 818860 ^ 818854;
+  }();
+  if (_dd[idx]) _dd[idx][_0[59]][_0[60]](_0[278][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+  var _103 = function (s, h) {
+    return s ^ h;
+  }(671900, 671898);
+  const _f6 = document[_0[43]](_0[279][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+  _103 = function () {
+    return 372775 ^ 372773;
+  }();
+  if (_f6) {
+    if (planId === _0[120][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])) {
+      _f6[_0[50]] = _0[280][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
     } else if (planConfig[planId]) {
-      _0x2c3ed['\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074'] = planConfig[planId]['\u0074\u0069\u0074\u006C\u0065'];
+      _f6[_0[50]] = planConfig[planId][_0[281]];
     }
   }
-  let _0x94e7fa;
-  const _0xgaff = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0074\u0061\u0062\u002D\u0064\u0070\u0073");
-  _0x94e7fa = (265777 ^ 265781) + (761586 ^ 761586);
-  const _0x277b = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0064\u0079\u006E\u0061\u006D\u0069\u0063\u002D\u0070\u006C\u0061\u006E\u002D\u0063\u006F\u006E\u0074\u0061\u0069\u006E\u0065\u0072");
-  if (planId === "\u0064\u0070\u0073") {
-    _0xgaff['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079'] = "\u0062\u006C\u006F\u0063\u006B";
-    _0x277b['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079'] = "\u006E\u006F\u006E\u0065";
+  var _104 = function (s, h) {
+    return s + h;
+  }(520082 ^ 520081, 227727 ^ 227719);
+  const _f7 = document[_0[43]](_0[282][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+  _104 = function () {
+    return 260498 ^ 260501;
+  }();
+  var _105 = function (s, h) {
+    return s + h;
+  }(585119 ^ 585114, 161045 ^ 161053);
+  const _f8 = document[_0[43]](_0[283][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+  _105 = (105324 ^ 105316) + (827672 ^ 827664);
+  if (planId === _0[120][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])) {
+    _f7[_0[129]][_0[130]] = _0[131][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    _f8[_0[129]][_0[130]] = _0[132][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
     calculateDPS();
   } else {
-    _0xgaff['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079'] = 'none';
-    _0x277b['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079'] = 'block';
+    _f7[_0[129]][_0[130]] = _0[132][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    _f8[_0[129]][_0[130]] = _0[131][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
     renderPlanUI(planId);
   }
 }
 function renderPlanUI(planId) {
-  const _0x7f7f4a = planConfig[planId];
-  const _0xfd2c = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0064\u0079\u006E\u0061\u006D\u0069\u0063\u002D\u0070\u006C\u0061\u006E\u002D\u0063\u006F\u006E\u0074\u0061\u0069\u006E\u0065\u0072");
-  var _0xe937d = (182426 ^ 182425) + (938605 ^ 938605);
-  let _0x013b0f = _0x7f7f4a['\u0069\u0073\u0053\u0069\u006E\u0067\u006C\u0065'] ? `
+  var _106 = _0[284];
+  const _f9 = planConfig[planId];
+  _106 = (233031 ^ 233029) + (457179 ^ 457178);
+  var _107 = function (s, h) {
+    return s + h;
+  }(522732 ^ 522735, 270269 ^ 270261);
+  const _fa = document[_0[43]](_0[283][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+  _107 = function () {
+    return _0[285];
+  }();
+  var _108 = _0[286];
+  let _fb = _f9[_0[287]] ? `
         <div class="form-group">
             <label><i class="fas fa-credit-card"></i> মোড</label>
             <div class="mode-selector" style="grid-template-columns: 1fr;">
@@ -4386,29 +5462,31 @@ function renderPlanUI(planId) {
             </div>
         </div>
     `;
-  _0xe937d = (818298 ^ 818298) + (200437 ^ 200433);
-  let _0x67a17a;
-  let _0xc1278b = _0x7f7f4a['\u0069\u0073\u0050\u0065\u006E\u0073\u0069\u006F\u006E'] ? _0x7f7f4a['\u0074\u0065\u0072\u006D\u0073']['\u006D\u0061\u0070'](t => `<option value="${t}">${toBangla(t)} বছর (অবসর বয়স)</option>`)['\u006A\u006F\u0069\u006E']('') : _0x7f7f4a['\u0074\u0065\u0072\u006D\u0073']['\u006D\u0061\u0070'](t => `<option value="${t}">${toBangla(t)} বছর</option>`)['\u006A\u006F\u0069\u006E']('');
-  _0x67a17a = 109812 ^ 109813;
-  var _0x17ade = (641908 ^ 641905) + (396354 ^ 396363);
-  let _0xe3fffd = '';
-  _0x17ade = 844243 ^ 844247;
-  if (_0x7f7f4a['\u0072\u0069\u0064\u0065\u0072\u0073'] && _0x7f7f4a['\u0072\u0069\u0064\u0065\u0072\u0073']['\u006C\u0065\u006E\u0067\u0074\u0068'] > (380474 ^ 380474)) {
-    _0xe3fffd = `<div class="rider-section-title"><i class="fas fa-shield-heart"></i> সহযোগী   (Riders)</div><div class="checkbox-group">`;
-    if (_0x7f7f4a['\u0072\u0069\u0064\u0065\u0072\u0073']['\u0069\u006E\u0063\u006C\u0075\u0064\u0065\u0073']("\u0061\u0064\u0062")) _0xe3fffd += `<div class="checkbox-item"><input type="checkbox" id="p-adb" onchange="handleRiderToggle('plan', 'adb')" /><label for="p-adb"><i class="fas fa-car-crash"></i> ADB</label></div>`;
-    if (_0x7f7f4a['\u0072\u0069\u0064\u0065\u0072\u0073']['\u0069\u006E\u0063\u006C\u0075\u0064\u0065\u0073']('pdab')) _0xe3fffd += `<div class="checkbox-item"><input type="checkbox" id="p-pdab" onchange="handleRiderToggle('plan', 'pdab')" /><label for="p-pdab"><i class="fas fa-wheelchair"></i> PDAB</label></div>`;
-    if (_0x7f7f4a['\u0072\u0069\u0064\u0065\u0072\u0073']['\u0069\u006E\u0063\u006C\u0075\u0064\u0065\u0073']("\u0070\u006C\u0075\u0073")) _0xe3fffd += `<div class="checkbox-item"><input type="checkbox" id="p-plus" onchange="handleRiderToggle('plan', 'plus')" /><label for="p-plus"><i class="fas fa-plus-circle"></i> Plus</label></div>`;
-    if (_0x7f7f4a['\u0072\u0069\u0064\u0065\u0072\u0073']['\u0069\u006E\u0063\u006C\u0075\u0064\u0065\u0073']('cc')) _0xe3fffd += `<div class="checkbox-item"><input type="checkbox" id="p-cc" onchange="handleRiderToggle('plan', 'cc')" /><label for="p-cc"><i class="fas fa-heartbeat"></i> CC</label></div>`;
-    if (_0x7f7f4a['\u0072\u0069\u0064\u0065\u0072\u0073']['\u0069\u006E\u0063\u006C\u0075\u0064\u0065\u0073']("\u0077\u0070")) _0xe3fffd += `<div class="checkbox-item"><input type="checkbox" id="p-wp" onchange="handleRiderToggle('plan', 'wp')" /><label for="p-wp"><i class="fas fa-file-invoice"></i> WP</label></div>`;
-    if (_0x7f7f4a['\u0072\u0069\u0064\u0065\u0072\u0073']['\u0069\u006E\u0063\u006C\u0075\u0064\u0065\u0073']('ibr')) _0xe3fffd += `<div class="checkbox-item"><input type="checkbox" id="p-ibr" onchange="handleRiderToggle('plan', 'ibr')" /><label for="p-ibr"><i class="fas fa-hand-holding-dollar"></i> IBR</label></div>`;
-    if (_0x7f7f4a['\u0072\u0069\u0064\u0065\u0072\u0073']['\u0069\u006E\u0063\u006C\u0075\u0064\u0065\u0073']("\u0068\u0063")) _0xe3fffd += `<div class="checkbox-item"><input type="checkbox" id="p-hc" onchange="handleRiderToggle('plan', 'hc')" /><label for="p-hc"><i class="fas fa-hospital-user"></i> HC</label></div>`;
-    if (_0x7f7f4a['\u0072\u0069\u0064\u0065\u0072\u0073']['\u0069\u006E\u0063\u006C\u0075\u0064\u0065\u0073']("\u0068\u0069")) _0xe3fffd += `<div class="checkbox-item"><input type="checkbox" id="p-hi" onchange="handleRiderToggle('plan', 'hi')" /><label for="p-hi"><i class="fas fa-notes-medical"></i> HI</label></div>`;
-    _0xe3fffd += `</div>`;
-    _0xe3fffd += `<div id="p-cc-custom" class="cc-custom-group" style="display:none;">
+  _108 = (764100 ^ 764103) + (704691 ^ 704688);
+  var _109 = _0[288];
+  let _fc = _f9[_0[251]] ? _f9[_0[289]][_0[243]](t => `<option value="${t}">${toBangla(t)} বছর (অবসর বয়স)</option>`)[_0[5]](_0[3]) : _f9[_0[289]][_0[243]](t => `<option value="${t}">${toBangla(t)} বছর</option>`)[_0[5]](_0[3]);
+  _109 = function () {
+    return 881849 ^ 881850;
+  }();
+  var _110 = _0[290];
+  let _fd = _0[3];
+  _110 = (700174 ^ 700170) + (458015 ^ 458011);
+  if (_f9[_0[291]] && _f9[_0[291]][_0[171]] > (730895 ^ 730895)) {
+    _fd = `<div class="rider-section-title"><i class="fas fa-shield-heart"></i> সহযোগী   (Riders)</div><div class="checkbox-group">`;
+    if (_f9[_0[291]][_0[292]](_0[71][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))) _fd += `<div class="checkbox-item"><input type="checkbox" id="p-adb" onchange="handleRiderToggle('plan', 'adb')" /><label for="p-adb"><i class="fas fa-car-crash"></i> ADB</label></div>`;
+    if (_f9[_0[291]][_0[292]](_0[72][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))) _fd += `<div class="checkbox-item"><input type="checkbox" id="p-pdab" onchange="handleRiderToggle('plan', 'pdab')" /><label for="p-pdab"><i class="fas fa-wheelchair"></i> PDAB</label></div>`;
+    if (_f9[_0[291]][_0[292]](_0[73][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))) _fd += `<div class="checkbox-item"><input type="checkbox" id="p-plus" onchange="handleRiderToggle('plan', 'plus')" /><label for="p-plus"><i class="fas fa-plus-circle"></i> Plus</label></div>`;
+    if (_f9[_0[291]][_0[292]](_0[74][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))) _fd += `<div class="checkbox-item"><input type="checkbox" id="p-cc" onchange="handleRiderToggle('plan', 'cc')" /><label for="p-cc"><i class="fas fa-heartbeat"></i> CC</label></div>`;
+    if (_f9[_0[291]][_0[292]](_0[75][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))) _fd += `<div class="checkbox-item"><input type="checkbox" id="p-wp" onchange="handleRiderToggle('plan', 'wp')" /><label for="p-wp"><i class="fas fa-file-invoice"></i> WP</label></div>`;
+    if (_f9[_0[291]][_0[292]](_0[76][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))) _fd += `<div class="checkbox-item"><input type="checkbox" id="p-ibr" onchange="handleRiderToggle('plan', 'ibr')" /><label for="p-ibr"><i class="fas fa-hand-holding-dollar"></i> IBR</label></div>`;
+    if (_f9[_0[291]][_0[292]](_0[77][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))) _fd += `<div class="checkbox-item"><input type="checkbox" id="p-hc" onchange="handleRiderToggle('plan', 'hc')" /><label for="p-hc"><i class="fas fa-hospital-user"></i> HC</label></div>`;
+    if (_f9[_0[291]][_0[292]](_0[78][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))) _fd += `<div class="checkbox-item"><input type="checkbox" id="p-hi" onchange="handleRiderToggle('plan', 'hi')" /><label for="p-hi"><i class="fas fa-notes-medical"></i> HI</label></div>`;
+    _fd += `</div>`;
+    _fd += `<div id="p-cc-custom" class="cc-custom-group" style="display:none;">
             <div class="form-group"><label><i class="fas fa-coins"></i> CC আওতায়   অংক (ঐচ্ছিক, সর্বোচ্চ ৫ লক্ষ)</label><input type="number" id="p-cc-sa" placeholder="ফাঁকা রাখলে মূল   অংক প্রযোজ্য (সর্বোচ্চ ৫,০০,০০০)" oninput="calculatePlan(${planId})" /></div>
         </div>`;
-    if (_0x7f7f4a['\u0072\u0069\u0064\u0065\u0072\u0073']['\u0069\u006E\u0063\u006C\u0075\u0064\u0065\u0073']("\u0068\u0063")) {
-      _0xe3fffd += `
+    if (_f9[_0[291]][_0[292]](_0[77][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))) {
+      _fd += `
             <div id="p-hc-custom" class="cc-custom-group" style="display:none; margin-top:12px;">
                 <div class="form-group">
                     <label><i class="fas fa-hospital"></i> হসপিটাল কেয়ার (HC) প্ল্যান</label>
@@ -4460,8 +5538,8 @@ function renderPlanUI(planId) {
                 </div>
             </div>`;
     }
-    if (_0x7f7f4a['\u0072\u0069\u0064\u0065\u0072\u0073']['\u0069\u006E\u0063\u006C\u0075\u0064\u0065\u0073']("\u0068\u0069")) {
-      _0xe3fffd += `
+    if (_f9[_0[291]][_0[292]](_0[78][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))) {
+      _fd += `
             <div id="p-hi-custom" class="cc-custom-group" style="display:none; margin-top:12px;">
                 <div class="form-group">
                     <label><i class="fas fa-notes-medical"></i> স্বাস্থ্য   (HI) কভারেজ প্ল্যান</label>
@@ -4521,11 +5599,15 @@ function renderPlanUI(planId) {
             </div>`;
     }
   }
-  var _0x98388e = (785545 ^ 785545) + (758111 ^ 758106);
-  let _0xc17bf = '';
-  _0x98388e = 218497 ^ 218502;
-  if (planId !== (243270 ^ 243279)) {
-    _0xc17bf = `
+  var _111 = function (s, h) {
+    return s + h;
+  }(522232 ^ 522239, 146010 ^ 146013);
+  let _fe = _0[3];
+  _111 = function () {
+    return 147443 ^ 147442;
+  }();
+  if (planId !== (296631 ^ 296638)) {
+    _fe = `
             <div style="margin-top: 14px;">
                 <div class="checkbox-item">
                     <input type="checkbox" id="p-oe-check" onchange="toggleOESelector('plan', ${planId})" />
@@ -4551,11 +5633,15 @@ function renderPlanUI(planId) {
             </div>
         `;
   }
-  var _0x3_0xb93 = (172923 ^ 172921) + (811970 ^ 811970);
-  let _0xg8b26b = `<label><i class="fas fa-file-invoice"></i>   অংক (টাকা)</label>`;
-  _0x3_0xb93 = 621441 ^ 621448;
-  if (_0x7f7f4a['\u0068\u0061\u0073\u0053\u0042']) {
-    _0xg8b26b = `
+  var _112 = function (s, h) {
+    return s ^ h;
+  }(120105, 120096);
+  let _ff = `<label><i class="fas fa-file-invoice"></i>   অংক (টাকা)</label>`;
+  _112 = function () {
+    return _0[293];
+  }();
+  if (_f9[_0[294]]) {
+    _ff = `
             <div class="flex-row">
                 <label><i class="fas fa-file-invoice"></i>   অংক (টাকা)</label>
                 <button type="button" class="mini-sb-btn" onclick="openSBModal(${planId})">
@@ -4564,11 +5650,11 @@ function renderPlanUI(planId) {
             </div>
         `;
   }
-  let _0x293c;
-  let _0xe0843f = '';
-  _0x293c = 317705 ^ 317707;
-  if (_0x7f7f4a['\u0069\u0073\u0050\u0065\u006E\u0073\u0069\u006F\u006E']) {
-    _0xe0843f = `
+  var _113 = _0[295];
+  let _fg = _0[3];
+  _113 = (362356 ^ 362354) + (646071 ^ 646066);
+  if (_f9[_0[251]]) {
+    _fg = `
             <div class="form-group">
                 <div class="flex-row">
                     <label><i class="fas fa-hand-holding-dollar"></i> পেনশন অংক (Pension Amount)</label>
@@ -4585,31 +5671,31 @@ function renderPlanUI(planId) {
             </div>
         `;
   } else {
-    _0xe0843f = `
+    _fg = `
             <div class="form-group">
-                ${_0xg8b26b}
+                ${_ff}
                 <input type="number" id="p-sum" placeholder="যেমন: ২০০০০০" oninput="calculatePlan(${planId})" />
             </div>
         `;
   }
-  _0xfd2c['\u0069\u006E\u006E\u0065\u0072\u0048\u0054\u004D\u004C'] = `
-        ${_0x013b0f}
+  _fa[_0[179]] = `
+        ${_fb}
         <div class="form-group">
             <div class="flex-row">
                 <label><i class="fas fa-user"></i> প্রস্তাবকের বয়স</label>
                 <button type="button" class="mini-age-btn" onclick="openAgeModal()"><i class="fas fa-cake-candles"></i> বয়স ক্যালকুলেটর</button>
             </div>
-            <input type="number" id="p-age" placeholder="যেমন: ৩৫" min="${_0x7f7f4a['\u006D\u0069\u006E\u0041\u0067\u0065']}" max="70" oninput="calculatePlan(${planId})" />
+            <input type="number" id="p-age" placeholder="যেমন: ৩৫" min="${_f9[_0[296]]}" max="70" oninput="calculatePlan(${planId})" />
         </div>
         <div class="form-group">
             <div class="flex-row">
-                <label><i class="fas fa-clock"></i> ${_0x7f7f4a['\u0069\u0073\u0050\u0065\u006E\u0073\u0069\u006F\u006E'] ? "\u0985\u09AC\u09B8\u09B0\u0020\u0997\u09CD\u09B0\u09B9\u09A3\u09C7\u09B0\u0020\u09AC\u09DF\u09B8\u0020\u0028\u0050\u0065\u006E\u0073\u0069\u006F\u006E\u0020\u0041\u0067\u0065\u0029" : "\u09AA\u09B2\u09BF\u09B8\u09BF\u09B0\u0020\u09AE\u09C7\u09DF\u09BE\u09A6"}</label>
+                <label><i class="fas fa-clock"></i> ${_f9[_0[251]] ? _0[297][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) : _0[298][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])}</label>
                 <span id="p-pension-term-badge" style="font-size:12.5px; color:var(--primary); font-weight:700;"></span>
             </div>
-            <select id="p-term" onchange="calculatePlan(${planId})">${_0xc1278b}</select>
+            <select id="p-term" onchange="calculatePlan(${planId})">${_fc}</select>
         </div>
-        ${_0xe3fffd}
-        ${_0xc17bf}
+        ${_fd}
+        ${_fe}
         <div class="budget-box">
             <h4><i class="fas fa-lightbulb"></i> বাজেট থেকে ২০টি পছন্দসই সাজেশন</h4>
             <div class="form-group" style="margin-bottom:6px;">
@@ -4617,10 +5703,11 @@ function renderPlanUI(planId) {
             </div>
             <div id="p-sug-container" class="suggestion-list"></div>
         </div>
-        ${_0xe0843f}
+        ${_fg}
         <div id="p-error" class="error-text"></div>
         <div class="results">
             <div class="result-item"><span class="label-wrap"><i class="fas fa-percent"></i> হাজার প্রতি মূল রেট</span><span class="amount" id="res-rate">০.০০ ৳</span></div>
+            <div class="result-item" id="row-sar" style="display:none;"><span class="label-wrap"><i class="fas fa-shield-halved"></i> সাম অ্যাট রিস্ক (Sum at Risk)</span><span class="amount" id="res-sar">০ ৳</span></div>
             <div class="result-item" id="row-pension" style="display:none;"><span class="label-wrap"><i class="fas fa-hand-holding-dollar"></i> কাঙ্ক্ষিত মাসিক পেনশন</span><span class="amount" id="res-pension">০ ৳</span></div>
             <div class="result-item"><span class="label-wrap"><i class="fas fa-file-signature"></i> মূল প্রিমিয়াম</span><span class="amount" id="res-base">০ ৳</span></div>
             <div class="result-item" id="row-adb" style="display:none;"><span class="label-wrap"><i class="fas fa-car-crash"></i> ADB চার্জ</span><span class="amount" id="res-adb">০ ৳</span></div>
@@ -4644,393 +5731,1049 @@ function renderPlanUI(planId) {
         <div id="medical-plan" class="medical-requirements"></div>
     `;
   calculatePlan(planId);
-  if (typeof window['\u0062\u0069\u006E\u0064\u0044\u0079\u006E\u0061\u006D\u0069\u0063\u0050\u006C\u0061\u006E\u0052\u0069\u0064\u0065\u0072\u004C\u006F\u006E\u0067\u0050\u0072\u0065\u0073\u0073'] === "\u0066\u0075\u006E\u0063\u0074\u0069\u006F\u006E") {
-    window['\u0062\u0069\u006E\u0064\u0044\u0079\u006E\u0061\u006D\u0069\u0063\u0050\u006C\u0061\u006E\u0052\u0069\u0064\u0065\u0072\u004C\u006F\u006E\u0067\u0050\u0072\u0065\u0073\u0073']();
+  if (typeof window[_0[299]] === _0[300][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])) {
+    window[_0[299]]();
   }
 }
 function calculateDPS() {
-  let _0xf7c;
-  const _0xef6db = parseFloat(document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0064\u0065\u0070\u006F\u0073\u0069\u0074")['\u0076\u0061\u006C\u0075\u0065']) || 126373 ^ 126373;
-  _0xf7c = (850350 ^ 850351) + (711537 ^ 711543);
-  const _0xd8bae = parseFloat(document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0064\u0070\u0073\u002D\u0074\u0065\u0072\u006D")['\u0076\u0061\u006C\u0075\u0065']) || 889656 ^ 889656;
-  const _0xcd_0xg25 = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('dps-age')['\u0076\u0061\u006C\u0075\u0065'];
-  const _0x58b0fc = _0xcd_0xg25 !== '' ? parseInt(_0xcd_0xg25) : null;
-  var _0x81465b = (754942 ^ 754939) + (828323 ^ 828326);
-  const _0x922d = parseFloat(document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0064\u0070\u0073\u002D\u0070\u0072\u0065\u0076\u002D\u0073\u0061")?.value) || 789509 ^ 789509;
-  _0x81465b = (922467 ^ 922469) + (292756 ^ 292752);
-  var _0x7b27g = (142698 ^ 142701) + (379177 ^ 379168);
-  const _0x6g547c = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0064\u0070\u0073\u002D\u0061\u0064\u0062")['\u0063\u0068\u0065\u0063\u006B\u0065\u0064'];
-  _0x7b27g = '\u0067\u006A\u0069\u006D\u0068\u0070';
-  var _0x65ff1d = (732462 ^ 732461) + (804370 ^ 804368);
-  const _0x50a = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('dps-plus')['\u0063\u0068\u0065\u0063\u006B\u0065\u0064'];
-  _0x65ff1d = (960775 ^ 960782) + (316112 ^ 316117);
-  var _0x4_0xdbd = (615432 ^ 615432) + (696171 ^ 696168);
-  const _0x73b = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0064\u0070\u0073\u002D\u0063\u0063")['\u0063\u0068\u0065\u0063\u006B\u0065\u0064'];
-  _0x4_0xdbd = (206722 ^ 206731) + (289749 ^ 289750);
-  const _0x669ae = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0064\u0070\u0073\u002D\u0077\u0070")['\u0063\u0068\u0065\u0063\u006B\u0065\u0064'];
-  var _0x529f5b = (391972 ^ 391968) + (155437 ^ 155432);
-  const _0x1ea = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0064\u0070\u0073\u002D\u0068\u0069")?.checked || false;
-  _0x529f5b = "liookq";
-  const _0xb9geab = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('dps-oe-check')?.checked || false;
-  const _0xbfd = _0xb9geab ? parseFloat(document['\u0071\u0075\u0065\u0072\u0079\u0053\u0065\u006C\u0065\u0063\u0074\u006F\u0072']("\u0069\u006E\u0070\u0075\u0074\u005B\u006E\u0061\u006D\u0065\u003D\u0022\u0064\u0070\u0073\u002D\u006F\u0065\u002D\u0072\u0061\u0074\u0065\u0022\u005D\u003A\u0063\u0068\u0065\u0063\u006B\u0065\u0064")?.value) || 596101 ^ 596103 : 247447 ^ 247447;
-  var _0x91ce = (363614 ^ 363609) + (313957 ^ 313957);
-  const _0x6bc9bb = _0xef6db * (670663 ^ 670667) * _0xd8bae;
-  _0x91ce = (752757 ^ 752754) + (251024 ^ 251025);
-  const _0xc079a = 0.0925;
-  var _0x5_0x9be = (245133 ^ 245135) + (591595 ^ 591593);
-  const _0x60f7fc = _0x58b0fc || 439741 ^ 439715;
-  _0x5_0x9be = (585568 ^ 585570) + (641717 ^ 641725);
-  var _0xg69e5b = (197082 ^ 197081) + (223313 ^ 223316);
-  const _0xe9dbc = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('dps-cc-sa')?.value;
-  _0xg69e5b = "pdeomp";
-  const _0x6f91d = _0xe9dbc !== undefined && _0xe9dbc !== '' ? parseFloat(_0xe9dbc) : null;
-  var _0xb_0xe68 = (574859 ^ 574859) + (622057 ^ 622059);
-  const _0xe8e = _0x6g547c ? Math['\u0072\u006F\u0075\u006E\u0064'](_0x6bc9bb / (390508 ^ 390788) * 1.25 * _0xc079a) : 755295 ^ 755295;
-  _0xb_0xe68 = (418846 ^ 418847) + (952906 ^ 952909);
-  var _0xc61e = (762833 ^ 762835) + (256089 ^ 256080);
-  const _0x735f = _0x50a ? Math['\u0072\u006F\u0075\u006E\u0064'](_0x6bc9bb / (594168 ^ 594704) * 6.45 * _0xc079a) : 850716 ^ 850716;
-  _0xc61e = '\u0066\u0069\u0066\u006A\u006A\u006F';
-  const _0xb61ea = _0x73b ? getCCSumAssured(_0x6f91d, _0x6bc9bb) : 228578 ^ 228578;
-  let _0x3ca5ge;
-  const _0xff08e = _0x73b ? getCCRate(_0x60f7fc) : 699344 ^ 699344;
-  _0x3ca5ge = (244440 ^ 244440) + (932142 ^ 932138);
-  var _0x0aebd = (705514 ^ 705507) + (702961 ^ 702963);
-  const _0x8g85a = _0x73b ? Math['\u0072\u006F\u0075\u006E\u0064'](_0xb61ea / (902353 ^ 902969) * _0xff08e * _0xc079a) : 353615 ^ 353615;
-  _0x0aebd = '\u006E\u006E\u0067\u0065\u0064\u006C';
-  const _0x334aa = _0x669ae ? Math['\u0072\u006F\u0075\u006E\u0064'](_0x6bc9bb / (945611 ^ 945699) * getWPRate(_0x60f7fc) * _0xc079a) : 790309 ^ 790309;
-  var _0xbf69fd = (183726 ^ 183718) + (317730 ^ 317730);
-  const _0xe933dc = _0xb9geab ? Math['\u0072\u006F\u0075\u006E\u0064'](_0x6bc9bb / (969422 ^ 968998) * _0xbfd * _0xc079a) : 511657 ^ 511657;
-  _0xbf69fd = 425865 ^ 425865;
-  let _0xdef7cc;
-  let _0x4acdc = 807423 ^ 807423;
-  _0xdef7cc = (950389 ^ 950386) + (599352 ^ 599356);
-  if (_0x1ea) {
-    var _0xf83bcf = (599222 ^ 599217) + (218676 ^ 218672);
-    const _0x4fd45a = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0064\u0070\u0073\u002D\u0068\u0069\u002D\u0074\u0069\u0065\u0072")?.value || "\u0073\u0069\u006C\u0076\u0065\u0072";
-    _0xf83bcf = "bcbjmo";
-    const _0x7184fe = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0064\u0070\u0073\u002D\u0068\u0069\u002D\u0073\u0065\u006C\u0066")?.checked || false;
-    const _0x86b9ef = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('dps-hi-spouse')?.checked || false;
-    var _0x88d = (685587 ^ 685587) + (951605 ^ 951605);
-    const _0xa28c = parseInt(document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0064\u0070\u0073\u002D\u0068\u0069\u002D\u0073\u0070\u006F\u0075\u0073\u0065\u002D\u0061\u0067\u0065")?.value) || _0x60f7fc;
-    _0x88d = (722092 ^ 722091) + (559575 ^ 559573);
-    let _0x23fed;
-    const _0xa4cd = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0064\u0070\u0073\u002D\u0068\u0069\u002D\u0063\u0068\u0069\u006C\u0064")?.checked || false;
-    _0x23fed = 485447 ^ 485455;
-    let _0x38b4ce;
-    let _0x8748ga = 539612 ^ 539612;
-    _0x38b4ce = "mlngae";
-    if (_0xa4cd) {
-      var _0xa_0xbf5 = (588876 ^ 588868) + (681987 ^ 681995);
-      const _0x28cb = getValidHIChildAges("\u0064\u0070\u0073");
-      _0xa_0xbf5 = (900307 ^ 900309) + (912068 ^ 912066);
-      const _0x5ff5b = document['\u0071\u0075\u0065\u0072\u0079\u0053\u0065\u006C\u0065\u0063\u0074\u006F\u0072\u0041\u006C\u006C']('.dps-hi-child-age');
-      _0x8748ga = _0x28cb['\u006C\u0065\u006E\u0067\u0074\u0068'] > (196294 ^ 196294) ? _0x28cb['\u006C\u0065\u006E\u0067\u0074\u0068'] : _0x5ff5b['\u006C\u0065\u006E\u0067\u0074\u0068'];
-    }
-    let _0x616c;
-    const _0x62d54a = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0064\u0070\u0073\u002D\u0068\u0069\u002D\u006D\u0061\u0074\u0065\u0072\u006E\u0069\u0074\u0079")?.value || "\u006E\u006F\u006E\u0065";
-    _0x616c = (146977 ^ 146982) + (652791 ^ 652798);
-    let _0x98e;
-    const _0xf5f51e = calculateHIAnnual(_0x4fd45a, _0x60f7fc, _0x7184fe, _0x86b9ef, _0xa28c, _0x8748ga, _0x62d54a);
-    _0x98e = '\u0064\u006D\u0069\u006E\u0067\u0071';
-    _0x4acdc = Math['\u0072\u006F\u0075\u006E\u0064'](_0xf5f51e * _0xc079a);
+  var _114 = function (s, h) {
+    return s ^ h;
+  }(144356, 144357);
+  const _fh = parseFloat(document[_0[43]](_0[301][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[188]]) || 459672 ^ 459672;
+  _114 = function () {
+    return _0[302];
+  }();
+  var _115 = _0[303];
+  const _fi = parseInt(document[_0[43]](_0[304][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[188]]) || 360150 ^ 360150;
+  _115 = function () {
+    return 384323 ^ 384330;
+  }();
+  var _116 = function (s, h) {
+    return s + h;
+  }(903725 ^ 903720, 437254 ^ 437254);
+  const _fj = document[_0[43]](_0[305][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[188]];
+  _116 = function () {
+    return 658933 ^ 658933;
+  }();
+  var _117 = function (s, h) {
+    return s + h;
+  }(491773 ^ 491765, 760365 ^ 760364);
+  const age = _fj !== _0[3] ? parseInt(_fj) : null;
+  _117 = (212823 ^ 212830) + (615256 ^ 615257);
+  var _118 = _0[306];
+  const _hc = parseFloat(document[_0[43]](_0[307][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[188]]) || 480742 ^ 480742;
+  _118 = (472935 ^ 472935) + (324695 ^ 324694);
+  var _119 = function (s, h) {
+    return s + h;
+  }(438247 ^ 438242, 114951 ^ 114948);
+  const _hd = document[_0[43]](_0[308][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+  _119 = function () {
+    return 246075 ^ 246077;
+  }();
+  if (_hd) _hd[_0[50]] = function () {
+    return _0[3];
+  }();
+  var _120 = function (s, h) {
+    return s ^ h;
+  }(982931, 982932);
+  const _he = document[_0[43]](_0[139][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[126]];
+  _120 = function () {
+    return 431247 ^ 431245;
+  }();
+  var _121 = function (s, h) {
+    return s + h;
+  }(546854 ^ 546863, 230218 ^ 230211);
+  const _hf = document[_0[43]](_0[136][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[126]];
+  _121 = (580795 ^ 580792) + (952814 ^ 952809);
+  var _122 = _0[309];
+  const _hg = document[_0[43]](_0[140][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[126]];
+  _122 = function () {
+    return 961024 ^ 961031;
+  }();
+  var _123 = function (s, h) {
+    return s ^ h;
+  }(532769, 532777);
+  const _hh = document[_0[43]](_0[310][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[126]];
+  _123 = function () {
+    return _0[311];
+  }();
+  var _124 = function (s, h) {
+    return s + h;
+  }(599992 ^ 599984, 449673 ^ 449675);
+  const _hi = document[_0[43]](_0[144][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[126]] || ![];
+  _124 = (600611 ^ 600618) + (488214 ^ 488223);
+  var _125 = function (s, h) {
+    return s + h;
+  }(986186 ^ 986188, 583554 ^ 583552);
+  const _hj = document[_0[43]](_0[125][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[126]] || ![];
+  _125 = function () {
+    return _0[312];
+  }();
+  var _126 = _0[313];
+  const _hk = _hj ? parseFloat(document[_0[314]](_0[315][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[188]]) || 137874 ^ 137872 : 445713 ^ 445713;
+  _126 = function () {
+    return 797627 ^ 797627;
+  }();
+  var _127 = function (s, h) {
+    return s + h;
+  }(311669 ^ 311670, 778221 ^ 778217);
+  const _hl = 0.0925;
+  _127 = function () {
+    return 546562 ^ 546563;
+  }();
+  if (!_fh || !age || !_fi) {
+    document[_0[43]](_0[316][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[50]] = _0[317][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    document[_0[43]](_0[318][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[50]] = _0[317][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    document[_0[43]](_0[319][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[50]] = _0[317][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    document[_0[43]](_0[320][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[50]] = _0[317][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    document[_0[43]](_0[321][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[50]] = _0[317][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    document[_0[43]](_0[322][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[50]] = _0[317][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    document[_0[43]](_0[323][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[50]] = _0[317][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    document[_0[43]](_0[324][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[50]] = _fh > (379919 ^ 379919) ? _fh[_0[255]](_0[256][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])) + _0[325][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) : _0[317][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    document[_0[43]](_0[326][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[129]][_0[130]] = _he ? _0[143][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) : _0[132][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    document[_0[43]](_0[327][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[129]][_0[130]] = _hf ? _0[143][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) : _0[132][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    document[_0[43]](_0[328][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[129]][_0[130]] = _hg ? _0[143][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) : _0[132][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    document[_0[43]](_0[329][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[129]][_0[130]] = _hh ? _0[143][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) : _0[132][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    document[_0[43]](_0[330][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[129]][_0[130]] = _hi ? _0[143][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) : _0[132][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    document[_0[43]](_0[331][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[129]][_0[130]] = _hj ? _0[143][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) : _0[132][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    document[_0[43]](_0[142][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[129]][_0[130]] = _hg ? _0[143][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) : _0[132][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    document[_0[43]](_0[145][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[129]][_0[130]] = _hi ? _0[143][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) : _0[132][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    updateMedicalDisplay(_0[332][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), age, 381550 ^ 381550, _hc, _fi);
+    return;
   }
-  const _0xb88e = _0xef6db + _0xe8e + _0x735f + _0x8g85a + _0x334aa + _0x4acdc + _0xe933dc;
-  document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('dps-sumAssured')['\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074'] = _0x6bc9bb['\u0074\u006F\u004C\u006F\u0063\u0061\u006C\u0065\u0053\u0074\u0072\u0069\u006E\u0067']('bn-BD') + "\u0020\u09F3";
-  document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('dps-adbAmount')['\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074'] = _0xe8e['\u0074\u006F\u004C\u006F\u0063\u0061\u006C\u0065\u0053\u0074\u0072\u0069\u006E\u0067']('bn-BD') + ' ৳';
-  document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0064\u0070\u0073\u002D\u0070\u006C\u0075\u0073\u0041\u006D\u006F\u0075\u006E\u0074")['\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074'] = _0x735f['\u0074\u006F\u004C\u006F\u0063\u0061\u006C\u0065\u0053\u0074\u0072\u0069\u006E\u0067']('bn-BD') + "\u0020\u09F3";
-  document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0064\u0070\u0073\u002D\u0063\u0063\u0041\u006D\u006F\u0075\u006E\u0074")['\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074'] = _0x8g85a['\u0074\u006F\u004C\u006F\u0063\u0061\u006C\u0065\u0053\u0074\u0072\u0069\u006E\u0067']('bn-BD') + "\u0020\u09F3";
-  document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('dps-wpAmount')['\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074'] = _0x334aa['\u0074\u006F\u004C\u006F\u0063\u0061\u006C\u0065\u0053\u0074\u0072\u0069\u006E\u0067']("\u0062\u006E\u002D\u0042\u0044") + "\u0020\u09F3";
-  document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('dps-hiAmount')['\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074'] = _0x4acdc['\u0074\u006F\u004C\u006F\u0063\u0061\u006C\u0065\u0053\u0074\u0072\u0069\u006E\u0067']('bn-BD') + ' ৳';
-  document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0064\u0070\u0073\u002D\u006F\u0065\u0041\u006D\u006F\u0075\u006E\u0074")['\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074'] = _0xe933dc['\u0074\u006F\u004C\u006F\u0063\u0061\u006C\u0065\u0053\u0074\u0072\u0069\u006E\u0067']("\u0062\u006E\u002D\u0042\u0044") + "\u0020\u09F3";
-  document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0064\u0070\u0073\u002D\u0074\u006F\u0074\u0061\u006C\u004D\u006F\u006E\u0074\u0068\u006C\u0079")['\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074'] = _0xb88e['\u0074\u006F\u004C\u006F\u0063\u0061\u006C\u0065\u0053\u0074\u0072\u0069\u006E\u0067']("\u0062\u006E\u002D\u0042\u0044") + ' ৳';
-  document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0072\u006F\u0077\u002D\u0064\u0070\u0073\u002D\u0061\u0064\u0062")['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079'] = _0x6g547c ? "\u0066\u006C\u0065\u0078" : "\u006E\u006F\u006E\u0065";
-  document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0072\u006F\u0077\u002D\u0064\u0070\u0073\u002D\u0070\u006C\u0075\u0073")['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079'] = _0x50a ? "\u0066\u006C\u0065\u0078" : "\u006E\u006F\u006E\u0065";
-  document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0072\u006F\u0077\u002D\u0064\u0070\u0073\u002D\u0063\u0063")['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079'] = _0x73b ? "\u0066\u006C\u0065\u0078" : "\u006E\u006F\u006E\u0065";
-  document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('row-dps-wp')['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079'] = _0x669ae ? "\u0066\u006C\u0065\u0078" : 'none';
-  document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('row-dps-hi')['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079'] = _0x1ea ? "\u0066\u006C\u0065\u0078" : "\u006E\u006F\u006E\u0065";
-  document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0072\u006F\u0077\u002D\u0064\u0070\u0073\u002D\u006F\u0065")['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079'] = _0xb9geab ? 'flex' : "\u006E\u006F\u006E\u0065";
-  document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0064\u0070\u0073\u002D\u0063\u0063\u002D\u0063\u0075\u0073\u0074\u006F\u006D")['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079'] = _0x73b ? 'flex' : "\u006E\u006F\u006E\u0065";
-  document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0064\u0070\u0073\u002D\u0068\u0069\u002D\u0063\u0075\u0073\u0074\u006F\u006D")['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079'] = _0x1ea ? "\u0066\u006C\u0065\u0078" : "\u006E\u006F\u006E\u0065";
-  updateMedicalDisplay("\u006D\u0065\u0064\u0069\u0063\u0061\u006C\u002D\u0064\u0070\u0073", _0x58b0fc, _0x6bc9bb, _0x922d, _0xd8bae);
+  var _128 = _0[333];
+  const _hm = monthlySavingRates;
+  _128 = function () {
+    return 936029 ^ 936021;
+  }();
+  if (!_hm || !_hm[age] || !_hm[age][_fi]) {
+    if (_hd) {
+      _hd[_0[179]] = `<i class="fas fa-circle-exclamation"></i> বয়স (${toBangla(age)}) ও মেয়াদ (${toBangla(_fi)} বছর)-এর জন্য রেট প্রযোজ্য নয়।`;
+    }
+    document[_0[43]](_0[316][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[50]] = _0[317][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    document[_0[43]](_0[318][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[50]] = _0[317][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    document[_0[43]](_0[319][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[50]] = _0[317][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    document[_0[43]](_0[320][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[50]] = _0[317][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    document[_0[43]](_0[321][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[50]] = _0[317][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    document[_0[43]](_0[322][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[50]] = _0[317][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    document[_0[43]](_0[323][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[50]] = _0[317][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    document[_0[43]](_0[324][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[50]] = _fh[_0[255]](_0[256][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])) + _0[325][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    document[_0[43]](_0[326][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[129]][_0[130]] = _he ? _0[143][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) : _0[132][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    document[_0[43]](_0[327][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[129]][_0[130]] = _hf ? _0[143][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) : _0[132][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    document[_0[43]](_0[328][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[129]][_0[130]] = _hg ? _0[143][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) : _0[132][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    document[_0[43]](_0[329][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[129]][_0[130]] = _hh ? _0[143][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) : _0[132][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    document[_0[43]](_0[330][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[129]][_0[130]] = _hi ? _0[143][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) : _0[132][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    document[_0[43]](_0[331][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[129]][_0[130]] = _hj ? _0[143][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) : _0[132][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    document[_0[43]](_0[142][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[129]][_0[130]] = _hg ? _0[143][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) : _0[132][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    document[_0[43]](_0[145][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[129]][_0[130]] = _hi ? _0[143][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) : _0[132][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    updateMedicalDisplay(_0[332][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), age, 566312 ^ 566312, _hc, _fi);
+    return;
+  }
+  var _129 = function (s, h) {
+    return s + h;
+  }(858342 ^ 858351, 795577 ^ 795576);
+  const _hn = _hm[age][_fi];
+  _129 = (854411 ^ 854409) + (355020 ^ 355021);
+  var _130 = _0[334];
+  const _ho = Math[_0[335]](_hn * (_fh / (185391 ^ 186311)));
+  _130 = function () {
+    return 656999 ^ 656996;
+  }();
+  var _131 = function (s, h) {
+    return s + h;
+  }(614446 ^ 614438, 632441 ^ 632446);
+  const _hp = age;
+  _131 = (526502 ^ 526510) + (859825 ^ 859828);
+  var _132 = function (s, h) {
+    return s ^ h;
+  }(133533, 133525);
+  const _hq = document[_0[43]](_0[336][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[188]];
+  _132 = function () {
+    return 237291 ^ 237289;
+  }();
+  var _133 = _0[337];
+  const _hr = _hq !== undefined && _hq !== _0[3] ? parseFloat(_hq) : null;
+  _133 = function () {
+    return _0[337];
+  }();
+  var _134 = function (s, h) {
+    return s + h;
+  }(791597 ^ 791598, 874927 ^ 874926);
+  const _hs = _he ? Math[_0[335]](_ho / (844411 ^ 844179) * 1.25 * _hl) : 881390 ^ 881390;
+  _134 = function () {
+    return 511414 ^ 511411;
+  }();
+  var _135 = _0[338];
+  const _ht = _hf ? Math[_0[335]](_ho / (126607 ^ 126311) * 6.45 * _hl) : 522710 ^ 522710;
+  _135 = function () {
+    return 321098 ^ 321102;
+  }();
+  var _136 = function (s, h) {
+    return s ^ h;
+  }(495980, 495972);
+  const _hu = _hg ? getCCSumAssured(_hr, _ho) : 675780 ^ 675780;
+  _136 = (201129 ^ 201121) + (264055 ^ 264048);
+  var _137 = function (s, h) {
+    return s ^ h;
+  }(671290, 671282);
+  const _hv = _hg ? getCCRate(_hp) : 174733 ^ 174733;
+  _137 = (433371 ^ 433368) + (816311 ^ 816304);
+  var _138 = function (s, h) {
+    return s ^ h;
+  }(958855, 958862);
+  const _hw = _hg ? Math[_0[335]](_hu / (784968 ^ 784800) * _hv * _hl) : 348595 ^ 348595;
+  _138 = function () {
+    return 540426 ^ 540430;
+  }();
+  var _139 = function (s, h) {
+    return s + h;
+  }(729818 ^ 729819, 442670 ^ 442668);
+  const _hx = _hh ? Math[_0[335]](_ho / (617212 ^ 616724) * getWPRate(_hp) * _hl) : 557484 ^ 557484;
+  _139 = (581471 ^ 581466) + (973726 ^ 973724);
+  var _140 = function (s, h) {
+    return s ^ h;
+  }(117839, 117835);
+  const _hy = _hj ? Math[_0[335]](_ho / (605589 ^ 605821) * _hk * _hl) : 712935 ^ 712935;
+  _140 = function () {
+    return 371609 ^ 371611;
+  }();
+  var _141 = function (s, h) {
+    return s ^ h;
+  }(751044, 751041);
+  let _hz = function (s, h) {
+    return s ^ h;
+  }(367516, 367516);
+  _141 = function () {
+    return 973358 ^ 973355;
+  }();
+  if (_hi) {
+    var _142 = _0[339];
+    const _i0 = document[_0[43]](_0[340][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[188]] || _0[197][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    _142 = function () {
+      return _0[339];
+    }();
+    var _143 = function (s, h) {
+      return s ^ h;
+    }(664697, 664702);
+    const _i1 = document[_0[43]](_0[341][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[126]] || ![];
+    _143 = (167824 ^ 167824) + (203957 ^ 203959);
+    var _144 = function (s, h) {
+      return s + h;
+    }(299900 ^ 299896, 893050 ^ 893054);
+    const _i2 = document[_0[43]](_0[342][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[126]] || ![];
+    _144 = (798567 ^ 798574) + (795091 ^ 795089);
+    var _145 = _0[343];
+    const _i3 = parseInt(document[_0[43]](_0[344][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[188]]) || _hp;
+    _145 = (874102 ^ 874097) + (652689 ^ 652693);
+    var _146 = _0[345];
+    const _i4 = document[_0[43]](_0[346][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[126]] || ![];
+    _146 = function () {
+      return 722490 ^ 722491;
+    }();
+    var _147 = function (s, h) {
+      return s + h;
+    }(301724 ^ 301717, 539209 ^ 539210);
+    let _i5 = function (s, h) {
+      return s ^ h;
+    }(110533, 110533);
+    _147 = function () {
+      return 227065 ^ 227064;
+    }();
+    if (_i4) {
+      var _148 = _0[347];
+      const _i6 = getValidHIChildAges(_0[120][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+      _148 = (574821 ^ 574818) + (294015 ^ 294011);
+      var _149 = _0[348];
+      const _i7 = document[_0[184]](_0[349][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+      _149 = (980823 ^ 980816) + (157051 ^ 157050);
+      _i5 = _i6[_0[171]] > (800115 ^ 800115) ? _i6[_0[171]] : _i7[_0[171]];
+    }
+    var _150 = function (s, h) {
+      return s ^ h;
+    }(447664, 447667);
+    const _i8 = document[_0[43]](_0[350][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[188]] || _0[132][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    _150 = function () {
+      return 202902 ^ 202899;
+    }();
+    var _151 = function (s, h) {
+      return s + h;
+    }(934457 ^ 934457, 724655 ^ 724650);
+    const _i9 = calculateHIAnnual(_i0, _hp, _i1, _i2, _i3, _i5, _i8);
+    _151 = (308957 ^ 308959) + (573377 ^ 573383);
+    _hz = Math[_0[335]](_i9 * _hl);
+  }
+  var _152 = function (s, h) {
+    return s + h;
+  }(276524 ^ 276526, 707800 ^ 707801);
+  const _ia = function (s, h) {
+    return s + h;
+  }(_fh + _hs + _ht + _hw + _hx + _hz, _hy);
+  _152 = function () {
+    return 904746 ^ 904739;
+  }();
+  document[_0[43]](_0[316][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[50]] = _ho[_0[255]](_0[256][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])) + _0[325][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+  document[_0[43]](_0[318][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[50]] = _hs[_0[255]](_0[256][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])) + _0[325][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+  document[_0[43]](_0[319][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[50]] = _ht[_0[255]](_0[256][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])) + _0[325][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+  document[_0[43]](_0[320][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[50]] = _hw[_0[255]](_0[256][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])) + _0[325][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+  document[_0[43]](_0[321][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[50]] = _hx[_0[255]](_0[256][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])) + _0[325][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+  document[_0[43]](_0[322][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[50]] = _hz[_0[255]](_0[256][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])) + _0[325][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+  document[_0[43]](_0[323][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[50]] = _hy[_0[255]](_0[256][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])) + _0[325][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+  document[_0[43]](_0[324][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[50]] = _ia[_0[255]](_0[256][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])) + _0[325][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+  document[_0[43]](_0[326][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[129]][_0[130]] = _he ? _0[143][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) : _0[132][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+  document[_0[43]](_0[327][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[129]][_0[130]] = _hf ? _0[143][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) : _0[132][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+  document[_0[43]](_0[328][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[129]][_0[130]] = _hg ? _0[143][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) : _0[132][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+  document[_0[43]](_0[329][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[129]][_0[130]] = _hh ? _0[143][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) : _0[132][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+  document[_0[43]](_0[330][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[129]][_0[130]] = _hi ? _0[143][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) : _0[132][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+  document[_0[43]](_0[331][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[129]][_0[130]] = _hj ? _0[143][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) : _0[132][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+  document[_0[43]](_0[142][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[129]][_0[130]] = _hg ? _0[143][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) : _0[132][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+  document[_0[43]](_0[145][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[129]][_0[130]] = _hi ? _0[143][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) : _0[132][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+  updateMedicalDisplay(_0[332][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), age, _ho, _hc, _fi);
 }
 function updatePensionHint(pAmount) {
-  const _0xded8d = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u006D\u006F\u006E\u0074\u0068\u006C\u0079\u002D\u0070\u0065\u006E\u0073\u0069\u006F\u006E\u002D\u0068\u0069\u006E\u0074");
-  if (!_0xded8d) return;
-  if (pAmount > (422841 ^ 422841)) {
-    var _0xe_0xa5c = (837459 ^ 837458) + (465873 ^ 465880);
-    const _0x473fd = Math['\u0072\u006F\u0075\u006E\u0064'](pAmount / (818831 ^ 818819));
-    _0xe_0xa5c = '\u006B\u006E\u0062\u0063\u0070\u0066';
-    _0xded8d['\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074'] = `(মাসিক: ${_0x473fd['\u0074\u006F\u004C\u006F\u0063\u0061\u006C\u0065\u0053\u0074\u0072\u0069\u006E\u0067']('bn-BD')} ৳)`;
+  var _153 = function (s, h) {
+    return s ^ h;
+  }(331410, 331418);
+  const _ib = document[_0[43]](_0[351][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+  _153 = function () {
+    return _0[352];
+  }();
+  if (!_ib) return;
+  if (pAmount > (960456 ^ 960456)) {
+    var _154 = function (s, h) {
+      return s + h;
+    }(975837 ^ 975836, 648314 ^ 648317);
+    const _ic = Math[_0[335]](pAmount / (218628 ^ 218632));
+    _154 = (587087 ^ 587078) + (121167 ^ 121162);
+    _ib[_0[50]] = `(মাসিক: ${_ic[_0[255]](_0[256][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))} ৳)`;
   } else {
-    _0xded8d['\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074'] = '';
+    _ib[_0[50]] = function () {
+      return _0[3];
+    }();
   }
 }
 function handlePensionAmountChange(planId) {
-  let _0xb48e;
-  const _0x9827cb = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0070\u0065\u006E\u0073\u0069\u006F\u006E\u002D\u0061\u006D\u006F\u0075\u006E\u0074");
-  _0xb48e = (156274 ^ 156279) + (255365 ^ 255367);
-  var _0x2gf7cb = (872095 ^ 872093) + (511112 ^ 511119);
-  const _0xa17d1d = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('p-sum');
-  _0x2gf7cb = (531614 ^ 531606) + (462779 ^ 462776);
-  if (!_0x9827cb || !_0xa17d1d) return;
-  var _0x3a_0xe66 = (446910 ^ 446904) + (747998 ^ 747999);
-  const _0x614a = parseFloat(_0x9827cb['\u0076\u0061\u006C\u0075\u0065']) || 179553 ^ 179553;
-  _0x3a_0xe66 = (172928 ^ 172934) + (425868 ^ 425868);
-  if (_0x614a > (225897 ^ 225897)) {
-    _0xa17d1d['\u0076\u0061\u006C\u0075\u0065'] = _0x614a * (169062 ^ 169068);
-    updatePensionHint(_0x614a);
+  var _155 = function (s, h) {
+    return s + h;
+  }(275565 ^ 275562, 151891 ^ 151891);
+  const _id = document[_0[43]](_0[353][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+  _155 = (946918 ^ 946927) + (892423 ^ 892430);
+  var _156 = _0[354];
+  const _ie = document[_0[43]](_0[355][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+  _156 = (580376 ^ 580381) + (989149 ^ 989146);
+  if (!_id || !_ie) return;
+  var _157 = _0[356];
+  const _if = parseFloat(_id[_0[188]]) || 580727 ^ 580727;
+  _157 = function () {
+    return _0[356];
+  }();
+  if (_if > (159953 ^ 159953)) {
+    _ie[_0[188]] = _if * (417042 ^ 417048);
+    updatePensionHint(_if);
   } else {
-    _0xa17d1d['\u0076\u0061\u006C\u0075\u0065'] = '';
-    updatePensionHint(160691 ^ 160691);
+    _ie[_0[188]] = function () {
+      return _0[3];
+    }();
+    updatePensionHint(377991 ^ 377991);
   }
   calculatePlan(planId);
 }
 function handlePensionSumChange(planId) {
-  let _0x2deg;
-  const _0x481b = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0070\u0065\u006E\u0073\u0069\u006F\u006E\u002D\u0061\u006D\u006F\u0075\u006E\u0074");
-  _0x2deg = 563238 ^ 563239;
-  var _0xa828f = (610586 ^ 610591) + (167414 ^ 167408);
-  const _0x07afa = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('p-sum');
-  _0xa828f = (895599 ^ 895597) + (485087 ^ 485082);
-  if (!_0x481b || !_0x07afa) return;
-  const _0x192g = parseFloat(_0x07afa['\u0076\u0061\u006C\u0075\u0065']) || 925325 ^ 925325;
-  if (_0x192g > (370944 ^ 370944)) {
-    const _0xe880d = Math['\u0072\u006F\u0075\u006E\u0064'](_0x192g / (187391 ^ 187381));
-    _0x481b['\u0076\u0061\u006C\u0075\u0065'] = _0xe880d;
-    updatePensionHint(_0xe880d);
+  var _158 = function (s, h) {
+    return s + h;
+  }(215093 ^ 215088, 249080 ^ 249072);
+  const _ig = document[_0[43]](_0[353][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+  _158 = function () {
+    return _0[357];
+  }();
+  var _159 = _0[358];
+  const _ih = document[_0[43]](_0[355][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+  _159 = function () {
+    return _0[358];
+  }();
+  if (!_ig || !_ih) return;
+  var _160 = _0[359];
+  const _ii = parseFloat(_ih[_0[188]]) || 587098 ^ 587098;
+  _160 = (143515 ^ 143512) + (845524 ^ 845527);
+  if (_ii > (143769 ^ 143769)) {
+    var _161 = function (s, h) {
+      return s + h;
+    }(579903 ^ 579894, 138925 ^ 138925);
+    const _ij = Math[_0[335]](_ii / (875356 ^ 875350));
+    _161 = (597795 ^ 597803) + (237201 ^ 237205);
+    _ig[_0[188]] = _ij;
+    updatePensionHint(_ij);
   } else {
-    _0x481b['\u0076\u0061\u006C\u0075\u0065'] = '';
-    updatePensionHint(346345 ^ 346345);
+    _ig[_0[188]] = function () {
+      return _0[3];
+    }();
+    updatePensionHint(177223 ^ 177223);
   }
   calculatePlan(planId);
 }
 function calculatePlan(planId) {
-  const _0x7b867e = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('p-age');
-  let _0xe64a;
-  const _0x3a2a7c = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0073\u0075\u006D");
-  _0xe64a = (717367 ^ 717367) + (255218 ^ 255221);
-  const _0x754b7b = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('p-term');
-  var _0x73f = (920572 ^ 920575) + (673123 ^ 673124);
-  const _0xe3905b = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0070\u0072\u0065\u0076\u002D\u0073\u0061");
-  _0x73f = 692104 ^ 692105;
-  if (!_0x7b867e || !_0x3a2a7c || !_0x754b7b) return;
-  var _0xa29a = (600361 ^ 600367) + (340809 ^ 340810);
-  const _0xed1c = _0x7b867e['\u0076\u0061\u006C\u0075\u0065'] !== '' ? parseInt(_0x7b867e['\u0076\u0061\u006C\u0075\u0065']) : null;
-  _0xa29a = (573929 ^ 573933) + (634365 ^ 634365);
-  const _0xeed6c = parseFloat(_0x3a2a7c['\u0076\u0061\u006C\u0075\u0065']) || 224069 ^ 224069;
-  const _0x6e1gb = _0xe3905b ? parseFloat(_0xe3905b['\u0076\u0061\u006C\u0075\u0065']) || 951475 ^ 951475 : 483676 ^ 483676;
-  var _0xdaf5cf = (568529 ^ 568532) + (981184 ^ 981185);
-  const _0x9703c = parseInt(_0x754b7b['\u0076\u0061\u006C\u0075\u0065']) || 350904 ^ 350904;
-  _0xdaf5cf = '\u006A\u006F\u0065\u006B\u0064\u006C';
-  const _0x6bd = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0065\u0072\u0072\u006F\u0072");
-  _0x6bd['\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074'] = '';
-  let _0x6213c;
-  const _0xf6859b = planConfig[planId];
-  _0x6213c = 286948 ^ 286951;
-  const _0xbbae = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0070\u0065\u006E\u0073\u0069\u006F\u006E\u002D\u0074\u0065\u0072\u006D\u002D\u0062\u0061\u0064\u0067\u0065");
-  if (_0xbbae) {
-    if (_0xf6859b?.isPension && _0xed1c && _0x9703c && _0x9703c > _0xed1c) {
-      _0xbbae['\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074'] = `মেয়াদ (Term): ${toBangla(_0x9703c - _0xed1c)} বছর`;
+  var _162 = function (s, h) {
+    return s ^ h;
+  }(854089, 854088);
+  const _ik = document[_0[43]](_0[360][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+  _162 = function () {
+    return 333408 ^ 333414;
+  }();
+  var _163 = function (s, h) {
+    return s + h;
+  }(946080 ^ 946089, 127575 ^ 127574);
+  const _il = document[_0[43]](_0[355][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+  _163 = function () {
+    return 421503 ^ 421495;
+  }();
+  var _164 = function (s, h) {
+    return s ^ h;
+  }(464292, 464290);
+  const _im = document[_0[43]](_0[361][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+  _164 = function () {
+    return 371404 ^ 371402;
+  }();
+  var _165 = function (s, h) {
+    return s + h;
+  }(919727 ^ 919724, 495249 ^ 495248);
+  const _in = document[_0[43]](_0[362][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+  _165 = function () {
+    return 124873 ^ 124875;
+  }();
+  if (!_ik || !_il || !_im) return;
+  var _166 = function (s, h) {
+    return s + h;
+  }(272659 ^ 272657, 200083 ^ 200091);
+  const age = _ik[_0[188]] !== _0[3] ? parseInt(_ik[_0[188]]) : null;
+  _166 = (400230 ^ 400239) + (251600 ^ 251609);
+  var _167 = function (s, h) {
+    return s + h;
+  }(982717 ^ 982712, 597155 ^ 597158);
+  const sum = parseFloat(_il[_0[188]]) || 770382 ^ 770382;
+  _167 = function () {
+    return 659074 ^ 659082;
+  }();
+  var _168 = _0[363];
+  const _m8 = _in ? parseFloat(_in[_0[188]]) || 216618 ^ 216618 : 248108 ^ 248108;
+  _168 = (484898 ^ 484906) + (148022 ^ 148018);
+  var _169 = _0[364];
+  const _m9 = parseInt(_im[_0[188]]) || 689619 ^ 689619;
+  _169 = (212037 ^ 212033) + (131630 ^ 131631);
+  var _170 = function (s, h) {
+    return s + h;
+  }(573707 ^ 573699, 695456 ^ 695462);
+  const _ma = document[_0[43]](_0[365][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+  _170 = function () {
+    return _0[366];
+  }();
+  _ma[_0[50]] = function () {
+    return _0[3];
+  }();
+  var _171 = function (s, h) {
+    return s ^ h;
+  }(226925, 226921);
+  const _mb = planConfig[planId];
+  _171 = function () {
+    return _0[367];
+  }();
+  var _172 = function (s, h) {
+    return s + h;
+  }(480341 ^ 480343, 488096 ^ 488105);
+  const _mc = document[_0[43]](_0[368][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+  _172 = function () {
+    return 396528 ^ 396536;
+  }();
+  if (_mc) {
+    if (_mb?.[_0[251]] && age && _m9 && _m9 > age) {
+      _mc[_0[50]] = `মেয়াদ (Term): ${toBangla(_m9 - age)} বছর`;
     } else {
-      _0xbbae['\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074'] = '';
+      _mc[_0[50]] = function () {
+        return _0[3];
+      }();
     }
   }
-  updateMedicalDisplay("\u006D\u0065\u0064\u0069\u0063\u0061\u006C\u002D\u0070\u006C\u0061\u006E", _0xed1c, _0xeed6c, _0x6e1gb, _0x9703c);
-  let _0x3a6d8g;
-  const _0x1588ed = document['\u0071\u0075\u0065\u0072\u0079\u0053\u0065\u006C\u0065\u0063\u0074\u006F\u0072']("\u0069\u006E\u0070\u0075\u0074\u005B\u006E\u0061\u006D\u0065\u003D\u0022\u0070\u002D\u006D\u006F\u0064\u0065\u0022\u005D\u003A\u0063\u0068\u0065\u0063\u006B\u0065\u0064");
-  _0x3a6d8g = "dmgfhl";
-  const _0xf4bfa = _0x1588ed ? _0x1588ed['\u0076\u0061\u006C\u0075\u0065'] : "\u0079\u0065\u0061\u0072\u006C\u0079";
-  let _0x3ae = 895075 ^ 895074;
-  if (_0xf4bfa === "\u006D\u006F\u006E\u0074\u0068\u006C\u0079") _0x3ae = 0.0925;else if (_0xf4bfa === 'quarterly') _0x3ae = 0.275;else if (_0xf4bfa === "\u0068\u0061\u006C\u0066\u005F\u0079\u0065\u0061\u0072\u006C\u0079") _0x3ae = 0.525;
-  if (!_0xed1c) {
+  var _173 = function (s, h) {
+    return s + h;
+  }(453776 ^ 453784, 355002 ^ 355002);
+  const _md = document[_0[314]](_0[369][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+  _173 = (323324 ^ 323324) + (160503 ^ 160498);
+  var _174 = function (s, h) {
+    return s ^ h;
+  }(728927, 728924);
+  const _me = _md ? _md[_0[188]] : _0[370][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+  _174 = function () {
+    return 608735 ^ 608731;
+  }();
+  var _175 = _0[371];
+  let _mf = function (s, h) {
+    return s ^ h;
+  }(173916, 173917);
+  _175 = function () {
+    return _0[371];
+  }();
+  if (_me === _0[372][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])) _mf = function () {
+    return 0.0925;
+  }();else if (_me === _0[373][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])) _mf = function () {
+    return 0.275;
+  }();else if (_me === _0[374][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])) _mf = function () {
+    return 0.525;
+  }();
+  if (!age) {
     resetPlanResults();
+    updateMedicalDisplay(_0[375][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), age, sum, _m8, _m9);
     return;
   }
-  const _0x6bf3ba = planRatesMap[planId];
-  let _0xace;
-  const _0x2e5b2c = _0xf6859b?.isPension ? 'অবসর গ্রহণের বয়স' : "\u09AE\u09C7\u09DF\u09BE\u09A6";
-  _0xace = (986977 ^ 986982) + (239621 ^ 239628);
-  if (!_0x6bf3ba || !_0x6bf3ba[_0xed1c] || !_0x6bf3ba[_0xed1c][_0x9703c]) {
-    _0x6bd['\u0069\u006E\u006E\u0065\u0072\u0048\u0054\u004D\u004C'] = `<i class="fas fa-circle-exclamation"></i> বয়স (${toBangla(_0xed1c)}) ও ${_0x2e5b2c} (${toBangla(_0x9703c)} বছর)-এর জন্য রেট প্রযোজ্য নয়।`;
+  var _176 = function (s, h) {
+    return s + h;
+  }(329411 ^ 329419, 316172 ^ 316168);
+  const _mg = planRatesMap[planId];
+  _176 = (577924 ^ 577933) + (613250 ^ 613251);
+  var _177 = function (s, h) {
+    return s ^ h;
+  }(976125, 976127);
+  const _mh = _mb?.[_0[251]] ? _0[376][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) : _0[377][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+  _177 = (499164 ^ 499166) + (328846 ^ 328845);
+  if (!_mg || !_mg[age] || !_mg[age][_m9]) {
+    _ma[_0[179]] = `<i class="fas fa-circle-exclamation"></i> বয়স (${toBangla(age)}) ও ${_mh} (${toBangla(_m9)} বছর)-এর জন্য রেট প্রযোজ্য নয়।`;
     resetPlanResults();
+    updateMedicalDisplay(_0[375][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), age, sum, _m8, _m9);
     return;
   }
-  const _0xe4ae = _0x6bf3ba[_0xed1c][_0x9703c];
-  var _0xdgc2cf = (756540 ^ 756533) + (103732 ^ 103729);
-  const _0x83dad = _0xf6859b?.isPension ? Math['\u0072\u006F\u0075\u006E\u0064'](_0xeed6c / (208698 ^ 208688) / (564791 ^ 564703) * _0xe4ae * _0x3ae) : Math['\u0072\u006F\u0075\u006E\u0064'](_0xeed6c / (188124 ^ 187700) * _0xe4ae * _0x3ae);
-  _0xdgc2cf = (515637 ^ 515638) + (886454 ^ 886453);
-  const _0x703g = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0061\u0064\u0062")?.checked || false;
-  var _0xag15e = (694806 ^ 694804) + (958516 ^ 958513);
-  const _0xa732g = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0070\u0064\u0061\u0062")?.checked || false;
-  _0xag15e = (449407 ^ 449403) + (440262 ^ 440258);
-  var _0x4ef98b = (913272 ^ 913264) + (788193 ^ 788195);
-  const _0x20_0xa92 = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('p-plus')?.checked || false;
-  _0x4ef98b = '\u0070\u0062\u006B\u0065\u0062\u0069';
-  const _0x5d_0x857 = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('p-cc')?.checked || false;
-  var _0xfb8b = (931628 ^ 931630) + (545402 ^ 545405);
-  const _0xdc83f = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('p-wp')?.checked || false;
-  _0xfb8b = 568399 ^ 568390;
-  const _0x21_0x4c1 = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('p-ibr')?.checked || false;
-  let _0x0ec45f;
-  const _0x20bea = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0068\u0063")?.checked || false;
-  _0x0ec45f = (710911 ^ 710906) + (285263 ^ 285258);
-  const _0xdb8b = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('p-hi')?.checked || false;
-  const _0x47e2dc = planId !== (747026 ^ 747035) ? document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u006F\u0065\u002D\u0063\u0068\u0065\u0063\u006B")?.checked || false : false;
-  const _0x642afg = _0x47e2dc ? parseFloat(document['\u0071\u0075\u0065\u0072\u0079\u0053\u0065\u006C\u0065\u0063\u0074\u006F\u0072']("\u0069\u006E\u0070\u0075\u0074\u005B\u006E\u0061\u006D\u0065\u003D\u0022\u0070\u002D\u006F\u0065\u002D\u0072\u0061\u0074\u0065\u0022\u005D\u003A\u0063\u0068\u0065\u0063\u006B\u0065\u0064")?.value) || 655579 ^ 655577 : 869396 ^ 869396;
-  const _0xc_0x035 = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0063\u0063\u002D\u0073\u0061")?.value;
-  const _0xc62e = _0xc_0x035 !== undefined && _0xc_0x035 !== '' ? parseFloat(_0xc_0x035) : null;
-  var _0x5ba = (322551 ^ 322558) + (797575 ^ 797570);
-  const _0x3bd6cd = _0x703g ? Math['\u0072\u006F\u0075\u006E\u0064'](_0xeed6c / (652155 ^ 651411) * 1.25 * _0x3ae) : 981657 ^ 981657;
-  _0x5ba = (146984 ^ 146991) + (520862 ^ 520856);
-  const _0x77383e = _0xa732g ? Math['\u0072\u006F\u0075\u006E\u0064'](_0xeed6c / (369805 ^ 370533) * 3.50 * _0x3ae) : 232014 ^ 232014;
-  var _0xbd358b = (560392 ^ 560384) + (233852 ^ 233848);
-  const _0xe2_0x048 = _0x20_0xa92 ? Math['\u0072\u006F\u0075\u006E\u0064'](_0xeed6c / (458431 ^ 458071) * 6.45 * _0x3ae) : 108876 ^ 108876;
-  _0xbd358b = (590829 ^ 590831) + (932938 ^ 932938);
-  const _0xg58e5b = _0x5d_0x857 ? getCCSumAssured(_0xc62e, _0xeed6c) : 474013 ^ 474013;
-  const _0x74af = _0x5d_0x857 ? getCCRate(_0xed1c) : 566064 ^ 566064;
-  const _0xaa336c = _0x5d_0x857 ? Math['\u0072\u006F\u0075\u006E\u0064'](_0xg58e5b / (972764 ^ 971828) * _0x74af * _0x3ae) : 695733 ^ 695733;
-  const _0xa387cb = _0xdc83f ? Math['\u0072\u006F\u0075\u006E\u0064'](_0xeed6c / (828188 ^ 827636) * getWPRate(_0xed1c) * _0x3ae) : 168015 ^ 168015;
-  let _0xggf29a;
-  const _0x75abed = _0x21_0x4c1 ? Math['\u0072\u006F\u0075\u006E\u0064'](_0xeed6c / (175129 ^ 176113) * getIBRRate(_0xed1c, _0x9703c) * _0x3ae) : 487782 ^ 487782;
-  _0xggf29a = (789269 ^ 789264) + (665887 ^ 665884);
-  var _0xf250e = (756049 ^ 756050) + (908768 ^ 908768);
-  const _0x66g = _0x47e2dc ? Math['\u0072\u006F\u0075\u006E\u0064'](_0xeed6c / (231175 ^ 230639) * _0x642afg * _0x3ae) : 776330 ^ 776330;
-  _0xf250e = (668066 ^ 668067) + (582093 ^ 582090);
-  let _0x7585cb = 804532 ^ 804532;
-  if (_0x20bea) {
-    const _0xbc_0xdcd = parseInt(document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('p-hc-tier')?.value) || 111866 ^ 111867;
-    const incSelf = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0068\u0063\u002D\u0073\u0065\u006C\u0066")?.checked || false;
-    const incSpouse = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('p-hc-spouse')?.checked || false;
-    const spouseAge = parseInt(document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('p-hc-spouse-age')?.value) || _0xed1c;
-    var _0xf6ad = (522416 ^ 522420) + (965202 ^ 965204);
-    const incChild = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0068\u0063\u002D\u0063\u0068\u0069\u006C\u0064")?.checked || false;
-    _0xf6ad = 472068 ^ 472076;
-    var _0xc7320f = (925961 ^ 925952) + (982685 ^ 982681);
-    let childCount = 285535 ^ 285535;
-    _0xc7320f = (217345 ^ 217346) + (153634 ^ 153632);
-    if (incChild) {
-      const validAges = getValidChildAges();
-      let _0xbeed;
-      const childInputs = document['\u0071\u0075\u0065\u0072\u0079\u0053\u0065\u006C\u0065\u0063\u0074\u006F\u0072\u0041\u006C\u006C']("\u002E\u0070\u002D\u0068\u0063\u002D\u0063\u0068\u0069\u006C\u0064\u002D\u0061\u0067\u0065");
-      _0xbeed = (897931 ^ 897934) + (582791 ^ 582784);
-      childCount = validAges['\u006C\u0065\u006E\u0067\u0074\u0068'] > (742595 ^ 742595) ? validAges['\u006C\u0065\u006E\u0067\u0074\u0068'] : childInputs['\u006C\u0065\u006E\u0067\u0074\u0068'];
+  var _178 = _0[378];
+  const _mi = _mg[age][_m9];
+  _178 = (229417 ^ 229409) + (314630 ^ 314624);
+  var _179 = function (s, h) {
+    return s ^ h;
+  }(700034, 700037);
+  let _mj = _mi;
+  _179 = (861922 ^ 861922) + (454209 ^ 454217);
+  var _180 = function (s, h) {
+    return s + h;
+  }(519794 ^ 519803, 564087 ^ 564095);
+  let _mk = function (s, h) {
+    return s ^ h;
+  }(592260, 592260);
+  _180 = (915027 ^ 915027) + (901266 ^ 901275);
+  var _181 = _0[379];
+  let sar = function (s, h) {
+    return s ^ h;
+  }(670404, 670404);
+  _181 = (297908 ^ 297917) + (573235 ^ 573239);
+  if (planId === (508622 ^ 508616)) {
+    var _182 = _0[380];
+    let _od = function (s, h) {
+      return s ^ h;
+    }(942226, 942226);
+    _182 = function () {
+      return 288743 ^ 288742;
+    }();
+    var _183 = function (s, h) {
+      return s ^ h;
+    }(404188, 404190);
+    let _oe = function (s, h) {
+      return s ^ h;
+    }(245350, 245351);
+    _183 = function () {
+      return 283471 ^ 283462;
+    }();
+    if (_me === _0[372][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])) {
+      _od = function () {
+        return 0.166;
+      }();
+      _oe = function () {
+        return 809079 ^ 809083;
+      }();
+    } else if (_me === _0[373][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])) {
+      _od = function () {
+        return 0.5;
+      }();
+      _oe = function () {
+        return 367200 ^ 367204;
+      }();
+    } else if (_me === _0[374][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])) {
+      _od = function () {
+        return 390483 ^ 390482;
+      }();
+      _oe = function () {
+        return 318730 ^ 318728;
+      }();
+    } else {
+      _od = function () {
+        return 292150 ^ 292148;
+      }();
+      _oe = function () {
+        return 913862 ^ 913863;
+      }();
     }
-    let _0x657cf;
-    const _0xe7339b = calculateHCAnnual(_0xbc_0xdcd, _0xed1c, incSelf, incSpouse, spouseAge, childCount);
-    _0x657cf = (937570 ^ 937571) + (476062 ^ 476063);
-    _0x7585cb = Math['\u0072\u006F\u0075\u006E\u0064'](_0xe7339b * _0x3ae);
-  }
-  let _0xcda3e;
-  let _0xa4_0x35e = 102918 ^ 102918;
-  _0xcda3e = (767522 ^ 767523) + (621511 ^ 621509);
-  if (_0xdb8b) {
-    let _0x5d0b4d;
-    const _0x48f5fc = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0068\u0069\u002D\u0074\u0069\u0065\u0072")?.value || 'silver';
-    _0x5d0b4d = '\u006E\u006F\u0070\u0071\u0071\u006A';
-    var _0x6_0xe74 = (378918 ^ 378916) + (377289 ^ 377288);
-    const incSelf = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('p-hi-self')?.checked || false;
-    _0x6_0xe74 = 383572 ^ 383581;
-    const incSpouse = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('p-hi-spouse')?.checked || false;
-    const spouseAge = parseInt(document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0068\u0069\u002D\u0073\u0070\u006F\u0075\u0073\u0065\u002D\u0061\u0067\u0065")?.value) || _0xed1c;
-    const incChild = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0068\u0069\u002D\u0063\u0068\u0069\u006C\u0064")?.checked || false;
-    let childCount = 624785 ^ 624785;
-    if (incChild) {
-      const validAges = getValidHIChildAges("\u0070\u006C\u0061\u006E");
-      const childInputs = document['\u0071\u0075\u0065\u0072\u0079\u0053\u0065\u006C\u0065\u0063\u0074\u006F\u0072\u0041\u006C\u006C']('.p-hi-child-age');
-      childCount = validAges['\u006C\u0065\u006E\u0067\u0074\u0068'] > (713433 ^ 713433) ? validAges['\u006C\u0065\u006E\u0067\u0074\u0068'] : childInputs['\u006C\u0065\u006E\u0067\u0074\u0068'];
-    }
-    var _0x5864d = (365742 ^ 365743) + (196755 ^ 196752);
-    const _0x0806e = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0068\u0069\u002D\u006D\u0061\u0074\u0065\u0072\u006E\u0069\u0074\u0079")?.value || 'none';
-    _0x5864d = (117981 ^ 117976) + (396847 ^ 396846);
-    const _0x22dbac = calculateHIAnnual(_0x48f5fc, _0xed1c, incSelf, incSpouse, spouseAge, childCount, _0x0806e);
-    _0xa4_0x35e = Math['\u0072\u006F\u0075\u006E\u0064'](_0x22dbac * _0x3ae);
-  }
-  const _0x1fd2f = _0x83dad + _0x3bd6cd + _0x77383e + _0xe2_0x048 + _0xaa336c + _0xa387cb + _0x75abed + _0x7585cb + _0xa4_0x35e + _0x66g;
-  if (_0xf6859b?.isPension) {
-    document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0072\u0065\u0073\u002D\u0072\u0061\u0074\u0065")['\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074'] = toBangla(_0xe4ae['\u0074\u006F\u0046\u0069\u0078\u0065\u0064'](292577 ^ 292579)) + ' ৳ (বার্ষিক পেনশনে)';
+    _mj = _mi - _od;
+    _mk = Math[_0[335]](sum / (165562 ^ 165202) * _mj / _oe);
+    var _184 = _0[381];
+    const _of = function (s, h) {
+      return s * h;
+    }(0.008439241772096815, _m9 / (757352 ^ 757346));
+    _184 = function () {
+      return _0[381];
+    }();
+    var _185 = function (s, h) {
+      return s ^ h;
+    }(563744, 563744);
+    const _og = function (s, h) {
+      return s - h;
+    }(982978 ^ 982979, ((942185 ^ 942184) - 0.9963017445328521) * (_m9 / (798241 ^ 798251)));
+    _185 = function () {
+      return _0[382];
+    }();
+    sar = sum > (583437 ^ 583437) ? Math[_0[335]](sum * (_og + _of * _mj)) : 376140 ^ 376140;
+  } else if (_mb?.[_0[251]]) {
+    _mk = Math[_0[335]](sum / (544279 ^ 544285) / (918134 ^ 917918) * _mi * _mf);
   } else {
-    document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('res-rate')['\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074'] = toBangla(_0xe4ae['\u0074\u006F\u0046\u0069\u0078\u0065\u0064'](134958 ^ 134956)) + ' ৳';
+    _mk = Math[_0[335]](sum / (448492 ^ 447492) * _mi * _mf);
   }
-  document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0072\u0065\u0073\u002D\u0062\u0061\u0073\u0065")['\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074'] = _0x83dad['\u0074\u006F\u004C\u006F\u0063\u0061\u006C\u0065\u0053\u0074\u0072\u0069\u006E\u0067']('bn-BD') + "\u0020\u09F3";
-  var _0x717f2c = (987039 ^ 987036) + (843702 ^ 843703);
-  const _0xc6g = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0072\u006F\u0077\u002D\u0070\u0065\u006E\u0073\u0069\u006F\u006E");
-  _0x717f2c = "hppojp";
-  var _0xc01e7a = (678820 ^ 678822) + (368519 ^ 368526);
-  const _0x3487f = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('res-pension');
-  _0xc01e7a = (351678 ^ 351674) + (261652 ^ 261650);
-  if (_0xc6g && _0x3487f) {
-    if (_0xf6859b?.isPension && _0xeed6c > (769792 ^ 769792)) {
-      _0xc6g['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079'] = 'flex';
-      const _0x87d3da = Math['\u0072\u006F\u0075\u006E\u0064'](_0xeed6c / (791320 ^ 791314));
-      const _0x4c486e = Math['\u0072\u006F\u0075\u006E\u0064'](_0x87d3da / (121212 ^ 121200));
-      _0x3487f['\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074'] = `${_0x87d3da['\u0074\u006F\u004C\u006F\u0063\u0061\u006C\u0065\u0053\u0074\u0072\u0069\u006E\u0067']('bn-BD')} ৳ (মাসিক ${_0x4c486e['\u0074\u006F\u004C\u006F\u0063\u0061\u006C\u0065\u0053\u0074\u0072\u0069\u006E\u0067']("\u0062\u006E\u002D\u0042\u0044")} ৳)`;
+  var _186 = _0[383];
+  const _oh = planId === (897509 ^ 897507) && sum > (299076 ^ 299076) ? sar : sum;
+  _186 = function () {
+    return 529016 ^ 529017;
+  }();
+  updateMedicalDisplay(_0[375][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), age, _oh, _m8, _m9, planId === (117609 ^ 117615));
+  var _187 = _0[384];
+  const _oi = document[_0[43]](_0[147][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[126]] || ![];
+  _187 = (619461 ^ 619461) + (591768 ^ 591761);
+  var _188 = _0[385];
+  const _oj = document[_0[43]](_0[149][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[126]] || ![];
+  _188 = function () {
+    return 418279 ^ 418277;
+  }();
+  var _189 = function (s, h) {
+    return s + h;
+  }(976543 ^ 976538, 614778 ^ 614780);
+  const _ok = document[_0[43]](_0[146][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[126]] || ![];
+  _189 = function () {
+    return 353985 ^ 353992;
+  }();
+  var _190 = function (s, h) {
+    return s ^ h;
+  }(417649, 417648);
+  const _ol = document[_0[43]](_0[150][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[126]] || ![];
+  _190 = (345984 ^ 345988) + (347288 ^ 347290);
+  var _191 = _0[386];
+  const _om = document[_0[43]](_0[387][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[126]] || ![];
+  _191 = (557527 ^ 557520) + (860921 ^ 860922);
+  var _192 = function (s, h) {
+    return s + h;
+  }(889105 ^ 889109, 389523 ^ 389530);
+  const _on = document[_0[43]](_0[388][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[126]] || ![];
+  _192 = function () {
+    return _0[389];
+  }();
+  var _193 = _0[390];
+  const _oo = document[_0[43]](_0[154][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[126]] || ![];
+  _193 = function () {
+    return _0[390];
+  }();
+  var _194 = _0[391];
+  const _op = document[_0[43]](_0[157][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[126]] || ![];
+  _194 = function () {
+    return 114449 ^ 114451;
+  }();
+  var _195 = function (s, h) {
+    return s + h;
+  }(897151 ^ 897147, 170030 ^ 170027);
+  const _oq = planId !== (782811 ^ 782802) ? document[_0[43]](_0[134][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[126]] || ![] : ![];
+  _195 = function () {
+    return _0[392];
+  }();
+  var _196 = function (s, h) {
+    return s ^ h;
+  }(692993, 692995);
+  const _or = _oq ? parseFloat(document[_0[314]](_0[393][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[188]]) || 520161 ^ 520163 : 681232 ^ 681232;
+  _196 = (239480 ^ 239480) + (984456 ^ 984449);
+  var _197 = function (s, h) {
+    return s + h;
+  }(888654 ^ 888650, 149475 ^ 149474);
+  const _os = document[_0[43]](_0[394][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[188]];
+  _197 = function () {
+    return _0[395];
+  }();
+  var _198 = function (s, h) {
+    return s + h;
+  }(582128 ^ 582130, 267637 ^ 267632);
+  const _ot = _os !== undefined && _os !== _0[3] ? parseFloat(_os) : null;
+  _198 = function () {
+    return _0[396];
+  }();
+  var _199 = function (s, h) {
+    return s ^ h;
+  }(851342, 851343);
+  const _ou = _oi ? Math[_0[335]](sum / (549055 ^ 549719) * 1.25 * _mf) : 126611 ^ 126611;
+  _199 = (897385 ^ 897385) + (722587 ^ 722584);
+  var _200 = _0[397];
+  const _ov = _oj ? Math[_0[335]](sum / (953294 ^ 952358) * 3.50 * _mf) : 518052 ^ 518052;
+  _200 = function () {
+    return 900138 ^ 900138;
+  }();
+  var _201 = function (s, h) {
+    return s ^ h;
+  }(112839, 112832);
+  const _ow = _ok ? Math[_0[335]](sum / (697589 ^ 698141) * 6.45 * _mf) : 963803 ^ 963803;
+  _201 = (297446 ^ 297444) + (305783 ^ 305782);
+  var _202 = _0[398];
+  const _ox = _ol ? getCCSumAssured(_ot, sum) : 585780 ^ 585780;
+  _202 = function () {
+    return _0[398];
+  }();
+  var _203 = _0[399];
+  const _oy = _ol ? getCCRate(age) : 843756 ^ 843756;
+  _203 = function () {
+    return 356327 ^ 356323;
+  }();
+  var _204 = function (s, h) {
+    return s ^ h;
+  }(723266, 723270);
+  const _oz = _ol ? Math[_0[335]](_ox / (518085 ^ 517165) * _oy * _mf) : 935755 ^ 935755;
+  _204 = (828926 ^ 828926) + (208324 ^ 208320);
+  var _205 = _0[400];
+  const _p0 = _om ? Math[_0[335]](sum / (648892 ^ 648532) * getWPRate(age) * _mf) : 418595 ^ 418595;
+  _205 = function () {
+    return _0[400];
+  }();
+  var _206 = function (s, h) {
+    return s + h;
+  }(144279 ^ 144276, 550311 ^ 550305);
+  const _p1 = _on ? Math[_0[335]](sum / (963092 ^ 963068) * getIBRRate(age, _m9) * _mf) : 906110 ^ 906110;
+  _206 = function () {
+    return 300285 ^ 300283;
+  }();
+  var _207 = _0[401];
+  const _p2 = _oq ? Math[_0[335]](sum / (168691 ^ 168219) * _or * _mf) : 951918 ^ 951918;
+  _207 = function () {
+    return 218752 ^ 218757;
+  }();
+  var _208 = function (s, h) {
+    return s ^ h;
+  }(457120, 457123);
+  let _p3 = function (s, h) {
+    return s ^ h;
+  }(617495, 617495);
+  _208 = (280189 ^ 280184) + (521044 ^ 521040);
+  if (_oo) {
+    var _209 = _0[402];
+    const _p4 = parseInt(document[_0[43]](_0[403][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[188]]) || 938826 ^ 938827;
+    _209 = function () {
+      return 318027 ^ 318027;
+    }();
+    var _210 = _0[404];
+    const _p5 = document[_0[43]](_0[405][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[126]] || ![];
+    _210 = function () {
+      return _0[404];
+    }();
+    var _211 = _0[406];
+    const _p6 = document[_0[43]](_0[407][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[126]] || ![];
+    _211 = function () {
+      return _0[406];
+    }();
+    var _212 = function (s, h) {
+      return s ^ h;
+    }(660156, 660153);
+    const _p7 = parseInt(document[_0[43]](_0[408][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[188]]) || age;
+    _212 = (857156 ^ 857159) + (698095 ^ 698089);
+    var _213 = function (s, h) {
+      return s + h;
+    }(358644 ^ 358645, 584037 ^ 584044);
+    const _p8 = document[_0[43]](_0[409][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[126]] || ![];
+    _213 = (126056 ^ 126062) + (810284 ^ 810286);
+    var _214 = function (s, h) {
+      return s ^ h;
+    }(356958, 356957);
+    let _p9 = function (s, h) {
+      return s ^ h;
+    }(676274, 676274);
+    _214 = (450050 ^ 450054) + (366144 ^ 366153);
+    if (_p8) {
+      var _215 = _0[410];
+      const _pa = getValidChildAges();
+      _215 = function () {
+        return _0[410];
+      }();
+      var _216 = function (s, h) {
+        return s + h;
+      }(308852 ^ 308850, 552448 ^ 552457);
+      const _pb = document[_0[184]](_0[185][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+      _216 = function () {
+        return _0[411];
+      }();
+      _p9 = _pa[_0[171]] > (227070 ^ 227070) ? _pa[_0[171]] : _pb[_0[171]];
+    }
+    var _217 = function (s, h) {
+      return s ^ h;
+    }(185506, 185508);
+    const _pc = calculateHCAnnual(_p4, age, _p5, _p6, _p7, _p9);
+    _217 = function () {
+      return _0[412];
+    }();
+    _p3 = Math[_0[335]](_pc * _mf);
+  }
+  var _218 = function (s, h) {
+    return s + h;
+  }(980810 ^ 980811, 161961 ^ 161962);
+  let _pd = function (s, h) {
+    return s ^ h;
+  }(398274, 398274);
+  _218 = function () {
+    return _0[413];
+  }();
+  if (_op) {
+    var _219 = function (s, h) {
+      return s ^ h;
+    }(411504, 411506);
+    const _pe = document[_0[43]](_0[414][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[188]] || _0[197][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    _219 = function () {
+      return _0[415];
+    }();
+    var _220 = _0[416];
+    const _pf = document[_0[43]](_0[417][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[126]] || ![];
+    _220 = (552456 ^ 552456) + (159010 ^ 159010);
+    var _221 = _0[418];
+    const _pg = document[_0[43]](_0[419][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[126]] || ![];
+    _221 = (925837 ^ 925836) + (645628 ^ 645620);
+    var _222 = function (s, h) {
+      return s ^ h;
+    }(288437, 288435);
+    const _ph = parseInt(document[_0[43]](_0[420][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[188]]) || age;
+    _222 = function () {
+      return 563267 ^ 563271;
+    }();
+    var _223 = function (s, h) {
+      return s ^ h;
+    }(262889, 262891);
+    const _pi = document[_0[43]](_0[421][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[126]] || ![];
+    _223 = (346063 ^ 346057) + (399713 ^ 399713);
+    var _224 = _0[422];
+    let _pj = function (s, h) {
+      return s ^ h;
+    }(247238, 247238);
+    _224 = function () {
+      return 234143 ^ 234142;
+    }();
+    if (_pi) {
+      var _225 = function (s, h) {
+        return s + h;
+      }(335609 ^ 335612, 225128 ^ 225131);
+      const _pk = getValidHIChildAges(_0[423][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+      _225 = function () {
+        return _0[424];
+      }();
+      var _226 = function (s, h) {
+        return s + h;
+      }(500700 ^ 500692, 236349 ^ 236348);
+      const _pl = document[_0[184]](_0[425][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+      _226 = (500665 ^ 500656) + (234235 ^ 234236);
+      _pj = _pk[_0[171]] > (120777 ^ 120777) ? _pk[_0[171]] : _pl[_0[171]];
+    }
+    var _227 = function (s, h) {
+      return s ^ h;
+    }(403244, 403240);
+    const _pm = document[_0[43]](_0[426][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[188]] || _0[132][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    _227 = function () {
+      return _0[427];
+    }();
+    var _228 = function (s, h) {
+      return s ^ h;
+    }(165262, 165263);
+    const _pn = calculateHIAnnual(_pe, age, _pf, _pg, _ph, _pj, _pm);
+    _228 = function () {
+      return 299525 ^ 299520;
+    }();
+    _pd = Math[_0[335]](_pn * _mf);
+  }
+  var _229 = function (s, h) {
+    return s + h;
+  }(469676 ^ 469672, 632407 ^ 632402);
+  const _po = function (s, h) {
+    return s + h;
+  }(_mk + _ou + _ov + _ow + _oz + _p0 + _p1 + _p3 + _pd, _p2);
+  _229 = function () {
+    return _0[428];
+  }();
+  if (planId === (504114 ^ 504116)) {
+    document[_0[43]](_0[429][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[50]] = toBangla(_mj[_0[430]](593782 ^ 593781)[_0[123]](/\.?0+$/, _0[3])) + _0[325][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+  } else if (_mb?.[_0[251]]) {
+    document[_0[43]](_0[429][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[50]] = toBangla(_mi[_0[430]](763359 ^ 763357)) + _0[431][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+  } else {
+    document[_0[43]](_0[429][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[50]] = toBangla(_mi[_0[430]](290590 ^ 290588)) + _0[325][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+  }
+  document[_0[43]](_0[432][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[50]] = _mk[_0[255]](_0[256][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])) + _0[325][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+  var _230 = function (s, h) {
+    return s ^ h;
+  }(536404, 536406);
+  const _pp = document[_0[43]](_0[433][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+  _230 = function () {
+    return 379820 ^ 379813;
+  }();
+  var _231 = function (s, h) {
+    return s ^ h;
+  }(621037, 621032);
+  const _pq = document[_0[43]](_0[434][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+  _231 = (251477 ^ 251472) + (223261 ^ 223262);
+  if (_pp && _pq) {
+    if (planId === (614583 ^ 614577) && sum > (690946 ^ 690946)) {
+      _pp[_0[129]][_0[130]] = _0[143][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+      _pq[_0[50]] = sar[_0[255]](_0[256][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])) + _0[325][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
     } else {
-      _0xc6g['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079'] = "\u006E\u006F\u006E\u0065";
+      _pp[_0[129]][_0[130]] = _0[132][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
     }
   }
-  toggleResultRow('row-adb', 'res-adb', _0x3bd6cd, _0x703g);
-  toggleResultRow('row-pdab', 'res-pdab', _0x77383e, _0xa732g);
-  toggleResultRow("\u0072\u006F\u0077\u002D\u0070\u006C\u0075\u0073", 'res-plus', _0xe2_0x048, _0x20_0xa92);
-  toggleResultRow("\u0072\u006F\u0077\u002D\u0063\u0063", 'res-cc', _0xaa336c, _0x5d_0x857);
-  toggleResultRow("\u0072\u006F\u0077\u002D\u0077\u0070", "\u0072\u0065\u0073\u002D\u0077\u0070", _0xa387cb, _0xdc83f);
-  toggleResultRow("\u0072\u006F\u0077\u002D\u0069\u0062\u0072", 'res-ibr', _0x75abed, _0x21_0x4c1);
-  toggleResultRow("\u0072\u006F\u0077\u002D\u0068\u0063", 'res-hc', _0x7585cb, _0x20bea);
-  toggleResultRow('row-hi', "\u0072\u0065\u0073\u002D\u0068\u0069", _0xa4_0x35e, _0xdb8b);
-  toggleResultRow('row-oe', "\u0072\u0065\u0073\u002D\u006F\u0065", _0x66g, _0x47e2dc);
-  document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('res-total')['\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074'] = _0x1fd2f['\u0074\u006F\u004C\u006F\u0063\u0061\u006C\u0065\u0053\u0074\u0072\u0069\u006E\u0067']("\u0062\u006E\u002D\u0042\u0044") + "\u0020\u09F3";
+  var _232 = function (s, h) {
+    return s ^ h;
+  }(944269, 944270);
+  const _pr = document[_0[43]](_0[435][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+  _232 = function () {
+    return 107812 ^ 107809;
+  }();
+  var _233 = function (s, h) {
+    return s ^ h;
+  }(421486, 421479);
+  const _ps = document[_0[43]](_0[436][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+  _233 = function () {
+    return _0[437];
+  }();
+  if (_pr && _ps) {
+    if (_mb?.[_0[251]] && sum > (215912 ^ 215912)) {
+      _pr[_0[129]][_0[130]] = _0[143][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+      var _234 = function (s, h) {
+        return s + h;
+      }(778132 ^ 778140, 797872 ^ 797872);
+      const _pt = Math[_0[335]](sum / (271559 ^ 271565));
+      _234 = function () {
+        return 144138 ^ 144142;
+      }();
+      var _235 = _0[438];
+      const _pu = Math[_0[335]](_pt / (846399 ^ 846387));
+      _235 = function () {
+        return 259038 ^ 259035;
+      }();
+      _ps[_0[50]] = `${_pt[_0[255]](_0[256][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))} ৳ (মাসিক ${_pu[_0[255]](_0[256][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))} ৳)`;
+    } else {
+      _pr[_0[129]][_0[130]] = _0[132][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    }
+  }
+  toggleResultRow(_0[439][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[440][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _ou, _oi);
+  toggleResultRow(_0[441][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[442][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _ov, _oj);
+  toggleResultRow(_0[443][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[444][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _ow, _ok);
+  toggleResultRow(_0[445][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[446][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _oz, _ol);
+  toggleResultRow(_0[447][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[448][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _p0, _om);
+  toggleResultRow(_0[449][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[450][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _p1, _on);
+  toggleResultRow(_0[451][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[452][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _p3, _oo);
+  toggleResultRow(_0[453][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[454][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _pd, _op);
+  toggleResultRow(_0[455][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[456][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _p2, _oq);
+  document[_0[43]](_0[457][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[50]] = _po[_0[255]](_0[256][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])) + _0[325][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
   generateBudgetSuggestions(planId);
 }
 function toggleResultRow(rowId, valId, amount, isChecked) {
-  const _0xea4bb = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064'](rowId);
-  const _0xd7_0xc0e = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064'](valId);
-  if (_0xea4bb && _0xd7_0xc0e) {
-    _0xd7_0xc0e['\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074'] = amount['\u0074\u006F\u004C\u006F\u0063\u0061\u006C\u0065\u0053\u0074\u0072\u0069\u006E\u0067']("\u0062\u006E\u002D\u0042\u0044") + ' ৳';
-    _0xea4bb['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079'] = isChecked ? 'flex' : "\u006E\u006F\u006E\u0065";
+  var _236 = function (s, h) {
+    return s + h;
+  }(911759 ^ 911750, 758518 ^ 758526);
+  const row = document[_0[43]](rowId);
+  _236 = (566718 ^ 566714) + (278855 ^ 278852);
+  var _237 = _0[458];
+  const val = document[_0[43]](valId);
+  _237 = function () {
+    return 306611 ^ 306611;
+  }();
+  if (row && val) {
+    val[_0[50]] = amount[_0[255]](_0[256][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])) + _0[325][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    row[_0[129]][_0[130]] = isChecked ? _0[143][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) : _0[132][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
   }
 }
 function resetPlanResults() {
-  document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0072\u0065\u0073\u002D\u0072\u0061\u0074\u0065")['\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074'] = "\u09E6\u002E\u09E6\u09E6\u0020\u09F3";
-  document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0072\u0065\u0073\u002D\u0062\u0061\u0073\u0065")['\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074'] = '০ ৳';
-  document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0072\u0065\u0073\u002D\u0074\u006F\u0074\u0061\u006C")['\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074'] = "\u09E6\u0020\u09F3";
-  const _0xf4fae = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('row-pension');
-  if (_0xf4fae) _0xf4fae['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079'] = 'none';
-  ["\u0061\u0064\u0062", "\u0070\u0064\u0061\u0062", 'plus', "\u0063\u0063", 'wp', "\u0069\u0062\u0072", 'hc', "\u0068\u0069", "\u006F\u0065"]['\u0066\u006F\u0072\u0045\u0061\u0063\u0068'](r => {
-    var _0x31e27d = (881254 ^ 881254) + (991065 ^ 991067);
-    const _0x23_0xc18 = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064'](`row-${r}`);
-    _0x31e27d = 863258 ^ 863260;
-    if (_0x23_0xc18) _0x23_0xc18['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079'] = "\u006E\u006F\u006E\u0065";
+  document[_0[43]](_0[429][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[50]] = _0[459][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+  document[_0[43]](_0[432][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[50]] = _0[317][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+  document[_0[43]](_0[457][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[50]] = _0[317][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+  var _238 = _0[460];
+  const _tf = document[_0[43]](_0[435][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+  _238 = function () {
+    return 196608 ^ 196608;
+  }();
+  if (_tf) _tf[_0[129]][_0[130]] = _0[132][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+  var _239 = function (s, h) {
+    return s + h;
+  }(117432 ^ 117438, 813191 ^ 813191);
+  const _tg = document[_0[43]](_0[433][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+  _239 = function () {
+    return _0[461];
+  }();
+  if (_tg) _tg[_0[129]][_0[130]] = _0[132][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+  [_0[71][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[72][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[73][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[74][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[75][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[76][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[77][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[78][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[462][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])][_0[187]](r => {
+    var _240 = _0[463];
+    const row = document[_0[43]](`row-${r}`);
+    _240 = (940766 ^ 940765) + (722833 ^ 722835);
+    if (row) row[_0[129]][_0[130]] = _0[132][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
   });
 }
 function openSBModal(planId) {
-  let _0x1fb;
-  const _0x24_0x43a = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0073\u0075\u006D");
-  _0x1fb = (886738 ^ 886736) + (565570 ^ 565579);
-  const _0xd3ea3c = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0074\u0065\u0072\u006D");
-  const _0xe5a5ec = _0x24_0x43a && parseFloat(_0x24_0x43a['\u0076\u0061\u006C\u0075\u0065']) ? parseFloat(_0x24_0x43a['\u0076\u0061\u006C\u0075\u0065']) : 100000;
-  const _0x6c93gf = _0xd3ea3c && parseInt(_0xd3ea3c['\u0076\u0061\u006C\u0075\u0065']) ? parseInt(_0xd3ea3c['\u0076\u0061\u006C\u0075\u0065']) : null;
-  const _0xde0c8c = _0x24_0x43a && _0x24_0x43a['\u0076\u0061\u006C\u0075\u0065'] && parseFloat(_0x24_0x43a['\u0076\u0061\u006C\u0075\u0065']) > (780612 ^ 780612);
-  let _0x08f0b;
-  let _0xef3aea = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('sbModal');
-  _0x08f0b = (239246 ^ 239245) + (984198 ^ 984196);
-  if (!_0xef3aea) {
+  var _241 = function (s, h) {
+    return s + h;
+  }(670135 ^ 670133, 571082 ^ 571084);
+  const _v9 = document[_0[43]](_0[355][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+  _241 = (742236 ^ 742233) + (204004 ^ 204005);
+  var _242 = function (s, h) {
+    return s ^ h;
+  }(413993, 413997);
+  const _va = document[_0[43]](_0[361][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+  _242 = (588720 ^ 588726) + (354288 ^ 354296);
+  var _243 = _0[464];
+  const sa = _v9 && parseFloat(_v9[_0[188]]) ? parseFloat(_v9[_0[188]]) : 100000;
+  _243 = (653817 ^ 653809) + (229539 ^ 229539);
+  var _244 = function (s, h) {
+    return s ^ h;
+  }(345362, 345364);
+  const _vb = _va && parseInt(_va[_0[188]]) ? parseInt(_va[_0[188]]) : null;
+  _244 = function () {
+    return _0[465];
+  }();
+  var _245 = function (s, h) {
+    return s ^ h;
+  }(917051, 917055);
+  const _vc = _v9 && _v9[_0[188]] && parseFloat(_v9[_0[188]]) > (540408 ^ 540408);
+  _245 = function () {
+    return 845384 ^ 845387;
+  }();
+  var _246 = function (s, h) {
+    return s + h;
+  }(339559 ^ 339552, 123722 ^ 123715);
+  let _vd = document[_0[43]](_0[466][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+  _246 = function () {
+    return 644361 ^ 644353;
+  }();
+  if (!_vd) {
     createSBModalDOM();
-    _0xef3aea = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0073\u0062\u004D\u006F\u0064\u0061\u006C");
+    _vd = document[_0[43]](_0[466][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
   }
-  let _0x92bdd = planConfig[planId] ? planConfig[planId]['\u0074\u0069\u0074\u006C\u0065'] : "\u09AA\u09B2\u09BF\u09B8\u09BF";
-  var _0x94ab8c = (546429 ^ 546421) + (510094 ^ 510088);
-  let _0x5d2 = getSBSchedule(planId, _0x6c93gf, _0xe5a5ec);
-  _0x94ab8c = '\u0063\u006D\u006D\u006B\u0062\u0070';
-  document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('sbModalPlanTitle')['\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074'] = `${_0x92bdd} - প্রত্যাশিত কিস্তি সুবিধা (SB)`;
-  var _0xd2b = (903311 ^ 903311) + (856280 ^ 856281);
-  let _0x2g9f = `
+  var _247 = function (s, h) {
+    return s ^ h;
+  }(649515, 649513);
+  let _ve = planConfig[planId] ? planConfig[planId][_0[281]] : _0[467][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+  _247 = function () {
+    return 754675 ^ 754673;
+  }();
+  var _248 = _0[468];
+  let _vf = getSBSchedule(planId, _vb, sa);
+  _248 = function () {
+    return _0[468];
+  }();
+  document[_0[43]](_0[469][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[50]] = `${_ve} - প্রত্যাশিত কিস্তি সুবিধা (SB)`;
+  var _249 = function (s, h) {
+    return s + h;
+  }(572540 ^ 572540, 845700 ^ 845703);
+  let _vg = `
         <div style="background:var(--results-bg); border:1.5px solid var(--results-border); padding:10px 14px; border-radius:12px; margin-bottom:12px;">
-            <div><strong>  অংক:</strong> <span style="color:var(--primary); font-weight:900;">${_0xe5a5ec['\u0074\u006F\u004C\u006F\u0063\u0061\u006C\u0065\u0053\u0074\u0072\u0069\u006E\u0067']("\u0062\u006E\u002D\u0042\u0044")} ৳</span> ${_0xde0c8c ? '(প্রদত্ত)' : '(উদাহরণস্বরূপ ১ লক্ষ)'}</div>
-            ${_0x6c93gf ? `<div><strong>নির্বাচিত মেয়াদ:</strong> <span style="font-weight:800;">${toBangla(_0x6c93gf)} বছর</span></div>` : ''}
+            <div><strong>  অংক:</strong> <span style="color:var(--primary); font-weight:900;">${sa[_0[255]](_0[256][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))} ৳</span> ${_vc ? _0[470][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) : _0[471][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])}</div>
+            ${_vb ? `<div><strong>নির্বাচিত মেয়াদ:</strong> <span style="font-weight:800;">${toBangla(_vb)} বছর</span></div>` : _0[3]}
         </div>
     `;
-  _0xd2b = (855128 ^ 855130) + (575409 ^ 575409);
-  var _0x33ga = (283185 ^ 283186) + (571204 ^ 571207);
-  let _0xeegf = `
+  _249 = function () {
+    return 341181 ^ 341177;
+  }();
+  var _250 = _0[472];
+  let _vh = `
         <table class="sb-table">
             <thead>
                 <tr>
@@ -5042,38 +6785,57 @@ function openSBModal(planId) {
             </thead>
             <tbody>
     `;
-  _0x33ga = (340210 ^ 340209) + (914391 ^ 914399);
-  _0x5d2['\u0066\u006F\u0072\u0045\u0061\u0063\u0068'](item => {
-    const _0x9e93cd = item['\u0069\u0073\u004D\u0061\u0074\u0075\u0072\u0069\u0074\u0079'];
-    let _0x9e787c;
-    const _0x7277ad = _0x9e93cd ? 'background:var(--results-bg); font-weight:800;' : '';
-    _0x9e787c = (439991 ^ 439984) + (174022 ^ 174020);
-    _0xeegf += `
-            <tr style="${_0x7277ad}">
-                <td style="padding:10px 12px; border-bottom:1px dashed var(--input-border);">${item['\u0073\u0074\u0061\u0067\u0065']}</td>
-                <td style="padding:10px 12px; border-bottom:1px dashed var(--input-border);">${item['\u0079\u0065\u0061\u0072']}</td>
-                <td style="padding:10px 12px; border-bottom:1px dashed var(--input-border);">${toBangla(item['\u0070\u0065\u0072\u0063\u0065\u006E\u0074'])}%</td>
-                <td style="padding:10px 12px; border-bottom:1px dashed var(--input-border); text-align:right; font-weight:900; color:${_0x9e93cd ? "\u0076\u0061\u0072\u0028\u002D\u002D\u0070\u0072\u0069\u006D\u0061\u0072\u0079\u0029" : 'inherit'};">
-                    ${item['\u0061\u006D\u006F\u0075\u006E\u0074']['\u0074\u006F\u004C\u006F\u0063\u0061\u006C\u0065\u0053\u0074\u0072\u0069\u006E\u0067']("\u0062\u006E\u002D\u0042\u0044")} ৳ ${_0x9e93cd ? "\u003C\u0062\u0072\u003E\u003C\u0073\u006D\u0061\u006C\u006C\u0020\u0073\u0074\u0079\u006C\u0065\u003D\u0022\u0063\u006F\u006C\u006F\u0072\u003A\u0076\u0061\u0072\u0028\u002D\u002D\u0074\u0065\u0078\u0074\u002D\u006D\u0075\u0074\u0065\u0064\u0029\u003B\u0020\u0066\u006F\u006E\u0074\u002D\u0073\u0069\u007A\u0065\u003A\u0031\u0031\u0070\u0078\u003B\u0022\u003E\u002B\u0020\u0985\u09B0\u09CD\u099C\u09BF\u09A4\u0020\u09AC\u09CB\u09A8\u09BE\u09B8\u003C\u002F\u0073\u006D\u0061\u006C\u006C\u003E" : ''}
+  _250 = function () {
+    return 686630 ^ 686628;
+  }();
+  _vf[_0[187]](item => {
+    var _251 = function (s, h) {
+      return s ^ h;
+    }(183715, 183722);
+    const _vi = item[_0[473]];
+    _251 = function () {
+      return _0[474];
+    }();
+    var _252 = function (s, h) {
+      return s ^ h;
+    }(914174, 914167);
+    const _vj = _vi ? _0[475][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) : _0[3];
+    _252 = (554486 ^ 554494) + (574508 ^ 574508);
+    _vh += `
+            <tr style="${_vj}">
+                <td style="padding:10px 12px; border-bottom:1px dashed var(--input-border);">${item[_0[476]]}</td>
+                <td style="padding:10px 12px; border-bottom:1px dashed var(--input-border);">${item[_0[477]]}</td>
+                <td style="padding:10px 12px; border-bottom:1px dashed var(--input-border);">${toBangla(item[_0[478]])}%</td>
+                <td style="padding:10px 12px; border-bottom:1px dashed var(--input-border); text-align:right; font-weight:900; color:${_vi ? _0[479][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) : _0[480][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])};">
+                    ${item[_0[481]][_0[255]](_0[256][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))} ৳ ${_vi ? _0[482][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) : _0[3]}
                 </td>
             </tr>
         `;
   });
-  _0xeegf += `</tbody></table>`;
-  document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0073\u0062\u004D\u006F\u0064\u0061\u006C\u0042\u006F\u0064\u0079\u0043\u006F\u006E\u0074\u0065\u006E\u0074")['\u0069\u006E\u006E\u0065\u0072\u0048\u0054\u004D\u004C'] = _0x2g9f + _0xeegf;
-  _0xef3aea['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079'] = "\u0066\u006C\u0065\u0078";
-  document['\u0062\u006F\u0064\u0079']['\u0073\u0074\u0079\u006C\u0065']['\u006F\u0076\u0065\u0072\u0066\u006C\u006F\u0077'] = "\u0068\u0069\u0064\u0064\u0065\u006E";
+  _vh += `</tbody></table>`;
+  document[_0[43]](_0[483][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[179]] = _vg + _vh;
+  _vd[_0[129]][_0[130]] = _0[143][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+  document[_0[58]][_0[129]][_0[484]] = _0[485][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
 }
 function closeSBModal() {
-  const _0xd67f9f = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('sbModal');
-  if (_0xd67f9f) {
-    _0xd67f9f['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079'] = "\u006E\u006F\u006E\u0065";
-    document['\u0062\u006F\u0064\u0079']['\u0073\u0074\u0079\u006C\u0065']['\u006F\u0076\u0065\u0072\u0066\u006C\u006F\u0077'] = '';
+  var _253 = function (s, h) {
+    return s ^ h;
+  }(782791, 782787);
+  const _vk = document[_0[43]](_0[466][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+  _253 = function () {
+    return 116713 ^ 116704;
+  }();
+  if (_vk) {
+    _vk[_0[129]][_0[130]] = _0[132][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    document[_0[58]][_0[129]][_0[484]] = function () {
+      return _0[3];
+    }();
   }
 }
 function createSBModalDOM() {
-  if (document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0073\u0062\u004D\u006F\u0064\u0061\u006C")) return;
-  const _0x1d4fa = `
+  if (document[_0[43]](_0[466][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))) return;
+  var _254 = _0[486];
+  const _vl = `
     <div class="sb-modal-overlay" id="sbModal" onclick="if(event.target.id==='sbModal')closeSBModal()">
         <div class="sb-modal-card" onclick="event.stopPropagation()">
             <div class="sb-modal-header">
@@ -5087,489 +6849,940 @@ function createSBModalDOM() {
         </div>
     </div>
     `;
-  document['\u0062\u006F\u0064\u0079']['\u0069\u006E\u0073\u0065\u0072\u0074\u0041\u0064\u006A\u0061\u0063\u0065\u006E\u0074\u0048\u0054\u004D\u004C']("\u0062\u0065\u0066\u006F\u0072\u0065\u0065\u006E\u0064", _0x1d4fa);
+  _254 = function () {
+    return 696256 ^ 696257;
+  }();
+  document[_0[58]][_0[487]](_0[488][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _vl);
 }
 function getSBSchedule(planId, term, sa) {
-  const _0x25_0x562 = [];
-  if (planId === (825751 ^ 825749)) {
-    const t = term || 971238 ^ 971244;
-    if (t === (309935 ^ 309925)) {
-      _0x25_0x562['\u0070\u0075\u0073\u0068']({
-        '\u0073\u0074\u0061\u0067\u0065': '১ম কিস্তি',
-        '\u0079\u0065\u0061\u0072': '৪র্থ বছর',
-        "percent": 20,
-        '\u0061\u006D\u006F\u0075\u006E\u0074': Math['\u0072\u006F\u0075\u006E\u0064'](sa * 0.20)
+  var _255 = function (s, h) {
+    return s + h;
+  }(694980 ^ 694982, 729735 ^ 729731);
+  const _vm = [];
+  _255 = function () {
+    return _0[489];
+  }();
+  if (planId === (346520 ^ 346522)) {
+    var _256 = function (s, h) {
+      return s ^ h;
+    }(528267, 528271);
+    const t = term || 963903 ^ 963893;
+    _256 = function () {
+      return _0[490];
+    }();
+    if (t === (674313 ^ 674307)) {
+      _vm[_0[189]]({
+        stage: _0[491][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+        year: _0[492][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+        percent: 341952 ^ 341972,
+        amount: Math[_0[335]](sa * 0.20)
       });
-      _0x25_0x562['\u0070\u0075\u0073\u0068']({
-        '\u0073\u0074\u0061\u0067\u0065': '২য় কিস্তি',
-        '\u0079\u0065\u0061\u0072': "\u09EC\u09B7\u09CD\u09A0\u0020\u09AC\u099B\u09B0",
-        '\u0070\u0065\u0072\u0063\u0065\u006E\u0074': 20,
-        "amount": Math['\u0072\u006F\u0075\u006E\u0064'](sa * 0.20)
+      _vm[_0[189]]({
+        stage: _0[493][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+        year: _0[494][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+        percent: 311680 ^ 311700,
+        amount: Math[_0[335]](sa * 0.20)
       });
-      _0x25_0x562['\u0070\u0075\u0073\u0068']({
-        '\u0073\u0074\u0061\u0067\u0065': '৩য় কিস্তি',
-        '\u0079\u0065\u0061\u0072': "\u09EE\u09AE\u0020\u09AC\u099B\u09B0",
-        '\u0070\u0065\u0072\u0063\u0065\u006E\u0074': 20,
-        "amount": Math['\u0072\u006F\u0075\u006E\u0064'](sa * 0.20)
+      _vm[_0[189]]({
+        stage: _0[495][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+        year: _0[496][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+        percent: 549236 ^ 549216,
+        amount: Math[_0[335]](sa * 0.20)
       });
-      _0x25_0x562['\u0070\u0075\u0073\u0068']({
-        '\u0073\u0074\u0061\u0067\u0065': "\u09AE\u09C7\u09DF\u09BE\u09A6\u09AA\u09C2\u09B0\u09CD\u09A4\u09BF",
-        '\u0079\u0065\u0061\u0072': '১০ম বছর',
-        '\u0070\u0065\u0072\u0063\u0065\u006E\u0074': 40,
-        "amount": Math['\u0072\u006F\u0075\u006E\u0064'](sa * 0.40),
-        "isMaturity": !![]
+      _vm[_0[189]]({
+        stage: _0[497][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+        year: _0[498][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+        percent: 575591 ^ 575567,
+        amount: Math[_0[335]](sa * 0.40),
+        isMaturity: !![]
       });
-    } else if (t === (709859 ^ 709868)) {
-      _0x25_0x562['\u0070\u0075\u0073\u0068']({
-        "stage": "\u09E7\u09AE\u0020\u0995\u09BF\u09B8\u09CD\u09A4\u09BF",
-        "year": '৪র্থ বছর',
-        '\u0070\u0065\u0072\u0063\u0065\u006E\u0074': 15,
-        "amount": Math['\u0072\u006F\u0075\u006E\u0064'](sa * 0.15)
+    } else if (t === (820689 ^ 820702)) {
+      _vm[_0[189]]({
+        stage: _0[491][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+        year: _0[492][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+        percent: 247866 ^ 247861,
+        amount: Math[_0[335]](sa * 0.15)
       });
-      _0x25_0x562['\u0070\u0075\u0073\u0068']({
-        '\u0073\u0074\u0061\u0067\u0065': '২য় কিস্তি',
-        "year": '৬ষ্ঠ বছর',
-        "percent": 15,
-        '\u0061\u006D\u006F\u0075\u006E\u0074': Math['\u0072\u006F\u0075\u006E\u0064'](sa * 0.15)
+      _vm[_0[189]]({
+        stage: _0[493][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+        year: _0[494][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+        percent: 876796 ^ 876787,
+        amount: Math[_0[335]](sa * 0.15)
       });
-      _0x25_0x562['\u0070\u0075\u0073\u0068']({
-        '\u0073\u0074\u0061\u0067\u0065': "\u09E9\u09DF\u0020\u0995\u09BF\u09B8\u09CD\u09A4\u09BF",
-        '\u0079\u0065\u0061\u0072': '৮ম বছর',
-        '\u0070\u0065\u0072\u0063\u0065\u006E\u0074': 15,
-        '\u0061\u006D\u006F\u0075\u006E\u0074': Math['\u0072\u006F\u0075\u006E\u0064'](sa * 0.15)
+      _vm[_0[189]]({
+        stage: _0[495][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+        year: _0[496][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+        percent: 979178 ^ 979173,
+        amount: Math[_0[335]](sa * 0.15)
       });
-      _0x25_0x562['\u0070\u0075\u0073\u0068']({
-        "stage": '৪র্থ কিস্তি',
-        '\u0079\u0065\u0061\u0072': '১০ম বছর',
-        "percent": 15,
-        "amount": Math['\u0072\u006F\u0075\u006E\u0064'](sa * 0.15)
+      _vm[_0[189]]({
+        stage: _0[499][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+        year: _0[498][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+        percent: 806287 ^ 806272,
+        amount: Math[_0[335]](sa * 0.15)
       });
-      _0x25_0x562['\u0070\u0075\u0073\u0068']({
-        "stage": "\u09EB\u09AE\u0020\u0995\u09BF\u09B8\u09CD\u09A4\u09BF",
-        "year": '১২তম বছর',
-        "percent": 15,
-        '\u0061\u006D\u006F\u0075\u006E\u0074': Math['\u0072\u006F\u0075\u006E\u0064'](sa * 0.15)
+      _vm[_0[189]]({
+        stage: _0[500][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+        year: _0[501][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+        percent: 631139 ^ 631148,
+        amount: Math[_0[335]](sa * 0.15)
       });
-      _0x25_0x562['\u0070\u0075\u0073\u0068']({
-        '\u0073\u0074\u0061\u0067\u0065': 'মেয়াদপূর্তি',
-        '\u0079\u0065\u0061\u0072': "\u09E7\u09EB\u09A4\u09AE\u0020\u09AC\u099B\u09B0",
-        "percent": 25,
-        '\u0061\u006D\u006F\u0075\u006E\u0074': Math['\u0072\u006F\u0075\u006E\u0064'](sa * 0.25),
-        '\u0069\u0073\u004D\u0061\u0074\u0075\u0072\u0069\u0074\u0079': !![]
+      _vm[_0[189]]({
+        stage: _0[497][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+        year: _0[502][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+        percent: 675955 ^ 675946,
+        amount: Math[_0[335]](sa * 0.25),
+        isMaturity: !![]
       });
-    } else if (t === (958678 ^ 958658)) {
-      for (let y = 628390 ^ 628386; y <= (643543 ^ 643525); y += 917518 ^ 917516) {
-        var _0x942a = (341568 ^ 341570) + (639702 ^ 639698);
-        const _0x5cg5ba = (y - (218737 ^ 218741)) / (923406 ^ 923404) + (543486 ^ 543487);
-        _0x942a = (962506 ^ 962510) + (206487 ^ 206486);
-        _0x25_0x562['\u0070\u0075\u0073\u0068']({
-          '\u0073\u0074\u0061\u0067\u0065': `${toBangla(_0x5cg5ba)}ম কিস্তি`,
-          "year": `${toBangla(y)}তম বছর`,
-          "percent": 10,
-          "amount": Math['\u0072\u006F\u0075\u006E\u0064'](sa * 0.10)
+    } else if (t === (762724 ^ 762736)) {
+      for (let y = function (s, h) {
+        return s ^ h;
+      }(544289, 544293); y <= (854869 ^ 854855); y += function () {
+        return 548902 ^ 548900;
+      }()) {
+        var _257 = function (s, h) {
+          return s + h;
+        }(230251 ^ 230251, 347306 ^ 347309);
+        const ord = function (s, h) {
+          return s + h;
+        }((y - (473144 ^ 473148)) / (611225 ^ 611227), 465081 ^ 465080);
+        _257 = (515359 ^ 515350) + (371480 ^ 371481);
+        _vm[_0[189]]({
+          stage: `${toBangla(ord)}ম কিস্তি`,
+          year: `${toBangla(y)}তম বছর`,
+          percent: 320339 ^ 320345,
+          amount: Math[_0[335]](sa * 0.10)
         });
       }
-      _0x25_0x562['\u0070\u0075\u0073\u0068']({
-        "stage": "\u09AE\u09C7\u09DF\u09BE\u09A6\u09AA\u09C2\u09B0\u09CD\u09A4\u09BF",
-        '\u0079\u0065\u0061\u0072': "\u09E8\u09E6\u09A4\u09AE\u0020\u09AC\u099B\u09B0",
-        '\u0070\u0065\u0072\u0063\u0065\u006E\u0074': 20,
-        '\u0061\u006D\u006F\u0075\u006E\u0074': Math['\u0072\u006F\u0075\u006E\u0064'](sa * 0.20),
-        "isMaturity": !![]
+      _vm[_0[189]]({
+        stage: _0[497][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+        year: _0[503][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+        percent: 766135 ^ 766115,
+        amount: Math[_0[335]](sa * 0.20),
+        isMaturity: !![]
       });
     }
-  } else if (planId === (414627 ^ 414624)) {
-    const t = term || 493212 ^ 493200;
-    var _0xed836g = (563156 ^ 563155) + (804970 ^ 804963);
-    const y1 = Math['\u0072\u006F\u0075\u006E\u0064'](t / (439441 ^ 439442));
-    _0xed836g = (365705 ^ 365706) + (828336 ^ 828337);
-    const y2 = Math['\u0072\u006F\u0075\u006E\u0064'](t * (911156 ^ 911158) / (511702 ^ 511701));
-    _0x25_0x562['\u0070\u0075\u0073\u0068']({
-      "stage": "\u09E7\u09AE\u0020\u0995\u09BF\u09B8\u09CD\u09A4\u09BF\u0020\u0028\u09E7\u002F\u09E9\u0020\u0985\u0982\u09B6\u0029",
-      '\u0079\u0065\u0061\u0072': `${toBangla(y1)}তম বছর`,
-      '\u0070\u0065\u0072\u0063\u0065\u006E\u0074': 25,
-      "amount": Math['\u0072\u006F\u0075\u006E\u0064'](sa * 0.25)
+  } else if (planId === (319270 ^ 319269)) {
+    var _258 = _0[504];
+    const t = term || 309208 ^ 309204;
+    _258 = (881871 ^ 881870) + (129596 ^ 129593);
+    var _259 = function (s, h) {
+      return s ^ h;
+    }(622923, 622921);
+    const y1 = Math[_0[335]](t / (278524 ^ 278527));
+    _259 = function () {
+      return 577723 ^ 577724;
+    }();
+    var _260 = function (s, h) {
+      return s ^ h;
+    }(810936, 810942);
+    const y2 = Math[_0[335]](t * (611140 ^ 611142) / (440150 ^ 440149));
+    _260 = (854377 ^ 854380) + (884888 ^ 884895);
+    _vm[_0[189]]({
+      stage: _0[505][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+      year: `${toBangla(y1)}তম বছর`,
+      percent: 655053 ^ 655060,
+      amount: Math[_0[335]](sa * 0.25)
     });
-    _0x25_0x562['\u0070\u0075\u0073\u0068']({
-      "stage": '২য় কিস্তি (২/৩ অংশ)',
-      '\u0079\u0065\u0061\u0072': `${toBangla(y2)}তম বছর`,
-      "percent": 25,
-      "amount": Math['\u0072\u006F\u0075\u006E\u0064'](sa * 0.25)
+    _vm[_0[189]]({
+      stage: _0[506][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+      year: `${toBangla(y2)}তম বছর`,
+      percent: 739080 ^ 739089,
+      amount: Math[_0[335]](sa * 0.25)
     });
-    _0x25_0x562['\u0070\u0075\u0073\u0068']({
-      "stage": "\u09AE\u09C7\u09DF\u09BE\u09A6\u09AA\u09C2\u09B0\u09CD\u09A4\u09BF\u09A4\u09C7\u0020\u09E9\u09DF\u0020\u0995\u09BF\u09B8\u09CD\u09A4\u09BF",
-      "year": `${toBangla(t)}তম বছর`,
-      '\u0070\u0065\u0072\u0063\u0065\u006E\u0074': 50,
-      '\u0061\u006D\u006F\u0075\u006E\u0074': Math['\u0072\u006F\u0075\u006E\u0064'](sa * 0.50),
-      "isMaturity": !![]
+    _vm[_0[189]]({
+      stage: _0[507][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+      year: `${toBangla(t)}তম বছর`,
+      percent: 133530 ^ 133544,
+      amount: Math[_0[335]](sa * 0.50),
+      isMaturity: !![]
     });
-  } else if (planId === (222599 ^ 222595)) {
-    let _0xaf655g;
-    const t = term || 959376 ^ 959388;
-    _0xaf655g = '\u0065\u006B\u0071\u0069\u0062\u006A';
-    var _0xcacbd = (510153 ^ 510155) + (665841 ^ 665845);
-    const y1 = Math['\u0072\u006F\u0075\u006E\u0064'](t / (241655 ^ 241651));
-    _0xcacbd = 613692 ^ 613695;
-    var _0x36e66a = (632944 ^ 632950) + (570998 ^ 570997);
-    const y2 = Math['\u0072\u006F\u0075\u006E\u0064'](t / (466483 ^ 466481));
-    _0x36e66a = (389284 ^ 389280) + (197143 ^ 197136);
-    const y3 = Math['\u0072\u006F\u0075\u006E\u0064'](t * (807502 ^ 807501) / (237966 ^ 237962));
-    _0x25_0x562['\u0070\u0075\u0073\u0068']({
-      "stage": "\u09E7\u09AE\u0020\u0995\u09BF\u09B8\u09CD\u09A4\u09BF\u0020\u0028\u09E7\u002F\u09EA\u0020\u0985\u0982\u09B6\u0029",
-      '\u0079\u0065\u0061\u0072': `${toBangla(y1)}তম বছর`,
-      '\u0070\u0065\u0072\u0063\u0065\u006E\u0074': 15,
-      "amount": Math['\u0072\u006F\u0075\u006E\u0064'](sa * 0.15)
+  } else if (planId === (470529 ^ 470533)) {
+    var _261 = function (s, h) {
+      return s + h;
+    }(921555 ^ 921557, 196579 ^ 196582);
+    const t = term || 747888 ^ 747900;
+    _261 = (641887 ^ 641878) + (964639 ^ 964631);
+    var _262 = function (s, h) {
+      return s + h;
+    }(611567 ^ 611562, 164464 ^ 164465);
+    const y1 = Math[_0[335]](t / (750763 ^ 750767));
+    _262 = function () {
+      return 232442 ^ 232445;
+    }();
+    var _263 = _0[508];
+    const y2 = Math[_0[335]](t / (383297 ^ 383299));
+    _263 = (280085 ^ 280081) + (792556 ^ 792549);
+    var _264 = function (s, h) {
+      return s + h;
+    }(717290 ^ 717293, 872349 ^ 872346);
+    const y3 = Math[_0[335]](t * (210237 ^ 210238) / (438454 ^ 438450));
+    _264 = (246865 ^ 246869) + (147382 ^ 147379);
+    _vm[_0[189]]({
+      stage: _0[509][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+      year: `${toBangla(y1)}তম বছর`,
+      percent: 710984 ^ 710983,
+      amount: Math[_0[335]](sa * 0.15)
     });
-    _0x25_0x562['\u0070\u0075\u0073\u0068']({
-      "stage": "\u09E8\u09DF\u0020\u0995\u09BF\u09B8\u09CD\u09A4\u09BF\u0020\u0028\u09E8\u002F\u09EA\u0020\u0985\u0982\u09B6\u0029",
-      '\u0079\u0065\u0061\u0072': `${toBangla(y2)}তম বছর`,
-      '\u0070\u0065\u0072\u0063\u0065\u006E\u0074': 20,
-      "amount": Math['\u0072\u006F\u0075\u006E\u0064'](sa * 0.20)
+    _vm[_0[189]]({
+      stage: _0[510][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+      year: `${toBangla(y2)}তম বছর`,
+      percent: 482333 ^ 482313,
+      amount: Math[_0[335]](sa * 0.20)
     });
-    _0x25_0x562['\u0070\u0075\u0073\u0068']({
-      '\u0073\u0074\u0061\u0067\u0065': '৩য় কিস্তি (৩/৪ অংশ)',
-      '\u0079\u0065\u0061\u0072': `${toBangla(y3)}তম বছর`,
-      '\u0070\u0065\u0072\u0063\u0065\u006E\u0074': 25,
-      '\u0061\u006D\u006F\u0075\u006E\u0074': Math['\u0072\u006F\u0075\u006E\u0064'](sa * 0.25)
+    _vm[_0[189]]({
+      stage: _0[511][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+      year: `${toBangla(y3)}তম বছর`,
+      percent: 858017 ^ 858040,
+      amount: Math[_0[335]](sa * 0.25)
     });
-    _0x25_0x562['\u0070\u0075\u0073\u0068']({
-      '\u0073\u0074\u0061\u0067\u0065': 'মেয়াদপূর্তিতে ৪র্থ কিস্তি',
-      "year": `${toBangla(t)}তম বছর`,
-      '\u0070\u0065\u0072\u0063\u0065\u006E\u0074': 40,
-      "amount": Math['\u0072\u006F\u0075\u006E\u0064'](sa * 0.40),
-      "isMaturity": !![]
+    _vm[_0[189]]({
+      stage: _0[512][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+      year: `${toBangla(t)}তম বছর`,
+      percent: 739472 ^ 739512,
+      amount: Math[_0[335]](sa * 0.40),
+      isMaturity: !![]
     });
-  } else if (planId === (360677 ^ 360672)) {
-    var _0xbd922g = (844450 ^ 844451) + (970843 ^ 970840);
-    const t = term || 522122 ^ 522112;
-    _0xbd922g = (159636 ^ 159645) + (256404 ^ 256402);
-    const y1 = Math['\u0072\u006F\u0075\u006E\u0064'](t / (216048 ^ 216053));
-    const y2 = Math['\u0072\u006F\u0075\u006E\u0064'](t * (956602 ^ 956600) / (303789 ^ 303784));
-    var _0x53e91e = (265253 ^ 265248) + (298210 ^ 298213);
-    const y3 = Math['\u0072\u006F\u0075\u006E\u0064'](t * (349642 ^ 349641) / (164170 ^ 164175));
-    _0x53e91e = 406398 ^ 406398;
-    const _0x5a_0x1fd = Math['\u0072\u006F\u0075\u006E\u0064'](t * (703495 ^ 703491) / (168709 ^ 168704));
-    _0x25_0x562['\u0070\u0075\u0073\u0068']({
-      '\u0073\u0074\u0061\u0067\u0065': "\u09E7\u09AE\u0020\u0995\u09BF\u09B8\u09CD\u09A4\u09BF\u0020\u0028\u09E7\u002F\u09EB\u0020\u0985\u0982\u09B6\u0029",
-      "year": `${toBangla(y1)}তম বছর`,
-      '\u0070\u0065\u0072\u0063\u0065\u006E\u0074': 10,
-      '\u0061\u006D\u006F\u0075\u006E\u0074': Math['\u0072\u006F\u0075\u006E\u0064'](sa * 0.10)
+  } else if (planId === (400752 ^ 400757)) {
+    var _265 = function (s, h) {
+      return s ^ h;
+    }(213504, 213505);
+    const t = term || 812236 ^ 812230;
+    _265 = function () {
+      return _0[513];
+    }();
+    var _266 = _0[514];
+    const y1 = Math[_0[335]](t / (883422 ^ 883419));
+    _266 = function () {
+      return 240678 ^ 240677;
+    }();
+    var _267 = _0[515];
+    const y2 = Math[_0[335]](t * (473286 ^ 473284) / (745610 ^ 745615));
+    _267 = function () {
+      return 592523 ^ 592527;
+    }();
+    var _268 = _0[516];
+    const y3 = Math[_0[335]](t * (520324 ^ 520327) / (257900 ^ 257897));
+    _268 = function () {
+      return _0[516];
+    }();
+    var _269 = function (s, h) {
+      return s ^ h;
+    }(399297, 399299);
+    const y4 = Math[_0[335]](t * (507543 ^ 507539) / (359786 ^ 359791));
+    _269 = (437971 ^ 437970) + (559944 ^ 559951);
+    _vm[_0[189]]({
+      stage: _0[517][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+      year: `${toBangla(y1)}তম বছর`,
+      percent: 729072 ^ 729082,
+      amount: Math[_0[335]](sa * 0.10)
     });
-    _0x25_0x562['\u0070\u0075\u0073\u0068']({
-      '\u0073\u0074\u0061\u0067\u0065': '২য় কিস্তি (২/৫ অংশ)',
-      '\u0079\u0065\u0061\u0072': `${toBangla(y2)}তম বছর`,
-      "percent": 15,
-      "amount": Math['\u0072\u006F\u0075\u006E\u0064'](sa * 0.15)
+    _vm[_0[189]]({
+      stage: _0[518][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+      year: `${toBangla(y2)}তম বছর`,
+      percent: 533228 ^ 533219,
+      amount: Math[_0[335]](sa * 0.15)
     });
-    _0x25_0x562['\u0070\u0075\u0073\u0068']({
-      '\u0073\u0074\u0061\u0067\u0065': "\u09E9\u09DF\u0020\u0995\u09BF\u09B8\u09CD\u09A4\u09BF\u0020\u0028\u09E9\u002F\u09EB\u0020\u0985\u0982\u09B6\u0029",
-      "year": `${toBangla(y3)}তম বছর`,
-      '\u0070\u0065\u0072\u0063\u0065\u006E\u0074': 20,
-      '\u0061\u006D\u006F\u0075\u006E\u0074': Math['\u0072\u006F\u0075\u006E\u0064'](sa * 0.20)
+    _vm[_0[189]]({
+      stage: _0[519][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+      year: `${toBangla(y3)}তম বছর`,
+      percent: 289039 ^ 289051,
+      amount: Math[_0[335]](sa * 0.20)
     });
-    _0x25_0x562['\u0070\u0075\u0073\u0068']({
-      "stage": '৪র্থ কিস্তি (৪/৫ অংশ)',
-      '\u0079\u0065\u0061\u0072': `${toBangla(_0x5a_0x1fd)}তম বছর`,
-      "percent": 25,
-      '\u0061\u006D\u006F\u0075\u006E\u0074': Math['\u0072\u006F\u0075\u006E\u0064'](sa * 0.25)
+    _vm[_0[189]]({
+      stage: _0[520][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+      year: `${toBangla(y4)}তম বছর`,
+      percent: 597409 ^ 597432,
+      amount: Math[_0[335]](sa * 0.25)
     });
-    _0x25_0x562['\u0070\u0075\u0073\u0068']({
-      '\u0073\u0074\u0061\u0067\u0065': "\u09AE\u09C7\u09DF\u09BE\u09A6\u09AA\u09C2\u09B0\u09CD\u09A4\u09BF\u09A4\u09C7\u0020\u09EB\u09AE\u0020\u0995\u09BF\u09B8\u09CD\u09A4\u09BF",
-      "year": `${toBangla(t)}তম বছর`,
-      "percent": 30,
-      "amount": Math['\u0072\u006F\u0075\u006E\u0064'](sa * 0.30),
-      "isMaturity": !![]
+    _vm[_0[189]]({
+      stage: _0[521][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+      year: `${toBangla(t)}তম বছর`,
+      percent: 617031 ^ 617049,
+      amount: Math[_0[335]](sa * 0.30),
+      isMaturity: !![]
     });
   }
-  return _0x25_0x562;
+  return _vm;
 }
 function generateBudgetSuggestions(planId) {
-  let _0x7d362c;
-  const _0x526aed = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('p-target-budget');
-  _0x7d362c = (310042 ^ 310040) + (832844 ^ 832846);
-  let _0x7_0xc3b;
-  const _0x57g72c = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0073\u0075\u0067\u002D\u0063\u006F\u006E\u0074\u0061\u0069\u006E\u0065\u0072");
-  _0x7_0xc3b = 682034 ^ 682037;
-  if (!_0x526aed || !_0x57g72c) return;
-  let _0xc781e;
-  const _0xdf1egb = parseFloat(_0x526aed['\u0076\u0061\u006C\u0075\u0065']);
-  _0xc781e = (587456 ^ 587464) + (561565 ^ 561565);
-  const _0x3c74f = parseInt(document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('p-age')?.value);
-  var _0xdbf = (956092 ^ 956091) + (819604 ^ 819612);
-  const _0xa5_0xecf = parseInt(document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0074\u0065\u0072\u006D")?.value);
-  _0xdbf = (924086 ^ 924083) + (551624 ^ 551627);
-  const _0x344bbe = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0061\u0064\u0062")?.checked || false;
-  const _0xffc8cb = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0070\u0064\u0061\u0062")?.checked || false;
-  const _0x1ded8c = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0070\u006C\u0075\u0073")?.checked || false;
-  const _0x9b3b = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('p-cc')?.checked || false;
-  var _0xd2_0xb91 = (720035 ^ 720043) + (826784 ^ 826793);
-  const _0x185e4c = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0077\u0070")?.checked || false;
-  _0xd2_0xb91 = 474945 ^ 474949;
-  const _0x5ec4ab = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('p-ibr')?.checked || false;
-  var _0x8_0x505 = (393197 ^ 393198) + (164141 ^ 164138);
-  const _0xad708e = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('p-hc')?.checked || false;
-  _0x8_0x505 = (982228 ^ 982228) + (221075 ^ 221074);
-  let _0xb2_0x0bd;
-  const _0xa12afa = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0068\u0069")?.checked || false;
-  _0xb2_0x0bd = "eijdbf";
-  var _0xe2f = (786092 ^ 786084) + (827389 ^ 827389);
-  const _0x28g2ab = planId !== (395405 ^ 395396) ? document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u006F\u0065\u002D\u0063\u0068\u0065\u0063\u006B")?.checked || false : false;
-  _0xe2f = '\u0071\u0063\u0071\u0068\u0066\u0062';
-  const _0xfa5a = _0x28g2ab ? parseFloat(document['\u0071\u0075\u0065\u0072\u0079\u0053\u0065\u006C\u0065\u0063\u0074\u006F\u0072']("\u0069\u006E\u0070\u0075\u0074\u005B\u006E\u0061\u006D\u0065\u003D\u0022\u0070\u002D\u006F\u0065\u002D\u0072\u0061\u0074\u0065\u0022\u005D\u003A\u0063\u0068\u0065\u0063\u006B\u0065\u0064")?.value) || 342889 ^ 342891 : 468058 ^ 468058;
-  const _0xb8a = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('p-cc-sa')?.value;
-  let _0x4c8b;
-  const _0x82gg = _0xb8a !== undefined && _0xb8a !== '' ? parseFloat(_0xb8a) : null;
-  _0x4c8b = (184943 ^ 184934) + (690966 ^ 690964);
-  var _0x9551a = (517199 ^ 517190) + (836919 ^ 836916);
-  const _0xb2511d = document['\u0071\u0075\u0065\u0072\u0079\u0053\u0065\u006C\u0065\u0063\u0074\u006F\u0072']('input[name="p-mode"]:checked');
-  _0x9551a = (203721 ^ 203726) + (650832 ^ 650841);
-  let _0xdc615e;
-  const _0x3332a = _0xb2511d ? _0xb2511d['\u0076\u0061\u006C\u0075\u0065'] : "\u0079\u0065\u0061\u0072\u006C\u0079";
-  _0xdc615e = 980668 ^ 980661;
-  _0x57g72c['\u0069\u006E\u006E\u0065\u0072\u0048\u0054\u004D\u004C'] = '';
-  if (!_0xdf1egb) {
-    _0x57g72c['\u0069\u006E\u006E\u0065\u0072\u0048\u0054\u004D\u004C'] = "\u003C\u0073\u0070\u0061\u006E\u0020\u0073\u0074\u0079\u006C\u0065\u003D\u0022\u0066\u006F\u006E\u0074\u002D\u0073\u0069\u007A\u0065\u003A\u0031\u0035\u0070\u0078\u003B\u0020\u0063\u006F\u006C\u006F\u0072\u003A\u0076\u0061\u0072\u0028\u002D\u002D\u0074\u0065\u0078\u0074\u002D\u006D\u0075\u0074\u0065\u0064\u0029\u003B\u0020\u0066\u006F\u006E\u0074\u002D\u0077\u0065\u0069\u0067\u0068\u0074\u003A\u0037\u0030\u0030\u003B\u0022\u003E\u003C\u0069\u0020\u0063\u006C\u0061\u0073\u0073\u003D\u0022\u0066\u0061\u0073\u0020\u0066\u0061\u002D\u0065\u0064\u0069\u0074\u0022\u003E\u003C\u002F\u0069\u003E\u0020\u0995\u09BE\u0999\u09CD\u0995\u09CD\u09B7\u09BF\u09A4\u0020\u09AA\u09CD\u09B0\u09BF\u09AE\u09BF\u09AF\u09BC\u09BE\u09AE\u0020\u09B2\u09BF\u0996\u09C7\u0020\u09AC\u09BE\u099F\u09A8\u09C7\u0020\u099A\u09BE\u09AA\u0020\u09A6\u09BF\u09A8\u0964\u003C\u002F\u0073\u0070\u0061\u006E\u003E";
+  var _270 = _0[522];
+  const _xf = document[_0[43]](_0[523][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+  _270 = (862847 ^ 862844) + (646915 ^ 646922);
+  var _271 = function (s, h) {
+    return s ^ h;
+  }(238251, 238252);
+  const _xg = document[_0[43]](_0[524][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+  _271 = (985095 ^ 985095) + (882555 ^ 882547);
+  if (!_xf || !_xg) return;
+  var _272 = function (s, h) {
+    return s + h;
+  }(240473 ^ 240475, 261295 ^ 261292);
+  const _xh = parseFloat(_xf[_0[188]]);
+  _272 = function () {
+    return 842300 ^ 842292;
+  }();
+  var _273 = function (s, h) {
+    return s + h;
+  }(941465 ^ 941457, 353193 ^ 353199);
+  const _xi = parseInt(document[_0[43]](_0[360][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[188]]);
+  _273 = (643252 ^ 643252) + (525477 ^ 525485);
+  var _274 = function (s, h) {
+    return s + h;
+  }(669169 ^ 669170, 562789 ^ 562787);
+  const _xj = parseInt(document[_0[43]](_0[361][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[188]]);
+  _274 = function () {
+    return 996482 ^ 996482;
+  }();
+  var _275 = function (s, h) {
+    return s + h;
+  }(365211 ^ 365209, 157569 ^ 157574);
+  const _xk = document[_0[43]](_0[147][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[126]] || ![];
+  _275 = function () {
+    return 870271 ^ 870267;
+  }();
+  var _276 = _0[525];
+  const _xl = document[_0[43]](_0[149][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[126]] || ![];
+  _276 = function () {
+    return 509258 ^ 509258;
+  }();
+  var _277 = _0[526];
+  const _xm = document[_0[43]](_0[146][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[126]] || ![];
+  _277 = function () {
+    return 858329 ^ 858334;
+  }();
+  var _278 = _0[527];
+  const _xn = document[_0[43]](_0[150][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[126]] || ![];
+  _278 = (148956 ^ 148949) + (422042 ^ 422042);
+  var _279 = _0[528];
+  const _xo = document[_0[43]](_0[387][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[126]] || ![];
+  _279 = function () {
+    return 826648 ^ 826649;
+  }();
+  var _280 = function (s, h) {
+    return s + h;
+  }(864525 ^ 864520, 518765 ^ 518765);
+  const _xp = document[_0[43]](_0[388][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[126]] || ![];
+  _280 = (532114 ^ 532116) + (915013 ^ 915015);
+  var _281 = _0[529];
+  const _xq = document[_0[43]](_0[154][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[126]] || ![];
+  _281 = (761400 ^ 761407) + (798520 ^ 798513);
+  var _282 = function (s, h) {
+    return s + h;
+  }(870733 ^ 870731, 237847 ^ 237843);
+  const _xr = document[_0[43]](_0[157][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[126]] || ![];
+  _282 = function () {
+    return _0[530];
+  }();
+  var _283 = function (s, h) {
+    return s + h;
+  }(806443 ^ 806445, 398633 ^ 398625);
+  const _xs = planId !== (725692 ^ 725685) ? document[_0[43]](_0[134][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[126]] || ![] : ![];
+  _283 = (408882 ^ 408890) + (597589 ^ 597586);
+  var _284 = function (s, h) {
+    return s + h;
+  }(829643 ^ 829642, 410192 ^ 410192);
+  const _xt = _xs ? parseFloat(document[_0[314]](_0[393][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[188]]) || 916937 ^ 916939 : 211663 ^ 211663;
+  _284 = function () {
+    return 599347 ^ 599349;
+  }();
+  var _285 = function (s, h) {
+    return s + h;
+  }(382844 ^ 382847, 613099 ^ 613098);
+  const _xu = document[_0[43]](_0[394][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[188]];
+  _285 = function () {
+    return 621797 ^ 621793;
+  }();
+  var _286 = function (s, h) {
+    return s ^ h;
+  }(170916, 170925);
+  const _xv = _xu !== undefined && _xu !== _0[3] ? parseFloat(_xu) : null;
+  _286 = (295179 ^ 295182) + (118639 ^ 118630);
+  var _287 = function (s, h) {
+    return s + h;
+  }(624259 ^ 624263, 521258 ^ 521251);
+  const _xw = document[_0[314]](_0[369][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+  _287 = (360424 ^ 360417) + (878652 ^ 878649);
+  var _288 = _0[531];
+  const _xx = _xw ? _xw[_0[188]] : _0[370][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+  _288 = function () {
+    return _0[531];
+  }();
+  _xg[_0[179]] = function () {
+    return _0[3];
+  }();
+  if (!_xh) {
+    _xg[_0[179]] = _0[532][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
     return;
   }
-  let _0xg524e;
-  const _0xg14d4f = _0x3c74f || 707366 ^ 707333;
-  _0xg524e = (380873 ^ 380873) + (907682 ^ 907680);
-  var _0x97b = (352794 ^ 352787) + (316658 ^ 316666);
-  const _0xa50c = planRatesMap[planId];
-  _0x97b = 910689 ^ 910695;
-  let _0xd57be;
-  const _0x36ae = planConfig[planId];
-  _0xd57be = (350776 ^ 350782) + (771798 ^ 771807);
-  let _0xad5aa;
-  const _0x32agc = _0x36ae?.isPension ? "\u0985\u09AC\u09B8\u09B0\u0020\u0997\u09CD\u09B0\u09B9\u09A3\u09C7\u09B0\u0020\u09AC\u09DF\u09B8" : 'মেয়াদ';
-  _0xad5aa = (876762 ^ 876765) + (445621 ^ 445622);
-  if (!_0xa50c || !_0xa50c[_0xg14d4f] || !_0xa50c[_0xg14d4f][_0xa5_0xecf]) {
-    _0x57g72c['\u0069\u006E\u006E\u0065\u0072\u0048\u0054\u004D\u004C'] = `<span style="font-size:15px; color:#ef4444; font-weight:800;">বয়স ${toBangla(_0xg14d4f)}-এর জন্য ${toBangla(_0xa5_0xecf)} বছর ${_0x32agc} প্রযোজ্য নয়।</span>`;
+  var _289 = function (s, h) {
+    return s ^ h;
+  }(704757, 704757);
+  const _xy = _xi || 322684 ^ 322655;
+  _289 = function () {
+    return 876033 ^ 876040;
+  }();
+  var _290 = _0[533];
+  const _xz = planRatesMap[planId];
+  _290 = function () {
+    return _0[533];
+  }();
+  var _291 = function (s, h) {
+    return s ^ h;
+  }(291235, 291236);
+  const _y0 = planConfig[planId];
+  _291 = function () {
+    return _0[534];
+  }();
+  var _292 = _0[535];
+  const _y1 = _y0?.[_0[251]] ? _0[376][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) : _0[377][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+  _292 = function () {
+    return _0[535];
+  }();
+  if (!_xz || !_xz[_xy] || !_xz[_xy][_xj]) {
+    _xg[_0[179]] = `<span style="font-size:15px; color:#ef4444; font-weight:800;">বয়স ${toBangla(_xy)}-এর জন্য ${toBangla(_xj)} বছর ${_y1} প্রযোজ্য নয়।</span>`;
     return;
   }
-  let _0xd01a5d;
-  let _0xd747a = 843889 ^ 843888;
-  _0xd01a5d = (469498 ^ 469500) + (980035 ^ 980043);
-  if (_0x3332a === 'monthly') _0xd747a = 0.0925;else if (_0x3332a === "\u0071\u0075\u0061\u0072\u0074\u0065\u0072\u006C\u0079") _0xd747a = 0.275;else if (_0x3332a === 'half_yearly') _0xd747a = 0.525;
-  let _0xg77d;
-  const _0x3193cb = _0xa50c[_0xg14d4f][_0xa5_0xecf];
-  _0xg77d = '\u0063\u0066\u0061\u0068\u006F\u0067';
-  const _0xa302e = _0x9b3b ? getCCRate(_0xg14d4f) : 820770 ^ 820770;
-  let _0x01ed = 689491 ^ 689491;
-  if (_0xad708e) {
-    const _0x1b14d = parseInt(document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0068\u0063\u002D\u0074\u0069\u0065\u0072")?.value) || 519272 ^ 519273;
-    const incSelf = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0068\u0063\u002D\u0073\u0065\u006C\u0066")?.checked || false;
-    let _0x2c_0x7g1;
-    const incSpouse = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('p-hc-spouse')?.checked || false;
-    _0x2c_0x7g1 = "oiqile";
-    var _0x4gface = (489843 ^ 489842) + (528533 ^ 528534);
-    const spouseAge = parseInt(document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0068\u0063\u002D\u0073\u0070\u006F\u0075\u0073\u0065\u002D\u0061\u0067\u0065")?.value) || _0xg14d4f;
-    _0x4gface = 118384 ^ 118388;
-    let _0x679b;
-    const incChild = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0068\u0063\u002D\u0063\u0068\u0069\u006C\u0064")?.checked || false;
-    _0x679b = '\u0066\u006E\u006F\u006F\u006C\u0065';
-    let _0xd327d;
-    let childCount = 539692 ^ 539692;
-    _0xd327d = (856835 ^ 856838) + (812629 ^ 812628);
-    if (incChild) {
-      const validAges = getValidChildAges();
-      const childInputs = document['\u0071\u0075\u0065\u0072\u0079\u0053\u0065\u006C\u0065\u0063\u0074\u006F\u0072\u0041\u006C\u006C']("\u002E\u0070\u002D\u0068\u0063\u002D\u0063\u0068\u0069\u006C\u0064\u002D\u0061\u0067\u0065");
-      childCount = validAges['\u006C\u0065\u006E\u0067\u0074\u0068'] > (776201 ^ 776201) ? validAges['\u006C\u0065\u006E\u0067\u0074\u0068'] : childInputs['\u006C\u0065\u006E\u0067\u0074\u0068'];
+  var _293 = function (s, h) {
+    return s ^ h;
+  }(524636, 524639);
+  let _y2 = function (s, h) {
+    return s ^ h;
+  }(499148, 499149);
+  _293 = function () {
+    return 637211 ^ 637213;
+  }();
+  if (_xx === _0[372][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])) _y2 = function () {
+    return 0.0925;
+  }();else if (_xx === _0[373][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])) _y2 = function () {
+    return 0.275;
+  }();else if (_xx === _0[374][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])) _y2 = function () {
+    return 0.525;
+  }();
+  var _294 = _0[536];
+  const _y3 = _xz[_xy][_xj];
+  _294 = function () {
+    return 541541 ^ 541548;
+  }();
+  var _295 = function (s, h) {
+    return s ^ h;
+  }(377030, 377030);
+  let _y4 = _y3;
+  _295 = (629769 ^ 629774) + (742320 ^ 742323);
+  var _296 = function (s, h) {
+    return s + h;
+  }(296342 ^ 296337, 707772 ^ 707768);
+  let _y5 = function (s, h) {
+    return s ^ h;
+  }(910527, 910526);
+  _296 = (229120 ^ 229121) + (183426 ^ 183427);
+  if (planId === (450040 ^ 450046)) {
+    var _297 = function (s, h) {
+      return s ^ h;
+    }(229297, 229299);
+    let _y6 = function (s, h) {
+      return s ^ h;
+    }(394039, 394039);
+    _297 = function () {
+      return 960912 ^ 960912;
+    }();
+    if (_xx === _0[372][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])) {
+      _y6 = function () {
+        return 0.166;
+      }();
+      _y5 = function () {
+        return 646293 ^ 646297;
+      }();
+    } else if (_xx === _0[373][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])) {
+      _y6 = function () {
+        return 0.5;
+      }();
+      _y5 = function () {
+        return 341550 ^ 341546;
+      }();
+    } else if (_xx === _0[374][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])) {
+      _y6 = function () {
+        return 643350 ^ 643351;
+      }();
+      _y5 = function () {
+        return 718487 ^ 718485;
+      }();
+    } else {
+      _y6 = function () {
+        return 970823 ^ 970821;
+      }();
+      _y5 = function () {
+        return 663210 ^ 663211;
+      }();
     }
-    const _0x7fb3g = calculateHCAnnual(_0x1b14d, _0xg14d4f, incSelf, incSpouse, spouseAge, childCount);
-    _0x01ed = Math['\u0072\u006F\u0075\u006E\u0064'](_0x7fb3g * _0xd747a);
+    _y4 = _y3 - _y6;
   }
-  let _0xc13e;
-  let _0x93g = 942583 ^ 942583;
-  _0xc13e = '\u006E\u006F\u0069\u0069\u0068\u0061';
-  if (_0xa12afa) {
-    const _0xbaac5f = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('p-hi-tier')?.value || "\u0073\u0069\u006C\u0076\u0065\u0072";
-    let _0x9_0x354;
-    const incSelf = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('p-hi-self')?.checked || false;
-    _0x9_0x354 = "lkqlee";
-    const incSpouse = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0068\u0069\u002D\u0073\u0070\u006F\u0075\u0073\u0065")?.checked || false;
-    const spouseAge = parseInt(document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0068\u0069\u002D\u0073\u0070\u006F\u0075\u0073\u0065\u002D\u0061\u0067\u0065")?.value) || _0xg14d4f;
-    const incChild = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0068\u0069\u002D\u0063\u0068\u0069\u006C\u0064")?.checked || false;
-    var _0x4507b = (261578 ^ 261582) + (486803 ^ 486810);
-    let childCount = 227073 ^ 227073;
-    _0x4507b = 295525 ^ 295525;
-    if (incChild) {
-      const validAges = getValidHIChildAges("\u0070\u006C\u0061\u006E");
-      var _0xdba = (369786 ^ 369791) + (560364 ^ 560361);
-      const childInputs = document['\u0071\u0075\u0065\u0072\u0079\u0053\u0065\u006C\u0065\u0063\u0074\u006F\u0072\u0041\u006C\u006C']("\u002E\u0070\u002D\u0068\u0069\u002D\u0063\u0068\u0069\u006C\u0064\u002D\u0061\u0067\u0065");
-      _0xdba = (486131 ^ 486132) + (758210 ^ 758219);
-      childCount = validAges['\u006C\u0065\u006E\u0067\u0074\u0068'] > (707345 ^ 707345) ? validAges['\u006C\u0065\u006E\u0067\u0074\u0068'] : childInputs['\u006C\u0065\u006E\u0067\u0074\u0068'];
+  var _298 = function (s, h) {
+    return s ^ h;
+  }(602355, 602363);
+  const _y7 = _xn ? getCCRate(_xy) : 296899 ^ 296899;
+  _298 = (290523 ^ 290527) + (761091 ^ 761094);
+  var _299 = function (s, h) {
+    return s ^ h;
+  }(710865, 710866);
+  let _y8 = function (s, h) {
+    return s ^ h;
+  }(907559, 907559);
+  _299 = (587831 ^ 587829) + (603136 ^ 603136);
+  if (_xq) {
+    var _300 = _0[537];
+    const _y9 = parseInt(document[_0[43]](_0[403][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[188]]) || 944437 ^ 944436;
+    _300 = function () {
+      return 277857 ^ 277864;
+    }();
+    var _301 = function (s, h) {
+      return s ^ h;
+    }(311064, 311066);
+    const _ya = document[_0[43]](_0[405][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[126]] || ![];
+    _301 = function () {
+      return _0[538];
+    }();
+    var _302 = function (s, h) {
+      return s ^ h;
+    }(274061, 274058);
+    const _yb = document[_0[43]](_0[407][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[126]] || ![];
+    _302 = function () {
+      return 125393 ^ 125397;
+    }();
+    var _303 = _0[539];
+    const _yc = parseInt(document[_0[43]](_0[408][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[188]]) || _xy;
+    _303 = (223161 ^ 223167) + (618666 ^ 618669);
+    var _304 = function (s, h) {
+      return s ^ h;
+    }(691328, 691329);
+    const _yd = document[_0[43]](_0[409][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[126]] || ![];
+    _304 = (334857 ^ 334858) + (205048 ^ 205050);
+    var _305 = function (s, h) {
+      return s + h;
+    }(904331 ^ 904323, 737076 ^ 737073);
+    let _ye = function (s, h) {
+      return s ^ h;
+    }(281989, 281989);
+    _305 = function () {
+      return 946048 ^ 946049;
+    }();
+    if (_yd) {
+      var _306 = function (s, h) {
+        return s + h;
+      }(995509 ^ 995511, 120765 ^ 120766);
+      const _yf = getValidChildAges();
+      _306 = function () {
+        return 307944 ^ 307944;
+      }();
+      var _307 = function (s, h) {
+        return s ^ h;
+      }(548546, 548551);
+      const _yg = document[_0[184]](_0[185][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+      _307 = function () {
+        return 332483 ^ 332485;
+      }();
+      _ye = _yf[_0[171]] > (144747 ^ 144747) ? _yf[_0[171]] : _yg[_0[171]];
     }
-    const _0x6ad28a = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('p-hi-maternity')?.value || 'none';
-    const _0xdac = calculateHIAnnual(_0xbaac5f, _0xg14d4f, incSelf, incSpouse, spouseAge, childCount, _0x6ad28a);
-    _0x93g = Math['\u0072\u006F\u0075\u006E\u0064'](_0xdac * _0xd747a);
+    var _308 = _0[540];
+    const _yh = calculateHCAnnual(_y9, _xy, _ya, _yb, _yc, _ye);
+    _308 = function () {
+      return _0[540];
+    }();
+    _y8 = Math[_0[335]](_yh * _y2);
   }
-  const _0x7208a = _0x01ed + _0x93g;
-  var _0x6f288a = (362310 ^ 362319) + (818460 ^ 818456);
-  const _0x28_0x732 = (_0x344bbe ? 1.25 : 694241 ^ 694241) + (_0xffc8cb ? 3.50 : 462090 ^ 462090) + (_0x1ded8c ? 6.45 : 921055 ^ 921055) + (_0x185e4c ? getWPRate(_0xg14d4f) : 106342 ^ 106342) + (_0x5ec4ab ? getIBRRate(_0xg14d4f, _0xa5_0xecf) : 142343 ^ 142343) + (_0x28g2ab ? _0xfa5a : 113537 ^ 113537);
-  _0x6f288a = (275702 ^ 275699) + (794429 ^ 794430);
-  var _0x683efa = (282494 ^ 282491) + (882463 ^ 882461);
-  const _0x88d2 = _0x36ae?.isPension ? _0x3193cb / (355785 ^ 355779) : _0x3193cb;
-  _0x683efa = (594261 ^ 594257) + (227387 ^ 227390);
-  const _0xfdbb = (_0x88d2 + _0x28_0x732) * _0xd747a;
-  let _0xbg1c;
-  let _0x62d3d = 849182 ^ 849182;
-  _0xbg1c = '\u0064\u0063\u006B\u006C\u0065\u0067';
-  if (_0x9b3b && _0x82gg && _0x82gg > (128919 ^ 128919)) {
-    let _0xf352ae;
-    const _0xb8c4ga = Math['\u006D\u0069\u006E'](_0x82gg, 500000);
-    _0xf352ae = (633944 ^ 633948) + (384177 ^ 384176);
-    const fixedCcPrem = _0xb8c4ga / (137108 ^ 136316) * _0xa302e * _0xd747a;
-    let _0x4f_0x875;
-    const remBudget = Math['\u006D\u0061\u0078'](150663 ^ 150663, _0xdf1egb - fixedCcPrem - _0x7208a);
-    _0x4f_0x875 = (539963 ^ 539954) + (922996 ^ 922994);
-    _0x62d3d = remBudget / _0xfdbb * (106738 ^ 107290);
-  } else if (_0x9b3b) {
-    const _0x67c = (_0x88d2 + _0x28_0x732 + _0xa302e) * _0xd747a;
-    let _0xbaf5ba = Math['\u006D\u0061\u0078'](919969 ^ 919969, _0xdf1egb - _0x7208a) / _0x67c * (154446 ^ 153766);
-    if (_0xbaf5ba > 500000) {
-      const fixedCcPrem = 500000 / (648272 ^ 649144) * _0xa302e * _0xd747a;
-      let _0x881b;
-      const remBudget = Math['\u006D\u0061\u0078'](336592 ^ 336592, _0xdf1egb - fixedCcPrem - _0x7208a);
-      _0x881b = (872768 ^ 872769) + (951379 ^ 951376);
-      _0xbaf5ba = remBudget / _0xfdbb * (610841 ^ 610801);
+  var _309 = function (s, h) {
+    return s + h;
+  }(495169 ^ 495173, 934877 ^ 934873);
+  let _yi = function (s, h) {
+    return s ^ h;
+  }(776918, 776918);
+  _309 = (967303 ^ 967310) + (253338 ^ 253340);
+  if (_xr) {
+    var _310 = function (s, h) {
+      return s + h;
+    }(106883 ^ 106880, 573372 ^ 573364);
+    const _yj = document[_0[43]](_0[414][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[188]] || _0[197][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    _310 = (487402 ^ 487394) + (759421 ^ 759418);
+    var _311 = function (s, h) {
+      return s + h;
+    }(119354 ^ 119357, 140009 ^ 140012);
+    const _yk = document[_0[43]](_0[417][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[126]] || ![];
+    _311 = function () {
+      return _0[541];
+    }();
+    var _312 = function (s, h) {
+      return s + h;
+    }(194114 ^ 194122, 721198 ^ 721197);
+    const _yl = document[_0[43]](_0[419][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[126]] || ![];
+    _312 = (412663 ^ 412661) + (304280 ^ 304283);
+    var _313 = function (s, h) {
+      return s + h;
+    }(368971 ^ 368973, 120459 ^ 120458);
+    const _ym = parseInt(document[_0[43]](_0[420][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[188]]) || _xy;
+    _313 = (376042 ^ 376044) + (399332 ^ 399329);
+    var _314 = _0[542];
+    const _yn = document[_0[43]](_0[421][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[126]] || ![];
+    _314 = (279685 ^ 279685) + (113200 ^ 113208);
+    var _315 = function (s, h) {
+      return s + h;
+    }(190021 ^ 190023, 414610 ^ 414611);
+    let _yo = function (s, h) {
+      return s ^ h;
+    }(128279, 128279);
+    _315 = (929123 ^ 929131) + (911399 ^ 911393);
+    if (_yn) {
+      var _316 = _0[543];
+      const _yp = getValidHIChildAges(_0[423][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+      _316 = function () {
+        return 845799 ^ 845792;
+      }();
+      var _317 = _0[544];
+      const _yq = document[_0[184]](_0[425][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+      _317 = function () {
+        return 760798 ^ 760793;
+      }();
+      _yo = _yp[_0[171]] > (930088 ^ 930088) ? _yp[_0[171]] : _yq[_0[171]];
     }
-    _0x62d3d = _0xbaf5ba;
+    var _318 = function (s, h) {
+      return s + h;
+    }(122586 ^ 122591, 581565 ^ 581563);
+    const _yr = document[_0[43]](_0[426][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[188]] || _0[132][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    _318 = (743619 ^ 743619) + (292281 ^ 292272);
+    var _319 = _0[545];
+    const _ys = calculateHIAnnual(_yj, _xy, _yk, _yl, _ym, _yo, _yr);
+    _319 = (569503 ^ 569496) + (429910 ^ 429911);
+    _yi = Math[_0[335]](_ys * _y2);
+  }
+  var _320 = function (s, h) {
+    return s + h;
+  }(562669 ^ 562671, 677467 ^ 677458);
+  const _yt = function (s, h) {
+    return s + h;
+  }(_y8, _yi);
+  _320 = (616118 ^ 616127) + (352821 ^ 352819);
+  var _321 = function (s, h) {
+    return s + h;
+  }(542855 ^ 542854, 424448 ^ 424448);
+  const _yu = function (s, h) {
+    return s + h;
+  }((_xk ? 1.25 : 235785 ^ 235785) + (_xl ? 3.50 : 155857 ^ 155857) + (_xm ? 6.45 : 658809 ^ 658809) + (_xo ? getWPRate(_xy) : 559304 ^ 559304) + (_xp ? getIBRRate(_xy, _xj) : 559952 ^ 559952), _xs ? _xt : 490816 ^ 490816);
+  _321 = function () {
+    return 502669 ^ 502668;
+  }();
+  var _322 = _0[546];
+  const _yv = _y0?.[_0[251]] ? _y3 / (134285 ^ 134279) : planId === (208055 ^ 208049) ? _y4 : _y3;
+  _322 = function () {
+    return _0[546];
+  }();
+  var _323 = function (s, h) {
+    return s + h;
+  }(924343 ^ 924351, 980889 ^ 980891);
+  const _yw = planId === (704903 ^ 704897) ? _y4 / _y5 + _yu * _y2 : (_yv + _yu) * _y2;
+  _323 = (324743 ^ 324743) + (359552 ^ 359559);
+  var _324 = function (s, h) {
+    return s ^ h;
+  }(556822, 556821);
+  let _yx = function (s, h) {
+    return s ^ h;
+  }(919268, 919268);
+  _324 = (889038 ^ 889036) + (766287 ^ 766278);
+  if (_xn && _xv && _xv > (796413 ^ 796413)) {
+    var _325 = function (s, h) {
+      return s ^ h;
+    }(240260, 240256);
+    const _yy = Math[_0[211]](_xv, 500000);
+    _325 = (833359 ^ 833356) + (539488 ^ 539493);
+    var _326 = function (s, h) {
+      return s + h;
+    }(137839 ^ 137831, 793941 ^ 793940);
+    const _yz = function (s, h) {
+      return s * h;
+    }(_yy / (822113 ^ 821385) * _y7, _y2);
+    _326 = (120697 ^ 120688) + (865065 ^ 865066);
+    var _327 = _0[547];
+    const _z0 = Math[_0[216]](965980 ^ 965980, _xh - _yz - _yt);
+    _327 = function () {
+      return _0[547];
+    }();
+    _yx = _z0 / _yw * (350722 ^ 350698);
+  } else if (_xn) {
+    var _328 = function (s, h) {
+      return s ^ h;
+    }(232171, 232168);
+    const _z1 = function (s, h) {
+      return s * h;
+    }(_yv + _yu + _y7, _y2);
+    _328 = (283806 ^ 283804) + (973828 ^ 973828);
+    var _329 = function (s, h) {
+      return s ^ h;
+    }(856792, 856797);
+    let _z2 = function (s, h) {
+      return s * h;
+    }(Math[_0[216]](989192 ^ 989192, _xh - _yt) / _z1, 883492 ^ 882892);
+    _329 = (321586 ^ 321588) + (200758 ^ 200752);
+    if (_z2 > 500000) {
+      var _330 = function (s, h) {
+        return s ^ h;
+      }(988551, 988548);
+      const _z3 = function (s, h) {
+        return s * h;
+      }(500000 / (491239 ^ 490767) * _y7, _y2);
+      _330 = function () {
+        return 650353 ^ 650361;
+      }();
+      var _331 = _0[548];
+      const _z4 = Math[_0[216]](964819 ^ 964819, _xh - _z3 - _yt);
+      _331 = (564044 ^ 564040) + (413150 ^ 413148);
+      _z2 = _z4 / _yw * (147443 ^ 146459);
+    }
+    _yx = _z2;
   } else {
-    var _0xe47d = (145813 ^ 145808) + (456739 ^ 456747);
-    const remBudget = Math['\u006D\u0061\u0078'](163513 ^ 163513, _0xdf1egb - _0x7208a);
-    _0xe47d = 433966 ^ 433964;
-    _0x62d3d = remBudget / _0xfdbb * (641783 ^ 641311);
+    var _332 = function (s, h) {
+      return s + h;
+    }(121097 ^ 121089, 570497 ^ 570501);
+    const _z5 = Math[_0[216]](878898 ^ 878898, _xh - _yt);
+    _332 = function () {
+      return 493376 ^ 493384;
+    }();
+    _yx = _z5 / _yw * (596739 ^ 596203);
   }
-  let _0xbe76c;
-  const _0xg2cc3c = Math['\u006D\u0061\u0078'](785190 ^ 785190, Math['\u0072\u006F\u0075\u006E\u0064'](_0x62d3d / (563576 ^ 563856)) * (238692 ^ 239500));
-  _0xbe76c = (771113 ^ 771116) + (413677 ^ 413668);
-  var _0x6b882e = (524890 ^ 524883) + (356233 ^ 356238);
-  const _0x4fbfc = [];
-  _0x6b882e = "mkgfkm";
-  const _0x540cff = [];
-  let _0x55c3e;
-  const _0x31_0x18d = planId === (448567 ^ 448574) ? 451952 ^ 442976 : 100000;
-  _0x55c3e = 804561 ^ 804569;
-  for (let i = -(892968 ^ 892939); i <= (563860 ^ 563897); i++) {
-    const _0x9da = _0xg2cc3c + i * (468751 ^ 468199);
-    if (_0x9da >= _0x31_0x18d) {
-      let _0x5c_0xc05;
-      const _0x6d7a = _0x36ae?.isPension ? Math['\u0072\u006F\u0075\u006E\u0064'](_0x9da / (814568 ^ 814562) / (209952 ^ 210888) * _0x3193cb * _0xd747a) : Math['\u0072\u006F\u0075\u006E\u0064'](_0x9da / (382943 ^ 382007) * _0x3193cb * _0xd747a);
-      _0x5c_0xc05 = (106635 ^ 106627) + (978388 ^ 978388);
-      const _0xadf16e = _0x9b3b ? getCCSumAssured(_0x82gg, _0x9da) : 523879 ^ 523879;
-      const _0x4af = _0x9b3b ? Math['\u0072\u006F\u0075\u006E\u0064'](_0xadf16e / (860147 ^ 859163) * _0xa302e * _0xd747a) : 606661 ^ 606661;
-      const _0xe4b6f = _0x28g2ab ? Math['\u0072\u006F\u0075\u006E\u0064'](_0x9da / (865361 ^ 866233) * _0xfa5a * _0xd747a) : 998926 ^ 998926;
-      var _0x6577g = (613913 ^ 613904) + (400313 ^ 400314);
-      const _0x0939g = (_0x344bbe ? Math['\u0072\u006F\u0075\u006E\u0064'](_0x9da / (384496 ^ 384536) * 1.25 * _0xd747a) : 990290 ^ 990290) + (_0xffc8cb ? Math['\u0072\u006F\u0075\u006E\u0064'](_0x9da / (202051 ^ 202411) * 3.50 * _0xd747a) : 774047 ^ 774047) + (_0x1ded8c ? Math['\u0072\u006F\u0075\u006E\u0064'](_0x9da / (913571 ^ 914251) * 6.45 * _0xd747a) : 633690 ^ 633690) + _0x4af + (_0x185e4c ? Math['\u0072\u006F\u0075\u006E\u0064'](_0x9da / (246422 ^ 246142) * getWPRate(_0xg14d4f) * _0xd747a) : 889690 ^ 889690) + (_0x5ec4ab ? Math['\u0072\u006F\u0075\u006E\u0064'](_0x9da / (224166 ^ 223310) * getIBRRate(_0xg14d4f, _0xa5_0xecf) * _0xd747a) : 674380 ^ 674380) + _0xe4b6f + _0x7208a;
-      _0x6577g = 566161 ^ 566163;
-      let _0xce2c8a;
-      const _0xcb_0x7de = _0x6d7a + _0x0939g;
-      _0xce2c8a = (507176 ^ 507181) + (245903 ^ 245899);
-      var _0xa955b = (537265 ^ 537269) + (999934 ^ 999933);
-      const _0xc652db = {
-        "term": _0xa5_0xecf,
-        '\u0073\u0075\u006D\u0041\u0073\u0073\u0075\u0072\u0065\u0064': _0x9da,
-        '\u0074\u006F\u0074\u0061\u006C\u0050\u0072\u0065\u006D\u0069\u0075\u006D': _0xcb_0x7de
+  var _333 = function (s, h) {
+    return s ^ h;
+  }(757702, 757697);
+  const _z6 = Math[_0[216]](599951 ^ 599951, Math[_0[335]](_yx / (515333 ^ 515821)) * (168187 ^ 168723));
+  _333 = (374518 ^ 374526) + (620944 ^ 620952);
+  var _334 = function (s, h) {
+    return s ^ h;
+  }(327216, 327218);
+  const _z7 = [];
+  _334 = (699640 ^ 699647) + (288724 ^ 288724);
+  var _335 = function (s, h) {
+    return s ^ h;
+  }(299824, 299830);
+  const _z8 = [];
+  _335 = function () {
+    return 207901 ^ 207897;
+  }();
+  var _336 = function (s, h) {
+    return s ^ h;
+  }(953005, 952997);
+  const _z9 = planId === (961660 ^ 961653) ? 957025 ^ 966001 : 100000;
+  _336 = function () {
+    return 743569 ^ 743570;
+  }();
+  for (let i = -(178370 ^ 178401); i <= (252041 ^ 252068); i++) {
+    var _337 = function (s, h) {
+      return s + h;
+    }(131364 ^ 131366, 440534 ^ 440533);
+    const sa = function (s, h) {
+      return s + h;
+    }(_z6, i * (354848 ^ 354760));
+    _337 = function () {
+      return _0[549];
+    }();
+    if (sa >= _z9) {
+      var _338 = function (s, h) {
+        return s ^ h;
+      }(555928, 555930);
+      let _za = function (s, h) {
+        return s ^ h;
+      }(933547, 933547);
+      _338 = (724798 ^ 724793) + (481648 ^ 481657);
+      if (planId === (633654 ^ 633648)) {
+        _za = Math[_0[335]](sa / (703053 ^ 702885) * _y4 / _y5);
+      } else if (_y0?.[_0[251]]) {
+        _za = Math[_0[335]](sa / (301878 ^ 301884) / (917833 ^ 918177) * _y3 * _y2);
+      } else {
+        _za = Math[_0[335]](sa / (685040 ^ 684056) * _y3 * _y2);
+      }
+      var _339 = function (s, h) {
+        return s + h;
+      }(879627 ^ 879618, 285016 ^ 285008);
+      const _zb = _xn ? getCCSumAssured(_xv, sa) : 406660 ^ 406660;
+      _339 = (368032 ^ 368039) + (711325 ^ 711324);
+      var _340 = function (s, h) {
+        return s + h;
+      }(754685 ^ 754681, 165530 ^ 165522);
+      const ccP = _xn ? Math[_0[335]](_zb / (292961 ^ 293769) * _y7 * _y2) : 215157 ^ 215157;
+      _340 = (494041 ^ 494044) + (894181 ^ 894178);
+      var _341 = _0[550];
+      const oeP = _xs ? Math[_0[335]](sa / (484964 ^ 484748) * _xt * _y2) : 461359 ^ 461359;
+      _341 = function () {
+        return _0[550];
+      }();
+      var _342 = _0[551];
+      const _14a = function (s, h) {
+        return s + h;
+      }((_xk ? Math[_0[335]](sa / (902970 ^ 902354) * 1.25 * _y2) : 636504 ^ 636504) + (_xl ? Math[_0[335]](sa / (228242 ^ 227450) * 3.50 * _y2) : 221748 ^ 221748) + (_xm ? Math[_0[335]](sa / (199216 ^ 199128) * 6.45 * _y2) : 839052 ^ 839052) + ccP + (_xo ? Math[_0[335]](sa / (344113 ^ 345049) * getWPRate(_xy) * _y2) : 172814 ^ 172814) + (_xp ? Math[_0[335]](sa / (864344 ^ 865200) * getIBRRate(_xy, _xj) * _y2) : 543325 ^ 543325) + oeP, _yt);
+      _342 = function () {
+        return _0[551];
+      }();
+      var _343 = _0[552];
+      const _14b = function (s, h) {
+        return s + h;
+      }(_za, _14a);
+      _343 = function () {
+        return 346685 ^ 346683;
+      }();
+      var _344 = _0[553];
+      const item = {
+        term: _xj,
+        sumAssured: sa,
+        totalPremium: _14b
       };
-      _0xa955b = (391977 ^ 391978) + (424736 ^ 424741);
-      if (_0xcb_0x7de < _0xdf1egb) _0x4fbfc['\u0070\u0075\u0073\u0068'](_0xc652db);else _0x540cff['\u0070\u0075\u0073\u0068'](_0xc652db);
+      _344 = (315875 ^ 315875) + (527212 ^ 527205);
+      if (_14b < _xh) _z7[_0[189]](item);else _z8[_0[189]](item);
     }
   }
-  _0x4fbfc['\u0073\u006F\u0072\u0074']((a, b) => b['\u0074\u006F\u0074\u0061\u006C\u0050\u0072\u0065\u006D\u0069\u0075\u006D'] - a['\u0074\u006F\u0074\u0061\u006C\u0050\u0072\u0065\u006D\u0069\u0075\u006D']);
-  var _0xd3_0xgc1 = (476741 ^ 476748) + (142429 ^ 142424);
-  const _0x4abf = _0x4fbfc['\u0073\u006C\u0069\u0063\u0065'](926169 ^ 926169, 137056 ^ 137059);
-  _0xd3_0xgc1 = (450217 ^ 450223) + (754584 ^ 754586);
-  _0x540cff['\u0073\u006F\u0072\u0074']((a, b) => a['\u0074\u006F\u0074\u0061\u006C\u0050\u0072\u0065\u006D\u0069\u0075\u006D'] - b['\u0074\u006F\u0074\u0061\u006C\u0050\u0072\u0065\u006D\u0069\u0075\u006D']);
-  let _0x10_0xa5e;
-  const _0x76fafe = (892504 ^ 892492) - _0x4abf['\u006C\u0065\u006E\u0067\u0074\u0068'];
-  _0x10_0xa5e = 390312 ^ 390314;
-  var _0x7d_0x34b = (434270 ^ 434266) + (478092 ^ 478088);
-  const _0x81494d = _0x540cff['\u0073\u006C\u0069\u0063\u0065'](525104 ^ 525104, _0x76fafe);
-  _0x7d_0x34b = (786180 ^ 786183) + (830716 ^ 830718);
-  var _0x7c_0xfd8 = (950590 ^ 950583) + (370485 ^ 370493);
-  let _0x332d6a = [..._0x4abf, ..._0x81494d];
-  _0x7c_0xfd8 = 435237 ^ 435245;
-  var _0xed1fd = (960984 ^ 960988) + (253361 ^ 253365);
-  const _0x21a03e = _0x332d6a['\u0066\u0069\u006E\u0064\u0049\u006E\u0064\u0065\u0078'](item => item['\u0074\u006F\u0074\u0061\u006C\u0050\u0072\u0065\u006D\u0069\u0075\u006D'] >= _0xdf1egb);
-  _0xed1fd = (348591 ^ 348590) + (109288 ^ 109293);
-  if (_0x21a03e > (720959 ^ 720959)) {
-    const [targetFirst] = _0x332d6a['\u0073\u0070\u006C\u0069\u0063\u0065'](_0x21a03e, 772968 ^ 772969);
-    _0x332d6a['\u0075\u006E\u0073\u0068\u0069\u0066\u0074'](targetFirst);
+  _z7[_0[554]]((a, b) => b[_0[555]] - a[_0[555]]);
+  var _345 = _0[556];
+  const _16o = _z7[_0[557]](286132 ^ 286132, 845999 ^ 845996);
+  _345 = function () {
+    return _0[556];
+  }();
+  _z8[_0[554]]((a, b) => a[_0[555]] - b[_0[555]]);
+  var _346 = _0[558];
+  const _16p = function (s, h) {
+    return s - h;
+  }(705200 ^ 705188, _16o[_0[171]]);
+  _346 = function () {
+    return _0[558];
+  }();
+  var _347 = function (s, h) {
+    return s ^ h;
+  }(622348, 622345);
+  const _16q = _z8[_0[557]](654797 ^ 654797, _16p);
+  _347 = (220120 ^ 220121) + (712559 ^ 712559);
+  var _348 = _0[559];
+  let _16r = [..._16o, ..._16q];
+  _348 = function () {
+    return 270424 ^ 270428;
+  }();
+  var _349 = _0[560];
+  const _16s = _16r[_0[561]](item => item[_0[555]] >= _xh);
+  _349 = (568824 ^ 568825) + (770788 ^ 770797);
+  if (_16s > (305640 ^ 305640)) {
+    const [targetFirst] = _16r[_0[562]](_16s, 708226 ^ 708227);
+    _16r[_0[563]](targetFirst);
   }
-  window['\u005F\u006C\u0061\u0074\u0065\u0073\u0074\u0053\u0075\u0067\u0067\u0065\u0073\u0074\u0069\u006F\u006E\u0073'] = {
-    '\u0066\u0069\u006E\u0061\u006C\u0053\u0075\u0067\u0067\u0065\u0073\u0074\u0069\u006F\u006E\u0073': _0x332d6a,
-    "targetBudget": _0xdf1egb,
-    '\u0070\u006C\u0061\u006E\u0049\u0064': planId
+  window[_0[564]] = {
+    finalSuggestions: _16r,
+    targetBudget: _xh,
+    planId
   };
-  _0x57g72c['\u0069\u006E\u006E\u0065\u0072\u0048\u0054\u004D\u004C'] = `
+  _xg[_0[179]] = `
         <button type="button" class="btn btn-print" style="width:100%; margin-top:6px; height:46px; font-size:15px;" onclick="openPremiumSuggestionsModal()">
             <i class="fas fa-list-check"></i> প্রিমিয়াম সাজেশন দেখুন (২০টি প্রস্তাবনা)
         </button>
     `;
 }
 function openPremiumSuggestionsModal() {
-  let _0x26b85f;
-  const _0xe77ead = window['\u005F\u006C\u0061\u0074\u0065\u0073\u0074\u0053\u0075\u0067\u0067\u0065\u0073\u0074\u0069\u006F\u006E\u0073'];
-  _0x26b85f = (368917 ^ 368915) + (569191 ^ 569188);
-  if (!_0xe77ead || !_0xe77ead['\u0066\u0069\u006E\u0061\u006C\u0053\u0075\u0067\u0067\u0065\u0073\u0074\u0069\u006F\u006E\u0073'] || _0xe77ead['\u0066\u0069\u006E\u0061\u006C\u0053\u0075\u0067\u0067\u0065\u0073\u0074\u0069\u006F\u006E\u0073']['\u006C\u0065\u006E\u0067\u0074\u0068'] === (185434 ^ 185434)) {
-    alert("\u0986\u0997\u09C7\u0020\u0995\u09BE\u0999\u09CD\u0995\u09CD\u09B7\u09BF\u09A4\u0020\u09AA\u09CD\u09B0\u09BF\u09AE\u09BF\u09AF\u09BC\u09BE\u09AE\u09C7\u09B0\u0020\u09AA\u09B0\u09BF\u09AE\u09BE\u09A3\u0020\u09B2\u09BF\u0996\u09C1\u09A8\u0964");
+  var _350 = _0[565];
+  const data = window[_0[564]];
+  _350 = function () {
+    return 973501 ^ 973501;
+  }();
+  if (!data || !data[_0[566]] || data[_0[566]][_0[171]] === (587622 ^ 587622)) {
+    alert(_0[567][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
     return;
   }
-  let _0x2b3b;
-  let _0x36e2df = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u0072\u0065\u006D\u0069\u0075\u006D\u0053\u0075\u0067\u0067\u0065\u0073\u0074\u0069\u006F\u006E\u0073\u004D\u006F\u0064\u0061\u006C");
-  _0x2b3b = "fgjfoj";
-  if (!_0x36e2df) {
+  var _351 = function (s, h) {
+    return s ^ h;
+  }(329699, 329703);
+  let _19f = document[_0[43]](_0[568][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+  _351 = function () {
+    return _0[569];
+  }();
+  if (!_19f) {
     createPremiumSuggestionsModalDOM();
-    _0x36e2df = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('premiumSuggestionsModal');
+    _19f = document[_0[43]](_0[568][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
   }
-  const _0x975ae = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('premiumSuggestionsListBody');
-  _0x975ae['\u0069\u006E\u006E\u0065\u0072\u0048\u0054\u004D\u004C'] = '';
-  _0xe77ead['\u0066\u0069\u006E\u0061\u006C\u0053\u0075\u0067\u0067\u0065\u0073\u0074\u0069\u006F\u006E\u0073']['\u0066\u006F\u0072\u0045\u0061\u0063\u0068']((s, index) => {
-    let _0x37b;
-    const _0xg29ac = s['\u0074\u006F\u0074\u0061\u006C\u0050\u0072\u0065\u006D\u0069\u0075\u006D'] < _0xe77ead['\u0074\u0061\u0072\u0067\u0065\u0074\u0042\u0075\u0064\u0067\u0065\u0074'];
-    _0x37b = "fdgffj";
-    let _0x3bccea;
-    const _0x1d9c0a = !_0xg29ac && index === (731768 ^ 731768);
-    _0x3bccea = '\u0068\u006B\u0071\u0067\u0067\u0065';
-    var _0x51b86f = (988982 ^ 988990) + (497439 ^ 497434);
-    const _0x17f = document['\u0063\u0072\u0065\u0061\u0074\u0065\u0045\u006C\u0065\u006D\u0065\u006E\u0074']("\u0064\u0069\u0076");
-    _0x51b86f = '\u006B\u006D\u0064\u0069\u0064\u0064';
-    _0x17f['\u0063\u006C\u0061\u0073\u0073\u004E\u0061\u006D\u0065'] = `suggestion-card ${_0xg29ac ? 'card-low' : "\u0063\u0061\u0072\u0064\u002D\u0068\u0069\u0067\u0068"}`;
-    if (_0x1d9c0a) {
-      _0x17f['\u0073\u0074\u0079\u006C\u0065']['\u0062\u006F\u0072\u0064\u0065\u0072'] = "\u0032\u002E\u0035\u0070\u0078\u0020\u0073\u006F\u006C\u0069\u0064\u0020\u0023\u0065\u0066\u0034\u0034\u0034\u0034";
-      _0x17f['\u0073\u0074\u0079\u006C\u0065']['\u0061\u006E\u0069\u006D\u0061\u0074\u0069\u006F\u006E'] = 'blinkCard 1s infinite alternate';
+  var _352 = function (s, h) {
+    return s + h;
+  }(833203 ^ 833200, 262974 ^ 262974);
+  const _19g = document[_0[43]](_0[570][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+  _352 = function () {
+    return 930158 ^ 930151;
+  }();
+  _19g[_0[179]] = function () {
+    return _0[3];
+  }();
+  data[_0[566]][_0[187]]((s, index) => {
+    var _353 = function (s, h) {
+      return s + h;
+    }(591224 ^ 591225, 665370 ^ 665369);
+    const _19h = function (s, h) {
+      return s < h;
+    }(s[_0[555]], data[_0[571]]);
+    _353 = function () {
+      return _0[572];
+    }();
+    var _354 = function (s, h) {
+      return s + h;
+    }(222239 ^ 222239, 271826 ^ 271834);
+    const _19i = !_19h && index === (977166 ^ 977166);
+    _354 = function () {
+      return _0[573];
+    }();
+    var _355 = function (s, h) {
+      return s + h;
+    }(398604 ^ 398596, 764914 ^ 764912);
+    const card = document[_0[175]](_0[176][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+    _355 = (516650 ^ 516652) + (550001 ^ 550002);
+    card[_0[47]] = `suggestion-card ${_19h ? _0[574][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) : _0[575][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])}`;
+    if (_19i) {
+      card[_0[129]][_0[576]] = _0[577][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+      card[_0[129]][_0[578]] = _0[579][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
     }
-    const _0xdcb7ea = planConfig[_0xe77ead['\u0070\u006C\u0061\u006E\u0049\u0064']]?.isPension;
-    const _0x6c4e9b = _0xdcb7ea ? "\u0985\u09AC\u09B8\u09B0\u0020\u09AC\u09DF\u09B8" : "\u09AE\u09C7\u09DF\u09BE\u09A6";
-    let _0x810e2c;
-    const _0x7dc3bd = _0xdcb7ea ? ` · মাসিক পেনশন: <strong>${Math['\u0072\u006F\u0075\u006E\u0064'](s['\u0073\u0075\u006D\u0041\u0073\u0073\u0075\u0072\u0065\u0064'] / (443998 ^ 443942))['\u0074\u006F\u004C\u006F\u0063\u0061\u006C\u0065\u0053\u0074\u0072\u0069\u006E\u0067']("\u0062\u006E\u002D\u0042\u0044")}</strong> ৳` : '';
-    _0x810e2c = (606440 ^ 606445) + (665228 ^ 665227);
-    _0x17f['\u0069\u006E\u006E\u0065\u0072\u0048\u0054\u004D\u004C'] = `
+    var _356 = function (s, h) {
+      return s ^ h;
+    }(892571, 892574);
+    const _1bb = planConfig[data[_0[580]]]?.[_0[251]];
+    _356 = (737265 ^ 737270) + (120725 ^ 120722);
+    var _357 = _0[581];
+    const _1bc = _1bb ? _0[582][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) : _0[377][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    _357 = function () {
+      return _0[581];
+    }();
+    var _358 = _0[583];
+    const _1bd = _1bb ? ` · মাসিক পেনশন: <strong>${Math[_0[335]](s[_0[584]] / (456825 ^ 456705))[_0[255]](_0[256][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))}</strong> ৳` : _0[3];
+    _358 = function () {
+      return 601852 ^ 601852;
+    }();
+    card[_0[179]] = `
             <div class="sug-info" style="width:100%;">
                 <div class="sug-main" style="display:flex; justify-content:space-between; align-items:center;">
-                    <span>${_0x6c4e9b}: ${toBangla(s['\u0074\u0065\u0072\u006D'])} বছর · ঝুঁকি অংক: <strong>${s['\u0073\u0075\u006D\u0041\u0073\u0073\u0075\u0072\u0065\u0064']['\u0074\u006F\u004C\u006F\u0063\u0061\u006C\u0065\u0053\u0074\u0072\u0069\u006E\u0067']("\u0062\u006E\u002D\u0042\u0044")}</strong> ৳${_0x7dc3bd}</span>
-                    <button type="button" class="select-sug-btn" onclick="applySuggestionAndCloseModal(${_0xe77ead['\u0070\u006C\u0061\u006E\u0049\u0064']}, ${s['\u0073\u0075\u006D\u0041\u0073\u0073\u0075\u0072\u0065\u0064']}, ${s['\u0074\u0065\u0072\u006D']})"><i class="fas fa-check"></i> পছন্দ</button>
+                    <span>${_1bc}: ${toBangla(s[_0[585]])} বছর · ঝুঁকি অংক: <strong>${s[_0[584]][_0[255]](_0[256][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))}</strong> ৳${_1bd}</span>
+                    <button type="button" class="select-sug-btn" onclick="applySuggestionAndCloseModal(${data[_0[580]]}, ${s[_0[584]]}, ${s[_0[585]]})"><i class="fas fa-check"></i> পছন্দ</button>
                 </div>
                 <div style="margin-top: 6px; display: flex; align-items: center; justify-content:space-between; flex-wrap: wrap; gap: 6px;">
                     <span style="font-weight:900;">
-                        <i class="fas fa-coins"></i> নির্ধারিত কিস্তি: ${s['\u0074\u006F\u0074\u0061\u006C\u0050\u0072\u0065\u006D\u0069\u0075\u006D']['\u0074\u006F\u004C\u006F\u0063\u0061\u006C\u0065\u0053\u0074\u0072\u0069\u006E\u0067']('bn-BD')} ৳
+                        <i class="fas fa-coins"></i> নির্ধারিত কিস্তি: ${s[_0[555]][_0[255]](_0[256][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))} ৳
                     </span>
-                    <span class="sug-tag ${_0xg29ac ? "\u0074\u0061\u0067\u002D\u006C\u006F\u0077" : "\u0074\u0061\u0067\u002D\u0068\u0069\u0067\u0068"}">
-                        <i class="fas ${_0xg29ac ? 'fa-arrow-trend-down' : "\u0066\u0061\u002D\u0061\u0072\u0072\u006F\u0077\u002D\u0074\u0072\u0065\u006E\u0064\u002D\u0075\u0070"}"></i> ${_0xg29ac ? "\u09AC\u09BE\u099C\u09C7\u099F\u09C7\u09B0\u0020\u0995\u09AE" : "\u09AC\u09BE\u099C\u09C7\u099F\u09C7\u09B0\u0020\u09AC\u09C7\u09B6\u09BF"} ${_0x1d9c0a ? '⭐ (সেরা প্রস্তাব)' : ''}
+                    <span class="sug-tag ${_19h ? _0[586][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) : _0[587][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])}">
+                        <i class="fas ${_19h ? _0[588][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) : _0[589][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])}"></i> ${_19h ? _0[590][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) : _0[591][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])} ${_19i ? _0[592][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) : _0[3]}
                     </span>
                 </div>
             </div>
         `;
-    _0x975ae['\u0061\u0070\u0070\u0065\u006E\u0064\u0043\u0068\u0069\u006C\u0064'](_0x17f);
+    _19g[_0[180]](card);
   });
-  _0x36e2df['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079'] = 'flex';
-  document['\u0062\u006F\u0064\u0079']['\u0073\u0074\u0079\u006C\u0065']['\u006F\u0076\u0065\u0072\u0066\u006C\u006F\u0077'] = 'hidden';
+  _19f[_0[129]][_0[130]] = _0[143][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+  document[_0[58]][_0[129]][_0[484]] = _0[485][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
 }
 function closePremiumSuggestionsModal() {
-  const _0xd8a = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u0072\u0065\u006D\u0069\u0075\u006D\u0053\u0075\u0067\u0067\u0065\u0073\u0074\u0069\u006F\u006E\u0073\u004D\u006F\u0064\u0061\u006C");
-  if (_0xd8a) {
-    _0xd8a['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079'] = 'none';
-    document['\u0062\u006F\u0064\u0079']['\u0073\u0074\u0079\u006C\u0065']['\u006F\u0076\u0065\u0072\u0066\u006C\u006F\u0077'] = '';
+  var _359 = function (s, h) {
+    return s + h;
+  }(925770 ^ 925774, 478310 ^ 478306);
+  const _1be = document[_0[43]](_0[568][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+  _359 = function () {
+    return _0[593];
+  }();
+  if (_1be) {
+    _1be[_0[129]][_0[130]] = _0[132][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    document[_0[58]][_0[129]][_0[484]] = function () {
+      return _0[3];
+    }();
   }
 }
 function applySuggestionAndCloseModal(planId, sumAssured, term) {
@@ -5577,23 +7790,33 @@ function applySuggestionAndCloseModal(planId, sumAssured, term) {
   closePremiumSuggestionsModal();
 }
 function createPremiumSuggestionsModalDOM() {
-  if (document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('premiumSuggestionsModal')) return;
-  let _0x3fe64f;
-  const _0xb7d = 'blink-animation-style';
-  _0x3fe64f = (889305 ^ 889296) + (344116 ^ 344112);
-  if (!document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064'](_0xb7d)) {
-    const _0x73fe = document['\u0063\u0072\u0065\u0061\u0074\u0065\u0045\u006C\u0065\u006D\u0065\u006E\u0074']("\u0073\u0074\u0079\u006C\u0065");
-    _0x73fe['\u0069\u0064'] = _0xb7d;
-    _0x73fe['\u0069\u006E\u006E\u0065\u0072\u0048\u0054\u004D\u004C'] = `
+  if (document[_0[43]](_0[568][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))) return;
+  var _360 = function (s, h) {
+    return s + h;
+  }(823315 ^ 823317, 691215 ^ 691213);
+  const _1bf = _0[594][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+  _360 = function () {
+    return 347451 ^ 347449;
+  }();
+  if (!document[_0[43]](_1bf)) {
+    var _361 = function (s, h) {
+      return s + h;
+    }(333729 ^ 333731, 530378 ^ 530379);
+    const _1bg = document[_0[175]](_0[595][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+    _361 = (581615 ^ 581609) + (187591 ^ 187598);
+    _1bg[_0[596]] = _1bf;
+    _1bg[_0[179]] = `
             @keyframes blinkCard {
                 0% { opacity: 1; transform: scale(1); box-shadow: 0 0 10px rgba(239, 68, 68, 0.5); }
                 100% { opacity: 0.85; transform: scale(1.01); box-shadow: 0 0 22px rgba(239, 68, 68, 0.9); }
             }
         `;
-    document['\u0068\u0065\u0061\u0064']['\u0061\u0070\u0070\u0065\u006E\u0064\u0043\u0068\u0069\u006C\u0064'](_0x73fe);
+    document[_0[597]][_0[180]](_1bg);
   }
-  var _0x99c = (173096 ^ 173098) + (787756 ^ 787755);
-  const _0xa476ge = `
+  var _362 = function (s, h) {
+    return s ^ h;
+  }(734272, 734279);
+  const _1bh = `
     <div class="sb-modal-overlay" id="premiumSuggestionsModal" onclick="if(event.target.id==='premiumSuggestionsModal')closePremiumSuggestionsModal()">
         <div class="sb-modal-card" style="max-width: 600px; height: 85vh;" onclick="event.stopPropagation()">
             <div class="sb-modal-header">
@@ -5609,721 +7832,1333 @@ function createPremiumSuggestionsModalDOM() {
         </div>
     </div>
     `;
-  _0x99c = (916248 ^ 916240) + (792030 ^ 792029);
-  document['\u0062\u006F\u0064\u0079']['\u0069\u006E\u0073\u0065\u0072\u0074\u0041\u0064\u006A\u0061\u0063\u0065\u006E\u0074\u0048\u0054\u004D\u004C']('beforeend', _0xa476ge);
+  _362 = function () {
+    return _0[598];
+  }();
+  document[_0[58]][_0[487]](_0[488][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _1bh);
 }
-window['\u006F\u0070\u0065\u006E\u0050\u0072\u0065\u006D\u0069\u0075\u006D\u0053\u0075\u0067\u0067\u0065\u0073\u0074\u0069\u006F\u006E\u0073\u004D\u006F\u0064\u0061\u006C'] = openPremiumSuggestionsModal;
-window['\u0063\u006C\u006F\u0073\u0065\u0050\u0072\u0065\u006D\u0069\u0075\u006D\u0053\u0075\u0067\u0067\u0065\u0073\u0074\u0069\u006F\u006E\u0073\u004D\u006F\u0064\u0061\u006C'] = closePremiumSuggestionsModal;
-window['\u0061\u0070\u0070\u006C\u0079\u0053\u0075\u0067\u0067\u0065\u0073\u0074\u0069\u006F\u006E\u0041\u006E\u0064\u0043\u006C\u006F\u0073\u0065\u004D\u006F\u0064\u0061\u006C'] = applySuggestionAndCloseModal;
+window[_0[599]] = openPremiumSuggestionsModal;
+window[_0[600]] = closePremiumSuggestionsModal;
+window[_0[601]] = applySuggestionAndCloseModal;
 function applySuggestion(planId, sumAssured, term) {
-  document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0073\u0075\u006D")['\u0076\u0061\u006C\u0075\u0065'] = sumAssured;
-  const _0xa9bea = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('p-pension-amount');
-  if (_0xa9bea && planConfig[planId]?.isPension) {
-    var _0x3gcc9a = (423771 ^ 423769) + (907206 ^ 907204);
-    const _0x1g1cc = Math['\u0072\u006F\u0075\u006E\u0064'](sumAssured / (346098 ^ 346104));
-    _0x3gcc9a = (103825 ^ 103828) + (460452 ^ 460450);
-    _0xa9bea['\u0076\u0061\u006C\u0075\u0065'] = _0x1g1cc;
-    updatePensionHint(_0x1g1cc);
+  document[_0[43]](_0[355][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[188]] = sumAssured;
+  var _363 = _0[602];
+  const _1bi = document[_0[43]](_0[353][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+  _363 = function () {
+    return 300266 ^ 300265;
+  }();
+  if (_1bi && planConfig[planId]?.[_0[251]]) {
+    var _364 = function (s, h) {
+      return s ^ h;
+    }(327768, 327774);
+    const _1bj = Math[_0[335]](sumAssured / (172269 ^ 172263));
+    _364 = (251208 ^ 251211) + (491303 ^ 491300);
+    _1bi[_0[188]] = _1bj;
+    updatePensionHint(_1bj);
   }
-  document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('p-term')['\u0076\u0061\u006C\u0075\u0065'] = term;
-  const _0x5f9cc = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0074\u0061\u0072\u0067\u0065\u0074\u002D\u0062\u0075\u0064\u0067\u0065\u0074");
-  if (_0x5f9cc) _0x5f9cc['\u0076\u0061\u006C\u0075\u0065'] = '';
-  var _0x74gce = (895615 ^ 895610) + (726870 ^ 726865);
-  const _0x083f9c = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0073\u0075\u0067\u002D\u0063\u006F\u006E\u0074\u0061\u0069\u006E\u0065\u0072");
-  _0x74gce = (567949 ^ 567940) + (778405 ^ 778401);
-  if (_0x083f9c) _0x083f9c['\u0069\u006E\u006E\u0065\u0072\u0048\u0054\u004D\u004C'] = '';
+  document[_0[43]](_0[361][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[188]] = term;
+  var _365 = function (s, h) {
+    return s ^ h;
+  }(835539, 835538);
+  const _1bk = document[_0[43]](_0[523][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+  _365 = (331675 ^ 331667) + (858762 ^ 858766);
+  if (_1bk) _1bk[_0[188]] = function () {
+    return _0[3];
+  }();
+  var _366 = function (s, h) {
+    return s ^ h;
+  }(216488, 216491);
+  const _1bl = document[_0[43]](_0[524][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+  _366 = function () {
+    return 189780 ^ 189777;
+  }();
+  if (_1bl) _1bl[_0[179]] = function () {
+    return _0[3];
+  }();
   calculatePlan(planId);
 }
 function clearActivePlanFields() {
-  if (currentActiveTab === 'dps') {
-    document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0064\u0065\u0070\u006F\u0073\u0069\u0074")['\u0076\u0061\u006C\u0075\u0065'] = '';
-    document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0064\u0070\u0073\u002D\u0074\u0065\u0072\u006D")['\u0076\u0061\u006C\u0075\u0065'] = '';
-    document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('dps-age')['\u0076\u0061\u006C\u0075\u0065'] = '';
-    var _0xe4c3af = (123370 ^ 123369) + (391502 ^ 391497);
-    const _0xe56fe = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0064\u0070\u0073\u002D\u0070\u0072\u0065\u0076\u002D\u0073\u0061");
-    _0xe4c3af = '\u0066\u0071\u006E\u006B\u0069\u006B';
-    if (_0xe56fe) _0xe56fe['\u0076\u0061\u006C\u0075\u0065'] = '';
-    ["\u0061\u0064\u0062", 'plus', "\u0063\u0063", 'wp', 'hi']['\u0066\u006F\u0072\u0045\u0061\u0063\u0068'](r => {
-      const el = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064'](`dps-${r}`);
-      if (el) el['\u0063\u0068\u0065\u0063\u006B\u0065\u0064'] = false;
+  if (currentActiveTab === _0[120][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])) {
+    document[_0[43]](_0[301][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[188]] = function () {
+      return _0[3];
+    }();
+    document[_0[43]](_0[304][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[188]] = function () {
+      return _0[3];
+    }();
+    document[_0[43]](_0[305][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[188]] = function () {
+      return _0[3];
+    }();
+    var _367 = function (s, h) {
+      return s + h;
+    }(644667 ^ 644671, 224493 ^ 224484);
+    const _1bm = document[_0[43]](_0[307][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+    _367 = function () {
+      return _0[603];
+    }();
+    if (_1bm) _1bm[_0[188]] = function () {
+      return _0[3];
+    }();
+    var _368 = function (s, h) {
+      return s + h;
+    }(531870 ^ 531868, 600112 ^ 600113);
+    const _1bn = document[_0[43]](_0[308][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+    _368 = function () {
+      return _0[604];
+    }();
+    if (_1bn) _1bn[_0[50]] = function () {
+      return _0[3];
+    }();
+    [_0[71][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[73][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[74][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[75][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[78][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])][_0[187]](r => {
+      var _369 = _0[605];
+      const el = document[_0[43]](`dps-${r}`);
+      _369 = function () {
+        return _0[605];
+      }();
+      if (el) el[_0[126]] = function () {
+        return ![];
+      }();
     });
-    const ccSA = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('dps-cc-sa');
-    if (ccSA) ccSA['\u0076\u0061\u006C\u0075\u0065'] = '';
-    document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0064\u0070\u0073\u002D\u0063\u0063\u002D\u0063\u0075\u0073\u0074\u006F\u006D")['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079'] = 'none';
-    let _0x12653d;
-    const _0x372a = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0064\u0070\u0073\u002D\u0068\u0069\u002D\u0063\u0075\u0073\u0074\u006F\u006D");
-    _0x12653d = 194535 ^ 194535;
-    if (_0x372a) _0x372a['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079'] = "\u006E\u006F\u006E\u0065";
-    const _0x32_0x670 = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0064\u0070\u0073\u002D\u0068\u0069\u002D\u0073\u0070\u006F\u0075\u0073\u0065");
-    if (_0x32_0x670) _0x32_0x670['\u0063\u0068\u0065\u0063\u006B\u0065\u0064'] = false;
-    let _0xa2_0x1b9;
-    const _0x909b = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('dps-hi-spouse-age');
-    _0xa2_0x1b9 = (577614 ^ 577606) + (490870 ^ 490867);
-    if (_0x909b) _0x909b['\u0076\u0061\u006C\u0075\u0065'] = '';
-    const _0xbf3da = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0064\u0070\u0073\u002D\u0068\u0069\u002D\u0073\u0070\u006F\u0075\u0073\u0065\u002D\u0062\u006F\u0078");
-    if (_0xbf3da) _0xbf3da['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079'] = "\u006E\u006F\u006E\u0065";
-    const _0x37828d = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('dps-hi-child');
-    if (_0x37828d) _0x37828d['\u0063\u0068\u0065\u0063\u006B\u0065\u0064'] = false;
-    var _0x835gc = (652067 ^ 652071) + (972790 ^ 972784);
-    const _0x1a34aa = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0064\u0070\u0073\u002D\u0068\u0069\u002D\u0063\u0068\u0069\u006C\u0064\u002D\u0062\u006F\u0078");
-    _0x835gc = (336688 ^ 336697) + (649078 ^ 649078);
-    if (_0x1a34aa) _0x1a34aa['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079'] = "\u006E\u006F\u006E\u0065";
-    let _0x54decf;
-    const _0x617b = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('dps-hi-children-container');
-    _0x54decf = 863946 ^ 863939;
-    if (_0x617b) {
-      _0x617b['\u0069\u006E\u006E\u0065\u0072\u0048\u0054\u004D\u004C'] = `
+    var _370 = function (s, h) {
+      return s + h;
+    }(137630 ^ 137629, 714880 ^ 714883);
+    const ccSA = document[_0[43]](_0[336][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+    _370 = function () {
+      return _0[606];
+    }();
+    if (ccSA) ccSA[_0[188]] = function () {
+      return _0[3];
+    }();
+    document[_0[43]](_0[142][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[129]][_0[130]] = _0[132][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    var _371 = _0[607];
+    const _1dg = document[_0[43]](_0[145][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+    _371 = function () {
+      return 249904 ^ 249904;
+    }();
+    if (_1dg) _1dg[_0[129]][_0[130]] = _0[132][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    var _372 = _0[608];
+    const _1dh = document[_0[43]](_0[342][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+    _372 = function () {
+      return 488904 ^ 488904;
+    }();
+    if (_1dh) _1dh[_0[126]] = function () {
+      return ![];
+    }();
+    var _373 = function (s, h) {
+      return s ^ h;
+    }(935062, 935056);
+    const _1di = document[_0[43]](_0[344][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+    _373 = (754403 ^ 754404) + (293786 ^ 293786);
+    if (_1di) _1di[_0[188]] = function () {
+      return _0[3];
+    }();
+    var _374 = _0[609];
+    const _1dj = document[_0[43]](_0[610][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+    _374 = function () {
+      return 908364 ^ 908362;
+    }();
+    if (_1dj) _1dj[_0[129]][_0[130]] = _0[132][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    var _375 = _0[611];
+    const _1dk = document[_0[43]](_0[346][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+    _375 = function () {
+      return 503230 ^ 503227;
+    }();
+    if (_1dk) _1dk[_0[126]] = function () {
+      return ![];
+    }();
+    var _376 = function (s, h) {
+      return s ^ h;
+    }(875640, 875633);
+    const _1dl = document[_0[43]](_0[612][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+    _376 = function () {
+      return _0[613];
+    }();
+    if (_1dl) _1dl[_0[129]][_0[130]] = _0[132][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    var _377 = function (s, h) {
+      return s + h;
+    }(693034 ^ 693035, 245863 ^ 245870);
+    const _1dm = document[_0[43]](_0[614][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+    _377 = function () {
+      return _0[615];
+    }();
+    if (_1dm) {
+      _1dm[_0[179]] = `
                 <div class="child-age-row">
                     <span style="font-size:13.5px; font-weight:700; min-width:85px;">১ম সন্তান:</span>
                     <input type="number" class="dps-hi-child-age" placeholder="বয়স (১-২৪)" min="1" max="24" oninput="calculateDPS()" style="height:42px; font-size:14.5px;" />
                 </div>
             `;
     }
-    const _0x41407g = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('dps-hi-maternity');
-    if (_0x41407g) _0x41407g['\u0076\u0061\u006C\u0075\u0065'] = 'none';
-    var _0x9d3bee = (514950 ^ 514959) + (501574 ^ 501574);
-    const _0xa4fd5d = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0064\u0070\u0073\u002D\u0068\u0069\u002D\u0074\u0069\u0065\u0072");
-    _0x9d3bee = 483263 ^ 483262;
-    if (_0xa4fd5d) _0xa4fd5d['\u0076\u0061\u006C\u0075\u0065'] = 'silver';
-    var _0x15gf4e = (246454 ^ 246452) + (991248 ^ 991256);
-    const oeCheck = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0064\u0070\u0073\u002D\u006F\u0065\u002D\u0063\u0068\u0065\u0063\u006B");
-    _0x15gf4e = 970437 ^ 970434;
-    if (oeCheck) oeCheck['\u0063\u0068\u0065\u0063\u006B\u0065\u0064'] = false;
-    const oeOptions = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('dps-oe-options');
-    if (oeOptions) oeOptions['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079'] = 'none';
-    const _0xa5deb = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0064\u0070\u0073\u002D\u006F\u0065\u002D\u0032");
-    if (_0xa5deb) _0xa5deb['\u0063\u0068\u0065\u0063\u006B\u0065\u0064'] = !![];
+    var _378 = function (s, h) {
+      return s + h;
+    }(862091 ^ 862095, 724217 ^ 724221);
+    const _1dn = document[_0[43]](_0[350][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+    _378 = function () {
+      return _0[616];
+    }();
+    if (_1dn) _1dn[_0[188]] = _0[132][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    var _379 = function (s, h) {
+      return s ^ h;
+    }(610166, 610166);
+    const _1do = document[_0[43]](_0[340][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+    _379 = function () {
+      return 878455 ^ 878453;
+    }();
+    if (_1do) _1do[_0[188]] = _0[197][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    var _380 = _0[617];
+    const _1dp = document[_0[43]](_0[125][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+    _380 = (547589 ^ 547587) + (667168 ^ 667177);
+    if (_1dp) _1dp[_0[126]] = function () {
+      return ![];
+    }();
+    var _381 = function (s, h) {
+      return s + h;
+    }(178616 ^ 178620, 231357 ^ 231358);
+    const _1dq = document[_0[43]](_0[128][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+    _381 = (507320 ^ 507321) + (571888 ^ 571891);
+    if (_1dq) _1dq[_0[129]][_0[130]] = _0[132][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    var _382 = _0[618];
+    const _1dr = document[_0[43]](_0[619][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+    _382 = function () {
+      return _0[618];
+    }();
+    if (_1dr) _1dr[_0[126]] = function () {
+      return !![];
+    }();
     calculateDPS();
   } else {
-    document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0061\u0067\u0065")['\u0076\u0061\u006C\u0075\u0065'] = '';
-    document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0073\u0075\u006D")['\u0076\u0061\u006C\u0075\u0065'] = '';
-    var _0x1f_0x32e = (222618 ^ 222623) + (659342 ^ 659340);
-    const _0x9461e = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0070\u0065\u006E\u0073\u0069\u006F\u006E\u002D\u0061\u006D\u006F\u0075\u006E\u0074");
-    _0x1f_0x32e = (741740 ^ 741737) + (165678 ^ 165673);
-    if (_0x9461e) _0x9461e['\u0076\u0061\u006C\u0075\u0065'] = '';
-    updatePensionHint(751241 ^ 751241);
-    var _0xb2a13e = (703327 ^ 703325) + (221233 ^ 221241);
-    const _0xd112ef = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0070\u0065\u006E\u0073\u0069\u006F\u006E\u002D\u0074\u0065\u0072\u006D\u002D\u0062\u0061\u0064\u0067\u0065");
-    _0xb2a13e = (806349 ^ 806347) + (685754 ^ 685752);
-    if (_0xd112ef) _0xd112ef['\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074'] = '';
-    var _0xdec8b = (355275 ^ 355272) + (483078 ^ 483072);
-    const _0xbd0ae = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0070\u0072\u0065\u0076\u002D\u0073\u0061");
-    _0xdec8b = (931375 ^ 931367) + (216045 ^ 216041);
-    if (_0xbd0ae) _0xbd0ae['\u0076\u0061\u006C\u0075\u0065'] = '';
-    const _0xd52db = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0074\u0061\u0072\u0067\u0065\u0074\u002D\u0062\u0075\u0064\u0067\u0065\u0074");
-    if (_0xd52db) _0xd52db['\u0076\u0061\u006C\u0075\u0065'] = '';
-    var _0xg7e8d = (871026 ^ 871027) + (998823 ^ 998830);
-    const _0xf78c = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0073\u0075\u0067\u002D\u0063\u006F\u006E\u0074\u0061\u0069\u006E\u0065\u0072");
-    _0xg7e8d = '\u0062\u006D\u006B\u006C\u0066\u0069';
-    if (_0xf78c) _0xf78c['\u0069\u006E\u006E\u0065\u0072\u0048\u0054\u004D\u004C'] = '';
-    ["\u0061\u0064\u0062", "\u0070\u0064\u0061\u0062", "\u0070\u006C\u0075\u0073", "\u0063\u0063", 'wp', 'ibr', 'hc', 'hi']['\u0066\u006F\u0072\u0045\u0061\u0063\u0068'](r => {
-      var _0xgg7a = (467125 ^ 467123) + (456077 ^ 456068);
-      const el = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064'](`p-${r}`);
-      _0xgg7a = (179011 ^ 179011) + (819618 ^ 819623);
-      if (el) el['\u0063\u0068\u0065\u0063\u006B\u0065\u0064'] = false;
+    document[_0[43]](_0[360][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[188]] = function () {
+      return _0[3];
+    }();
+    document[_0[43]](_0[355][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[188]] = function () {
+      return _0[3];
+    }();
+    var _383 = function (s, h) {
+      return s ^ h;
+    }(112012, 112015);
+    const _1ds = document[_0[43]](_0[353][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+    _383 = function () {
+      return _0[620];
+    }();
+    if (_1ds) _1ds[_0[188]] = function () {
+      return _0[3];
+    }();
+    updatePensionHint(653690 ^ 653690);
+    var _384 = _0[621];
+    const _1dt = document[_0[43]](_0[368][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+    _384 = function () {
+      return _0[621];
+    }();
+    if (_1dt) _1dt[_0[50]] = function () {
+      return _0[3];
+    }();
+    var _385 = function (s, h) {
+      return s + h;
+    }(202332 ^ 202332, 340742 ^ 340740);
+    const _1du = document[_0[43]](_0[362][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+    _385 = function () {
+      return 658520 ^ 658524;
+    }();
+    if (_1du) _1du[_0[188]] = function () {
+      return _0[3];
+    }();
+    var _386 = _0[622];
+    const _1dv = document[_0[43]](_0[523][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+    _386 = (118389 ^ 118384) + (493895 ^ 493894);
+    if (_1dv) _1dv[_0[188]] = function () {
+      return _0[3];
+    }();
+    var _387 = _0[623];
+    const sug = document[_0[43]](_0[524][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+    _387 = function () {
+      return _0[623];
+    }();
+    if (sug) sug[_0[179]] = function () {
+      return _0[3];
+    }();
+    [_0[71][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[72][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[73][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[74][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[75][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[76][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[77][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[78][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])][_0[187]](r => {
+      var _388 = function (s, h) {
+        return s ^ h;
+      }(666273, 666278);
+      const el = document[_0[43]](`p-${r}`);
+      _388 = function () {
+        return 580544 ^ 580551;
+      }();
+      if (el) el[_0[126]] = function () {
+        return ![];
+      }();
     });
-    const _0x586ec = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0063\u0063\u002D\u0063\u0075\u0073\u0074\u006F\u006D");
-    if (_0x586ec) _0x586ec['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079'] = "\u006E\u006F\u006E\u0065";
-    let _0x2296fb;
-    const ccSA = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0063\u0063\u002D\u0073\u0061");
-    _0x2296fb = (568411 ^ 568408) + (836522 ^ 836527);
-    if (ccSA) ccSA['\u0076\u0061\u006C\u0075\u0065'] = '';
-    const _0xga3g = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0068\u0063\u002D\u0063\u0075\u0073\u0074\u006F\u006D");
-    if (_0xga3g) _0xga3g['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079'] = "\u006E\u006F\u006E\u0065";
-    var _0x9696de = (941109 ^ 941117) + (529277 ^ 529272);
-    const _0xfc551d = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0068\u0069\u002D\u0063\u0075\u0073\u0074\u006F\u006D");
-    _0x9696de = (247388 ^ 247385) + (606987 ^ 606989);
-    if (_0xfc551d) _0xfc551d['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079'] = "\u006E\u006F\u006E\u0065";
-    let _0x6fb;
-    const oeCheck = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('p-oe-check');
-    _0x6fb = (660347 ^ 660350) + (614113 ^ 614115);
-    if (oeCheck) oeCheck['\u0063\u0068\u0065\u0063\u006B\u0065\u0064'] = false;
-    let _0xf57fba;
-    const oeOptions = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u006F\u0065\u002D\u006F\u0070\u0074\u0069\u006F\u006E\u0073");
-    _0xf57fba = (343029 ^ 343025) + (678660 ^ 678659);
-    if (oeOptions) oeOptions['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079'] = "\u006E\u006F\u006E\u0065";
-    const _0x34_0x28e = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u006F\u0065\u002D\u0032");
-    if (_0x34_0x28e) _0x34_0x28e['\u0063\u0068\u0065\u0063\u006B\u0065\u0064'] = !![];
-    const _0x35_0x30a = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0068\u0063\u002D\u0073\u0070\u006F\u0075\u0073\u0065");
-    if (_0x35_0x30a) _0x35_0x30a['\u0063\u0068\u0065\u0063\u006B\u0065\u0064'] = false;
-    const _0xb5212b = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('p-hc-spouse-age');
-    if (_0xb5212b) _0xb5212b['\u0076\u0061\u006C\u0075\u0065'] = '';
-    let _0x32c;
-    const _0x73g6b = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0068\u0063\u002D\u0073\u0070\u006F\u0075\u0073\u0065\u002D\u0062\u006F\u0078");
-    _0x32c = (415000 ^ 415003) + (306752 ^ 306753);
-    if (_0x73g6b) _0x73g6b['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079'] = "\u006E\u006F\u006E\u0065";
-    var _0x72d31a = (460122 ^ 460121) + (645910 ^ 645909);
-    const _0x1476cd = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('p-hc-child');
-    _0x72d31a = 671204 ^ 671206;
-    if (_0x1476cd) _0x1476cd['\u0063\u0068\u0065\u0063\u006B\u0065\u0064'] = false;
-    var _0x9f06fc = (507120 ^ 507127) + (248916 ^ 248924);
-    const _0x749fc = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0068\u0063\u002D\u0063\u0068\u0069\u006C\u0064\u002D\u0062\u006F\u0078");
-    _0x9f06fc = 424103 ^ 424099;
-    if (_0x749fc) _0x749fc['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079'] = "\u006E\u006F\u006E\u0065";
-    var _0x859ec = (842598 ^ 842595) + (746484 ^ 746484);
-    const _0x49g = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0068\u0063\u002D\u0063\u0068\u0069\u006C\u0064\u0072\u0065\u006E\u002D\u0063\u006F\u006E\u0074\u0061\u0069\u006E\u0065\u0072");
-    _0x859ec = (574690 ^ 574691) + (437934 ^ 437926);
-    if (_0x49g) {
-      _0x49g['\u0069\u006E\u006E\u0065\u0072\u0048\u0054\u004D\u004C'] = `
+    var _389 = function (s, h) {
+      return s + h;
+    }(948795 ^ 948786, 107404 ^ 107404);
+    const _1fo = document[_0[43]](_0[152][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+    _389 = (223860 ^ 223869) + (456958 ^ 456957);
+    if (_1fo) _1fo[_0[129]][_0[130]] = _0[132][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    var _390 = function (s, h) {
+      return s ^ h;
+    }(899012, 899015);
+    const ccSA = document[_0[43]](_0[394][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+    _390 = function () {
+      return _0[624];
+    }();
+    if (ccSA) ccSA[_0[188]] = function () {
+      return _0[3];
+    }();
+    var _391 = function (s, h) {
+      return s + h;
+    }(217010 ^ 217018, 533752 ^ 533744);
+    const _1hh = document[_0[43]](_0[156][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+    _391 = function () {
+      return 421508 ^ 421517;
+    }();
+    if (_1hh) _1hh[_0[129]][_0[130]] = _0[132][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    var _392 = function (s, h) {
+      return s + h;
+    }(465362 ^ 465360, 970981 ^ 970988);
+    const _1hi = document[_0[43]](_0[158][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+    _392 = function () {
+      return 657257 ^ 657249;
+    }();
+    if (_1hi) _1hi[_0[129]][_0[130]] = _0[132][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    var _393 = function (s, h) {
+      return s + h;
+    }(584401 ^ 584408, 878719 ^ 878719);
+    const _1hj = document[_0[43]](_0[134][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+    _393 = (901441 ^ 901448) + (678207 ^ 678201);
+    if (_1hj) _1hj[_0[126]] = function () {
+      return ![];
+    }();
+    var _394 = function (s, h) {
+      return s + h;
+    }(898806 ^ 898803, 826094 ^ 826095);
+    const _1hk = document[_0[43]](_0[135][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+    _394 = function () {
+      return _0[625];
+    }();
+    if (_1hk) _1hk[_0[129]][_0[130]] = _0[132][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    var _395 = function (s, h) {
+      return s + h;
+    }(638703 ^ 638698, 503943 ^ 503941);
+    const pOe2 = document[_0[43]](_0[626][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+    _395 = function () {
+      return _0[627];
+    }();
+    if (pOe2) pOe2[_0[126]] = function () {
+      return !![];
+    }();
+    var _396 = _0[628];
+    const _1jd = document[_0[43]](_0[407][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+    _396 = (353069 ^ 353060) + (593489 ^ 593488);
+    if (_1jd) _1jd[_0[126]] = function () {
+      return ![];
+    }();
+    var _397 = _0[629];
+    const _1je = document[_0[43]](_0[408][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+    _397 = (241323 ^ 241314) + (862455 ^ 862451);
+    if (_1je) _1je[_0[188]] = function () {
+      return _0[3];
+    }();
+    var _398 = _0[630];
+    const _1jf = document[_0[43]](_0[631][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+    _398 = function () {
+      return 459620 ^ 459628;
+    }();
+    if (_1jf) _1jf[_0[129]][_0[130]] = _0[132][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    var _399 = _0[632];
+    const _1jg = document[_0[43]](_0[409][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+    _399 = function () {
+      return _0[632];
+    }();
+    if (_1jg) _1jg[_0[126]] = function () {
+      return ![];
+    }();
+    var _400 = function (s, h) {
+      return s ^ h;
+    }(848711, 848709);
+    const _1jh = document[_0[43]](_0[168][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+    _400 = function () {
+      return _0[633];
+    }();
+    if (_1jh) _1jh[_0[129]][_0[130]] = _0[132][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    var _401 = _0[634];
+    const _1ji = document[_0[43]](_0[169][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+    _401 = function () {
+      return _0[634];
+    }();
+    if (_1ji) {
+      _1ji[_0[179]] = `
                 <div class="child-age-row">
                     <span style="font-size:13.5px; font-weight:700; min-width:85px;">১ম সন্তান:</span>
                     <input type="number" class="p-hc-child-age" placeholder="বয়স (১-২৩)" min="1" max="23" oninput="calculatePlan(${currentActiveTab})" style="height:42px; font-size:14.5px;" />
                 </div>
             `;
     }
-    const _0xe8e86d = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0068\u0069\u002D\u0073\u0070\u006F\u0075\u0073\u0065");
-    if (_0xe8e86d) _0xe8e86d['\u0063\u0068\u0065\u0063\u006B\u0065\u0064'] = false;
-    var _0x14g5d = (314999 ^ 314998) + (442813 ^ 442815);
-    const _0xb0196a = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0068\u0069\u002D\u0073\u0070\u006F\u0075\u0073\u0065\u002D\u0061\u0067\u0065");
-    _0x14g5d = (618576 ^ 618576) + (330791 ^ 330798);
-    if (_0xb0196a) _0xb0196a['\u0076\u0061\u006C\u0075\u0065'] = '';
-    let _0xb449c;
-    const _0x37_0x4ae = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('p-hi-spouse-box');
-    _0xb449c = 686062 ^ 686056;
-    if (_0x37_0x4ae) _0x37_0x4ae['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079'] = "\u006E\u006F\u006E\u0065";
-    var _0x3e_0x4ac = (933061 ^ 933059) + (916597 ^ 916596);
-    const _0xbefaff = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('p-hi-child');
-    _0x3e_0x4ac = (378924 ^ 378916) + (408281 ^ 408285);
-    if (_0xbefaff) _0xbefaff['\u0063\u0068\u0065\u0063\u006B\u0065\u0064'] = false;
-    const _0xcf31g = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('p-hi-child-box');
-    if (_0xcf31g) _0xcf31g['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079'] = "\u006E\u006F\u006E\u0065";
-    const _0x38_0xc7g = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('p-hi-children-container');
-    if (_0x38_0xc7g) {
-      _0x38_0xc7g['\u0069\u006E\u006E\u0065\u0072\u0048\u0054\u004D\u004C'] = `
+    var _402 = function (s, h) {
+      return s + h;
+    }(583251 ^ 583259, 263910 ^ 263910);
+    const _1jj = document[_0[43]](_0[419][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+    _402 = function () {
+      return _0[635];
+    }();
+    if (_1jj) _1jj[_0[126]] = function () {
+      return ![];
+    }();
+    var _403 = function (s, h) {
+      return s ^ h;
+    }(207723, 207722);
+    const _1jk = document[_0[43]](_0[420][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+    _403 = function () {
+      return 105399 ^ 105397;
+    }();
+    if (_1jk) _1jk[_0[188]] = function () {
+      return _0[3];
+    }();
+    var _404 = function (s, h) {
+      return s + h;
+    }(906441 ^ 906433, 151009 ^ 151012);
+    const _1jl = document[_0[43]](_0[636][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+    _404 = (539657 ^ 539648) + (129294 ^ 129288);
+    if (_1jl) _1jl[_0[129]][_0[130]] = _0[132][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    var _405 = function (s, h) {
+      return s ^ h;
+    }(166287, 166285);
+    const _1jm = document[_0[43]](_0[421][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+    _405 = (801480 ^ 801486) + (498426 ^ 498431);
+    if (_1jm) _1jm[_0[126]] = function () {
+      return ![];
+    }();
+    var _406 = _0[637];
+    const _1jn = document[_0[43]](_0[638][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+    _406 = function () {
+      return 591422 ^ 591416;
+    }();
+    if (_1jn) _1jn[_0[129]][_0[130]] = _0[132][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    var _407 = function (s, h) {
+      return s + h;
+    }(982604 ^ 982606, 674412 ^ 674405);
+    const _1jo = document[_0[43]](_0[639][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+    _407 = function () {
+      return _0[640];
+    }();
+    if (_1jo) {
+      _1jo[_0[179]] = `
                 <div class="child-age-row">
                     <span style="font-size:13.5px; font-weight:700; min-width:85px;">১ম সন্তান:</span>
                     <input type="number" class="p-hi-child-age" placeholder="বয়স (১-২৪)" min="1" max="24" oninput="calculatePlan(${currentActiveTab})" style="height:42px; font-size:14.5px;" />
                 </div>
             `;
     }
-    var _0xa3_0x5f1 = (900633 ^ 900637) + (138806 ^ 138804);
-    const _0x2c2 = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('p-hi-maternity');
-    _0xa3_0x5f1 = (468216 ^ 468222) + (434538 ^ 434541);
-    if (_0x2c2) _0x2c2['\u0076\u0061\u006C\u0075\u0065'] = 'none';
-    var _0x8c6d = (778168 ^ 778169) + (114590 ^ 114583);
-    const _0xa435b = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0068\u0069\u002D\u0074\u0069\u0065\u0072");
-    _0x8c6d = (544654 ^ 544651) + (561998 ^ 561997);
-    if (_0xa435b) _0xa435b['\u0076\u0061\u006C\u0075\u0065'] = 'silver';
+    var _408 = function (s, h) {
+      return s + h;
+    }(935831 ^ 935828, 787372 ^ 787372);
+    const pMat = document[_0[43]](_0[426][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+    _408 = function () {
+      return _0[641];
+    }();
+    if (pMat) pMat[_0[188]] = _0[132][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    var _409 = function (s, h) {
+      return s ^ h;
+    }(494984, 494985);
+    const _1lh = document[_0[43]](_0[414][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+    _409 = (615155 ^ 615162) + (861809 ^ 861816);
+    if (_1lh) _1lh[_0[188]] = _0[197][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
     calculatePlan(currentActiveTab);
   }
 }
 function openAgeModal() {
-  document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0061\u0067\u0065\u004D\u006F\u0064\u0061\u006C")['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079'] = "\u0066\u006C\u0065\u0078";
+  document[_0[43]](_0[642][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[129]][_0[130]] = _0[143][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
 }
 function closeAgeModal() {
-  document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0061\u0067\u0065\u004D\u006F\u0064\u0061\u006C")['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079'] = "\u006E\u006F\u006E\u0065";
+  document[_0[43]](_0[642][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[129]][_0[130]] = _0[132][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
 }
 function calculateAge() {
-  var _0xd27b = (476725 ^ 476721) + (957314 ^ 957317);
-  const d = parseInt(document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0064\u006F\u0062\u0044\u0061\u0079")['\u0076\u0061\u006C\u0075\u0065']);
-  _0xd27b = (667987 ^ 667987) + (688923 ^ 688915);
-  var _0x5e1be = (360668 ^ 360669) + (836291 ^ 836289);
-  const m = parseInt(document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0064\u006F\u0062\u004D\u006F\u006E\u0074\u0068")['\u0076\u0061\u006C\u0075\u0065']);
-  _0x5e1be = (516358 ^ 516356) + (727142 ^ 727143);
-  const y = parseInt(document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('dobYear')['\u0076\u0061\u006C\u0075\u0065']);
-  const _0xc4c = parseInt(document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('asOfDay')['\u0076\u0061\u006C\u0075\u0065']);
-  var _0x7e49e = (568675 ^ 568673) + (317132 ^ 317134);
-  const _0xed2ca = parseInt(document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0061\u0073\u004F\u0066\u004D\u006F\u006E\u0074\u0068")['\u0076\u0061\u006C\u0075\u0065']);
-  _0x7e49e = (336182 ^ 336176) + (917672 ^ 917665);
-  const _0x9377d = parseInt(document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0061\u0073\u004F\u0066\u0059\u0065\u0061\u0072")['\u0076\u0061\u006C\u0075\u0065']);
-  if (!y || !_0x9377d) return;
-  var _0xe864d = (722123 ^ 722125) + (573158 ^ 573157);
-  const _0x3a96dc = new Date(y, m, d);
-  _0xe864d = (783130 ^ 783133) + (261610 ^ 261609);
-  var _0xd4_0x9f4 = (679990 ^ 679987) + (251537 ^ 251539);
-  const _0x21533d = new Date(_0x9377d, _0xed2ca, _0xc4c);
-  _0xd4_0x9f4 = '\u006D\u006D\u0071\u006C\u006E\u0065';
-  if (_0x3a96dc > _0x21533d) return;
-  var _0x11_0x9a2 = (673162 ^ 673154) + (879264 ^ 879264);
-  let _0x5fc6ff = _0x21533d['\u0067\u0065\u0074\u0046\u0075\u006C\u006C\u0059\u0065\u0061\u0072']() - _0x3a96dc['\u0067\u0065\u0074\u0046\u0075\u006C\u006C\u0059\u0065\u0061\u0072']();
-  _0x11_0x9a2 = '\u0069\u0064\u0070\u0065\u0067\u0067';
-  var _0x12_0x7d8 = (577973 ^ 577972) + (486612 ^ 486614);
-  let _0xc3_0x553 = _0x21533d['\u0067\u0065\u0074\u004D\u006F\u006E\u0074\u0068']() - _0x3a96dc['\u0067\u0065\u0074\u004D\u006F\u006E\u0074\u0068']();
-  _0x12_0x7d8 = (628193 ^ 628197) + (501076 ^ 501084);
-  let _0xcb16d = _0x21533d['\u0067\u0065\u0074\u0044\u0061\u0074\u0065']() - _0x3a96dc['\u0067\u0065\u0074\u0044\u0061\u0074\u0065']();
-  if (_0xcb16d < (812590 ^ 812590)) {
-    _0xc3_0x553--;
-    _0xcb16d += new Date(_0x9377d, _0xed2ca, 311054 ^ 311054)['\u0067\u0065\u0074\u0044\u0061\u0074\u0065']();
+  var _410 = function (s, h) {
+    return s + h;
+  }(507357 ^ 507359, 544448 ^ 544456);
+  const d = parseInt(document[_0[43]](_0[643][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[188]]);
+  _410 = function () {
+    return _0[644];
+  }();
+  var _411 = function (s, h) {
+    return s + h;
+  }(255137 ^ 255136, 986873 ^ 986874);
+  const m = parseInt(document[_0[43]](_0[645][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[188]]);
+  _411 = (588406 ^ 588402) + (369650 ^ 369652);
+  var _412 = function (s, h) {
+    return s ^ h;
+  }(497535, 497534);
+  const y = parseInt(document[_0[43]](_0[646][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[188]]);
+  _412 = function () {
+    return 579797 ^ 579799;
+  }();
+  var _413 = function (s, h) {
+    return s ^ h;
+  }(767867, 767858);
+  const asD = parseInt(document[_0[43]](_0[647][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[188]]);
+  _413 = (652016 ^ 652020) + (554987 ^ 554984);
+  var _414 = function (s, h) {
+    return s + h;
+  }(551664 ^ 551665, 786104 ^ 786107);
+  const asM = parseInt(document[_0[43]](_0[648][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[188]]);
+  _414 = function () {
+    return _0[649];
+  }();
+  var _415 = function (s, h) {
+    return s ^ h;
+  }(468353, 468354);
+  const asY = parseInt(document[_0[43]](_0[650][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[188]]);
+  _415 = function () {
+    return _0[651];
+  }();
+  if (!y || !asY) return;
+  var _416 = function (s, h) {
+    return s + h;
+  }(467307 ^ 467309, 840770 ^ 840771);
+  const dob = new Date(y, m, d);
+  _416 = (424420 ^ 424419) + (338841 ^ 338846);
+  var _417 = function (s, h) {
+    return s + h;
+  }(417108 ^ 417111, 448579 ^ 448576);
+  const asOf = new Date(asY, asM, asD);
+  _417 = function () {
+    return _0[652];
+  }();
+  if (dob > asOf) return;
+  var _418 = _0[653];
+  let _1ue = function (s, h) {
+    return s - h;
+  }(asOf[_0[654]](), dob[_0[654]]());
+  _418 = function () {
+    return 583099 ^ 583097;
+  }();
+  var _419 = _0[655];
+  let _1uf = function (s, h) {
+    return s - h;
+  }(asOf[_0[656]](), dob[_0[656]]());
+  _419 = function () {
+    return _0[655];
+  }();
+  var _420 = function (s, h) {
+    return s ^ h;
+  }(543194, 543198);
+  let days = function (s, h) {
+    return s - h;
+  }(asOf[_0[657]](), dob[_0[657]]());
+  _420 = function () {
+    return _0[658];
+  }();
+  if (days < (838030 ^ 838030)) {
+    _1uf--;
+    days += new Date(asY, asM, 138564 ^ 138564)[_0[657]]();
   }
-  if (_0xc3_0x553 < (193257 ^ 193257)) {
-    _0x5fc6ff--;
-    _0xc3_0x553 += 323464 ^ 323460;
+  if (_1uf < (858987 ^ 858987)) {
+    _1ue--;
+    _1uf += function () {
+      return 724577 ^ 724589;
+    }();
   }
-  var _0x9e528e = (639125 ^ 639125) + (579157 ^ 579158);
-  let _0xe7gcd = _0x5fc6ff + (_0xc3_0x553 >= (230211 ^ 230213) ? 346904 ^ 346905 : 870725 ^ 870725);
-  _0x9e528e = '\u0061\u0071\u0069\u006B\u006B\u0067';
-  document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0061\u0067\u0065\u0044\u0065\u0074\u0061\u0069\u006C\u004F\u0075\u0074\u0070\u0075\u0074")['\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074'] = `${toBangla(_0x5fc6ff)} বছর ${toBangla(_0xc3_0x553)} মাস ${toBangla(_0xcb16d)} দিন`;
-  document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0072\u006F\u0075\u006E\u0064\u0041\u0067\u0065\u004F\u0075\u0074\u0070\u0075\u0074")['\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074'] = `  বয়স: ${toBangla(_0xe7gcd)} বছর`;
-  if (currentActiveTab === "\u0064\u0070\u0073") {
-    document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0064\u0070\u0073\u002D\u0061\u0067\u0065")['\u0076\u0061\u006C\u0075\u0065'] = _0xe7gcd;
+  var _421 = function (s, h) {
+    return s + h;
+  }(769668 ^ 769664, 462291 ^ 462291);
+  let _1w8 = function (s, h) {
+    return s + h;
+  }(_1ue, _1uf >= (841216 ^ 841222) ? 650561 ^ 650560 : 684329 ^ 684329);
+  _421 = function () {
+    return 884542 ^ 884543;
+  }();
+  document[_0[43]](_0[659][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[50]] = `${toBangla(_1ue)} বছর ${toBangla(_1uf)} মাস ${toBangla(days)} দিন`;
+  document[_0[43]](_0[660][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[50]] = `  বয়স: ${toBangla(_1w8)} বছর`;
+  if (currentActiveTab === _0[120][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])) {
+    document[_0[43]](_0[305][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[188]] = _1w8;
     calculateDPS();
   } else {
-    const _0xd01cbc = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0061\u0067\u0065");
-    if (_0xd01cbc) {
-      _0xd01cbc['\u0076\u0061\u006C\u0075\u0065'] = _0xe7gcd;
+    var _422 = function (s, h) {
+      return s + h;
+    }(142104 ^ 142104, 327477 ^ 327476);
+    const el = document[_0[43]](_0[360][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+    _422 = function () {
+      return _0[661];
+    }();
+    if (el) {
+      el[_0[188]] = _1w8;
       calculatePlan(currentActiveTab);
     }
   }
 }
 function initDateSelectors() {
-  ["\u0064\u006F\u0062\u0044\u0061\u0079", 'asOfDay']['\u0066\u006F\u0072\u0045\u0061\u0063\u0068'](id => {
-    const el = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064'](id);
-    el['\u0069\u006E\u006E\u0065\u0072\u0048\u0054\u004D\u004C'] = '';
-    for (let i = 932280 ^ 932281; i <= (166699 ^ 166708); i++) el['\u0069\u006E\u006E\u0065\u0072\u0048\u0054\u004D\u004C'] += `<option value="${i}">${toBangla(i)}</option>`;
+  [_0[643][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[647][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])][_0[187]](id => {
+    var _423 = function (s, h) {
+      return s + h;
+    }(632701 ^ 632698, 108899 ^ 108898);
+    const el = document[_0[43]](id);
+    _423 = function () {
+      return 714984 ^ 714989;
+    }();
+    el[_0[179]] = function () {
+      return _0[3];
+    }();
+    for (let i = function (s, h) {
+      return s ^ h;
+    }(615962, 615963); i <= (432599 ^ 432584); i++) el[_0[179]] += `<option value="${i}">${toBangla(i)}</option>`;
   });
-  ["\u0064\u006F\u0062\u004D\u006F\u006E\u0074\u0068", "\u0061\u0073\u004F\u0066\u004D\u006F\u006E\u0074\u0068"]['\u0066\u006F\u0072\u0045\u0061\u0063\u0068'](id => {
-    var _0xeed = (686784 ^ 686793) + (105251 ^ 105250);
-    const el = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064'](id);
-    _0xeed = '\u006E\u0067\u0065\u0071\u006C\u006C';
-    el['\u0069\u006E\u006E\u0065\u0072\u0048\u0054\u004D\u004C'] = '';
-    banglaMonths['\u0066\u006F\u0072\u0045\u0061\u0063\u0068']((m, idx) => el['\u0069\u006E\u006E\u0065\u0072\u0048\u0054\u004D\u004C'] += `<option value="${idx}">${m}</option>`);
+  [_0[645][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), _0[648][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])][_0[187]](id => {
+    var _424 = _0[662];
+    const el = document[_0[43]](id);
+    _424 = function () {
+      return 862268 ^ 862270;
+    }();
+    el[_0[179]] = function () {
+      return _0[3];
+    }();
+    banglaMonths[_0[187]]((m, idx) => el[_0[179]] += `<option value="${idx}">${m}</option>`);
   });
-  const _0x3dg94e = new Date();
-  document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0061\u0073\u004F\u0066\u0044\u0061\u0079")['\u0076\u0061\u006C\u0075\u0065'] = _0x3dg94e['\u0067\u0065\u0074\u0044\u0061\u0074\u0065']();
-  document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('asOfMonth')['\u0076\u0061\u006C\u0075\u0065'] = _0x3dg94e['\u0067\u0065\u0074\u004D\u006F\u006E\u0074\u0068']();
-  document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('asOfYear')['\u0076\u0061\u006C\u0075\u0065'] = _0x3dg94e['\u0067\u0065\u0074\u0046\u0075\u006C\u006C\u0059\u0065\u0061\u0072']();
-  document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0064\u006F\u0062\u0059\u0065\u0061\u0072")['\u0076\u0061\u006C\u0075\u0065'] = 960471 ^ 958492;
+  var _425 = function (s, h) {
+    return s + h;
+  }(969027 ^ 969025, 978700 ^ 978693);
+  const now = new Date();
+  _425 = function () {
+    return _0[663];
+  }();
+  document[_0[43]](_0[647][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[188]] = now[_0[657]]();
+  document[_0[43]](_0[648][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[188]] = now[_0[656]]();
+  document[_0[43]](_0[650][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[188]] = now[_0[654]]();
+  document[_0[43]](_0[646][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[188]] = function () {
+    return 791923 ^ 791224;
+  }();
 }
 function getCurrentCalculationData() {
-  const _0x3bb9d = {
-    '\u0070\u006C\u0061\u006E\u0054\u0069\u0074\u006C\u0065': '',
-    "modeText": '',
-    "age": '--',
-    "term": "\u002D\u002D",
-    '\u0073\u0075\u006D\u0041\u0073\u0073\u0075\u0072\u0065\u0064': '০ ৳',
-    '\u0072\u0061\u0074\u0065\u0050\u0065\u0072\u0054\u0068\u006F\u0075\u0073\u0061\u006E\u0064': '',
-    '\u0062\u0061\u0073\u0065\u0050\u0072\u0065\u006D\u0069\u0075\u006D': '০ ৳',
-    '\u0072\u0069\u0064\u0065\u0072\u0073': [],
-    '\u0074\u006F\u0074\u0061\u006C\u0050\u0072\u0065\u006D\u0069\u0075\u006D': "\u09E6\u0020\u09F3",
-    "medicalTests": [],
-    "isNonMedical": false,
-    "hasIncomeDocNote": false,
-    "prevSumAssured": '০ ৳',
-    '\u0074\u006F\u0074\u0061\u006C\u0053\u0075\u006D\u0041\u0073\u0073\u0075\u0072\u0065\u0064': "\u09E6\u0020\u09F3",
-    '\u006D\u0061\u0074\u0075\u0072\u0069\u0074\u0079\u0041\u0067\u0065\u0057\u0061\u0072\u006E\u0069\u006E\u0067': ''
+  var _426 = function (s, h) {
+    return s + h;
+  }(468744 ^ 468737, 634275 ^ 634278);
+  const data = {
+    planTitle: _0[3],
+    modeText: _0[3],
+    age: _0[664][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+    term: _0[664][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+    sumAssured: _0[317][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+    ratePerThousand: _0[3],
+    basePremium: _0[317][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+    riders: [],
+    totalPremium: _0[317][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+    medicalTests: [],
+    isNonMedical: ![],
+    hasIncomeDocNote: ![],
+    prevSumAssured: _0[317][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+    totalSumAssured: _0[317][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+    maturityAgeWarning: _0[3]
   };
-  if (currentActiveTab === 'dps') {
-    _0x3bb9d['\u0070\u006C\u0061\u006E\u0054\u0069\u0074\u006C\u0065'] = "\u09A1\u09BF\u09AA\u09BF\u098F\u09B8\u0020\u0997\u09CB\u09B2\u09CD\u09A1\u0020\u0028\u0044\u0050\u0053\u0020\u0047\u006F\u006C\u0064\u0020\u002D\u0020\u0050\u006C\u0061\u006E\u0020\u0031\u0034\u0029";
-    _0x3bb9d['\u006D\u006F\u0064\u0065\u0054\u0065\u0078\u0074'] = "\u09AE\u09BE\u09B8\u09BF\u0995\u0020\u0028\u004D\u006F\u006E\u0074\u0068\u006C\u0079\u0029";
-    _0x3bb9d['\u0061\u0067\u0065'] = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0064\u0070\u0073\u002D\u0061\u0067\u0065")['\u0076\u0061\u006C\u0075\u0065'] || "\u002D\u002D";
-    _0x3bb9d['\u0074\u0065\u0072\u006D'] = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0064\u0070\u0073\u002D\u0074\u0065\u0072\u006D")['\u0076\u0061\u006C\u0075\u0065'] || '--';
-    _0x3bb9d['\u0073\u0075\u006D\u0041\u0073\u0073\u0075\u0072\u0065\u0064'] = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0064\u0070\u0073\u002D\u0073\u0075\u006D\u0041\u0073\u0073\u0075\u0072\u0065\u0064")['\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074'];
-    const _0xb1acea = parseFloat(document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0064\u0065\u0070\u006F\u0073\u0069\u0074")['\u0076\u0061\u006C\u0075\u0065']) || 623797 ^ 623797;
-    _0x3bb9d['\u0062\u0061\u0073\u0065\u0050\u0072\u0065\u006D\u0069\u0075\u006D'] = _0xb1acea['\u0074\u006F\u004C\u006F\u0063\u0061\u006C\u0065\u0053\u0074\u0072\u0069\u006E\u0067']("\u0062\u006E\u002D\u0042\u0044") + ' ৳';
-    const prevSA = parseFloat(document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('dps-prev-sa')?.value) || 777165 ^ 777165;
-    _0x3bb9d['\u0070\u0072\u0065\u0076\u0053\u0075\u006D\u0041\u0073\u0073\u0075\u0072\u0065\u0064'] = prevSA['\u0074\u006F\u004C\u006F\u0063\u0061\u006C\u0065\u0053\u0074\u0072\u0069\u006E\u0067']("\u0062\u006E\u002D\u0042\u0044") + "\u0020\u09F3";
-    if (document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0064\u0070\u0073\u002D\u0061\u0064\u0062")['\u0063\u0068\u0065\u0063\u006B\u0065\u0064']) _0x3bb9d['\u0072\u0069\u0064\u0065\u0072\u0073']['\u0070\u0075\u0073\u0068']({
-      "name": "\u0041\u0044\u0042\u0020\u0028\u09A6\u09C1\u09B0\u09CD\u0998\u099F\u09A8\u09BE\u0020\u0020\u0029",
-      '\u0061\u006D\u006F\u0075\u006E\u0074': document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0064\u0070\u0073\u002D\u0061\u0064\u0062\u0041\u006D\u006F\u0075\u006E\u0074")['\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074']
+  _426 = function () {
+    return _0[665];
+  }();
+  if (currentActiveTab === _0[120][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])) {
+    data[_0[666]] = _0[280][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    data[_0[667]] = _0[668][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    data[_0[669]] = document[_0[43]](_0[305][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[188]] || _0[664][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    data[_0[585]] = document[_0[43]](_0[304][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[188]] || _0[664][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    data[_0[584]] = document[_0[43]](_0[316][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[50]];
+    var _427 = _0[670];
+    const dep = parseFloat(document[_0[43]](_0[301][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[188]]) || 702326 ^ 702326;
+    _427 = function () {
+      return 525148 ^ 525147;
+    }();
+    data[_0[671]] = dep[_0[255]](_0[256][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])) + _0[325][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    var _428 = _0[672];
+    const _22f = parseFloat(document[_0[43]](_0[307][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[188]]) || 118999 ^ 118999;
+    _428 = (397062 ^ 397062) + (753093 ^ 753095);
+    data[_0[673]] = _22f[_0[255]](_0[256][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])) + _0[325][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    if (document[_0[43]](_0[139][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[126]]) data[_0[291]][_0[189]]({
+      name: _0[674][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+      amount: document[_0[43]](_0[318][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[50]]
     });
-    if (document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('dps-plus')['\u0063\u0068\u0065\u0063\u006B\u0065\u0064']) _0x3bb9d['\u0072\u0069\u0064\u0065\u0072\u0073']['\u0070\u0075\u0073\u0068']({
-      "name": 'Plus (প্লাস কভারেজ)',
-      '\u0061\u006D\u006F\u0075\u006E\u0074': document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('dps-plusAmount')['\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074']
+    if (document[_0[43]](_0[136][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[126]]) data[_0[291]][_0[189]]({
+      name: _0[675][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+      amount: document[_0[43]](_0[319][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[50]]
     });
-    if (document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('dps-cc')['\u0063\u0068\u0065\u0063\u006B\u0065\u0064']) _0x3bb9d['\u0072\u0069\u0064\u0065\u0072\u0073']['\u0070\u0075\u0073\u0068']({
-      '\u006E\u0061\u006D\u0065': "\u0043\u0043\u0020\u0028\u0995\u09CD\u09B0\u09BF\u099F\u09BF\u0995\u09CD\u09AF\u09BE\u09B2\u0020\u0995\u09C7\u09DF\u09BE\u09B0\u0029",
-      "amount": document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0064\u0070\u0073\u002D\u0063\u0063\u0041\u006D\u006F\u0075\u006E\u0074")['\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074']
+    if (document[_0[43]](_0[140][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[126]]) data[_0[291]][_0[189]]({
+      name: _0[676][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+      amount: document[_0[43]](_0[320][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[50]]
     });
-    if (document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('dps-wp')['\u0063\u0068\u0065\u0063\u006B\u0065\u0064']) _0x3bb9d['\u0072\u0069\u0064\u0065\u0072\u0073']['\u0070\u0075\u0073\u0068']({
-      '\u006E\u0061\u006D\u0065': 'WP (প্রিমিয়াম মওকুফ)',
-      "amount": document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('dps-wpAmount')['\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074']
+    if (document[_0[43]](_0[310][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[126]]) data[_0[291]][_0[189]]({
+      name: _0[677][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+      amount: document[_0[43]](_0[321][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[50]]
     });
-    if (document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('dps-hi')?.checked) {
-      const tier = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('dps-hi-tier')?.value || "\u0073\u0069\u006C\u0076\u0065\u0072";
-      let members = [];
-      if (document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0064\u0070\u0073\u002D\u0068\u0069\u002D\u0073\u0065\u006C\u0066")?.checked) members['\u0070\u0075\u0073\u0068']("\u0997\u09CD\u09B0\u09BE\u09B9\u0995");
-      if (document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('dps-hi-spouse')?.checked) {
-        let _0x52592f;
-        const sAge = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('dps-hi-spouse-age')?.value;
-        _0x52592f = (608417 ^ 608422) + (153928 ^ 153920);
-        members['\u0070\u0075\u0073\u0068'](`স্ত্রী (${toBangla(sAge || _0x3bb9d['\u0061\u0067\u0065'])} বছর)`);
+    if (document[_0[43]](_0[144][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[126]]) {
+      var _429 = function (s, h) {
+        return s ^ h;
+      }(811393, 811392);
+      const tier = document[_0[43]](_0[340][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[188]] || _0[197][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+      _429 = function () {
+        return _0[678];
+      }();
+      var _430 = _0[679];
+      let _24s = [];
+      _430 = (959150 ^ 959143) + (533575 ^ 533573);
+      if (document[_0[43]](_0[341][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[126]]) _24s[_0[189]](_0[680][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+      if (document[_0[43]](_0[342][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[126]]) {
+        var _431 = function (s, h) {
+          return s ^ h;
+        }(205157, 205154);
+        const sAge = document[_0[43]](_0[344][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[188]];
+        _431 = (151222 ^ 151222) + (738070 ^ 738070);
+        _24s[_0[189]](`স্ত্রী (${toBangla(sAge || data[_0[669]])} বছর)`);
       }
-      if (document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0064\u0070\u0073\u002D\u0068\u0069\u002D\u0063\u0068\u0069\u006C\u0064")?.checked) {
-        const validAges = getValidHIChildAges('dps');
-        if (validAges['\u006C\u0065\u006E\u0067\u0074\u0068'] > (293503 ^ 293503)) {
-          const ageStrs = validAges['\u006D\u0061\u0070'](a => `${toBangla(a)} বছর`)['\u006A\u006F\u0069\u006E']("\u002C\u0020");
-          members['\u0070\u0075\u0073\u0068'](`সন্তান (${toBangla(validAges['\u006C\u0065\u006E\u0067\u0074\u0068'])} জন: ${ageStrs})`);
+      if (document[_0[43]](_0[346][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[126]]) {
+        var _432 = function (s, h) {
+          return s + h;
+        }(413667 ^ 413665, 943842 ^ 943851);
+        const _27f = getValidHIChildAges(_0[120][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+        _432 = function () {
+          return _0[681];
+        }();
+        if (_27f[_0[171]] > (958057 ^ 958057)) {
+          var _433 = function (s, h) {
+            return s ^ h;
+          }(253064, 253067);
+          const _27g = _27f[_0[243]](a => `${toBangla(a)} বছর`)[_0[5]](_0[682][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+          _433 = function () {
+            return 288746 ^ 288748;
+          }();
+          _24s[_0[189]](`সন্তান (${toBangla(_27f[_0[171]])} জন: ${_27g})`);
         } else {
-          let _0x81db;
-          const count = document['\u0071\u0075\u0065\u0072\u0079\u0053\u0065\u006C\u0065\u0063\u0074\u006F\u0072\u0041\u006C\u006C']("\u002E\u0064\u0070\u0073\u002D\u0068\u0069\u002D\u0063\u0068\u0069\u006C\u0064\u002D\u0061\u0067\u0065")['\u006C\u0065\u006E\u0067\u0074\u0068'];
-          _0x81db = '\u0063\u006B\u0064\u006F\u0067\u0066';
-          members['\u0070\u0075\u0073\u0068'](`সন্তান (${toBangla(count)} জন)`);
+          var _434 = _0[683];
+          const _27h = document[_0[184]](_0[349][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[171]];
+          _434 = function () {
+            return 510483 ^ 510482;
+          }();
+          _24s[_0[189]](`সন্তান (${toBangla(_27h)} জন)`);
         }
       }
-      const mat = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('dps-hi-maternity')?.value;
-      if (mat && mat !== "\u006E\u006F\u006E\u0065") {
-        members['\u0070\u0075\u0073\u0068'](`মাতৃত্ব (${mat === "\u0064\u0065\u006C\u0075\u0078\u0065" ? 'ডিলাক্স' : "\u09B8\u09CD\u099F\u09CD\u09AF\u09BE\u09A8\u09CD\u09A1\u09BE\u09B0\u09CD\u09A1"})`);
+      var _435 = function (s, h) {
+        return s ^ h;
+      }(396612, 396621);
+      const mat = document[_0[43]](_0[350][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[188]];
+      _435 = (665542 ^ 665536) + (562872 ^ 562875);
+      if (mat && mat !== _0[132][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])) {
+        _24s[_0[189]](`মাতৃত্ব (${mat === _0[684][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) ? _0[685][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) : _0[686][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])})`);
       }
-      _0x3bb9d['\u0072\u0069\u0064\u0065\u0072\u0073']['\u0070\u0075\u0073\u0068']({
-        '\u006E\u0061\u006D\u0065': `HI (স্বাস্থ্য   - ${hiTierLabels[tier] || tier}) [${members['\u006A\u006F\u0069\u006E'](', ')}]`,
-        '\u0061\u006D\u006F\u0075\u006E\u0074': document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('dps-hiAmount')['\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074']
+      data[_0[291]][_0[189]]({
+        name: `HI (স্বাস্থ্য   - ${hiTierLabels[tier] || tier}) [${_24s[_0[5]](_0[682][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))}]`,
+        amount: document[_0[43]](_0[322][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[50]]
       });
     }
-    if (document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0064\u0070\u0073\u002D\u006F\u0065\u002D\u0063\u0068\u0065\u0063\u006B")?.checked) {
-      let _0x2f099c;
-      const oeRate = document['\u0071\u0075\u0065\u0072\u0079\u0053\u0065\u006C\u0065\u0063\u0074\u006F\u0072']("\u0069\u006E\u0070\u0075\u0074\u005B\u006E\u0061\u006D\u0065\u003D\u0022\u0064\u0070\u0073\u002D\u006F\u0065\u002D\u0072\u0061\u0074\u0065\u0022\u005D\u003A\u0063\u0068\u0065\u0063\u006B\u0065\u0064")?.value || "\u0032";
-      _0x2f099c = 504829 ^ 504829;
-      _0x3bb9d['\u0072\u0069\u0064\u0065\u0072\u0073']['\u0070\u0075\u0073\u0068']({
-        "name": `OE (অকুপেশন এক্সট্রা - ${toBangla(oeRate)} ৳)`,
-        "amount": document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0064\u0070\u0073\u002D\u006F\u0065\u0041\u006D\u006F\u0075\u006E\u0074")['\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074']
+    if (document[_0[43]](_0[125][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[126]]) {
+      var _436 = function (s, h) {
+        return s ^ h;
+      }(112023, 112022);
+      const _29u = document[_0[314]](_0[315][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[188]] || _0[687];
+      _436 = function () {
+        return 365278 ^ 365270;
+      }();
+      data[_0[291]][_0[189]]({
+        name: `OE (অকুপেশন এক্সট্রা - ${toBangla(_29u)} ৳)`,
+        amount: document[_0[43]](_0[323][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[50]]
       });
     }
-    _0x3bb9d['\u0074\u006F\u0074\u0061\u006C\u0050\u0072\u0065\u006D\u0069\u0075\u006D'] = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('dps-totalMonthly')['\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074'];
-    const _0x4332fe = _0xb1acea * (235513 ^ 235509) * (parseFloat(_0x3bb9d['\u0074\u0065\u0072\u006D']) || 472176 ^ 472176);
-    const totalCombinedSA = _0x4332fe + prevSA;
-    _0x3bb9d['\u0074\u006F\u0074\u0061\u006C\u0053\u0075\u006D\u0041\u0073\u0073\u0075\u0072\u0065\u0064'] = totalCombinedSA['\u0074\u006F\u004C\u006F\u0063\u0061\u006C\u0065\u0053\u0074\u0072\u0069\u006E\u0067']("\u0062\u006E\u002D\u0042\u0044") + "\u0020\u09F3";
-    var _0x4d5c = (717635 ^ 717638) + (848391 ^ 848384);
-    const numericAge = parseInt(_0x3bb9d['\u0061\u0067\u0065']);
-    _0x4d5c = "kqijbp";
-    const numericTerm = parseInt(_0x3bb9d['\u0074\u0065\u0072\u006D']) || 221799 ^ 221799;
-    if (numericAge && numericTerm && numericAge + numericTerm > (838441 ^ 838511)) {
-      _0x3bb9d['\u006D\u0061\u0074\u0075\u0072\u0069\u0074\u0079\u0041\u0067\u0065\u0057\u0061\u0072\u006E\u0069\u006E\u0067'] = `মেয়াদ পূর্তিতে বয়স (${toBangla(numericAge + numericTerm)} বছর) ৭০-এর বেশি।`;
+    data[_0[555]] = document[_0[43]](_0[324][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[50]];
+    var _437 = function (s, h) {
+      return s + h;
+    }(848684 ^ 848677, 256207 ^ 256203);
+    const _29v = parseInt(data[_0[669]]);
+    _437 = function () {
+      return 593656 ^ 593659;
+    }();
+    var _438 = function (s, h) {
+      return s ^ h;
+    }(165452, 165445);
+    const _29w = parseInt(data[_0[585]]) || 756740 ^ 756740;
+    _438 = (122623 ^ 122619) + (635023 ^ 635014);
+    var _439 = _0[688];
+    const _29x = _29v && _29w && monthlySavingRates[_29v] ? monthlySavingRates[_29v][_29w] : null;
+    _439 = (624529 ^ 624532) + (992401 ^ 992405);
+    var _440 = function (s, h) {
+      return s + h;
+    }(843980 ^ 843983, 104745 ^ 104746);
+    let _29y = function (s, h) {
+      return s ^ h;
+    }(831062, 831062);
+    _440 = function () {
+      return 263577 ^ 263582;
+    }();
+    if (dep > (426442 ^ 426442) && _29x) {
+      _29y = Math[_0[335]](_29x * (dep / (106404 ^ 105548)));
     }
-    _0x3bb9d['\u006D\u0065\u0064\u0069\u0063\u0061\u006C\u0054\u0065\u0073\u0074\u0073'] = getMedicalTests(numericAge, totalCombinedSA);
-    if (totalCombinedSA > 1000000) _0x3bb9d['\u0068\u0061\u0073\u0049\u006E\u0063\u006F\u006D\u0065\u0044\u006F\u0063\u004E\u006F\u0074\u0065'] = !![];
+    var _441 = _0[689];
+    const _29z = function (s, h) {
+      return s + h;
+    }(_29y, _22f);
+    _441 = function () {
+      return _0[689];
+    }();
+    data[_0[690]] = _29z[_0[255]](_0[256][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])) + _0[325][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    if (_29v && _29w && _29v + _29w > (373214 ^ 373144)) {
+      data[_0[691]] = `মেয়াদ পূর্তিতে বয়স (${toBangla(_29v + _29w)} বছর) ৭০-এর বেশি।`;
+    }
+    data[_0[692]] = getMedicalTests(_29v, _29z);
+    if (_29z > 1000000) data[_0[693]] = function () {
+      return !![];
+    }();
   } else {
-    var _0x54a6f = (840329 ^ 840335) + (996465 ^ 996465);
-    const _0x39_0xade = planConfig[currentActiveTab];
-    _0x54a6f = (264282 ^ 264280) + (481629 ^ 481624);
-    _0x3bb9d['\u0070\u006C\u0061\u006E\u0054\u0069\u0074\u006C\u0065'] = _0x39_0xade ? _0x39_0xade['\u0074\u0069\u0074\u006C\u0065'] : "\u0020\u0020\u09AA\u09B2\u09BF\u09B8\u09BF";
-    const _0x2915c = document['\u0071\u0075\u0065\u0072\u0079\u0053\u0065\u006C\u0065\u0063\u0074\u006F\u0072']("\u0069\u006E\u0070\u0075\u0074\u005B\u006E\u0061\u006D\u0065\u003D\u0022\u0070\u002D\u006D\u006F\u0064\u0065\u0022\u005D\u003A\u0063\u0068\u0065\u0063\u006B\u0065\u0064");
-    const _0x25ec = _0x2915c ? _0x2915c['\u0076\u0061\u006C\u0075\u0065'] : "\u0079\u0065\u0061\u0072\u006C\u0079";
-    const _0xf49fd = {
-      'monthly': "\u09AE\u09BE\u09B8\u09BF\u0995\u0020\u0028\u004D\u006F\u006E\u0074\u0068\u006C\u0079\u0029",
-      "\u0071\u0075\u0061\u0072\u0074\u0065\u0072\u006C\u0079": 'ত্রৈমাসিক (Quarterly)',
-      'half_yearly': 'ষাণ্মাসিক (Half Yearly)',
-      "\u0079\u0065\u0061\u0072\u006C\u0079": _0x39_0xade['\u0069\u0073\u0053\u0069\u006E\u0067\u006C\u0065'] ? "\u098F\u0995\u0995\u09BE\u09B2\u09C0\u09A8\u0020\u0028\u0053\u0069\u006E\u0067\u006C\u0065\u0020\u0050\u0061\u0079\u006D\u0065\u006E\u0074\u0029" : "\u09AC\u09BE\u09B0\u09CD\u09B7\u09BF\u0995\u0020\u0028\u0059\u0065\u0061\u0072\u006C\u0079\u0029"
+    var _442 = function (s, h) {
+      return s + h;
+    }(934914 ^ 934922, 931406 ^ 931406);
+    const conf = planConfig[currentActiveTab];
+    _442 = function () {
+      return _0[694];
+    }();
+    data[_0[666]] = conf ? conf[_0[281]] : _0[695][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    var _443 = _0[696];
+    const _2bs = document[_0[314]](_0[369][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+    _443 = function () {
+      return 482128 ^ 482131;
+    }();
+    var _444 = function (s, h) {
+      return s + h;
+    }(806942 ^ 806937, 926962 ^ 926964);
+    const _2bt = _2bs ? _2bs[_0[188]] : _0[370][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    _444 = function () {
+      return _0[697];
+    }();
+    var _445 = function (s, h) {
+      return s + h;
+    }(725509 ^ 725511, 206783 ^ 206778);
+    const _2bu = {
+      '\u006d\u006f\u006e\u0074\u0068\u006c\u0079': _0[668][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+      '\u0071\u0075\u0061\u0072\u0074\u0065\u0072\u006c\u0079': _0[698][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+      '\u0068\u0061\u006c\u0066\u005f\u0079\u0065\u0061\u0072\u006c\u0079': _0[699][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+      '\u0079\u0065\u0061\u0072\u006c\u0079': conf[_0[287]] ? _0[700][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) : _0[701][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])
     };
-    _0x3bb9d['\u006D\u006F\u0064\u0065\u0054\u0065\u0078\u0074'] = _0xf49fd[_0x25ec] || _0x25ec;
-    _0x3bb9d['\u0061\u0067\u0065'] = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0061\u0067\u0065")?.value || "\u002D\u002D";
-    _0x3bb9d['\u0074\u0065\u0072\u006D'] = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0074\u0065\u0072\u006D")?.value || "\u002D\u002D";
-    let _0xebae;
-    const _0xfeff1d = parseFloat(document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0073\u0075\u006D")?.value) || 287698 ^ 287698;
-    _0xebae = (340431 ^ 340431) + (401646 ^ 401641);
-    var _0xbfdd = (948544 ^ 948546) + (624812 ^ 624812);
-    const prevSA = parseFloat(document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0070\u0072\u0065\u0076\u002D\u0073\u0061")?.value) || 688595 ^ 688595;
-    _0xbfdd = (648241 ^ 648240) + (558482 ^ 558486);
-    var _0x57d = (857016 ^ 857017) + (578671 ^ 578667);
-    const totalCombinedSA = _0xfeff1d + prevSA;
-    _0x57d = (673950 ^ 673948) + (861261 ^ 861260);
-    _0x3bb9d['\u0073\u0075\u006D\u0041\u0073\u0073\u0075\u0072\u0065\u0064'] = _0xfeff1d['\u0074\u006F\u004C\u006F\u0063\u0061\u006C\u0065\u0053\u0074\u0072\u0069\u006E\u0067']("\u0062\u006E\u002D\u0042\u0044") + ' ৳';
-    _0x3bb9d['\u0070\u0072\u0065\u0076\u0053\u0075\u006D\u0041\u0073\u0073\u0075\u0072\u0065\u0064'] = prevSA['\u0074\u006F\u004C\u006F\u0063\u0061\u006C\u0065\u0053\u0074\u0072\u0069\u006E\u0067']("\u0062\u006E\u002D\u0042\u0044") + ' ৳';
-    _0x3bb9d['\u0074\u006F\u0074\u0061\u006C\u0053\u0075\u006D\u0041\u0073\u0073\u0075\u0072\u0065\u0064'] = totalCombinedSA['\u0074\u006F\u004C\u006F\u0063\u0061\u006C\u0065\u0053\u0074\u0072\u0069\u006E\u0067']("\u0062\u006E\u002D\u0042\u0044") + "\u0020\u09F3";
-    _0x3bb9d['\u0072\u0061\u0074\u0065\u0050\u0065\u0072\u0054\u0068\u006F\u0075\u0073\u0061\u006E\u0064'] = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0072\u0065\u0073\u002D\u0072\u0061\u0074\u0065")?.innerText || '';
-    _0x3bb9d['\u0062\u0061\u0073\u0065\u0050\u0072\u0065\u006D\u0069\u0075\u006D'] = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('res-base')?.innerText || "\u09E6\u0020\u09F3";
-    if (document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('p-adb')?.checked) _0x3bb9d['\u0072\u0069\u0064\u0065\u0072\u0073']['\u0070\u0075\u0073\u0068']({
-      '\u006E\u0061\u006D\u0065': 'ADB (দুর্ঘটনা  )',
-      '\u0061\u006D\u006F\u0075\u006E\u0074': document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('res-adb')['\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074']
+    _445 = function () {
+      return 884176 ^ 884183;
+    }();
+    data[_0[667]] = _2bu[_2bt] || _2bt;
+    data[_0[669]] = document[_0[43]](_0[360][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[188]] || _0[664][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    data[_0[585]] = document[_0[43]](_0[361][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[188]] || _0[664][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    var _446 = _0[702];
+    const _2bv = parseFloat(document[_0[43]](_0[355][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[188]]) || 439789 ^ 439789;
+    _446 = function () {
+      return _0[702];
+    }();
+    var _447 = function (s, h) {
+      return s ^ h;
+    }(318899, 318906);
+    const _2bw = parseFloat(document[_0[43]](_0[362][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[188]]) || 443841 ^ 443841;
+    _447 = (570721 ^ 570725) + (605688 ^ 605692);
+    var _448 = function (s, h) {
+      return s + h;
+    }(624886 ^ 624883, 807612 ^ 807615);
+    const _2bx = function (s, h) {
+      return s + h;
+    }(_2bv, _2bw);
+    _448 = (228427 ^ 228431) + (517486 ^ 517483);
+    data[_0[584]] = _2bv[_0[255]](_0[256][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])) + _0[325][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    data[_0[673]] = _2bw[_0[255]](_0[256][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])) + _0[325][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    data[_0[690]] = _2bx[_0[255]](_0[256][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])) + _0[325][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    data[_0[703]] = document[_0[43]](_0[429][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[50]] || _0[3];
+    data[_0[671]] = document[_0[43]](_0[432][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[50]] || _0[317][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    if (document[_0[43]](_0[147][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[126]]) data[_0[291]][_0[189]]({
+      name: _0[674][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+      amount: document[_0[43]](_0[440][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[50]]
     });
-    if (document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('p-pdab')?.checked) _0x3bb9d['\u0072\u0069\u0064\u0065\u0072\u0073']['\u0070\u0075\u0073\u0068']({
-      "name": 'PDAB (অঙ্গহানি ও দুর্ঘটনা)',
-      '\u0061\u006D\u006F\u0075\u006E\u0074': document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0072\u0065\u0073\u002D\u0070\u0064\u0061\u0062")['\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074']
+    if (document[_0[43]](_0[149][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[126]]) data[_0[291]][_0[189]]({
+      name: _0[704][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+      amount: document[_0[43]](_0[442][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[50]]
     });
-    if (document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0070\u006C\u0075\u0073")?.checked) _0x3bb9d['\u0072\u0069\u0064\u0065\u0072\u0073']['\u0070\u0075\u0073\u0068']({
-      "name": "\u0050\u006C\u0075\u0073\u0020\u0028\u09AA\u09CD\u09B2\u09BE\u09B8\u0020\u0995\u09AD\u09BE\u09B0\u09C7\u099C\u0029",
-      "amount": document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('res-plus')['\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074']
+    if (document[_0[43]](_0[146][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[126]]) data[_0[291]][_0[189]]({
+      name: _0[675][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+      amount: document[_0[43]](_0[444][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[50]]
     });
-    if (document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0063\u0063")?.checked) _0x3bb9d['\u0072\u0069\u0064\u0065\u0072\u0073']['\u0070\u0075\u0073\u0068']({
-      '\u006E\u0061\u006D\u0065': 'CC (ক্রিটিক্যাল কেয়ার)',
-      "amount": document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('res-cc')['\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074']
+    if (document[_0[43]](_0[150][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[126]]) data[_0[291]][_0[189]]({
+      name: _0[676][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+      amount: document[_0[43]](_0[446][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[50]]
     });
-    if (document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('p-wp')?.checked) _0x3bb9d['\u0072\u0069\u0064\u0065\u0072\u0073']['\u0070\u0075\u0073\u0068']({
-      "name": "\u0057\u0050\u0020\u0028\u09AA\u09CD\u09B0\u09BF\u09AE\u09BF\u09DF\u09BE\u09AE\u0020\u09AE\u0993\u0995\u09C1\u09AB\u0029",
-      "amount": document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('res-wp')['\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074']
+    if (document[_0[43]](_0[387][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[126]]) data[_0[291]][_0[189]]({
+      name: _0[677][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+      amount: document[_0[43]](_0[448][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[50]]
     });
-    if (document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('p-ibr')?.checked) _0x3bb9d['\u0072\u0069\u0064\u0065\u0072\u0073']['\u0070\u0075\u0073\u0068']({
-      "name": "\u0049\u0042\u0052\u0020\u0028\u09AE\u09BE\u09B8\u09BF\u0995\u0020\u0986\u09DF\u0020\u09B8\u09C1\u09AC\u09BF\u09A7\u09BE\u0029",
-      "amount": document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0072\u0065\u0073\u002D\u0069\u0062\u0072")['\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074']
+    if (document[_0[43]](_0[388][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[126]]) data[_0[291]][_0[189]]({
+      name: _0[705][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]),
+      amount: document[_0[43]](_0[450][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[50]]
     });
-    if (document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('p-hc')?.checked) {
-      var _0xf1fcb = (554154 ^ 554153) + (909861 ^ 909868);
-      const tier = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0068\u0063\u002D\u0074\u0069\u0065\u0072")?.value || "\u0031";
-      _0xf1fcb = (490912 ^ 490918) + (330972 ^ 330964);
-      let _0x4582f;
-      let members = [];
-      _0x4582f = (421312 ^ 421314) + (249634 ^ 249642);
-      if (document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0068\u0063\u002D\u0073\u0065\u006C\u0066")?.checked) members['\u0070\u0075\u0073\u0068']('গ্রাহক');
-      if (document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('p-hc-spouse')?.checked) {
-        const sAge = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('p-hc-spouse-age')?.value;
-        members['\u0070\u0075\u0073\u0068'](`স্ত্রী (${toBangla(sAge || _0x3bb9d['\u0061\u0067\u0065'])} বছর)`);
+    if (document[_0[43]](_0[154][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[126]]) {
+      var _449 = function (s, h) {
+        return s + h;
+      }(739384 ^ 739387, 382520 ^ 382524);
+      const tier = document[_0[43]](_0[403][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[188]] || _0[706];
+      _449 = function () {
+        return 912468 ^ 912465;
+      }();
+      var _450 = _0[707];
+      let _2dq = [];
+      _450 = function () {
+        return _0[707];
+      }();
+      if (document[_0[43]](_0[405][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[126]]) _2dq[_0[189]](_0[680][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+      if (document[_0[43]](_0[407][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[126]]) {
+        var _451 = _0[708];
+        const sAge = document[_0[43]](_0[408][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[188]];
+        _451 = function () {
+          return _0[708];
+        }();
+        _2dq[_0[189]](`স্ত্রী (${toBangla(sAge || data[_0[669]])} বছর)`);
       }
-      if (document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0068\u0063\u002D\u0063\u0068\u0069\u006C\u0064")?.checked) {
-        const validAges = getValidChildAges();
-        if (validAges['\u006C\u0065\u006E\u0067\u0074\u0068'] > (877776 ^ 877776)) {
-          var _0x769d3b = (551497 ^ 551503) + (296067 ^ 296066);
-          const ageStrs = validAges['\u006D\u0061\u0070'](a => `${toBangla(a)} বছর`)['\u006A\u006F\u0069\u006E'](', ');
-          _0x769d3b = (660000 ^ 660007) + (312826 ^ 312824);
-          members['\u0070\u0075\u0073\u0068'](`সন্তান (${toBangla(validAges['\u006C\u0065\u006E\u0067\u0074\u0068'])} জন: ${ageStrs})`);
+      if (document[_0[43]](_0[409][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[126]]) {
+        var _452 = function (s, h) {
+          return s ^ h;
+        }(302077, 302069);
+        const _2fj = getValidChildAges();
+        _452 = function () {
+          return 918055 ^ 918063;
+        }();
+        if (_2fj[_0[171]] > (328735 ^ 328735)) {
+          var _453 = function (s, h) {
+            return s + h;
+          }(637925 ^ 637923, 263563 ^ 263562);
+          const _2fk = _2fj[_0[243]](a => `${toBangla(a)} বছর`)[_0[5]](_0[682][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+          _453 = function () {
+            return _0[709];
+          }();
+          _2dq[_0[189]](`সন্তান (${toBangla(_2fj[_0[171]])} জন: ${_2fk})`);
         } else {
-          var _0xc6bffd = (949816 ^ 949817) + (305222 ^ 305231);
-          const count = document['\u0071\u0075\u0065\u0072\u0079\u0053\u0065\u006C\u0065\u0063\u0074\u006F\u0072\u0041\u006C\u006C']('.p-hc-child-age')['\u006C\u0065\u006E\u0067\u0074\u0068'];
-          _0xc6bffd = (422318 ^ 422318) + (320716 ^ 320719);
-          members['\u0070\u0075\u0073\u0068'](`সন্তান (${toBangla(count)} জন)`);
+          var _454 = _0[710];
+          const _2fl = document[_0[184]](_0[185][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[171]];
+          _454 = function () {
+            return 931237 ^ 931233;
+          }();
+          _2dq[_0[189]](`সন্তান (${toBangla(_2fl)} জন)`);
         }
       }
-      _0x3bb9d['\u0072\u0069\u0064\u0065\u0072\u0073']['\u0070\u0075\u0073\u0068']({
-        '\u006E\u0061\u006D\u0065': `HC (হসপিটাল কেয়ার - Plan ${tier}) [${members['\u006A\u006F\u0069\u006E']("\u002C\u0020")}]`,
-        "amount": document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('res-hc')['\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074']
+      data[_0[291]][_0[189]]({
+        name: `HC (হসপিটাল কেয়ার - Plan ${tier}) [${_2dq[_0[5]](_0[682][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))}]`,
+        amount: document[_0[43]](_0[452][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[50]]
       });
     }
-    if (document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('p-hi')?.checked) {
-      const tier = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('p-hi-tier')?.value || 'silver';
-      var _0xdd8e5f = (990115 ^ 990112) + (315107 ^ 315114);
-      let members = [];
-      _0xdd8e5f = (997725 ^ 997725) + (427056 ^ 427056);
-      if (document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0068\u0069\u002D\u0073\u0065\u006C\u0066")?.checked) members['\u0070\u0075\u0073\u0068']("\u0997\u09CD\u09B0\u09BE\u09B9\u0995");
-      if (document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0068\u0069\u002D\u0073\u0070\u006F\u0075\u0073\u0065")?.checked) {
-        let _0x73292b;
-        const sAge = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u002D\u0068\u0069\u002D\u0073\u0070\u006F\u0075\u0073\u0065\u002D\u0061\u0067\u0065")?.value;
-        _0x73292b = 290459 ^ 290451;
-        members['\u0070\u0075\u0073\u0068'](`স্ত্রী (${toBangla(sAge || _0x3bb9d['\u0061\u0067\u0065'])} বছর)`);
+    if (document[_0[43]](_0[157][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[126]]) {
+      var _455 = _0[711];
+      const tier = document[_0[43]](_0[414][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[188]] || _0[197][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+      _455 = (365774 ^ 365766) + (876007 ^ 876001);
+      var _456 = function (s, h) {
+        return s + h;
+      }(219379 ^ 219378, 581733 ^ 581734);
+      let _2he = [];
+      _456 = function () {
+        return 331113 ^ 331116;
+      }();
+      if (document[_0[43]](_0[417][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[126]]) _2he[_0[189]](_0[680][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+      if (document[_0[43]](_0[419][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[126]]) {
+        var _457 = function (s, h) {
+          return s + h;
+        }(881788 ^ 881790, 333296 ^ 333297);
+        const sAge = document[_0[43]](_0[420][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[188]];
+        _457 = (819580 ^ 819583) + (953977 ^ 953976);
+        _2he[_0[189]](`স্ত্রী (${toBangla(sAge || data[_0[669]])} বছর)`);
       }
-      if (document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('p-hi-child')?.checked) {
-        const validAges = getValidHIChildAges('plan');
-        if (validAges['\u006C\u0065\u006E\u0067\u0074\u0068'] > (936247 ^ 936247)) {
-          let _0x13_0x111;
-          const ageStrs = validAges['\u006D\u0061\u0070'](a => `${toBangla(a)} বছর`)['\u006A\u006F\u0069\u006E'](', ');
-          _0x13_0x111 = (664519 ^ 664526) + (866777 ^ 866783);
-          members['\u0070\u0075\u0073\u0068'](`সন্তান (${toBangla(validAges['\u006C\u0065\u006E\u0067\u0074\u0068'])} জন: ${ageStrs})`);
+      if (document[_0[43]](_0[421][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[126]]) {
+        var _458 = function (s, h) {
+          return s ^ h;
+        }(856588, 856588);
+        const _2j7 = getValidHIChildAges(_0[423][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+        _458 = function () {
+          return 694358 ^ 694357;
+        }();
+        if (_2j7[_0[171]] > (317070 ^ 317070)) {
+          var _459 = function (s, h) {
+            return s ^ h;
+          }(970583, 970576);
+          const _2j8 = _2j7[_0[243]](a => `${toBangla(a)} বছর`)[_0[5]](_0[682][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+          _459 = function () {
+            return 365297 ^ 365301;
+          }();
+          _2he[_0[189]](`সন্তান (${toBangla(_2j7[_0[171]])} জন: ${_2j8})`);
         } else {
-          let _0xa1ca1d;
-          const count = document['\u0071\u0075\u0065\u0072\u0079\u0053\u0065\u006C\u0065\u0063\u0074\u006F\u0072\u0041\u006C\u006C']("\u002E\u0070\u002D\u0068\u0069\u002D\u0063\u0068\u0069\u006C\u0064\u002D\u0061\u0067\u0065")['\u006C\u0065\u006E\u0067\u0074\u0068'];
-          _0xa1ca1d = "aeefqo";
-          members['\u0070\u0075\u0073\u0068'](`সন্তান (${toBangla(count)} জন)`);
+          var _460 = function (s, h) {
+            return s + h;
+          }(655619 ^ 655627, 673940 ^ 673937);
+          const _2j9 = document[_0[184]](_0[425][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[171]];
+          _460 = function () {
+            return 794417 ^ 794422;
+          }();
+          _2he[_0[189]](`সন্তান (${toBangla(_2j9)} জন)`);
         }
       }
-      const mat = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('p-hi-maternity')?.value;
-      if (mat && mat !== "\u006E\u006F\u006E\u0065") {
-        members['\u0070\u0075\u0073\u0068'](`মাতৃত্ব (${mat === "\u0064\u0065\u006C\u0075\u0078\u0065" ? "\u09A1\u09BF\u09B2\u09BE\u0995\u09CD\u09B8" : "\u09B8\u09CD\u099F\u09CD\u09AF\u09BE\u09A8\u09CD\u09A1\u09BE\u09B0\u09CD\u09A1"})`);
+      var _461 = _0[712];
+      const mat = document[_0[43]](_0[426][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[188]];
+      _461 = function () {
+        return 255990 ^ 255984;
+      }();
+      if (mat && mat !== _0[132][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])) {
+        _2he[_0[189]](`মাতৃত্ব (${mat === _0[684][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) ? _0[685][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) : _0[686][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])})`);
       }
-      _0x3bb9d['\u0072\u0069\u0064\u0065\u0072\u0073']['\u0070\u0075\u0073\u0068']({
-        "name": `HI (স্বাস্থ্য   - ${hiTierLabels[tier] || tier}) [${members['\u006A\u006F\u0069\u006E'](', ')}]`,
-        "amount": document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0072\u0065\u0073\u002D\u0068\u0069")['\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074']
+      data[_0[291]][_0[189]]({
+        name: `HI (স্বাস্থ্য   - ${hiTierLabels[tier] || tier}) [${_2he[_0[5]](_0[682][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))}]`,
+        amount: document[_0[43]](_0[454][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[50]]
       });
     }
-    if (document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('p-oe-check')?.checked) {
-      var _0x37d4a = (718084 ^ 718087) + (768224 ^ 768227);
-      const oeRate = document['\u0071\u0075\u0065\u0072\u0079\u0053\u0065\u006C\u0065\u0063\u0074\u006F\u0072']("\u0069\u006E\u0070\u0075\u0074\u005B\u006E\u0061\u006D\u0065\u003D\u0022\u0070\u002D\u006F\u0065\u002D\u0072\u0061\u0074\u0065\u0022\u005D\u003A\u0063\u0068\u0065\u0063\u006B\u0065\u0064")?.value || "\u0032";
-      _0x37d4a = (446305 ^ 446307) + (995229 ^ 995225);
-      _0x3bb9d['\u0072\u0069\u0064\u0065\u0072\u0073']['\u0070\u0075\u0073\u0068']({
-        "name": `OE (অকুপেশন এক্সট্রা - ${toBangla(oeRate)} ৳)`,
-        "amount": document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('res-oe')['\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074']
+    if (document[_0[43]](_0[134][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[126]]) {
+      var _462 = function (s, h) {
+        return s ^ h;
+      }(378607, 378601);
+      const _2l2 = document[_0[314]](_0[393][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[188]] || _0[687];
+      _462 = function () {
+        return 437079 ^ 437078;
+      }();
+      data[_0[291]][_0[189]]({
+        name: `OE (অকুপেশন এক্সট্রা - ${toBangla(_2l2)} ৳)`,
+        amount: document[_0[43]](_0[456][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[50]]
       });
     }
-    _0x3bb9d['\u0074\u006F\u0074\u0061\u006C\u0050\u0072\u0065\u006D\u0069\u0075\u006D'] = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('res-total')?.innerText || "\u09E6\u0020\u09F3";
-    var _0x3f1e = (698344 ^ 698349) + (237961 ^ 237960);
-    const numericAge = parseInt(_0x3bb9d['\u0061\u0067\u0065']);
-    _0x3f1e = 275027 ^ 275031;
-    var _0x7d2 = (102300 ^ 102298) + (399991 ^ 399987);
-    const numericTerm = parseInt(_0x3bb9d['\u0074\u0065\u0072\u006D']) || 242385 ^ 242385;
-    _0x7d2 = (810169 ^ 810174) + (781122 ^ 781130);
-    _0x3bb9d['\u0069\u0073\u0050\u0065\u006E\u0073\u0069\u006F\u006E'] = _0x39_0xade?.isPension || false;
-    if (_0x39_0xade?.isPension) {
-      _0x3bb9d['\u006D\u006F\u006E\u0074\u0068\u006C\u0079\u0050\u0065\u006E\u0073\u0069\u006F\u006E'] = Math['\u0072\u006F\u0075\u006E\u0064'](_0xfeff1d / (446967 ^ 446863))['\u0074\u006F\u004C\u006F\u0063\u0061\u006C\u0065\u0053\u0074\u0072\u0069\u006E\u0067']('bn-BD') + ' ৳';
-      _0x3bb9d['\u0061\u006E\u006E\u0075\u0061\u006C\u0050\u0065\u006E\u0073\u0069\u006F\u006E'] = Math['\u0072\u006F\u0075\u006E\u0064'](_0xfeff1d / (638458 ^ 638448))['\u0074\u006F\u004C\u006F\u0063\u0061\u006C\u0065\u0053\u0074\u0072\u0069\u006E\u0067']('bn-BD') + ' ৳';
+    data[_0[555]] = document[_0[43]](_0[457][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[50]] || _0[317][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    var _463 = function (s, h) {
+      return s + h;
+    }(510080 ^ 510084, 704905 ^ 704897);
+    const _2l3 = parseInt(data[_0[669]]);
+    _463 = function () {
+      return 647817 ^ 647822;
+    }();
+    var _464 = function (s, h) {
+      return s ^ h;
+    }(208900, 208897);
+    const _2l4 = parseInt(data[_0[585]]) || 799977 ^ 799977;
+    _464 = function () {
+      return _0[713];
+    }();
+    data[_0[251]] = conf?.[_0[251]] || ![];
+    data[_0[714]] = currentActiveTab === (494504 ^ 494510);
+    if (data[_0[714]] && _2bv > (121009 ^ 121009)) {
+      var _465 = function (s, h) {
+        return s ^ h;
+      }(693924, 693932);
+      const _2l5 = document[_0[43]](_0[434][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))?.[_0[50]];
+      _465 = (460251 ^ 460252) + (401324 ^ 401322);
+      data[_0[715]] = _2l5 && _2l5 !== _0[317][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) ? _2l5 : null;
     }
-    if (!_0x39_0xade?.isPension && numericAge && numericTerm && numericAge + numericTerm > (257077 ^ 257139)) {
-      _0x3bb9d['\u006D\u0061\u0074\u0075\u0072\u0069\u0074\u0079\u0041\u0067\u0065\u0057\u0061\u0072\u006E\u0069\u006E\u0067'] = `মেয়াদ পূর্তিতে বয়স (${toBangla(numericAge + numericTerm)} বছর) ৭০-এর বেশি।`;
+    if (conf?.[_0[251]]) {
+      data[_0[716]] = Math[_0[335]](_2bv / (595857 ^ 595945))[_0[255]](_0[256][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])) + _0[325][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+      data[_0[717]] = Math[_0[335]](_2bv / (993031 ^ 993037))[_0[255]](_0[256][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])) + _0[325][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
     }
-    _0x3bb9d['\u006D\u0065\u0064\u0069\u0063\u0061\u006C\u0054\u0065\u0073\u0074\u0073'] = getMedicalTests(numericAge, totalCombinedSA);
-    if (totalCombinedSA > 1000000) _0x3bb9d['\u0068\u0061\u0073\u0049\u006E\u0063\u006F\u006D\u0065\u0044\u006F\u0063\u004E\u006F\u0074\u0065'] = !![];
+    if (!conf?.[_0[251]] && _2l3 && _2l4 && _2l3 + _2l4 > (608122 ^ 608060)) {
+      data[_0[691]] = `মেয়াদ পূর্তিতে বয়স (${toBangla(_2l3 + _2l4)} বছর) ৭০-এর বেশি।`;
+    }
+    var _466 = function (s, h) {
+      return s ^ h;
+    }(790153, 790158);
+    let _2l6 = _2bx;
+    _466 = (482091 ^ 482094) + (418223 ^ 418221);
+    if (data[_0[714]] && _2bv > (759029 ^ 759029)) {
+      var _467 = function (s, h) {
+        return s + h;
+      }(514226 ^ 514224, 268270 ^ 268270);
+      const _2l7 = planRatesMap[699903 ^ 699897];
+      _467 = (994686 ^ 994682) + (363456 ^ 363463);
+      if (_2l7 && _2l7[_2l3] && _2l7[_2l3][_2l4]) {
+        var _468 = function (s, h) {
+          return s ^ h;
+        }(564853, 564855);
+        const _2l8 = _2l7[_2l3][_2l4];
+        _468 = function () {
+          return _0[718];
+        }();
+        var _469 = function (s, h) {
+          return s + h;
+        }(499572 ^ 499572, 104893 ^ 104889);
+        let _2l9 = _2bt === _0[372][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) ? 0.166 : _2bt === _0[373][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) ? 0.50 : _2bt === _0[374][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) ? 617750 ^ 617751 : 453322 ^ 453320;
+        _469 = (239098 ^ 239096) + (658231 ^ 658224);
+        var _470 = _0[719];
+        const effR = function (s, h) {
+          return s - h;
+        }(_2l8, _2l9);
+        _470 = function () {
+          return _0[719];
+        }();
+        var _471 = function (s, h) {
+          return s + h;
+        }(250543 ^ 250539, 791683 ^ 791686);
+        const _2n2 = function (s, h) {
+          return s * h;
+        }(0.008439241772096815, _2l4 / (247944 ^ 247938));
+        _471 = (629199 ^ 629198) + (448178 ^ 448176);
+        var _472 = function (s, h) {
+          return s ^ h;
+        }(678709, 678709);
+        const _2n3 = function (s, h) {
+          return s - h;
+        }(697201 ^ 697200, ((114779 ^ 114778) - 0.9963017445328521) * (_2l4 / (400569 ^ 400563)));
+        _472 = function () {
+          return _0[720];
+        }();
+        var _473 = function (s, h) {
+          return s ^ h;
+        }(179485, 179477);
+        const _2n4 = Math[_0[335]](_2bv * (_2n3 + _2n2 * effR));
+        _473 = (560391 ^ 560398) + (941720 ^ 941722);
+        _2l6 = _2n4 + _2bw;
+      }
+    }
+    data[_0[692]] = getMedicalTests(_2l3, _2l6);
+    if (_2l6 > 1000000) data[_0[693]] = function () {
+      return !![];
+    }();
   }
-  if (_0x3bb9d['\u006D\u0065\u0064\u0069\u0063\u0061\u006C\u0054\u0065\u0073\u0074\u0073']['\u006C\u0065\u006E\u0067\u0074\u0068'] === (460739 ^ 460738) && _0x3bb9d['\u006D\u0065\u0064\u0069\u0063\u0061\u006C\u0054\u0065\u0073\u0074\u0073'][353546 ^ 353546]['\u0063\u006F\u0064\u0065'] === 'NMS') {
-    _0x3bb9d['\u0069\u0073\u004E\u006F\u006E\u004D\u0065\u0064\u0069\u0063\u0061\u006C'] = !![];
+  if (data[_0[692]][_0[171]] === (956883 ^ 956882) && data[_0[692]][377394 ^ 377394][_0[263]] === _0[231][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])) {
+    data[_0[721]] = function () {
+      return !![];
+    }();
   }
-  return _0x3bb9d;
+  return data;
 }
 function copyResults() {
-  const _0xa38f = getCurrentCalculationData();
-  const _0xb7985d = new Date();
-  const _0x8349d = `${toBangla(_0xb7985d['\u0067\u0065\u0074\u0044\u0061\u0074\u0065']())}/${toBangla(_0xb7985d['\u0067\u0065\u0074\u004D\u006F\u006E\u0074\u0068']() + (875333 ^ 875332))}/${toBangla(_0xb7985d['\u0067\u0065\u0074\u0046\u0075\u006C\u006C\u0059\u0065\u0061\u0072']())}`;
-  let _0x3e3ec = '📋 *  প্রিমিয়াম ও প্রস্তাবনা হিসাব বিবরণী*\n';
-  _0x3e3ec += "\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u000A";
-  _0x3e3ec += `📌 *পলিসি:* ${_0xa38f['\u0070\u006C\u0061\u006E\u0054\u0069\u0074\u006C\u0065']}\n`;
-  _0x3e3ec += `👤 *গ্রাহকের বয়স:* ${toBangla(_0xa38f['\u0061\u0067\u0065'])} বছর\n`;
-  const _0x3fg4fc = _0xa38f['\u0069\u0073\u0050\u0065\u006E\u0073\u0069\u006F\u006E'] && parseInt(_0xa38f['\u0061\u0067\u0065']) ? `${toBangla(_0xa38f['\u0074\u0065\u0072\u006D'])} বছর (মেয়াদ: ${toBangla(parseInt(_0xa38f['\u0074\u0065\u0072\u006D']) - parseInt(_0xa38f['\u0061\u0067\u0065']))} বছর)` : `${toBangla(_0xa38f['\u0074\u0065\u0072\u006D'])} বছর`;
-  _0x3e3ec += `⏳ *${_0xa38f['\u0069\u0073\u0050\u0065\u006E\u0073\u0069\u006F\u006E'] ? 'অবসর গ্রহণের বয়স' : "\u09AE\u09C7\u09DF\u09BE\u09A6"}:* ${_0x3fg4fc}\n`;
-  _0x3e3ec += `💳 *কিস্তির ধরন:* ${_0xa38f['\u006D\u006F\u0064\u0065\u0054\u0065\u0078\u0074']}\n`;
-  _0x3e3ec += "\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u000A";
-  if (_0xa38f['\u0069\u0073\u0050\u0065\u006E\u0073\u0069\u006F\u006E']) {
-    _0x3e3ec += `👵 *কাঙ্ক্ষিত মাসিক পেনশন:* ${_0xa38f['\u006D\u006F\u006E\u0074\u0068\u006C\u0079\u0050\u0065\u006E\u0073\u0069\u006F\u006E']} (অবসরে আজীবন)\n`;
-    _0x3e3ec += `💼 *বার্ষিক পেনশন:* ${_0xa38f['\u0061\u006E\u006E\u0075\u0061\u006C\u0050\u0065\u006E\u0073\u0069\u006F\u006E']}\n`;
-    _0x3e3ec += `🛡️ *মূল ঝুঁকি অংক:* ${_0xa38f['\u0073\u0075\u006D\u0041\u0073\u0073\u0075\u0072\u0065\u0064']} (মৃত্যুতে নমিনির প্রাপ্য)\n`;
+  var _474 = function (s, h) {
+    return s + h;
+  }(386121 ^ 386120, 847442 ^ 847450);
+  const data = getCurrentCalculationData();
+  _474 = function () {
+    return 628924 ^ 628920;
+  }();
+  var _475 = _0[722];
+  const now = new Date();
+  _475 = function () {
+    return 388774 ^ 388770;
+  }();
+  var _476 = function (s, h) {
+    return s ^ h;
+  }(847622, 847621);
+  const _2qp = `${toBangla(now[_0[657]]())}/${toBangla(now[_0[656]]() + (562273 ^ 562272))}/${toBangla(now[_0[654]]())}`;
+  _476 = function () {
+    return 629941 ^ 629936;
+  }();
+  var _477 = _0[723];
+  let text = _0[724];
+  _477 = function () {
+    return 309928 ^ 309929;
+  }();
+  text += _0[725][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+  text += `📌 *পলিসি:* ${data[_0[666]]}\n`;
+  text += `👤 *গ্রাহকের বয়স:* ${toBangla(data[_0[669]])} বছর\n`;
+  var _478 = function (s, h) {
+    return s + h;
+  }(301909 ^ 301905, 294599 ^ 294592);
+  const _2si = data[_0[251]] && parseInt(data[_0[669]]) ? `${toBangla(data[_0[585]])} বছর (মেয়াদ: ${toBangla(parseInt(data[_0[585]]) - parseInt(data[_0[669]]))} বছর)` : `${toBangla(data[_0[585]])} বছর`;
+  _478 = function () {
+    return _0[726];
+  }();
+  text += `⏳ *${data[_0[251]] ? _0[376][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) : _0[377][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])}:* ${_2si}\n`;
+  text += `💳 *কিস্তির ধরন:* ${data[_0[667]]}\n`;
+  text += _0[725][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+  if (data[_0[251]]) {
+    text += `👵 *কাঙ্ক্ষিত মাসিক পেনশন:* ${data[_0[716]]} (অবসরে আজীবন)\n`;
+    text += `💼 *বার্ষিক পেনশন:* ${data[_0[717]]}\n`;
+    text += `🛡️ *মূল ঝুঁকি অংক:* ${data[_0[584]]} (মৃত্যুতে নমিনির প্রাপ্য)\n`;
   } else {
-    _0x3e3ec += `💰 *বর্তমান   অংক:* ${_0xa38f['\u0073\u0075\u006D\u0041\u0073\u0073\u0075\u0072\u0065\u0064']}\n`;
+    text += `💰 *বর্তমান বীমা অংক:* ${data[_0[584]]}\n`;
   }
-  if (_0xa38f['\u0070\u0072\u0065\u0076\u0053\u0075\u006D\u0041\u0073\u0073\u0075\u0072\u0065\u0064'] && _0xa38f['\u0070\u0072\u0065\u0076\u0053\u0075\u006D\u0041\u0073\u0073\u0075\u0072\u0065\u0064'] !== '০ ৳') {
-    _0x3e3ec += `📂 *পূর্ববর্তী  :* ${_0xa38f['\u0070\u0072\u0065\u0076\u0053\u0075\u006D\u0041\u0073\u0073\u0075\u0072\u0065\u0064']}\n`;
-    _0x3e3ec += `➕ *সর্বমোট   অঙ্ক:* ${_0xa38f['\u0074\u006F\u0074\u0061\u006C\u0053\u0075\u006D\u0041\u0073\u0073\u0075\u0072\u0065\u0064']}\n`;
+  if (data[_0[714]] && data[_0[715]]) {
+    text += `🛡️ *সাম অ্যাট রিস্ক (Sum at Risk):* ${data[_0[715]]}\n`;
   }
-  if (_0xa38f['\u0072\u0061\u0074\u0065\u0050\u0065\u0072\u0054\u0068\u006F\u0075\u0073\u0061\u006E\u0064'] && _0xa38f['\u0072\u0061\u0074\u0065\u0050\u0065\u0072\u0054\u0068\u006F\u0075\u0073\u0061\u006E\u0064'] !== "\u09E6\u002E\u09E6\u09E6\u0020\u09F3") {
-    _0x3e3ec += `📊 *হাজার প্রতি রেট:* ${_0xa38f['\u0072\u0061\u0074\u0065\u0050\u0065\u0072\u0054\u0068\u006F\u0075\u0073\u0061\u006E\u0064']}\n`;
+  if (data[_0[673]] && data[_0[673]] !== _0[317][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])) {
+    text += `📂 *পূর্ববর্তী বীমা:* ${data[_0[673]]}\n`;
+    text += `➕ *সর্বমোট বীমা অঙ্ক:* ${data[_0[690]]}\n`;
   }
-  _0x3e3ec += `💵 *মূল প্রিমিয়াম:* ${_0xa38f['\u0062\u0061\u0073\u0065\u0050\u0072\u0065\u006D\u0069\u0075\u006D']}\n`;
-  if (_0xa38f['\u0072\u0069\u0064\u0065\u0072\u0073']['\u006C\u0065\u006E\u0067\u0074\u0068'] > (929000 ^ 929000)) {
-    _0xa38f['\u0072\u0069\u0064\u0065\u0072\u0073']['\u0066\u006F\u0072\u0045\u0061\u0063\u0068'](r => {
-      _0x3e3ec += `➕ *${r['\u006E\u0061\u006D\u0065']}:* ${r['\u0061\u006D\u006F\u0075\u006E\u0074']} (অন্তর্ভুক্ত)\n`;
+  if (data[_0[703]] && data[_0[703]] !== _0[459][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])) {
+    text += `📊 *হাজার প্রতি রেট:* ${data[_0[703]]}\n`;
+  }
+  text += `💵 *মূল প্রিমিয়াম:* ${data[_0[671]]}\n`;
+  if (data[_0[291]][_0[171]] > (193246 ^ 193246)) {
+    data[_0[291]][_0[187]](r => {
+      text += `➕ *${r[_0[271]]}:* ${r[_0[481]]} (অন্তর্ভুক্ত)\n`;
     });
   }
-  _0x3e3ec += '━━━━━━━━━━━━━━━━━━━━━━━━━\n';
-  _0x3e3ec += `⭐ *সর্বমোট নির্ধারিত কিস্তি:* ${_0xa38f['\u0074\u006F\u0074\u0061\u006C\u0050\u0072\u0065\u006D\u0069\u0075\u006D']}\n`;
-  _0x3e3ec += '━━━━━━━━━━━━━━━━━━━━━━━━━\n';
-  if (_0xa38f['\u006D\u0061\u0074\u0075\u0072\u0069\u0074\u0079\u0041\u0067\u0065\u0057\u0061\u0072\u006E\u0069\u006E\u0067']) {
-    _0x3e3ec += `⚠️ *সতর্কতা:* ${_0xa38f['\u006D\u0061\u0074\u0075\u0072\u0069\u0074\u0079\u0041\u0067\u0065\u0057\u0061\u0072\u006E\u0069\u006E\u0067']}\n`;
+  text += _0[725][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+  text += `⭐ *সর্বমোট নির্ধারিত কিস্তি:* ${data[_0[555]]}\n`;
+  text += _0[725][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+  if (data[_0[691]]) {
+    text += `⚠️ *সতর্কতা:* ${data[_0[691]]}\n`;
   }
-  _0x3e3ec += '🩺 *মেডিকেল চাহিদা ও শর্তাবলী:*\n';
-  if (_0xa38f['\u0069\u0073\u004E\u006F\u006E\u004D\u0065\u0064\u0069\u0063\u0061\u006C']) {
-    _0x3e3ec += "\u2022\u0020\u09A8\u09A8\u002D\u09AE\u09C7\u09A1\u09BF\u0995\u09C7\u09B2\u0020\u0028\u004E\u004D\u0053\u0029\u003A\u0020\u0995\u09CB\u09A8\u09CB\u0020\u09AE\u09C7\u09A1\u09BF\u0995\u09C7\u09B2\u0020\u099F\u09C7\u09B8\u09CD\u099F\u0020\u09B2\u09BE\u0997\u09AC\u09C7\u0020\u09A8\u09BE\u0964\u000A";
-  } else if (_0xa38f['\u006D\u0065\u0064\u0069\u0063\u0061\u006C\u0054\u0065\u0073\u0074\u0073']['\u006C\u0065\u006E\u0067\u0074\u0068'] > (755602 ^ 755602)) {
-    _0x3e3ec += '• প্রয়োজনীয় টেস্টসমূহ:\n';
-    _0xa38f['\u006D\u0065\u0064\u0069\u0063\u0061\u006C\u0054\u0065\u0073\u0074\u0073']['\u0066\u006F\u0072\u0045\u0061\u0063\u0068'](t => {
-      _0x3e3ec += `   - ${t['\u006E\u0061\u006D\u0065']}\n`;
+  text += function () {
+    return _0[727];
+  }();
+  if (data[_0[714]]) {
+    text += `• শিক্ষা সুরক্ষা বীমায় সাম অ্যাট রিস্ক (${data[_0[715]] || data[_0[584]]})-এর ভিত্তিতে মেডিকেল চার্ট নির্ধারিত।\n`;
+  }
+  if (data[_0[721]]) {
+    text += _0[728][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+  } else if (data[_0[692]][_0[171]] > (851158 ^ 851158)) {
+    text += _0[729][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+    data[_0[692]][_0[187]](t => {
+      text += `   - ${t[_0[271]]}\n`;
     });
   } else {
-    _0x3e3ec += "\u2022\u0020\u0995\u09CB\u09A8\u09CB\u0020\u099F\u09C7\u09B8\u09CD\u099F\u0020\u09AA\u09CD\u09B0\u09DF\u09CB\u099C\u09A8\u0020\u09A8\u09C7\u0987\u0964\u000A";
+    text += _0[730][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
   }
-  if (_0xa38f['\u0068\u0061\u0073\u0049\u006E\u0063\u006F\u006D\u0065\u0044\u006F\u0063\u004E\u006F\u0074\u0065']) {
-    _0x3e3ec += '• মোট   অংক ১০ লক্ষ টাকার বেশি হওয়ায় আয়ের উৎস সংক্রান্ত প্রমাণপত্র (Financial Document) প্রয়োজন।\n';
+  if (data[_0[693]]) {
+    text += _0[731][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
   }
-  _0x3e3ec += '━━━━━━━━━━━━━━━━━━━━━━━━━\n';
-  _0x3e3ec += `📅 হিসাবের তারিখ: ${_0x8349d}\n`;
-  navigator['\u0063\u006C\u0069\u0070\u0062\u006F\u0061\u0072\u0064']['\u0077\u0072\u0069\u0074\u0065\u0054\u0065\u0078\u0074'](_0x3e3ec)['\u0074\u0068\u0065\u006E'](() => {
-    alert("\u2705\u0020\u09B8\u09AE\u09CD\u09AA\u09C2\u09B0\u09CD\u09A3\u0020\u09A4\u09A5\u09CD\u09AF\u09AC\u09B9\u09C1\u09B2\u0020\u0995\u09CB\u099F\u09C7\u09B6\u09A8\u0020\u0995\u09AA\u09BF\u0020\u0995\u09B0\u09BE\u0020\u09B9\u09DF\u09C7\u099B\u09C7\u0021\u0020\u0057\u0068\u0061\u0074\u0073\u0041\u0070\u0070\u0020\u09AC\u09BE\u0020\u09AE\u09C7\u09B8\u09C7\u099E\u09CD\u099C\u09BE\u09B0\u09C7\u0020\u09B6\u09C7\u09DF\u09BE\u09B0\u0020\u0995\u09B0\u09A4\u09C7\u0020\u09AA\u09BE\u09B0\u09C7\u09A8\u0964");
-  })['\u0063\u0061\u0074\u0063\u0068'](() => {
-    alert("\u0995\u09AA\u09BF\u0020\u09B8\u09AE\u09CD\u09AA\u09A8\u09CD\u09A8\u0020\u09B9\u09DF\u09C7\u099B\u09C7\u0021");
+  text += _0[725][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
+  text += `📅 হিসাবের তারিখ: ${_2qp}\n`;
+  navigator[_0[732]][_0[733]](text)[_0[38]](() => {
+    alert(_0[734][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+  })[_0[41]](() => {
+    alert(_0[735][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
   });
 }
 function printResults() {
-  var _0x011dg = (539321 ^ 539320) + (431177 ^ 431178);
-  const _0xf73b = getCurrentCalculationData();
-  _0x011dg = "hapopp";
-  let _0x62d;
-  const _0x3a12ab = new Date();
-  _0x62d = 863375 ^ 863370;
-  var _0xa3c = (397331 ^ 397330) + (934261 ^ 934259);
-  const _0xaegd = `${toBangla(_0x3a12ab['\u0067\u0065\u0074\u0044\u0061\u0074\u0065']())} ${banglaMonths[_0x3a12ab['\u0067\u0065\u0074\u004D\u006F\u006E\u0074\u0068']()]}, ${toBangla(_0x3a12ab['\u0067\u0065\u0074\u0046\u0075\u006C\u006C\u0059\u0065\u0061\u0072']())}`;
-  _0xa3c = '\u0066\u0068\u0068\u0066\u006C\u006F';
-  document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('print-date')['\u0069\u006E\u006E\u0065\u0072\u0054\u0065\u0078\u0074'] = _0xaegd;
-  var _0xbe8ace = (429844 ^ 429846) + (218987 ^ 218978);
-  const _0xcf719e = _0xf73b['\u0069\u0073\u0050\u0065\u006E\u0073\u0069\u006F\u006E'] && parseInt(_0xf73b['\u0061\u0067\u0065']) ? `${toBangla(_0xf73b['\u0074\u0065\u0072\u006D'])} বছর (মেয়াদ: ${toBangla(parseInt(_0xf73b['\u0074\u0065\u0072\u006D']) - parseInt(_0xf73b['\u0061\u0067\u0065']))} বছর)` : `${toBangla(_0xf73b['\u0074\u0065\u0072\u006D'])} বছর`;
-  _0xbe8ace = 571028 ^ 571024;
-  let _0xda6c6b = `
+  var _479 = function (s, h) {
+    return s + h;
+  }(301988 ^ 301984, 319800 ^ 319800);
+  const data = getCurrentCalculationData();
+  _479 = (981996 ^ 981994) + (259695 ^ 259692);
+  var _480 = function (s, h) {
+    return s ^ h;
+  }(546692, 546689);
+  const now = new Date();
+  _480 = function () {
+    return 903579 ^ 903578;
+  }();
+  var _481 = function (s, h) {
+    return s ^ h;
+  }(224032, 224033);
+  const _2w3 = `${toBangla(now[_0[657]]())} ${banglaMonths[now[_0[656]]()]}, ${toBangla(now[_0[654]]())}`;
+  _481 = (255605 ^ 255604) + (680843 ^ 680834);
+  document[_0[43]](_0[736][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[50]] = _2w3;
+  var _482 = function (s, h) {
+    return s + h;
+  }(316969 ^ 316973, 407785 ^ 407786);
+  const _2w4 = data[_0[251]] && parseInt(data[_0[669]]) ? `${toBangla(data[_0[585]])} বছর (মেয়াদ: ${toBangla(parseInt(data[_0[585]]) - parseInt(data[_0[669]]))} বছর)` : `${toBangla(data[_0[585]])} বছর`;
+  _482 = function () {
+    return 408445 ^ 408443;
+  }();
+  var _483 = _0[737];
+  let html = `
         <table class="print-table">
-            <tr><th>পলিসির নাম</th><td>${_0xf73b['\u0070\u006C\u0061\u006E\u0054\u0069\u0074\u006C\u0065']}</td></tr>
-            <tr><th>গ্রাহকের বয়স</th><td>${toBangla(_0xf73b['\u0061\u0067\u0065'])} বছর</td></tr>
-            <tr><th>${_0xf73b['\u0069\u0073\u0050\u0065\u006E\u0073\u0069\u006F\u006E'] ? "\u0985\u09AC\u09B8\u09B0\u0020\u0997\u09CD\u09B0\u09B9\u09A3\u09C7\u09B0\u0020\u09AC\u09DF\u09B8" : "\u09AA\u09B2\u09BF\u09B8\u09BF\u09B0\u0020\u09AE\u09C7\u09DF\u09BE\u09A6"}</th><td>${_0xcf719e}</td></tr>
-            <tr><th>কিস্তির ধরন (Mode)</th><td>${_0xf73b['\u006D\u006F\u0064\u0065\u0054\u0065\u0078\u0074']}</td></tr>
+            <tr><th>পলিসির নাম</th><td>${data[_0[666]]}</td></tr>
+            <tr><th>গ্রাহকের বয়স</th><td>${toBangla(data[_0[669]])} বছর</td></tr>
+            <tr><th>${data[_0[251]] ? _0[376][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]) : _0[298][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])}</th><td>${_2w4}</td></tr>
+            <tr><th>কিস্তির ধরন (Mode)</th><td>${data[_0[667]]}</td></tr>
     `;
-  if (_0xf73b['\u0069\u0073\u0050\u0065\u006E\u0073\u0069\u006F\u006E']) {
-    _0xda6c6b += `<tr><th>কাঙ্ক্ষিত মাসিক পেনশন</th><td>${_0xf73b['\u006D\u006F\u006E\u0074\u0068\u006C\u0079\u0050\u0065\u006E\u0073\u0069\u006F\u006E']} (অবসরে আজীবন)</td></tr>`;
-    _0xda6c6b += `<tr><th>কাঙ্ক্ষিত বার্ষিক পেনশন</th><td>${_0xf73b['\u0061\u006E\u006E\u0075\u0061\u006C\u0050\u0065\u006E\u0073\u0069\u006F\u006E']}</td></tr>`;
-    _0xda6c6b += `<tr><th>মূল ঝুঁকি অংক</th><td>${_0xf73b['\u0073\u0075\u006D\u0041\u0073\u0073\u0075\u0072\u0065\u0064']}</td></tr>`;
+  _483 = function () {
+    return _0[737];
+  }();
+  if (data[_0[251]]) {
+    html += `<tr><th>কাঙ্ক্ষিত মাসিক পেনশন</th><td>${data[_0[716]]} (অবসরে আজীবন)</td></tr>`;
+    html += `<tr><th>কাঙ্ক্ষিত বার্ষিক পেনশন</th><td>${data[_0[717]]}</td></tr>`;
+    html += `<tr><th>মূল ঝুঁকি অংক</th><td>${data[_0[584]]}</td></tr>`;
   } else {
-    _0xda6c6b += `<tr><th>বর্তমান   অংক</th><td>${_0xf73b['\u0073\u0075\u006D\u0041\u0073\u0073\u0075\u0072\u0065\u0064']}</td></tr>`;
+    html += `<tr><th>বর্তমান বীমা অংক</th><td>${data[_0[584]]}</td></tr>`;
   }
-  if (_0xf73b['\u0070\u0072\u0065\u0076\u0053\u0075\u006D\u0041\u0073\u0073\u0075\u0072\u0065\u0064'] && _0xf73b['\u0070\u0072\u0065\u0076\u0053\u0075\u006D\u0041\u0073\u0073\u0075\u0072\u0065\u0064'] !== "\u09E6\u0020\u09F3") {
-    _0xda6c6b += `<tr><th>পূর্ববর্তী   অংক</th><td>${_0xf73b['\u0070\u0072\u0065\u0076\u0053\u0075\u006D\u0041\u0073\u0073\u0075\u0072\u0065\u0064']}</td></tr>`;
-    _0xda6c6b += `<tr><th>সর্বমোট   অংক</th><td>${_0xf73b['\u0074\u006F\u0074\u0061\u006C\u0053\u0075\u006D\u0041\u0073\u0073\u0075\u0072\u0065\u0064']}</td></tr>`;
+  if (data[_0[714]] && data[_0[715]]) {
+    html += `<tr><th>সাম অ্যাট রিস্ক (Sum at Risk)</th><td>${data[_0[715]]}</td></tr>`;
   }
-  if (_0xf73b['\u0072\u0061\u0074\u0065\u0050\u0065\u0072\u0054\u0068\u006F\u0075\u0073\u0061\u006E\u0064'] && _0xf73b['\u0072\u0061\u0074\u0065\u0050\u0065\u0072\u0054\u0068\u006F\u0075\u0073\u0061\u006E\u0064'] !== '০.০০ ৳') {
-    _0xda6c6b += `<tr><th>হাজার প্রতি প্রিমিয়াম রেট</th><td>${_0xf73b['\u0072\u0061\u0074\u0065\u0050\u0065\u0072\u0054\u0068\u006F\u0075\u0073\u0061\u006E\u0064']}</td></tr>`;
+  if (data[_0[673]] && data[_0[673]] !== _0[317][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])) {
+    html += `<tr><th>পূর্ববর্তী বীমা অংক</th><td>${data[_0[673]]}</td></tr>`;
+    html += `<tr><th>সর্বমোট বীমা অংক</th><td>${data[_0[690]]}</td></tr>`;
   }
-  _0xda6c6b += `<tr><th>মূল প্রিমিয়াম</th><td>${_0xf73b['\u0062\u0061\u0073\u0065\u0050\u0072\u0065\u006D\u0069\u0075\u006D']}</td></tr>`;
-  if (_0xf73b['\u0072\u0069\u0064\u0065\u0072\u0073']['\u006C\u0065\u006E\u0067\u0074\u0068'] > (533332 ^ 533332)) {
-    _0xf73b['\u0072\u0069\u0064\u0065\u0072\u0073']['\u0066\u006F\u0072\u0045\u0061\u0063\u0068'](r => {
-      _0xda6c6b += `<tr><th>${r['\u006E\u0061\u006D\u0065']}</th><td>${r['\u0061\u006D\u006F\u0075\u006E\u0074']}</td></tr>`;
+  if (data[_0[703]] && data[_0[703]] !== _0[459][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])) {
+    html += `<tr><th>হাজার প্রতি প্রিমিয়াম রেট</th><td>${data[_0[703]]}</td></tr>`;
+  }
+  html += `<tr><th>মূল প্রিমিয়াম</th><td>${data[_0[671]]}</td></tr>`;
+  if (data[_0[291]][_0[171]] > (445672 ^ 445672)) {
+    data[_0[291]][_0[187]](r => {
+      html += `<tr><th>${r[_0[271]]}</th><td>${r[_0[481]]}</td></tr>`;
     });
   }
-  _0xda6c6b += `
+  html += `
             <tr style="background:#f0fdf4; font-size:16px;">
                 <th style="color:#065f46;">সর্বমোট নির্ধারিত প্রিমিয়াম</th>
-                <td style="color:#065f46; font-size:17px;">${_0xf73b['\u0074\u006F\u0074\u0061\u006C\u0050\u0072\u0065\u006D\u0069\u0075\u006D']}</td>
+                <td style="color:#065f46; font-size:17px;">${data[_0[555]]}</td>
             </tr>
         </table>
     `;
-  if (_0xf73b['\u006D\u0061\u0074\u0075\u0072\u0069\u0074\u0079\u0041\u0067\u0065\u0057\u0061\u0072\u006E\u0069\u006E\u0067']) {
-    _0xda6c6b += `<div style="background:#fee2e2; border:1px solid #f87171; color:#991b1b; padding:8px 12px; border-radius:6px; margin-bottom:12px; font-weight:700;">
-            ⚠️ <strong>সতর্কতা:</strong> ${_0xf73b['\u006D\u0061\u0074\u0075\u0072\u0069\u0074\u0079\u0041\u0067\u0065\u0057\u0061\u0072\u006E\u0069\u006E\u0067']}
+  if (data[_0[691]]) {
+    html += `<div style="background:#fee2e2; border:1px solid #f87171; color:#991b1b; padding:8px 12px; border-radius:6px; margin-bottom:12px; font-weight:700;">
+            ⚠️ <strong>সতর্কতা:</strong> ${data[_0[691]]}
         </div>`;
   }
-  _0xda6c6b += `<div class="print-box ${_0xf73b['\u0069\u0073\u004E\u006F\u006E\u004D\u0065\u0064\u0069\u0063\u0061\u006C'] ? '' : "\u006D\u0065\u0064\u0069\u0063\u0061\u006C\u002D\u0062\u006F\u0078"}">`;
-  _0xda6c6b += `<h4><i class="fas fa-stethoscope"></i> আন্ডাররাইটিং ও মেডিকেল চাহিদা (Medical Underwriting):</h4>`;
-  if (_0xf73b['\u0069\u0073\u004E\u006F\u006E\u004D\u0065\u0064\u0069\u0063\u0061\u006C']) {
-    _0xda6c6b += `<p><strong>নন-মেডিকেল (Non-Medical Statement):</strong> প্রস্তাবকের কোনো প্যাথলজিক্যাল মেডিকেল টেস্ট লাগবে না।</p>`;
-  } else if (_0xf73b['\u006D\u0065\u0064\u0069\u0063\u0061\u006C\u0054\u0065\u0073\u0074\u0073']['\u006C\u0065\u006E\u0067\u0074\u0068'] > (331595 ^ 331595)) {
-    _0xda6c6b += `<p>এই বয়স ও মোট   অংকের জন্য নিম্নোক্ত টেস্টসমূহ সম্পন্ন করতে হবে:</p><ul style="padding-left:20px; margin-top:4px;">`;
-    _0xf73b['\u006D\u0065\u0064\u0069\u0063\u0061\u006C\u0054\u0065\u0073\u0074\u0073']['\u0066\u006F\u0072\u0045\u0061\u0063\u0068'](t => {
-      _0xda6c6b += `<li><strong>${t['\u006E\u0061\u006D\u0065']}</strong></li>`;
+  html += `<div class="print-box ${data[_0[721]] ? _0[3] : _0[738][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3])}">`;
+  html += `<h4><i class="fas fa-stethoscope"></i> আন্ডাররাইটিং ও মেডিকেল চাহিদা (Medical Underwriting):</h4>`;
+  if (data[_0[714]]) {
+    html += `<div style="font-size:13.5px; color:#065f46; font-weight:700; margin-bottom:8px;">
+            <i class="fas fa-shield-halved"></i> শিক্ষা সুরক্ষা বীমায় মেডিকেল চাহিদা মূল বীমা অঙ্কের বদলে <strong>সাম অ্যাট রিস্ক (${data[_0[715]] || data[_0[584]]})</strong>-এর ওপর নির্ধারিত।
+        </div>`;
+  }
+  if (data[_0[721]]) {
+    html += `<p><strong>নন-মেডিকেল (Non-Medical Statement):</strong> প্রস্তাবকের কোনো প্যাথলজিক্যাল মেডিকেল টেস্ট লাগবে না।</p>`;
+  } else if (data[_0[692]][_0[171]] > (904217 ^ 904217)) {
+    html += `<p>এই বয়স ও মোট   অংকের জন্য নিম্নোক্ত টেস্টসমূহ সম্পন্ন করতে হবে:</p><ul style="padding-left:20px; margin-top:4px;">`;
+    data[_0[692]][_0[187]](t => {
+      html += `<li><strong>${t[_0[271]]}</strong></li>`;
     });
-    _0xda6c6b += `</ul>`;
+    html += `</ul>`;
   } else {
-    _0xda6c6b += `<p>কোনো মেডিকেল টেস্ট প্রয়োজন নেই।</p>`;
+    html += `<p>কোনো মেডিকেল টেস্ট প্রয়োজন নেই।</p>`;
   }
-  if (_0xf73b['\u0068\u0061\u0073\u0049\u006E\u0063\u006F\u006D\u0065\u0044\u006F\u0063\u004E\u006F\u0074\u0065']) {
-    _0xda6c6b += `<p style="margin-top:6px; color:#b45309;"><strong>আয়ের প্রমাণের শর্ত:</strong> মোট   অংক ১০ লক্ষ টাকার বেশি হওয়ায় আয়ের উৎস সংক্রান্ত প্রমাণপত্র (Financial Document) প্রয়োজন।</p>`;
+  if (data[_0[693]]) {
+    html += `<p style="margin-top:6px; color:#b45309;"><strong>আয়ের প্রমাণের শর্ত:</strong> মোট   অংক ১০ লক্ষ টাকার বেশি হওয়ায় আয়ের উৎস সংক্রান্ত প্রমাণপত্র (Financial Document) প্রয়োজন।</p>`;
   }
-  _0xda6c6b += `</div>`;
-  document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']("\u0070\u0072\u0069\u006E\u0074\u002D\u0063\u006F\u006E\u0074\u0065\u006E\u0074\u002D\u0062\u006F\u0064\u0079")['\u0069\u006E\u006E\u0065\u0072\u0048\u0054\u004D\u004C'] = _0xda6c6b;
-  window['\u0070\u0072\u0069\u006E\u0074']();
+  html += `</div>`;
+  document[_0[43]](_0[739][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]))[_0[179]] = html;
+  window[_0[740]]();
 }
-window['\u0069\u006E\u0069\u0074\u0054\u0068\u0065\u006D\u0065'] = initTheme;
-window['\u0074\u006F\u0067\u0067\u006C\u0065\u0054\u0068\u0065\u006D\u0065'] = toggleTheme;
-window['\u0073\u0077\u0069\u0074\u0063\u0068\u0050\u006C\u0061\u006E\u0054\u0061\u0062'] = switchPlanTab;
-window['\u0072\u0065\u006E\u0064\u0065\u0072\u0050\u006C\u0061\u006E\u0055\u0049'] = renderPlanUI;
-window['\u0063\u0061\u006C\u0063\u0075\u006C\u0061\u0074\u0065\u0044\u0050\u0053'] = calculateDPS;
-window['\u0063\u0061\u006C\u0063\u0075\u006C\u0061\u0074\u0065\u0050\u006C\u0061\u006E'] = calculatePlan;
-window['\u0067\u0065\u006E\u0065\u0072\u0061\u0074\u0065\u0042\u0075\u0064\u0067\u0065\u0074\u0053\u0075\u0067\u0067\u0065\u0073\u0074\u0069\u006F\u006E\u0073'] = generateBudgetSuggestions;
-window['\u0061\u0070\u0070\u006C\u0079\u0053\u0075\u0067\u0067\u0065\u0073\u0074\u0069\u006F\u006E'] = applySuggestion;
-window['\u0063\u006C\u0065\u0061\u0072\u0041\u0063\u0074\u0069\u0076\u0065\u0050\u006C\u0061\u006E\u0046\u0069\u0065\u006C\u0064\u0073'] = clearActivePlanFields;
-window['\u006F\u0070\u0065\u006E\u0041\u0067\u0065\u004D\u006F\u0064\u0061\u006C'] = openAgeModal;
-window['\u0063\u006C\u006F\u0073\u0065\u0041\u0067\u0065\u004D\u006F\u0064\u0061\u006C'] = closeAgeModal;
-window['\u0063\u0061\u006C\u0063\u0075\u006C\u0061\u0074\u0065\u0041\u0067\u0065'] = calculateAge;
-window['\u0068\u0061\u006E\u0064\u006C\u0065\u0052\u0069\u0064\u0065\u0072\u0054\u006F\u0067\u0067\u006C\u0065'] = handleRiderToggle;
-window['\u0074\u006F\u0067\u0067\u006C\u0065\u004F\u0045\u0053\u0065\u006C\u0065\u0063\u0074\u006F\u0072'] = toggleOESelector;
-window['\u0074\u006F\u0067\u0067\u006C\u0065\u0048\u0043\u0043\u0068\u0069\u006C\u0064\u0042\u006F\u0078'] = toggleHCChildBox;
-window['\u0061\u0064\u0064\u0048\u0043\u0043\u0068\u0069\u006C\u0064'] = addHCChild;
-window['\u0072\u0065\u006D\u006F\u0076\u0065\u0048\u0043\u0043\u0068\u0069\u006C\u0064'] = removeHCChild;
-window['\u0074\u006F\u0067\u0067\u006C\u0065\u0048\u0049\u0043\u0068\u0069\u006C\u0064\u0042\u006F\u0078'] = toggleHIChildBox;
-window['\u0061\u0064\u0064\u0048\u0049\u0043\u0068\u0069\u006C\u0064'] = addHIChild;
-window['\u0072\u0065\u006D\u006F\u0076\u0065\u0048\u0049\u0043\u0068\u0069\u006C\u0064'] = removeHIChild;
-window['\u0063\u006F\u0070\u0079\u0052\u0065\u0073\u0075\u006C\u0074\u0073'] = copyResults;
-window['\u0070\u0072\u0069\u006E\u0074\u0052\u0065\u0073\u0075\u006C\u0074\u0073'] = printResults;
-window['\u006F\u0070\u0065\u006E\u0053\u0042\u004D\u006F\u0064\u0061\u006C'] = openSBModal;
-window['\u0063\u006C\u006F\u0073\u0065\u0053\u0042\u004D\u006F\u0064\u0061\u006C'] = closeSBModal;
-window['\u0068\u0061\u006E\u0064\u006C\u0065\u0050\u0065\u006E\u0073\u0069\u006F\u006E\u0041\u006D\u006F\u0075\u006E\u0074\u0043\u0068\u0061\u006E\u0067\u0065'] = handlePensionAmountChange;
-window['\u0068\u0061\u006E\u0064\u006C\u0065\u0050\u0065\u006E\u0073\u0069\u006F\u006E\u0053\u0075\u006D\u0043\u0068\u0061\u006E\u0067\u0065'] = handlePensionSumChange;
-document['\u0061\u0064\u0064\u0045\u0076\u0065\u006E\u0074\u004C\u0069\u0073\u0074\u0065\u006E\u0065\u0072']("\u0044\u004F\u004D\u0043\u006F\u006E\u0074\u0065\u006E\u0074\u004C\u006F\u0061\u0064\u0065\u0064", () => {
+window[_0[741]] = initTheme;
+window[_0[742]] = toggleTheme;
+window[_0[743]] = switchPlanTab;
+window[_0[744]] = renderPlanUI;
+window[_0[745]] = calculateDPS;
+window[_0[746]] = calculatePlan;
+window[_0[747]] = generateBudgetSuggestions;
+window[_0[748]] = applySuggestion;
+window[_0[749]] = clearActivePlanFields;
+window[_0[750]] = openAgeModal;
+window[_0[751]] = closeAgeModal;
+window[_0[752]] = calculateAge;
+window[_0[753]] = handleRiderToggle;
+window[_0[754]] = toggleOESelector;
+window[_0[755]] = toggleHCChildBox;
+window[_0[756]] = addHCChild;
+window[_0[757]] = removeHCChild;
+window[_0[758]] = toggleHIChildBox;
+window[_0[759]] = addHIChild;
+window[_0[760]] = removeHIChild;
+window[_0[761]] = copyResults;
+window[_0[762]] = printResults;
+window[_0[763]] = openSBModal;
+window[_0[764]] = closeSBModal;
+window[_0[765]] = handlePensionAmountChange;
+window[_0[766]] = handlePensionSumChange;
+document[_0[0]](_0[767][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), () => {
   initTheme();
   initDateSelectors();
   calculateDPS();
 });
-let _0xcfg51f;
+var _484 = _0[768];
 let deferredPrompt = null;
-_0xcfg51f = 219135 ^ 219131;
-const installBtn = document['\u0067\u0065\u0074\u0045\u006C\u0065\u006D\u0065\u006E\u0074\u0042\u0079\u0049\u0064']('pwa-install-btn');
-window['\u0061\u0064\u0064\u0045\u0076\u0065\u006E\u0074\u004C\u0069\u0073\u0074\u0065\u006E\u0065\u0072']("\u0062\u0065\u0066\u006F\u0072\u0065\u0069\u006E\u0073\u0074\u0061\u006C\u006C\u0070\u0072\u006F\u006D\u0070\u0074", e => {
-  e['\u0070\u0072\u0065\u0076\u0065\u006E\u0074\u0044\u0065\u0066\u0061\u0075\u006C\u0074']();
+_484 = (379007 ^ 379002) + (571004 ^ 571001);
+var _485 = function (s, h) {
+  return s + h;
+}(556961 ^ 556967, 250749 ^ 250749);
+const installBtn = document[_0[43]](_0[769][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
+_485 = function () {
+  return 189272 ^ 189274;
+}();
+window[_0[0]](_0[770][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), e => {
+  e[_0[15]]();
   deferredPrompt = e;
   if (installBtn) {
-    installBtn['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079'] = 'inline-flex';
+    installBtn[_0[129]][_0[130]] = _0[771][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
   }
 });
 if (installBtn) {
-  installBtn['\u0061\u0064\u0064\u0045\u0076\u0065\u006E\u0074\u004C\u0069\u0073\u0074\u0065\u006E\u0065\u0072']('click', async () => {
+  installBtn[_0[0]](_0[772][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), async () => {
     if (!deferredPrompt) return;
-    deferredPrompt['\u0070\u0072\u006F\u006D\u0070\u0074']();
+    deferredPrompt[_0[773]]();
     const {
-      '\u006F\u0075\u0074\u0063\u006F\u006D\u0065': outcome
-    } = await deferredPrompt['\u0075\u0073\u0065\u0072\u0043\u0068\u006F\u0069\u0063\u0065'];
-    console['\u006C\u006F\u0067'](`User response to install: ${outcome}`);
+      outcome
+    } = await deferredPrompt[_0[774]];
+    console[_0[39]](`User response to install: ${outcome}`);
     deferredPrompt = null;
-    installBtn['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079'] = "\u006E\u006F\u006E\u0065";
+    installBtn[_0[129]][_0[130]] = _0[132][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
   });
 }
-window['\u0061\u0064\u0064\u0045\u0076\u0065\u006E\u0074\u004C\u0069\u0073\u0074\u0065\u006E\u0065\u0072']('appinstalled', () => {
+window[_0[0]](_0[775][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]), () => {
   if (installBtn) {
-    installBtn['\u0073\u0074\u0079\u006C\u0065']['\u0064\u0069\u0073\u0070\u006C\u0061\u0079'] = "\u006E\u006F\u006E\u0065";
+    installBtn[_0[129]][_0[130]] = _0[132][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]);
   }
   deferredPrompt = null;
-  console['\u006C\u006F\u0067']('PWA was installed successfully');
+  console[_0[39]](_0[776][_0[2]](_0[3])[_0[4]]()[_0[5]](_0[3]));
 });
